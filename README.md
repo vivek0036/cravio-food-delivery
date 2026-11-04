@@ -2,21 +2,25 @@
 
 A modern food delivery web application inspired by Swiggy.
 
-### Features
+## Features
 
 - Created project using Vite
 - Configured Tailwind CSS v4
 - Created Header component
-- Added restaurant logo
-- Added navigation links (Home, About Us, Contact Us, Cart, Login)
+- Added restaurant logo and navigation links
+- Created Body component
+- Added Shimmer UI for restaurant listing
+- Created reusable RestaurantCard component
+- Displayed restaurant listings dynamically using JSON data
+- Added restaurant images and details to cards
 
-### Tech Stack
+## Tech Stack
 
 - React
 - JavaScript
 - Tailwind CSS
 - Vite
 
-### Status
+## Status
 
 🚧 Currently under development.

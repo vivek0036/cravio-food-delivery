@@ -1,0 +1,308 @@
+{
+  "restaurants": [
+    {
+      "id": "1053675",
+      "name": "Truth Bowl",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/2/21a0688d-938d-4e58-b0de-d4c6e3c1e32e_1053675.JPG",
+      "locality": "Gachibowli Village",
+      "areaName": "Gachibowli",
+      "costForTwo": 200,
+      "cuisines": [
+        "North Indian",
+        "High Protein",
+        "Biryani"
+      ],
+      "avgRating": 4.3,
+      "totalRatings": "344",
+      "deliveryTime": 25,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "760536",
+      "name": "Shree Balaji Family Dhaba.",
+      "imageId": "10dee72e35c41a4bdfa3c8cc767d2f00",
+      "locality": "Serlingampally",
+      "areaName": "Nanakramguda",
+      "costForTwo": 300,
+      "cuisines": [
+        "Snacks",
+        "Chinese",
+        "Biryani"
+      ],
+      "avgRating": 3.9,
+      "totalRatings": "1.7K+",
+      "deliveryTime": 28,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "27666",
+      "name": "Pista House",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/13/24ccdf17-5f3f-4443-84c6-9629d5f4e6d8_27666.jpg",
+      "locality": "Gachibowli",
+      "areaName": "Gachibowli",
+      "costForTwo": 400,
+      "cuisines": [
+        "Biryani",
+        "Hyderabadi",
+        "Tandoor",
+        "Mughlai",
+        "Chinese",
+        "Bakery",
+        "Pizzas"
+      ],
+      "avgRating": 4.2,
+      "totalRatings": "182K+",
+      "deliveryTime": 33,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "11094",
+      "name": "Pizza Hut",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/10/27/f7336377-ea68-4498-8d40-bd2e24889b8a_11094.JPG",
+      "locality": "Gachibowli",
+      "areaName": "Gachibowli",
+      "costForTwo": 350,
+      "cuisines": [
+        "Pizzas"
+      ],
+      "avgRating": 4.3,
+      "totalRatings": "17K+",
+      "deliveryTime": 27,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "890254",
+      "name": "Hitech Biryani House",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/20/f3cef1b6-4924-446c-aca3-d88ae4d64b04_890254.JPG",
+      "locality": "Gunjivankata Nagasekhar",
+      "areaName": "Gachibowli",
+      "costForTwo": 200,
+      "cuisines": [
+        "Biryani",
+        "Fast Food"
+      ],
+      "avgRating": 3.6,
+      "totalRatings": "490",
+      "deliveryTime": 25,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "15855",
+      "name": "KS Bakers",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/29/995b79bf-7f0e-447b-8ee2-ea7fa063fbb8_15855.jpg",
+      "locality": "Gachibowli",
+      "areaName": "Gachibowli",
+      "costForTwo": 250,
+      "cuisines": [
+        "Bakery",
+        "Pizzas",
+        "Desserts",
+        "Snacks",
+        "Fast Food"
+      ],
+      "avgRating": 4.2,
+      "totalRatings": "74K+",
+      "deliveryTime": 29,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "393713",
+      "name": "Wow! Momo",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/25/b46dd9a7-18c6-4fa6-a6ab-b232a5c9a9b5_393713.JPG",
+      "locality": "CARE CRYSTAL",
+      "areaName": "Gachibowli",
+      "costForTwo": 300,
+      "cuisines": [
+        "Momos",
+        "Chinese",
+        "fastfood",
+        "Asian",
+        "Beverages"
+      ],
+      "avgRating": 3.9,
+      "totalRatings": "4.0K+",
+      "deliveryTime": 26,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "1342212",
+      "name": "Shadab",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/46a9b4d0-7e65-4d76-9a0e-93c53199b108_137704.jpg",
+      "locality": "Gachibowli",
+      "areaName": "Gachibowli",
+      "costForTwo": 500,
+      "cuisines": [
+        "Haleem",
+        "Mughlai",
+        "Hyderabadi",
+        "Indian"
+      ],
+      "avgRating": 4.2,
+      "totalRatings": "11",
+      "deliveryTime": 28,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "594950",
+      "name": "Biryani By Kilo",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/9/1/7edaa7f1-437a-4e1a-abed-eac4a2766a49_594950.JPG",
+      "locality": "Sri Krishna Sanjay Commercial",
+      "areaName": "Gachibowli",
+      "costForTwo": 499,
+      "cuisines": [
+        "Biryani",
+        "Hyderabadi",
+        "Kebabs",
+        "Mughlai",
+        "Desserts"
+      ],
+      "avgRating": 4,
+      "totalRatings": "10K+",
+      "deliveryTime": 31,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "55401",
+      "name": "Balaji Family Dhaba",
+      "imageId": "pypyq08ud8bs4ehlmunl",
+      "locality": "Gacchibowli",
+      "areaName": "Gachibowli",
+      "costForTwo": 300,
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Tandoori",
+        "Chinese"
+      ],
+      "avgRating": 4.1,
+      "totalRatings": "9.3K+",
+      "deliveryTime": 21,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "614529",
+      "name": "Itminaan Matka Biryani - Slow Cooked",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/24/809e2f91-6bfd-476e-a213-38e517a783bc_614529.JPG",
+      "locality": "Kondapur",
+      "areaName": "Gachibowli",
+      "costForTwo": 250,
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Mughlai"
+      ],
+      "avgRating": 4.4,
+      "totalRatings": "226",
+      "deliveryTime": 25,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "156449",
+      "name": "The Good Bowl",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/15/76799890-2f27-4790-a1bf-4efd6cc2ae86_156449.jpg",
+      "locality": "Gachibowli Village",
+      "areaName": "Gachibowli",
+      "costForTwo": 400,
+      "cuisines": [
+        "Biryani",
+        "Pastas",
+        "Punjabi",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.2,
+      "totalRatings": "3.5K+",
+      "deliveryTime": 27,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "614532",
+      "name": "ZAZA Mughal Biryani",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/17/3dbc6a06-200f-4e03-af74-da2d0e880726_614532.jpg",
+      "locality": "Kondapur",
+      "areaName": "Gachibowli",
+      "costForTwo": 250,
+      "cuisines": [
+        "Biryani",
+        "North Indian",
+        "Awadhi"
+      ],
+      "avgRating": 4.4,
+      "totalRatings": "1.7K+",
+      "deliveryTime": 25,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "1449689",
+      "name": "De Thali",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/9/22/1e23436b-4f94-4e32-9c33-4c8699782d3b_1449689.JPG",
+      "locality": "Serilingampally",
+      "areaName": "Gachibowli",
+      "costForTwo": 300,
+      "cuisines": [
+        "North Indian",
+        "Thalis",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4.3,
+      "totalRatings": "46",
+      "deliveryTime": 23,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "17100",
+      "name": "KFC",
+      "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/7/1/311e48ab-cd69-4c06-80b1-423ac6c6a1e5_17100.JPG",
+      "locality": "Bal Schander",
+      "areaName": "Gachibowli",
+      "costForTwo": 400,
+      "cuisines": [
+        "Burgers",
+        "Fast Food",
+        "Rolls & Wraps"
+      ],
+      "avgRating": 4,
+      "totalRatings": "48K+",
+      "deliveryTime": 23,
+      "isOpen": true,
+      "discount": null
+    },
+    {
+      "id": "16647",
+      "name": "Behrouz Biryani",
+      "imageId": "a4ffed13eb197c6df43dfe1c756560e5",
+      "locality": "Green land colony",
+      "areaName": "Gachibowli",
+      "costForTwo": 500,
+      "cuisines": [
+        "Biryani",
+        "Kebabs",
+        "Mughlai",
+        "Lucknowi",
+        "Hyderabadi",
+        "Desserts",
+        "Beverages"
+      ],
+      "avgRating": 4,
+      "totalRatings": "10K+",
+      "deliveryTime": 34,
+      "isOpen": true,
+      "discount": null
+    }
+  ]
+}
