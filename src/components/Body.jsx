@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ShimmerUI from "./ShimmerUI.jsx";
 import RestaurantCard from "./RestaurantCard.jsx";
+import { Link } from "react-router-dom";
 
 const Body = () => {
   const [resList, setResList] = useState([]);
@@ -78,7 +79,9 @@ const Body = () => {
       </div>
       <div className="flex flex-wrap justify-center gap-5 ">
         {filteredResList.map((res) => (
-          <RestaurantCard key={res.id} resData={res} />
+          <Link to={`/resMenu/${res.id}`} key={res.id}>
+            <RestaurantCard resData={res} />
+          </Link>
         ))}
       </div>
     </div>
