@@ -1,0 +1,2419 @@
+{
+  "restaurant": {
+    "id": "393713",
+    "name": "Wow! Momo",
+    "city": "Hyderabad",
+    "locality": "CARE CRYSTAL",
+    "areaName": "Gachibowli",
+    "costForTwo": 300.0,
+    "cuisines": [
+      "Momos",
+      "Chinese"
+    ],
+    "avgRating": 3.9,
+    "totalRatings": "4.1K+ ratings",
+    "deliveryTime": "15-20 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/25/b46dd9a7-18c6-4fa6-a6ab-b232a5c9a9b5_393713.JPG"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "174328837",
+          "name": "Gluten Free Veg Darjeeling Steam Momo",
+          "description": "Serves 1 | A flavourful mix of cabbage, onion, carrot, coriander, and spices wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy Darjeeling sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6cfda777-7206-4586-9836-dd6c6e6dc2f9_7459e8be-2719-454d-83ad-c70542004db7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "174328838",
+          "name": "Gluten Free Chicken Darjeeling Steam Momo",
+          "description": "Serves 1 | Soft, juicy boneless chicken mixed with onion, coriander, and spices, wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy Darjeeling sauce. [5 pcs] Calories: 273.22 | Protein: 11.13g per 100g. (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/8d4a34bf-97a6-4ca9-b105-e4a44043c98c_3c99599c-1fc5-4f96-a6a2-181c669aa7fb.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "174328839",
+          "name": "Gluten Free Corn Cheese Steam Momo",
+          "description": "Serves 1 | Sweet corn and creamy cheese blended with colorful peppers and spices, wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy red sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/168322c0-a2bc-4f96-aea5-08d804813c62_c4815851-cf03-4614-be5d-4640efed78fa.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "174328840",
+          "name": "Gluten Free Chicken Cheese Steam Momo",
+          "description": "Serves 1 | Shredded chicken infused with spices and wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with a spicy red sauce. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+          "price": 345.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/50811064-608d-40dd-9083-9129a8e91894_b55cbab8-e94d-48d6-95b2-88ccbf05dd56.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "174328841",
+          "name": "Gluten Free Veg Darjeeling Chilli Momo",
+          "description": "Serves 1 | Wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Filled with a mix of vegetables and spices, tossed in spicy Darjeeling chili sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f6bd71e6-f1f0-4f82-af61-6964481b2bd3_e2ec8ff9-ef9a-493e-8e33-63786fc5d84f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "174328842",
+          "name": "Gluten Free Chicken Darjeeling Chilli Momo",
+          "description": "Serves 1 | Boneless chicken, onion, coriander, and spices wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Tossed in a spicy Darjeeling chili sauce. [5 pcs] Calories: 273.22 | Protein: 11.13g per 100g. (Serves 1).",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/80c014a2-222d-4358-a859-f09ab041c7a4_024988ef-dd5c-4ab1-b0cb-2c3585a5ae19.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "174328843",
+          "name": "Gluten Free Corn Cheese Chilli Momo",
+          "description": "Serves 1 | Sweet corn and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Stir-fried in a hot and spicy chili sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+          "price": 425.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/c866bfc8-0c5c-4bb9-a9a2-bf4d00d3bc07_b9853d44-438d-4ad5-b268-564e40d8d9a6.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "174328844",
+          "name": "Gluten Free Chicken Cheese Chilli Momo",
+          "description": "Serves 1 | Juicy chicken and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Tossed in a spicy house-made chili sauce for a fiery delight. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6a5e40e7-5f11-4a08-a4c9-8b9fb63a741f_e69649b1-5c99-46e7-adc4-09ded9c69a98.png",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "76319483",
+      "categoryName": "4 in 1 Same Flavour Box (Save Upto 58%)",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "202469213",
+          "name": "Chicken Pahari Feast Chilli Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. Bold chicken Pahari momos drenched in spicy chilli sauce - 20 fiery pieces for the heat-seekers. Not for the faint-hearted. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 999.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/1804b4b2-aaaa-4932-bde6-e4033805d9ed_5120eb21-4db2-4a95-b21c-bbe96fe86039.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "202469217",
+          "name": "Veg Darjeeling Chilli Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. Turn up the heat!! - 20 veg Darjeeling momos tossed in fiery chilli sauce. Spicy, saucy and seriously addictive. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 975.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/d326a75e-1b9c-49bf-8cb2-237ae21d1427_ac1e5893-29ba-44d0-bb3e-a26f7a3abcb8.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469222",
+          "name": "Veg Darjeeling Pan Fried Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. Seared to smoky perfection - 20 pan-fried veg Darjeeling momos in one box. Crispy edges, soft centre, big flavour. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1076.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/3b1a732c-84ad-4a53-8e22-e05884dec47a_c927eb95-90c4-448c-8b92-3adece6a1d72.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "185035742",
+          "name": "Chicken Darjeeling Fried Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. The Darjeeling classic, gone crispy - 20 golden-fried chicken momos in one box. Hot, crunchy, unbeatable. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1016.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/18ba0068-262b-4063-9534-112b5d2ef9d6_42687a2e-0b2f-43a2-8042-0ce0e3cb0a02.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "202469223",
+          "name": "Corn & Cheese Fried Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. Crispy outside, gooey corn-and-cheese inside - 20 fried momos of pure comfort. One bite and you're hooked. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1095.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/cdd24f4c-cede-460f-9040-2cad1402e6b4_4abda959-7598-41a4-95c0-24301984a803.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469220",
+          "name": "Chicken Masala Kurkure Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. Crispy kurkure crust, juicy chicken masala filling - 20 momos with maximum crunch and full-on flavour. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 996.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/7fd662cb-4f42-4c6c-a33c-842a71201af0_ce014177-3f00-465c-bc28-1e83fa97fec3.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "185035732",
+          "name": "Veg Darjeeling Fried Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. Golden, crispy and crave-worthy - 20 fried veg Darjeeling momos in one box. Crunch into the classic. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 989.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/b0dbca62-3dab-4907-b407-23f184491737_533b9b39-6e8a-4fdb-b90b-aff78fa5013a.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "185035725",
+          "name": "Chicken Darjeeling Steam Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. The hills, the chicken, the classic - 20 soft-steamed Darjeeling chicken momos in one box. Authentic flavour, all yours. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 836.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/ce641bcb-d884-4f48-947a-2d78e08488fd_214f3bf7-133b-4655-8215-f0bf403d4159.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "202469215",
+          "name": "Chicken Pahari Feast Pan Fried Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. Sizzled and seared - 20 pan-fried chicken Pahari Feast momos in one box. Smoky, juicy and seriously satisfying. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 916.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/188e2b85-1a63-4642-b079-7892ed20cb3f_efd294d5-02d0-455f-bcb8-de5ff0fcb664.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "185035757",
+          "name": "Chicken Pahari Fresh Fried Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. Juicy chicken Pahari momos fried to golden perfection -20 crispy pieces in one box. Crunch meets flavour. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 696.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/c5910ea1-bfc4-4e11-b79e-9606d796d053_2c839ea8-0d50-4c13-a7a9-3646389ec052.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "185035723",
+          "name": "Veg Darjeeling Steam Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. The hill-station classic, all to yourself - 20 soft-steamed Darjeeling veg momos packed with authentic flavour. No sharing required.A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/60de7cab-16f7-4fcf-88a4-7b8d2f193de1_b373eba8-816b-4f9d-bf81-cf434b742d93.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "202469212",
+          "name": "Chicken Pahari Feast Steam Momo  - 20 Pcs",
+          "description": "All New 4 in 1 Box. A full-on feast of soft-steamed chicken Pahari momos - 20 juicy pieces, big on flavour, built for serious cravings. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 799.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/aec8bfdb-c208-4ea2-8f6b-76762830e9ee_68ffca40-2af9-4556-8661-34253846ec1b.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "185035728",
+          "name": "Chicken Pahari Fresh Steam Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. Juicy chicken Pahari Fresh momos - 20  Fresh, hearty and made for the days you want one flavour, done right. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 799.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/01a259d8-9551-41f8-b4d1-7deb8b4dd36d_1c08fd76-3871-4ec5-83ac-43b126b7758a.png_compressed",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "185035727",
+          "name": "Veg Pahari Fresh Steam Momo - 20 Pcs",
+          "description": "Serves 2 | All New 4 in 1 Box. Light, fresh and full of veggie goodness - 20 soft-steamed Pahari Fresh momos, all in one box. For the purist who knows exactly what they want. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 699.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/c16b5579-e866-49aa-ac55-4e6ee3e6de55_0aea40a3-59c9-4a8a-a6a5-27dd8065994c.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "76319484",
+      "categoryName": "4 in 1 Mix & Match Box (Save Upto 36%)",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "202469210",
+          "name": "Red Flag Momos  (Non Veg) - 20 Pcs",
+          "description": "Bold, fiery, unforgettable, The spicy 4-in-1 Momo Box loads 4 punchy non-veg flavours into 20 sizzling pieces. Dare to take the bite. In this box: Korean Momo, Chicken Cheese Chilli Momo, Chicken Masala Kukure Momo, Pahari Feast Pan Fried (Schezwan) Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1116.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/7c390081-69ea-489f-aeb6-53ad5124a022_59151b28-c5b4-4144-b17a-4e0f32833764.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "202469206",
+          "name": "Darling Darjeeling Momos  (Non Veg) - 20 Pcs",
+          "description": "Straight from the hills, four ways, the Darjeeling 4-in-1 Momo Box brings our signature non-veg momo in 4 styles across 20 hearty pieces. Tradition you can taste. In this box: Darjeeling Steam, Darjeeling Fried, Darjeeling Chilli, Darjeeling Pan Fried (Schezwan) Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1041.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/ac71da6b-ba89-4990-8ff9-4f9b98c247bb_d2874fd2-0561-40e7-85c3-987aa2db04a7.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "202469203",
+          "name": "Wholesome Foursome Momos (Non Veg) - 20 Pcs",
+          "description": "Where it all began, The iconic 4-in-1 Momo Box packs 4 classic non-veg styles into 20 juicy pieces. Timeless, tasty, unbeatable. In this box: Darjeeling Steam, Chicken Cheese Chilli, Himalayan Pan Fried (Schezwan), Chicken Cheese Pan Fried (Schezwan) Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1001.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/80520f4c-1c4f-4889-a79e-ea1e343dbbca_59705d70-026e-4a77-8e2c-56c0eadba5e0.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "202469205",
+          "name": "Darling Darjeeling Momos  (Veg) - 20 Pcs",
+          "description": "A taste of the hills, four ways, The Darjeeling 4-in-1 Momo Box serves our signature veg momo in 4 styles across 20 pieces. Pure mountain magic. In this box: Darjeeling Steam, Darjeeling Fried, Darjeeling Chilli, Darjeeling Pan Fried (Schezwan) Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1001.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/0fe1473b-51a7-4bd5-85b1-81822cad3705_a2df32ef-53fd-4f72-b347-7716ce0c2518.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469196",
+          "name": "Fry-zy Momos  (Veg) - 20 Pcs",
+          "description": "Golden, crunchy, irresistible, The crispy 4-in-1 Momo Box brings 4 bestselling veg fried flavours in 20 pieces. One bite and you're hooked. In this box: Corn & Cheese Fried, Darjeeling Fried, Himalayan Fried, Chatpata Paneer Fried Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/e7bdfa57-6f4f-417f-abec-43b80fff9457_43b5e26e-6936-4b27-88ff-536adc4ab801.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469208",
+          "name": "Red Flag Momos  (Veg) - 20 Pcs",
+          "description": "Turn up the heat for the fiery 4-in-1 Momo Box fuses 4 bold veg flavours into 20 spicy pieces. Not for the faint-hearted. In this box: Korean Momo, Himalayan Chilli Momo, Hot Garlic Kukure Momo, Corn & Cheese Pan Fried (Schezwan) Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1012.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/61e6e086-4f92-4eda-847e-531e03f11786_6e1edf33-373c-4ca4-90cc-6aae366e87c1.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469197",
+          "name": "Fry-zy Momos  (Non Veg) - 20 Pcs",
+          "description": "Crispy outside, loaded inside, The fried 4-in-1 Momo Box drops 4 top non-veg flavours across 20 golden pieces. Crunch into the chaos. In this box: Chicken Cheese Fried, Darjeeling Fried, Pahari Feast Fried, Himalayan Fried Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/fbee69dd-2989-42cc-8345-95cff690a074_ded6cd8a-5e25-446e-8e79-b56e52b70477.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "202469201",
+          "name": "Wholesome Foursome Momos (Veg) - 20 Pcs",
+          "description": "The originals never go out of style. The classic 4-in-1 Momo Box brings 4 OG veg styles across 20 pieces. Back to basics, done right. In this box: Pahari Fresh Steam, Corn & Cheese Fried, Himalayan Chilli, Corn & Cheese Pan Fried (Schezwan) Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 945.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/29507ccb-491a-4480-8a4e-a4ca81231f5c_28625095-eb55-4363-8529-fc9baefa00e9.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469194",
+          "name": "Steamzilla Momos  (Veg) - 20 Pcs",
+          "description": "Our greatest veg hits in one legendary 4-in-1 Momo Box. 4 fan-favourite steamed flavours, 20 soft, juicy pieces, zero regrets. In this box: Darjeeling Steam, Pahari Fresh Steam, Chatpata Paneer Steam, Corn & Cheese Steam Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1099.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/18794e27-f71c-4893-bbbb-fc735fef6088_02c5056b-b3d1-49b6-be17-9ba7aa9122d5.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202469195",
+          "name": "Steamzilla Momos  (Non Veg) - 20 Pcs",
+          "description": "The 4-in-1 Momo Box every non-veg lover dreams of ! 4 chart-topping steamed flavours across 20 soft, juicy bites. Built to share. In this box: Darjeeling Steam, Pahari Feast Steam, Himalayan Steam, Chicken Cheese Steam Momo. A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 1099.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/d89b4f79-49d4-451f-bedf-7188638e9b1e_329ea224-eb9c-4dd1-b4ba-553bd644ccb8.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "202469200",
+          "name": "Cheat-code Momos  (Non Veg) - 20 Pcs",
+          "description": "Big cravings, smart price,A cheat code box with 20 steamed pieces of our two non-veg favourites in one unbeatable value box. Your wallet says thanks. In this box: Pahari Feast Steam Momo (5pc x 2), Himalayan Steam Momo (5pc x 2). A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 649.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/d2d956f9-c98b-4ac5-8853-589b46e8fde4_69410599-82ef-47f7-8985-6b41d4412f8f.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "202469198",
+          "name": "Cheat-code Momos  (Veg) - 20 Pcs",
+          "description": "Maximum momos, minimum damage, a Cheat code box stacked with 20 steamed pieces of our two veg heroes. Big cravings, smart price. In this box: Pahari Feast Steam Momo (5pc x 2), Himalayan Steam Momo (5pc x 2). A perfect partner to your Party Moments. Served with 3 Dips/Sauces",
+          "price": 508.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/10/0c17df64-8bc0-46f7-a95a-afe0e2bf5a92_265a6a30-79d8-4141-afc4-a2314398e29e.png",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "75188268",
+      "categoryName": "Wow! Crispiest Fries",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "195912685",
+          "name": "OG Crispy Fries Large",
+          "description": "Serves 1 | Golden, thick-cut fries with an unbeatable CRISP on the outside and soft, fluffy inside. Seasoned to perfection and built for dipping!",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/108a5b12-8085-49f9-8363-c765df6eaf61_5af0f93a-90ad-476c-9c73-5343f96ee1b2.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "7 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "195912686",
+          "name": "Peri Peri OG Crispy Fries Large",
+          "description": "Serves 1 | Golden, thick-cut fries with an unbeatable CRISP on the outside and soft, fluffy inside. Peri Peri Seasoning to perfection and built for dipping !",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/13a02a6d-408c-4210-9be3-aa98b3ad167a_d5e12703-7534-42da-9be8-5c299ddeb5bb.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "7 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "72907876",
+      "categoryName": "Steam Momo X Fries",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "196270509",
+          "name": "Chicken Pahari Fresh Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Chicken Pahari Steam Momos paired with OG Crispiest Fries. Bold, juicy, and irresistibly crispy.",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/25329ab3-04bf-445e-b52e-40ed27b74b04_5efc3a8a-0280-4790-8bf8-878d016570b0.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "196270518",
+          "name": "Chicken Cheese Steam Momo  + OG Crispy Fries Regular",
+          "description": "5 pc Chicken Cheese Steam Momos loaded with melty cheese, served with OG Crispiest Fries. Creamy meets crispy.",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/785af098-d80f-4bec-ad90-751da01bfa2a_7831d289-3d07-40b1-ac05-3526a55652ba.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "196270508",
+          "name": "Veg Pahari Fresh Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Veg Pahari Steam Momos served hot with our OG Crispiest Fries. Fresh flavours with the perfect crunch.",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/3b8a60b9-5b43-4948-b018-ff91013259b1_ccbdf8e3-ee3a-450d-a073-86ff85c2b48d.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "196270517",
+          "name": "Corn & Cheese Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Corn & Cheese Steam Momos with OG Crispiest Fries. Sweet corn, creamy cheese, and the crispiest crunch.",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/68bde4a4-57e9-41ba-a4f2-7af328628faa_dd161bda-ed0c-43fb-8f86-97bd4e1fca11.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "196270515",
+          "name": "Chicken Himalayan Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Chicken Himalayan Steam Momos paired with OG Crispiest Fries. Light, flavourful, and satisfyingly crunchy.",
+          "price": 285.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/617c4c12-2cbb-4ab1-b939-700b0075f6c3_24b92ce9-c1a9-44ec-8af3-ee1a78ae0ae3.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "196270514",
+          "name": "Chicken Darjeeling Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Chicken Darjeeling Steam Momos with OG Crispiest Fries. Authentic taste, juicy filling, ultimate crunch.",
+          "price": 345.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/b51ce617-bea3-44eb-b781-d1122aa3717b_6e4d788f-aa6c-4b26-8fc3-726f7a0aa24b.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "196270511",
+          "name": "Veg Darjeeling Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Veg Darjeeling Steam Momos served with OG Crispiest Fries. Classic flavour meets crispy indulgence.",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/922c9978-d651-4b2f-acf3-55a78da82a0a_913ddcde-ffd8-463c-a4e4-777fb0e09314.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "196270512",
+          "name": "Veg Himalayan Steam Momo + OG Crispy Fries Regular",
+          "description": "5 pc Veg Himalayan Steam Momos paired with OG Crispiest Fries. Light, flavourful, and satisfyingly crunchy.",
+          "price": 285.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/1d576912-5334-4ef6-bab0-87576516fc55_b4a9c277-b4e7-4773-acc0-8a9b7a063028.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "72907877",
+      "categoryName": "Fried Momo X Fries",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "196270525",
+          "name": "Chicken Cheese Fried Momo + OG Crispy Fries Regular",
+          "description": "5 pc Chicken Cheese Fried Momos with OG Crispiest Fries. Double crunch, loaded with cheesy goodness.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/9bb77eb1-55cf-4208-883e-0e10533d7d88_3cc08e77-78b3-4571-aab9-7fbf6fe9c18d.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "196270523",
+          "name": "Corn & Cheese Fried Momo + OG Crispy Fries Regular",
+          "description": "5 pc Corn & Cheese Fried Momos paired with OG Crispiest Fries. Golden, cheesy bites with maximum crunch.",
+          "price": 465.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/93d5d398-eb8e-492e-9aa9-e7370429d2ee_ae535e28-c667-440e-8575-f4a82576634f.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "196270522",
+          "name": "Chicken Darjeeling Fried Momo + OG Crispy Fries Regular",
+          "description": "5 pc Chicken Darjeeling Fried Momos served with OG Crispiest Fries. Crispy outside, juicy inside.",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/941c621e-bdb5-4a58-84f0-a9df127c2df8_1079f403-aba3-4e06-9986-203143ab5997.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "196270520",
+          "name": "Veg Darjeeling Fried Momo + OG Crispy Fries Regular",
+          "description": "5 pc Veg Darjeeling Fried Momos with OG Crispiest Fries. Classic flavour with an extra crispy twist.",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/17/ba80933c-bd76-40f1-a018-74cd1d7dfb20_0aba5531-b1b9-4b4c-a0f0-015e63f8b36c.png",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "67681444",
+      "categoryName": "Party Combo for 2",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "173534888",
+          "name": "Chicken Himalayan Steam Momo 6Pc + Chicken Moburg 2Pc + One 250ml Coke",
+          "description": "Experience the rich flavors of our Chicken Himalayan Steam Momo with a kick of Spicy Red Sauce. Immerse yourself in the tempting Momo burger, featuring crunchy fried Chicken Momos, perfectly balanced with red Chilli sauce, Green sauce, and luscious Mayonnaise. Each bite is a symphony of taste! Pair it with a 250ml Coke, and for the ultimate indulgence, savor it by hand for a unique culinary delight. (Serves 2).",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/0641fa55-9db9-4f90-a818-c09a58b7fcd1_ae413bd5-110d-4a24-9024-2a10cf6dba32.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "173720404",
+          "name": "Chk PanFried Momo(Schezwan sauce)6P + Chicken Moburg 2P+ One250ml Coke",
+          "description": "Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Chicken Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Chicken Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed  perfection in every bite! Complete your experience with a 250ml Coke. Enjoy the sumptuous meal. (Serves 2).",
+          "price": 525.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/2c64ec0b-8474-44e1-a714-2538290f7abb_6a2e870e-526c-4eb9-aff0-839e434574cd.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "173534894",
+          "name": "Chicken Himalayan Fried Momo 6Pc + Chicken Moburg 2Pc +One250ml Coke",
+          "description": "Serves 1 | Experience the rich flavors of our Chicken Himalayan Fried Momo with a kick of Spicy Red Sauce. Immerse yourself in the tempting Momo burger, featuring crunchy fried Chicken Momos, perfectly balanced with red Chilli sauce, Green sauce, and luscious Mayonnaise. Each bite is a symphony of taste! Pair it with a 250ml Coke, and for the ultimate indulgence, savor it by hand for a unique culinary delight. (Serves 2).",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/b0799f7b-47e2-48e4-92a2-de6678689a0f_efc00096-f111-40cc-a91d-6a200582c1cb.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "173534889",
+          "name": "Veg PanFried Momo(Schezwan sauce)6Pc + Veg Moburg 2Pc + One250ml Coke",
+          "description": "Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Veg Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Veg Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed  perfection in every bite! Complete your experience with a 250ml Coke . Enjoy the sumptuous meal. (Serves 2).",
+          "price": 475.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/c81d7f4b-92c2-4868-aa77-f45d4a9352fd_6e320be9-3e7c-4edb-b1db-596d185f5499.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "173720403",
+          "name": "Veg Himalayan Steam Momo 6Pc + Veg Moburg 2Pc + One 250ml Coke",
+          "description": "Savor our Veg Himalayan Steam Momo paired with Spicy Red Sauce. Dive into our irresistible Momo burger, featuring crispy fried Veg Momos, complemented by red Chilli sauce, Green sauce, and creamy Mayonnaise. Perfectly balanced flavors in every bite! Enjoy it with a 250ml Coke. Best enjoyed by hand for the ultimate taste experience! (Serves 2).",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/11016e59-f2ac-4958-9dc0-75830dbd2177_612aaf73-d822-4956-b13d-3f065f6528b5.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "173534891",
+          "name": "Chk PanFried Momo(Tomato Garlic)6Pc + Chicken Moburg 2P+ One250ml Coke",
+          "description": "Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Chicken Himalayan Momo, tossed in Tomato Garlic Sauce. Delight in the Momo burger, featuring crispy Chicken Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed  perfection in every bite! Complete your experience with a 250ml Coke. Enjoy the sumptuous meal. (Serves 2).",
+          "price": 525.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/ddcd4ef8-0b79-452c-b16c-6db2af5b1e10_59cb6524-ed5f-4ae2-a9bd-31e6aa52dc28.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "173534893",
+          "name": "Chicken Himalayan Chilli Momo 6Pc+ Chicken Moburg 2Pc+One250ml Coke",
+          "description": "Serves 1 | Savor the Savory Fiesta Combo! Relish the Chicken Himalayan Chilli Momo, kothey blended with a chilli seasoning mix. Delight in the Momo burger, featuring crispy Chicken Momo, harmonized with red Chilli sauce, green sauce, and creamy Mayonnaise. perfection in every bite! no additional sauce served. Complete your experience with a 250ml Coke. Savor the sumptuous meal. (Serves 2).",
+          "price": 525.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/71ad1723-0a78-4318-9c89-89d033ec854f_09cfcd6d-9351-4433-9f1d-7b6001222f4a.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "173534892",
+          "name": "Veg Himalayan Chilli Momo 6Pc + Veg Moburg 2Pc +One 250ml Coke",
+          "description": "Savor the Savory Fiesta Combo! Relish the Veg Himalayan Chilli Momo, kothey blended with a chilli seasoning mix. Delight in the Momo burger, featuring crispy Veg Momo, harmonized with red Chilli sauce, green sauce, and creamy Mayonnaise. perfection in every bite! no additional sauce served. Complete your experience with a  250ml Coke . Savor the sumptuous meal. (Serves 2).",
+          "price": 525.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/9b45c9bb-c5d2-437d-b3d2-5d60e91d809e_009857bc-024c-44d8-96b3-23a1f52940ca.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "173534890",
+          "name": "Veg PanFried Momo(Tomato Garlic)6Pc + Veg Moburg 2Pc+ One250ml Coke",
+          "description": "Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Veg Himalayan Momo, tossed in Tomato Garlic Sauce. Delight in the Momo burger, featuring crispy Veg Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed  perfection in every bite! Complete your experience with a 250ml Coke . Enjoy the sumptuous meal. (Serves 2).",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/e4bc1a85-f82d-4c39-bd89-ac2c53d95d35_c3d6d363-a7e0-4807-8e37-1ff8d7718b55.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "173534895",
+          "name": "Veg Himalayan Fried Momo 6Pc + Veg Moburg 2Pc + One 250ml Coke",
+          "description": "Serves 1 | Savor our Veg Himalayan Fried Momo paired with Spicy Red Sauce. Dive into our irresistible Momo burger, featuring crispy fried Veg Momos, complemented by red Chilli sauce, Green sauce, and creamy Mayonnaise. Perfectly balanced flavors in every bite! Enjoy it with a 250ml Coke. Best enjoyed by hand for the ultimate taste experience! (Serves 2).",
+          "price": 475.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/b9f6abe5-0d64-42bc-af9e-2050b5a5be63_55e5acb8-c083-444d-bec3-f2ded3f6b917.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.1",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191970",
+      "categoryName": "Steam Momo",
+      "itemCount": 18,
+      "items": [
+        {
+          "id": "155831682",
+          "name": "Chicken Pahari Fresh Steam Momo",
+          "description": "Serves 1 | Savor the essence of the mountains with our chicken pahari fresh steam momo, packed with vibrant vegetables, chicken and mountain-inspired flavors. Paired with a red sauce [5 pcs], each bite delivers a perfect balance of freshness and spice for a flavorful experience! (Serves 1).",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/e9902758-1a26-4d11-a9a8-182b07d3b2cd_90d3eb4b-2e57-40b1-9f0d-9eb0b7819cc7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "115 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "72170538",
+          "name": "Chicken Darjeeling Steam Momo",
+          "description": "Momo stuffed with mix of soft juicy boneless chicken, onion & coriander cooked in blend of herbs and tinch of spices. Served with Darjeeling momo sauce and we don't serve green sauce [5 pcs]. Steam momos taste best when eaten with hand.100 gms / 261.22 Kcal. (Serves 1).",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/0b4122fb-539f-456e-93a8-bb8e33f8fdd0_774ebe78-1a41-47b1-b1ea-049c603092b8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "704 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "132075641",
+          "name": "Chicken Himalayan Steam Momo",
+          "description": "Savor the burst of delightful spices in every bite of our steam momos, offering an authentic taste of the hills. Accompanied by our home-made red chilli sauce, this set of 5 pcs momos is a finger-licking delight! Please note, we don't serve green coriander chutney. Enjoy the flavorful. (Serves 1)",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/17/926a6d7c-e861-4868-a9ef-6257946ffadb_68a61d88-7e4c-4ab0-b640-c061e4ad3e9b.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "174 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "155831675",
+          "name": "Veg Pahari Fresh Steam Momo",
+          "description": "Serves 1 | Savor the essence of the mountains with our Veg Pahari Fresh Steam momo, brimming with vibrant vegetables and infused with mountain-inspired flavors. Each bite is perfectly complemented by our red chilli sauce [5 pcs], offering a harmonious blend of freshness and spice. A truly balanced and flavorful experience in every bite! (Serves 1).",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/319d02fc-2e11-4b8d-942b-02b83ac38075_6b3716cb-bcba-44dc-85e6-d22fb42bc079.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "129 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "72170532",
+          "name": "Veg Darjeeling Steam Momo",
+          "description": "Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and pinch of spices. Served with authentic Darjeeling Momo sauce and we don't serve green sauce (5 pcs).Steam momos taste best when eaten with hand. 100 gms/ 187.98 kcal. (Serves 1).",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/0f70ed5b-eebc-40ff-bdb5-cb8ca86e0216_e9adf1ee-8172-442e-a28f-b0c95e9f2ab2.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "376 ratings"
+        },
+        {
+          "id": "72170554",
+          "name": "Chicken Cheese Steam Momo",
+          "description": "Soft juicy boneless chicken, with the flavour of in house spices. Served with schezwan red chilli sauce (5 pcs  ). Steam momos taste best when eaten with hand.100 gms / 214.54 Kcal. (Serves 1).",
+          "price": 599.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/8367dcb6-e947-4d1b-b1be-38d4c331e8bd_24752d7b-9974-47bf-94c3-b4c1afc8b174.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "77 ratings"
+        },
+        {
+          "id": "112468314",
+          "name": "Chicken Delight Steam Momo",
+          "description": "Introducing yellow delight momos: 5 pcs of veggie-chicken blend, spiced and wrapped in yellow dough. Steamed momo served with red chilli sauce; no green sauce. Best enjoyed by hand! (Serves 1).",
+          "price": 235.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/a99fb11a-5c1a-42b2-9ccb-141ee22fb33b_4aeeb388-3051-4f8a-bb81-3c821c357219.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "76 ratings"
+        },
+        {
+          "id": "155831680",
+          "name": "Chicken Pahari Feast Steam Momo",
+          "description": "Serves 1 | Indulge in our pahari chicken steam ,momo, featuring tender chicken seasoned with a perfect blend of traditional pahari spices. Each momo is complemented by red chilli sauce [5 pcs], delivering a perfectly balanced fusion of flavors in every bite. A taste of the hills in every mouthful! (Serves 1).",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/3835daa4-3bc7-4efe-b8b9-fede42de10a4_716e4397-a99a-4603-8a25-eb7da0b0e8ff.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "132075634",
+          "name": "Veg Himalayan Steam Momo",
+          "description": "Indulge in the authentic taste of the hills with our veggie and soya chunks-loaded steam momos. Each bite is a burst of flavor, served with the popular Wow Momo sauce and our home-made red chilli sauce. These Steam Momo [5 pcs] are a finger-licking delight! Please note, we don't serve green coriander chutney. Enjoy the delicious experience! (Serves 1).",
+          "price": 259.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/a0809898-5a2a-4447-8097-a6e0f94d9eab_d055bc1b-5c5f-4fc7-8b91-1a20b2b9089f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "46 ratings"
+        },
+        {
+          "id": "72170553",
+          "name": "Corn & Cheese Steam Momo.",
+          "description": "Wow! Momo signature dish: Momos filled with shredded cheese and sweet corn, infused with the rich flavors of Indian spices. Accompanied by our home-made red chilli sauce (5 pcs). Steam momos are a finger-licking delight! Please note, we don't serve green coriander chutney. Enjoy 100 gms of pure bliss at 206.13 Kcal. (Serves 1).",
+          "price": 479.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/3e2ea1f0-9805-4c31-8f59-316b24ad4a15_f6f81bd2-0e5c-4684-9d22-d009c04d4be5.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "50 ratings"
+        },
+        {
+          "id": "155831674",
+          "name": "Veg Pahari Feast Steam Momo",
+          "description": "Serves 1 | Indulge in the authentic taste of the mountains with our Veg Pahari Feast Steam Momo. Each momo is filled with a perfect blend of traditional spices and fresh vegetables, delivering a burst of flavor in every bite. Paired with red chilli sauce [5 pcs], this dish offers a harmonious balance of taste and heat, making it a true feast for your senses! (Serves 1).",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/22c8e08a-e9c0-4792-8bff-00c5c852e44e_1f3baa80-abec-4eb1-b506-84d12b141124.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "55 ratings"
+        },
+        {
+          "id": "215111106",
+          "name": "Chicken Momo Mania Steam Momo (5 Pc)",
+          "description": "Serves 1 | Newly Launched - Wow Momo’s classic chicken steamed momos at a pocket-friendly entry price. Juicy, tender, served with fiery red chutney. Try it today!",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/cfb3039e-17b0-475c-80e9-2a1373ac9c8e_59b34765-52be-4924-b24a-5514aaa344c3.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "171639082",
+          "name": "Chatpata Paneer Steam Momo",
+          "description": "Savor the goodness of delicious momos, filled with freshly chopped veggies, paneer, a hint of spices, and blended with Indian masala. Accompanied by our tantalizing red chilli sauce (5 pcs). Enjoy the authentic experience as steam momos taste best when eaten by hand. Please note, we don't serve green coriander chutney. Indulge in 100 gms of flavor-packed delight at 310.10 Kcal. (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/e54c8714-2a87-4674-ae18-99681a353daa_dd36c3f7-c14d-4f79-bca1-7030d93e9b71.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "96169897",
+          "name": "Chicken Masala Steam Momo",
+          "description": "Soft juicy boneless chicken, with the flavour of in home spices. Served with red chilli sauce and green coriander chutney. [5 pcs]. Steam momos taste best when eaten with hand.100 gms / 214.54 Kcal. (Serves 1).",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/291e1081-615f-4c79-ae06-cb73524514fd_8b277a3f-76fc-4606-b9d5-7e98dfe64fd0.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.0",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "171639071",
+          "name": "Veg Hot Garlic steam Momo",
+          "description": "Delight in the spicy goodness of our hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Accompanied by our home-made red chilli sauce [5 pcs], these Steam Momo are a finger-licking delight! Please note, we don't serve green coriander chutney. Enjoy the flavorful experience! (Serves 1).",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/01f72544-5fd8-4a0e-88ed-7dc879f0a5cf_4fc4fd28-3287-467b-8048-cf7a54623b78.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "215111108",
+          "name": "Chicken Momo Mania Steam Momo (10 Pc)",
+          "description": "Newly Launched - Double the Momo Mania at a pocket-friendly entry price. 10 juicy chicken steamed momos with fiery red chutney. Try the new launch today!",
+          "price": 259.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a37108af-d7f2-4d75-badc-99aea6d3ffd2_dc2e247a-0348-491e-a6ce-67dba66496d2.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "215111105",
+          "name": "Veg Momo Mania Steam Momo (5 Pc)",
+          "description": "Serves 1 | Newly Launched - Try Wow Momo’s classic veg steamed momos at a pocket-friendly entry price. Soft, juicy, served with spicy red chutney. Your first bite starts here.",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/1349c114-7692-4217-b078-70b8998d1969_78e20115-e243-40bc-ab35-c60d4803b024.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "215111107",
+          "name": "Veg Momo Mania Steam Momo (10 Pc)",
+          "description": "Newly Launched - Double the Momo Mania at a pocket-friendly entry price. 10 soft steamed veg momos with spicy red chutney. Perfect to try and share.",
+          "price": 259.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e7e7276f-e146-44f3-90bf-320a78d0fa3a_0a3ce278-e73a-4418-887e-51664ce8a3bc.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191972",
+      "categoryName": "Fried Momo",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "112468317",
+          "name": "Chicken Delight Fried Momo",
+          "description": "Introducing yellow delight momos: 5 pcs  of vegetable-chicken blend, spiced and wrapped in yellow dough, crispy fried to perfection. Served with red chillivsauce; no green sauce. A flavor-packed delight in every bite! (Serves 1).",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/2ae09322-e290-401c-b92e-e833f8d9cf56_c61b7013-54ea-400c-850f-4e9def51d27d.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "36 ratings"
+        },
+        {
+          "id": "72170536",
+          "name": "Chicken Cheese Fried Momo",
+          "description": "Indulge in the delightful blend of juicy chicken and shredded cheese, infused with the rich flavors of Indian masala. Crisped to perfection by a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, we don't serve green coriander Chutney. Enjoy 100 gms of this flavorful creation at 279.01 Kcal. (Serves 1)",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/12/c427ed92-6363-4c8c-9c48-7e090c811221_41ee516d-18bd-4157-8b3a-ea3329979ba1.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "193 ratings"
+        },
+        {
+          "id": "72170516",
+          "name": "Chicken Darjeeling Fried Momo",
+          "description": "Filled with softy juicy boneless chicken, onion, coriander and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with authentic Darjeeling momo sauce. We don't serve green sauce [5 pcs]. 100 gms / 256.84 Kcal (Serves 1).",
+          "price": 365.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6b4701e8-5f0c-4369-bb3c-74193bc83339_b4d609d7-b3c1-4f26-869d-3891ba345309.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "213 ratings"
+        },
+        {
+          "id": "132075652",
+          "name": "Chicken Himalayan Fried Momo",
+          "description": "Experience the burst of delightful spices in every bite of our delightful creation. Made crispy by a dip in hot oil and served with red chilli sauce [5 pcs], these bites offer an authentic taste of the hills. Please note, we don't serve green coriander chutney. Enjoy the savory and flavorful experience! (Serves 1).",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/dacbef2e-cbdf-4cf5-842b-251cafb048d1_e9ab002d-ed41-4bb0-b4f1-19ad5a85c8a0.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "46 ratings"
+        },
+        {
+          "id": "132075644",
+          "name": "Veg Himalayan Fried Momo",
+          "description": "Indulge in the authentic taste of the hills with our veggie and soya chunks-loaded fried momos. Each bite is a burst of flavor, served with the popular red chilli sauce. Our delightful creation is made crispy by a dip in hot oil [5 pcs]. Please note, we don't serve green coriander chutney. Enjoy the delicious blend of flavors! (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f341a4d4-ca4b-4caa-8fd6-169d1371518c_4fed621c-2918-4e30-85b2-f84c17f99f4f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "27 ratings"
+        },
+        {
+          "id": "155831688",
+          "name": "Chicken Pahari Fresh Fried Momo",
+          "description": "Serves 1 | Savor the essence of the mountains with our chicken pahari fresh fried momo, packed with tender chicken, vibrant vegetables, and mountain-inspired flavors. Made crispy with a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, green coriander chutney is not served. Enjoy this delicious blend of flavors! (Serves 1).",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/81ca4b90-29db-494f-ab23-694030365dd2_196fa8c8-104b-4a7f-a2a2-a0de7fdf72c3.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "72170521",
+          "name": "Veg Darjeeling Fried Momo",
+          "description": "Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and tinch of spices. To make it crispy fried in hot oil and served with authentic Darjeeling momo sauce [5 pcs] and We don't serve green sauce[5 pcs]. 100 gms / 236.78 Kcal. (Serves 1).",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f341a4d4-ca4b-4caa-8fd6-169d1371518c_4fed621c-2918-4e30-85b2-f84c17f99f4f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "47 ratings"
+        },
+        {
+          "id": "72170556",
+          "name": "Chatpata Paneer Fried Momo",
+          "description": "Bringing you the goodness of fresh chopped veggies and tender paneer, mixed with herbs, fried to a golden brown hue, and served with red chilli sauc [5Pcs]. Please note, we don't serve green coriander chutney. Dive into 100 gms of flavorful delight at 391.04 Kcal. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/2c5a0bf9-75a8-4327-8619-64c20ea36287_163d3fb4-c438-4f3a-9745-5905901dbba8.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "155831687",
+          "name": "Chicken Pahari Feast Fried Momo",
+          "description": "Serves 1 | Indulge in our pahari chicken fried momo, featuring tender chicken seasoned with a perfect blend of traditional pahari spices.Made crispy with a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, green coriander chutney is not served. Enjoy this delicious blend of flavors, a true taste of the hills! (Serves 1).",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/21bf23f2-2539-4e32-a6c0-8a37e3e9dc87_0bd75ce0-b40b-495b-8ca3-630d33546d54.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "96919347",
+          "name": "Chicken Masala Fried Momo",
+          "description": "Filled with soft juicy bonless chicken,onion,coriander and mixed with the flavour of Indian spices.To make it crispy dipped in hot oil and served with home-made red chilli sauce and green coriander chutney [5 pcs]. 100 gms / 279.01 Kcal. (Serves 1).",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/c2c05ba2-e30a-4c2b-9580-ae81b020b021_5054b23c-9bbf-43a0-9713-e4641a498900.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "132075647",
+          "name": "Veg Hot Garlic Fried Momo",
+          "description": "Delight in the spicy goodness of our hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Our delightful creation is made crispy by a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, we don't serve green coriander chutney. Enjoy the flavorful experience! (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/18eaec22-25b6-4279-8ddb-17ea591108d5_d7e0b9f2-dc12-4be7-9aef-1766570b499b.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "27 ratings"
+        },
+        {
+          "id": "177775130",
+          "name": "Corn & Cheese Fried Momo",
+          "description": "Packed with shredded cheese and sweet corn, infused with the rich flavors of Indian masala, our delightful creation is made crispy by a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, we don't serve green coriander chutney. Enjoy the crunch with 100 gms at 333.8 Kcal. (Serves 1).",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/49e39ebe-cea8-4904-8574-8cd2812cc6be_6149b29d-a9fd-4d9e-b0a1-c4253d6b01e2.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "70 ratings"
+        },
+        {
+          "id": "155831686",
+          "name": "Veg Pahari Fresh Fried Momo",
+          "description": "Serves 1 | Savor the essence of the mountains with our veg pahari fresh fried momo, filled with vibrant vegetables and infused with mountain-inspired flavors. Each crispy bite is perfectly complemented by our red chilli sauce [5 pcs]. Please note, green coriander chutney is not served. Enjoy the delicious blend of flavors! (Serves 1).",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/9e03373e-8831-4b75-8608-368dadb06348_5f13ebc7-e5eb-467a-ae23-52e110603895.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "155831684",
+          "name": "Veg Pahari Feast Fried Momo",
+          "description": "Serves 1 | Indulge in the authentic taste of the mountains with our veg pahari feast fried momo. Each momo is filled with a perfect mix of fresh vegetables and traditional spices, offering a flavorful burst in every bite. Made crispy with a dip in hot oil and paired with red chilli sauce [5 pcs], this delightful creation is a true treat. Please note, green coriander chutney is not served. Enjoy this delicious blend of flavors! (Serves 1).",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f5cdd99e-22db-41cf-8f95-7bd169e04a21_7aeec20a-f8a7-40c6-8700-c31d51cfba4a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "6 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62192013",
+      "categoryName": "In Tomato Garlic Sauce (Non Spicy) .",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "128764549",
+          "name": "Corn Cheese Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Hot & crispy corn cheese fried momo, tossed in non-spicy tomato garlic sauce and garnished with coriander We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+          "price": 475.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/17/dd576b51-fab0-425c-a78c-c25c159af2ce_a2a47c7e-8e88-4c62-87b2-15aca78f81bf.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "128764550",
+          "name": "Chicken Masala Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Hot and crispy fried chicken masala momo tossed in tomato garlic sauce [Non Spicy] and garnished with coriander We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d70afb70-b126-4185-a0f5-9d3d42b79b4d_737e28cd-a8df-401a-83c9-c408792a1ee8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "155831673",
+          "name": "Chicken Pahari Fresh Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Serves 1 | Indulge in our pahari chicken pan fried momo, where tender chicken meets a perfect blend of traditional Pahari spices. These hot and crispy momos are coated in a rich tomato garlic sauce [5 pcs]no extra dipping sauce needed for this flavor-packed delight! Enjoy a truly delicious and satisfying experience. (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d70afb70-b126-4185-a0f5-9d3d42b79b4d_737e28cd-a8df-401a-83c9-c408792a1ee8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "171639291",
+          "name": "Chicken Cheese Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+          "description": "Hot & crispy fried chicken cheese momo, tossed in tomato garlic sauce (Non-Spicy) and garnished with chopped coriander. We don't serve additional sauce [5 pcs]. (Serves 1).",
+          "price": 485.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/8d3d82fb-6f7c-427f-b013-7b4c6d3c4644_9f4b9d1c-15b6-458e-bca8-75137a64e067.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "171639253",
+          "name": "Chatpata Paneer Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+          "description": "Hot & spongy paneer fried momo tossed in non-spicy tomato garlic sauce and garnished with coriander. We don't serve additional sauce [5 pcs]. (Serves 1).",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/8e0efd65-bfe7-4398-8e22-baeda63f4b27_0d2191cd-eb58-44b3-a93f-de53ebec7ba2.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "171639284",
+          "name": "Chicken Darjeeling Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+          "description": "Hot & crispy fried chicken Darjeeling momo, tossed in tomato Garlic sauce (Non-Spicy) and garnished with chopped coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d83e89df-7dd8-4812-9e9a-ff84d499440f_6409213d-497c-4dd0-9d09-97a704d01b59.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "171639226",
+          "name": "Veg Hot Garlic Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Delight in the spicy goodness of our hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Enjoy the hot and crispy fried momos, tossed in a non-spicy tomato garlic sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! Savor the delicious experience! (Serves 1).",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/745cdd62-a234-4381-8e68-d12de328e5b0_9ce0a630-2465-42ad-95b0-68d6a4d382d4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "171639240",
+          "name": "Veg Darjeeling Pan Fried Momo Tomato Garlic Sauce(Non Spicy)",
+          "description": "Crispy fried veggie Darjeeling momo, tossed in non-spicy tomato garlic sauce and garnished with chopped coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/745cdd62-a234-4381-8e68-d12de328e5b0_9ce0a630-2465-42ad-95b0-68d6a4d382d4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "171639272",
+          "name": "Chicken Himalayan Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+          "description": "Introducing yellow delight momos, 5 pcs of vegetable-meat blend, herb and spice-infused, wrapped in yellow dough, and hot & cricpy fried chicken delight Momo tossed in Tomato Garlic sauce [Non- Spicy]. No extra sauce needed for this flavor-packed treat! (Serves 1).",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/37dfe7e9-d0e4-4acf-a03f-2feb5edf45a6_b0f25ba7-2078-4e6d-bd74-4af290d128b8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "155831679",
+          "name": "Veg Pahari Fresh Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Serves 1 | Savor the essence of the mountains with our veg pahari fresh pan fried momo, packed with vibrant vegetables and infused with mountain-inspired flavors. These hot and crispy fried momos are tossed in a rich tomato garlic sauce [5 pcs]no extra sauce needed for this flavor-packed treat! Enjoy a truly delicious and satisfying experience! (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/745cdd62-a234-4381-8e68-d12de328e5b0_9ce0a630-2465-42ad-95b0-68d6a4d382d4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "155831677",
+          "name": "Chicken Pahari Feast Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Serves 1 | Indulge in our pahari chicken pan fried momo, featuring tender chicken seasoned with a perfect blend of traditional pahari spices. These hot and crispy momos are coated in a rich tomato garlic sauce [5 pcs]no extra dipping sauce needed for this flavor-packed treat! Enjoy a truly delicious and satisfying experience. (Serves 1).",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d70afb70-b126-4185-a0f5-9d3d42b79b4d_737e28cd-a8df-401a-83c9-c408792a1ee8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "171639222",
+          "name": "Veg Himalayan Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Indulge in the authentic taste of the hills with our veggie and soya chunks-loaded momos. Each bite is a burst of flavor. Enjoy the hot and crispy fried momos, tossed in a non-spicy Tomato Garlic sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! Delight in the delicious experience! (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/745cdd62-a234-4381-8e68-d12de328e5b0_9ce0a630-2465-42ad-95b0-68d6a4d382d4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "171639278",
+          "name": "Chicken Delight Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+          "description": "Introducing yellow delight momos, 5 pcs of vegetable-meat blend, herb and spice-infused, wrapped in yellow dough, and hot & cricpy fried chicken delight momo tossed in tomato garlic sauce [Non- Spicy]. No extra sauce needed for this flavor-packed treat! (Serves 1).",
+          "price": 365.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6b47466f-066c-48f7-956e-c502d310618c_cfb2202c-8843-4fe2-8565-1e7b11f94418.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "155831683",
+          "name": "Veg Pahari Feast Pan Fried Momo in Tomato Garlic Sauce",
+          "description": "Serves 1 | Experience the true flavors of the mountains with our veg pahari feast pan fried momo. Stuffed with a vibrant blend of fresh vegetables and traditional spices, each momo bursts with rich flavor. Crispy and hot, these fried momos are coated in a savory tomato garlic sauce [5 pcs], offering all the flavor you need in one perfect bite. A satisfying and flavorful treat awaits! (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/745cdd62-a234-4381-8e68-d12de328e5b0_9ce0a630-2465-42ad-95b0-68d6a4d382d4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62192016",
+      "categoryName": "In Schezwan Sauce (Spicy) .",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "72170541",
+          "name": "Chicken Cheese Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Hot & crispy fried chicken cheese momo, tossed in spicy schezwan sauce and garnished with chopped coriander. We don't serve additional sauce [5 pcs]. (Serves 1).",
+          "price": 485.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/361dfbf6-6f0a-4a75-911e-6ecdc936f4ae_86843e5d-7a3f-4006-9bbc-b3c422a01d7e.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "134 ratings"
+        },
+        {
+          "id": "72170562",
+          "name": "Chicken Darjeeling Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Hot & crispy fried chicken Darjeeling momo, tossed in spicy Schezwan sauce and garnished with chopped coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d70afb70-b126-4185-a0f5-9d3d42b79b4d_737e28cd-a8df-401a-83c9-c408792a1ee8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "149 ratings"
+        },
+        {
+          "id": "72170566",
+          "name": "Corn Cheese Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Hot & crispy corn cheese fried momo, tossed in spicy schezwan sauce and garnished with coriander We don't serve additional Sauce with this plate of Momos [5 pcs]. (Serves 1).",
+          "price": 475.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/92bb8366-36e3-4272-9b87-f497df08bd8e_fc3fa147-1d6b-476d-aa2f-1df0fc537e03.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "74 ratings"
+        },
+        {
+          "id": "72170557",
+          "name": "Chatpata Paneer Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Hot & spongy paneer fried momo tossed in spicy schezwan sauce and garnished with coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/0df5bb4e-a46e-484a-8d77-d732452c12fa_3faa82fb-7c9b-4924-bd76-f18c011f989e.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "72170561",
+          "name": "Veg Darjeeling Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Crispy fried veggie Darjeeling momo, tossed in spicy schezwan sauce and garnished with chopped coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/b43fa916-313b-4a61-b6be-6747abe40366_0871433d-b7cc-4ffb-ae88-f9fe65c72831.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "85 ratings"
+        },
+        {
+          "id": "171639317",
+          "name": "Chicken Himalayan Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Savor the burst of delightful spices in every bite of our hot and crispy fried momos. Each bite delivers an authentic taste of the hills, tossed in a spicy schezwan sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! Enjoy the delicious experience! (Serves 1)",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d53f98a0-d463-480d-b0e5-418b8a28e4bb_6a36c061-cad5-4acf-b8fd-a57020551034.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "155831676",
+          "name": "Chicken Pahari Fresh Pan Fried Momo in Schezwan Sauce(Spicy)",
+          "description": "Serves 1 | Treat yourself to our pahari chicken pan fried momo [5 pcs], where succulent chicken is seasoned with an exquisite mix of traditional pahari spices. These crispy, hot momos are enveloped in a flavorful, spicy schezwan sauceno additional dipping sauce required for this mouthwatering treat! Enjoy a delicious and fulfilling experience. (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d70afb70-b126-4185-a0f5-9d3d42b79b4d_737e28cd-a8df-401a-83c9-c408792a1ee8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "171639566",
+          "name": "Chicken Pahari Feast Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Serves 1 | Indulge in our pahari chicken pan fried momo, showcasing tender chicken seasoned with a perfect blend of traditional pahari spices. These hot and crispy momos are coated in a rich, spicy schezwan sauce [5 pcs]no extra dipping sauce needed for this flavor-packed treat [5 pcs]! Enjoy a truly delicious and satisfying experience! (Serves 1).",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d0f536bc-cf44-4b16-a0b6-34c5c09e2bd1_e4bae893-c37b-4c04-aa43-764860fd1384.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "155831681",
+          "name": "Veg Pahari Fresh Pan Fried Momo in Schezwan Sauce(Spicy)",
+          "description": "Serves 1 | Discover the taste of the mountains with our veg pahari fresh pan fried momo, brimming with fresh vegetables and mountain-inspired seasonings. These crispy, hot momos are coated in a zesty, spicy schezwan sauce [5 pcs], delivering a burst of flavor with every bite. No additional sauce neededjust pure, satisfying deliciousness! (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/ed6c9ed4-df5e-4b0c-8aa3-5ee150834471_6e51a938-8511-4ba9-92a1-32307d38601a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "171639337",
+          "name": "Chicken Masala Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Hot and crispy fried chicken masala momo tossed spicy schezwan sauce and garnished with coriander We don't serve additional Sauce [5 pcs]. (Serves 1).",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/7a8246b1-a916-46b0-aacc-8d18a433570c_ebc506e2-adbf-4725-82cd-34a9f48e2389.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "171639294",
+          "name": "Veg Himalayan Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Delight in the authentic taste of the hills with our veggie-loaded momos. Each bite bursts with flavor, served with the popular Wow Momo Sauce. Enjoy the hot and crispy fried momos, tossed in a spicy schezwan sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! delight in the delicious experience! (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/3daec867-9772-4ccd-bea8-351a8e986029_3b9638a1-b45a-4482-9d5d-a1112d610632.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "171639297",
+          "name": "Veg Hot Garlic Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Delight in the spicy goodness of our veg hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Enjoy the hot and crispy fried Momos, tossed in a spicy schezwan sauce [5pc]. No extra sauce needed for this flavor-packed treat! Savor the delicious experience! (Serves 1)",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/ed6c9ed4-df5e-4b0c-8aa3-5ee150834471_6e51a938-8511-4ba9-92a1-32307d38601a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "171639322",
+          "name": "Chicken Delight Pan Fried Momo in Schezwan Sauce (Spicy)",
+          "description": "Introducing yellow delight momos, 5 pcs of vegetable-meat blend, herb and spice-infused, wrapped in yellow dough, and hot & cricpy fried chicken delight momo tossed in spicy schezwan sauce. No extra sauce needed for this flavor-packed treat! (Serves 1).",
+          "price": 365.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/56197814-3d4c-4a3a-a473-3033220e1d54_995a6f35-ee9c-43e3-b230-e0bb83be21b2.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "155831685",
+          "name": "Veg Pahari Feast Pan Fried Momo in Schezwan Sauce(Spicy)",
+          "description": "Serves 1 | Indulge in the authentic taste of the mountains with our veg pahari feast pan fried momo. Each momo is filled with a perfect mix of fresh vegetables and traditional spices, delivering a flavorful burst in every bite. Enjoy these hot and crispy fried momos, tossed in a spicy schezwan sauce [5 pcs]no extra sauce needed for this flavor-packed treat! Delight in a truly delicious experience! (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/94a3fea4-5749-4063-9cf1-d4a5d1b8da23_7166a1e4-f576-47ab-b259-c8d843207673.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191979",
+      "categoryName": "Chilli Momo",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "132075626",
+          "name": "Chicken Himalayan Chilli Momo",
+          "description": "Experience the true essence of the hills with our chicken Himalayan chilli momos. Delight in each bite as it overflows with a blend of delightful spices, expertly combined with kothey and a touch of chilli seasoning mix. This delightful plate of momos [5 pcs} requires no extra sauce, it's a flavor-packed experience on its own! (Serves 1).",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/17/21f94df9-70b3-489c-af97-554bd24f195c_f7f4ee26-c490-4249-ad4e-65708e77ee79.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "72205666",
+          "name": "Chicken Cheese Chilli Momo",
+          "description": "Authentic chicken kothey version with melted cheese and wrapped with chilli seasoning served with the dash of spring onion. We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+          "price": 699.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/b6c7a85d-5838-4c16-ae27-a753a4d1df4b_94ab13d5-ec86-43b7-8523-2760f236fcc5.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "132075614",
+          "name": "Veg Himalayan Chilli Momo",
+          "description": "Savor the authentic taste of the hills with our veg Himalayan chilli momos. Each bite bursts with delightful spices veggie and soya chanks loaded momo kothey blended with chilli seasoning mix. No extra sauce needed for this delightful plate of Momos! [5 pcs]. (Serves 1).",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/61d19913-931c-481a-a180-6480bae5a1f3_70f90f5b-8296-4a9c-ab07-af14e4bd95ef.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "72205660",
+          "name": "Veg Darjeeling Chilli Momo",
+          "description": "Veggie kothey roasted and mixed with pahari seasoning to experience a Wow! Hilly touch. We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/78a27cbc-8215-469d-b655-05f923cbed95_c46bb5c3-61b7-41b5-92e0-9de0643f4719.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "105441241",
+          "name": "Corn Cheese Chilli Momo",
+          "description": "Enfused corn and cheese momo with fusion magic seasoning of chilli flavours. Served with a colorful delight.We don't serve additional Sauce with this plate of Momos [5 pcs]. (Serves 1).",
+          "price": 699.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/a252cf29-4ec3-40f7-bb62-b7601843135f_5dabe581-4d1f-4397-92c1-666e6a3e3ba1.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "171639454",
+          "name": "Chicken Darjeeling Chilli Momo",
+          "description": "Authentic chicken kothey blended with chilli seasoning mix. Served with it's rustic magic flavors. We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+          "price": 599.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/80b5868d-04f4-41b2-9add-1f34af3f7c84_ccb7305b-0f15-4733-9d9c-8517e24028a7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "66721679",
+      "categoryName": "Wow! Crunchy  Kurkure Momo - 5pcs.",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "182386008",
+          "name": "Crunchy  Kurkure Chicken Masala Momo [5pcs]",
+          "description": "Kurkure Chicken masala MOMO is filled with soft, juicy boneless chicken, onion, and coriander, mixed with the flavors of Indian spices. To make it crispy, it is dipped in hot oil and served with mayo dip and Red sauce. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure  .",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d872009b-2b02-4f52-aecb-7ff6d9471427_565f4cb6-88bf-43a5-8d05-f1d6750936d5.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "182386010",
+          "name": "Crunchy  Kurkure  Chicken Cheese Momo [5pcs]",
+          "description": "Serves 1 | Indulge in the all-time favorite, mouth-watering Momos filled with a mix of juicy boneless chicken, cheese, coriander, herbs, and Indian spices. Served with a Mayo dip [5 pcs]. To make them crispy, they are dipped in hot oil and served with a mayo dip and Red sauce. Indulge in the irresistible flavors of Krunchy Kurkure  Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature crunch of Kurkure Krunchy .",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/866d080d-d7d7-4af7-ba0e-f5aaeb598ac9_b6c1f618-01a6-4985-9cca-f751df0c14cf.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191976",
+      "categoryName": "Peri Peri Momo",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "97899470",
+          "name": "Chicken Darjeeling Fried Peri Peri Momo",
+          "description": "Introducing yellow delight momos, 5 pcs of vegetable-chicken blend, spiced and wrapped in yellow dough, crispy fried to perfection.Elevate the experience by placing them in our shake bag, mixing with Peri Peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! (Serves 1).",
+          "price": 329.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/77b74ce9-cc5b-4b02-94aa-ce86883f7b34_126f2b3d-5993-4a91-941e-68ea1411c871.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "106 ratings"
+        },
+        {
+          "id": "97899476",
+          "name": "Chicken Cheese Fried Peri Peri Momo",
+          "description": "Introducing chicken cheese fried peri peri momo, 5 pcs of vegetable-chicken and cheese blend, spiced and crispy fried to perfection. Elevate the experience by placing them in our shake bag, mixing with peri peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! 100 gms / 330.76 Kcal. (Serves 1)",
+          "price": 455.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/e632a09a-1218-484a-aa74-de20dbd631d5_80a61797-eeac-48a2-b806-84942681fd9b.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "97899467",
+          "name": "Corn Cheese Fried Peri Peri Momo",
+          "description": "Introducing corn cheese fried peri peri momo, 5 pcs of vegetable-corn and cheese blend, spiced and crispy fried to perfection. Elevate the experience by placing them in our shake bag, mixing with peri peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! 100 gms / 333.8 Kcal. (Serves 1).",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/e893654c-4e32-4e2e-bb40-3654e00b0d76_73d94510-c5f5-4e0b-a8ba-027aae9dc5dd.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "97899465",
+          "name": "Chatpata Paneer Fried Peri Peri Momo",
+          "description": "Introducing paneer fried peri peri momo, 5 pcs of vegetable-paneer blend, spiced and crispy fried to perfection. Elevate the experience by placing them in our shake bag, mixing with peri peri seasoning, and serving with Spicy Red Sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! 100 gms / 391.04 Kcal. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/19a52774-e249-4784-82ca-67193f00598c_139cd7f9-4131-496f-983f-036a9e4d379a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "97899474",
+          "name": "Chicken Masala Fried Peri Peri Momo",
+          "description": "Introducing chicken masala fried peri peri momo, 5 pcs of vegetable-chicken blend, spiced and crispy fried to perfection. Elevate the experience by placing them in our shake bag, mixing with peri peri seasoning, and serving with red chilli sauce and green coriander sauce .Get ready for a WOW-worthy treat! 100 gms / 279.01 Kcal. (Serves 1).",
+          "price": 385.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6da69879-baf6-4e3c-b607-074fce952faf_328faa2e-b7d8-4928-9930-f191d7c81415.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "97899463",
+          "name": "Veg Darjeeling Fried Peri Peri Momo",
+          "description": "Introducing veg darjeeling fried peri peri momo 5 pcs of vegetable-packed, herb-infused momos, crispy fried to perfection. Make it even more exciting by placing them in our shake bag, mixing with peri peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Enjoy the WOW factor! 100 gms / 236.78 Kcal. (Serves 1).",
+          "price": 365.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/dd04270a-43d7-4e61-8548-85b3ab9a8343_b19e0fab-ece3-4073-bd88-ea14f607873e.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "44 ratings"
+        },
+        {
+          "id": "132075654",
+          "name": "Veg Hot Garlic Fried Peri Peri Momo",
+          "description": "Introducing our veg himalayan riedf peri peri momos, packed with veggies, each bite offers an authentic taste of the hills, crisply fried to perfection. Elevate the excitement by placing them in our shake bag, tossing with peri peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Experience the WOW! factor in every bite. (5 pcs). (Serves 1).",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/de8f886a-10fb-4f49-ac4c-a634ca6104cb_5f080143-8b07-420a-b53f-ffff2777228e.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "132075650",
+          "name": "Veg Himalayan Fried Peri Peri Momo",
+          "description": "Introducing our veg himalayan fried peri peri momos, packed with veggies and soya chunks each bite offers an authentic taste of the hills, crisply fried to perfection. Elevate the excitement by placing them in our shake bag, tossing with peri peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Experience the WOW! factor in every bite. (5 pcs). (Serves 1).",
+          "price": 285.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/73733bc5-6d8b-4856-88dc-a00a3242b226_f52dc3df-c5ae-4a2d-9827-a0cc579b2abd.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "132075656",
+          "name": "Chicken Himalayan Fried Peri Peri Momo",
+          "description": "Each bite of our crispy fried delight, the veg Himalayan peri peri momo, is a burst of delightful spices, offering an authentic taste of the hills. Take it up a notch by shaking them in our bag with peri peri seasoning and serving with red chilli sauce, no green coriander sauce served. Get ready for the WOW! factor in every sensational bite. (5 pcs). (Serves 1).",
+          "price": 345.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f1281b32-4f41-415b-80e6-3de16dcd685f_185bdf15-a008-45e4-badb-db25194c2bb3.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "112468319",
+          "name": "Chicken Delight Fried Peri Peri Momo",
+          "description": "Introducing yellow delight momos, 5 pcs of vegetable-chicken blend, spiced and wrapped in yellow dough, crispy fried to perfection.Elevate the experience by placing them in our shake bag, mixing with Peri Peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! (Serves 1).",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/b1106957-9dc8-4c5c-9d2a-92c353627090_fd986ae5-4cd9-4738-9586-01b30fa1fbbf.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "14 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "69695472",
+      "categoryName": "Momo Burger [Moburg] (Save Upto 50%)",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "72170563",
+          "name": "Chicken Moburg",
+          "description": "Burger filled with crispy chicken fried momos and topped with red and green sauce and mayonnaise. (Serves 1).",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/17/204e7f48-14f2-4a1a-96e2-e1d1db707bba_131eeb62-42f0-495f-8933-8e40f28ad76e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "140 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "72170564",
+          "name": "Veggie Moburg",
+          "description": "Burger filled with crispy fried momos and topped with red and green sauce and mayonnaise. (Serves 1).",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/85d8b901-57c9-4666-80e1-e809db94f7bc_2b7a1f32-9d01-4066-b498-4cc090e06f63.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "102 ratings"
+        },
+        {
+          "id": "72486804",
+          "name": "Cheesy Chicken Moburg",
+          "description": "Burger filled with crispy fried chicken momos and topped with red & green sauce and mayonnaise, with layer of cheese slice. (Serves 1).",
+          "price": 195.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/ffd79993-48b2-42a6-a26d-7d1098d4beb8_76ebb4f5-f86d-4bd8-9a9d-21fe1c26e7a6.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "95278144",
+          "name": "Corn Cheese Moburg",
+          "description": "Burger filled with crispy fried corn cheese momos and topped with red & green sauce and mayonnaise. We don't serve any sauce or mayonnaise or dips. Dips can be ordered separately. (Serves 1).",
+          "price": 245.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f98225fd-9be1-406e-824f-92cd00d7609e_8bfd68f8-e8eb-48c6-ad58-699f30328969.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "95278143",
+          "name": "Chicken Cheese Moburg",
+          "description": "Burger filled with crispy chicken cheese fried momos and topped with red and green sauce and mayonnaise. We don't serve any sauce or mayonnaise or dips. Dips can be ordered separately. (Serves 1).",
+          "price": 255.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/17/2d7bab0a-f4f2-40c8-8b09-834be43232e7_18309816-9efb-49ab-b8fc-9f41b00dbddf.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "40 ratings"
+        },
+        {
+          "id": "72486803",
+          "name": "Cheesy Veggie Moburg",
+          "description": "Burger filled with crispy fried veggie momos and topped with red & green sauce and mayonnaise, with layer of cheese slice. (Serves 1).",
+          "price": 195.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/aeee3ccb-df03-4c61-94b5-1d4659d6e7ff_7e916b5e-0b4b-46fe-9e12-3499d57eb974.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "30 ratings"
+        },
+        {
+          "id": "214050785",
+          "name": "Peri Peri Meatballs (4 Pcs)",
+          "description": "Serves 1 | Newly Launched! 4 juicy meatballs tossed in a bold Peri Peri seasoning, bringing the perfect balance of savoury flavour and spicy heat in every bite.",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/22/df2e0ec1-2ed5-4ced-b4b5-cef5c4abab34_63260086-dbb3-4794-a612-5e3e8b999a8d.png",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "70016843",
+      "categoryName": "WOW Fries (World's Crispiest Fries)",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "189715846",
+          "name": "OG Crispy Fries Regular",
+          "description": "Golden, thick-cut fries with an unbeatable CRISP on the outside and soft, fluffy inside.",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/108a5b12-8085-49f9-8363-c765df6eaf61_5af0f93a-90ad-476c-9c73-5343f96ee1b2.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "196185216",
+          "name": "Peri Peri OG Crispy Fries Regular",
+          "description": "Serves 1 | Golden, thick-cut fries with an unbeatable CRISP on the outside and soft, fluffy inside. Peri Peri Seasoning to perfection and built for dipping !",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/13a02a6d-408c-4210-9be3-aa98b3ad167a_d5e12703-7534-42da-9be8-5c299ddeb5bb.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191984",
+      "categoryName": "Thukpas",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "72170567",
+          "name": "Chicken Thukpa Soup",
+          "description": "Tibetan soup which consists of mixed fresh vegetables, tender chicken, home made noodles, Indian spices and garnished with coriander. (Serves 1).",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/4/6c6bc6ee-1702-4cd1-ad33-33df2a437ba2_2f0db4d7-3156-4ae9-946e-5ff3ae7745eb.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "148 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "72170568",
+          "name": "Veg Thukpa Soup",
+          "description": "Tibetan soup which consists of mixed fresh vegetables, home made noodles, Indian spices and garnished with coriander. (Serves 1).",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/4/7cc8c421-408f-493e-955a-12d21da0beea_6b0f7706-d9e6-421a-a47b-22349829e08d.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "84 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "63347353",
+      "categoryName": "New Gluten Free Momo",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "174328844",
+          "name": "Gluten Free Chicken Cheese Chilli Momo",
+          "description": "Serves 1 | Juicy chicken and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Tossed in a spicy house-made chili sauce for a fiery delight. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+          "price": 445.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6a5e40e7-5f11-4a08-a4c9-8b9fb63a741f_e69649b1-5c99-46e7-adc4-09ded9c69a98.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "174328843",
+          "name": "Gluten Free Corn Cheese Chilli Momo",
+          "description": "Serves 1 | Sweet corn and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Stir-fried in a hot and spicy chili sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+          "price": 425.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/c866bfc8-0c5c-4bb9-a9a2-bf4d00d3bc07_b9853d44-438d-4ad5-b268-564e40d8d9a6.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "174328841",
+          "name": "Gluten Free Veg Darjeeling Chilli Momo",
+          "description": "Serves 1 | Wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Filled with a mix of vegetables and spices, tossed in spicy Darjeeling chili sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/f6bd71e6-f1f0-4f82-af61-6964481b2bd3_e2ec8ff9-ef9a-493e-8e33-63786fc5d84f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "174328842",
+          "name": "Gluten Free Chicken Darjeeling Chilli Momo",
+          "description": "Serves 1 | Boneless chicken, onion, coriander, and spices wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Tossed in a spicy Darjeeling chili sauce. [5 pcs] Calories: 273.22 | Protein: 11.13g per 100g. (Serves 1).",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/80c014a2-222d-4358-a859-f09ab041c7a4_024988ef-dd5c-4ab1-b0cb-2c3585a5ae19.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "174328840",
+          "name": "Gluten Free Chicken Cheese Steam Momo",
+          "description": "Serves 1 | Shredded chicken infused with spices and wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with a spicy red sauce. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+          "price": 345.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/50811064-608d-40dd-9083-9129a8e91894_b55cbab8-e94d-48d6-95b2-88ccbf05dd56.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "174328839",
+          "name": "Gluten Free Corn Cheese Steam Momo",
+          "description": "Serves 1 | Sweet corn and creamy cheese blended with colorful peppers and spices, wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy red sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/168322c0-a2bc-4f96-aea5-08d804813c62_c4815851-cf03-4614-be5d-4640efed78fa.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "174328838",
+          "name": "Gluten Free Chicken Darjeeling Steam Momo",
+          "description": "Serves 1 | Soft, juicy boneless chicken mixed with onion, coriander, and spices, wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy Darjeeling sauce. [5 pcs] Calories: 273.22 | Protein: 11.13g per 100g. (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/8d4a34bf-97a6-4ca9-b105-e4a44043c98c_3c99599c-1fc5-4f96-a6a2-181c669aa7fb.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "174328837",
+          "name": "Gluten Free Veg Darjeeling Steam Momo",
+          "description": "Serves 1 | A flavourful mix of cabbage, onion, carrot, coriander, and spices wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy Darjeeling sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6cfda777-7206-4586-9836-dd6c6e6dc2f9_7459e8be-2719-454d-83ad-c70542004db7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62192039",
+      "categoryName": "Beverages.",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "95440134",
+          "name": "Red Bull",
+          "description": "Serves 1 | Energy Drink. 330 ml.",
+          "price": 180.95,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/9a08513e-b458-4477-9493-9dd633d6ec46_695a81b7-9e97-4552-a2dc-21e239a471f4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "202724212",
+          "name": "Tribe Kombucha Zesty Gingerade",
+          "description": "Serves 1 | Traditionally fermented green tea delivers the authentic kombucha experience with gentle sweetness and signature tangy fizz.",
+          "price": 119.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/9/48e58ba9-f246-4afb-98e9-3218fdace2e0_352c80ae-9c62-4c2a-a2c5-ce0a62aaf845.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202724214",
+          "name": "Tribe Kombucha OG Classic",
+          "description": "Kombucha infused with real ginger and bright citrus bring a fiery kick that wakes up your senses.",
+          "price": 119.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/ee6140fa-d52f-4e46-ae1a-eb9851a5ea48_c0e1bcbc-7525-437a-a2d3-1fcdd7c62c6f.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202724217",
+          "name": "Twitch Jamaican Energy Drink",
+          "description": "The energy drink with zero Preservatives, Taurine free .",
+          "price": 119.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/ee73deee-84c3-4f3b-ae79-a451f74c31de_f78f63c1-c59c-4e36-bf6c-b5cc330e4e2a.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202724216",
+          "name": "3 Sisters Non Alcoholic Beer – Peach Mango Flavour",
+          "description": "A smooth blend of juicy peach and mango flavor with a tropical non-alcoholic beer twist..",
+          "price": 104.76,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/13215d57-0bb5-417c-be96-6f8839e29bcd_1085316c-927f-429f-b0ff-63ec8eac1257.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202724215",
+          "name": "3 Sisters Non Alcoholic Beer – Kiwi Mint Flavour",
+          "description": "A crisp kiwi and cool mint fusion with a refreshing non-alcoholic beer twist.",
+          "price": 104.76,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/f1d46078-07dd-4d41-9f31-5af992b7af86_c4c05a73-a708-4eb1-9fcb-0ca82182d357.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "181851891",
+          "name": "Coca-Cola 475 ml bottle",
+          "description": "Serves 1 | Sparkling and Refreshing Beverage.",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/479e9b44-00a2-4ede-ae5f-4ff1945947ec_ddc8d12f-a96b-4071-bdf0-dce1f7e50770.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "181851892",
+          "name": "Coca-Cola Zero Sugar 330 ml Can",
+          "description": "Serves 1 | Best Taste, Zero Sugar.",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/11/0223efea-8bae-40bd-9cbb-790d14c1c791_495fecd2-d2b9-480c-8990-22b70228c0b4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "181851893",
+          "name": "Coca-Cola 330 ml Can",
+          "description": "Serves 1 | Chilled Coca-Cola Fizzy Drinks.",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/d9c684f1-f328-4297-b428-c619f663880e_0630b2dc-0b79-41b9-b875-e958dd51a525.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191990",
+      "categoryName": "Dips & More",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "100008214",
+          "name": "Mayo Dip",
+          "description": "Wow! delicisious eggless mayonnaise dip, goes well with momos & burgers.",
+          "price": 28.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/6882a3db-45ac-4496-bcd2-19c6ed7cab3c_2338e5af-433e-486a-a55e-8a2defa560fd.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "71 ratings"
+        },
+        {
+          "id": "207002624",
+          "name": "Tandoori Mayonnaise Dip",
+          "description": "Serves 1 | Smoky Tandoori Mayo Dip",
+          "price": 28.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/7/6ef37214-ccf4-4503-981c-579664edbb5b_56aa1fe5-e6f5-4662-91e3-5cdf1964ef09.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "207002625",
+          "name": "Spicy Garlic Mayonnaise Dip",
+          "description": "Serves 1 | Fiery Garlic Mayo Dip",
+          "price": 28.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/7/7fcf63ad-55e4-4888-8dca-3a396ed7bfd8_5cffcca9-6e3e-4896-a703-c88dc00cb30e.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "207002622",
+          "name": "Eggless Mayonnaise Dip",
+          "description": "Serves 1 | Creamy Classic Mayo Dip",
+          "price": 28.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/7/59d37a72-3ce6-479e-9d08-63d893570fea_cd0c923d-54d4-4aec-a665-819b44e02201.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "107452388",
+          "name": "Peri Peri",
+          "description": "Peri peri seasoning sachet [01piece]",
+          "price": 25.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/dcd886c3-9eda-4df9-9107-517334b40973_9b886d10-f682-42b3-8461-67e01605c987.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "170850586",
+          "name": "Schezwan Momo Sauce 30 gms",
+          "description": "Serves 1 | Spicy, garlicky Schezwan sauce packed with bold flavors—perfect with momos.",
+          "price": 20.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/ad8b59d0-4d28-401a-80e9-94ee6f3e2cda_149e1a39-550f-4a09-9791-89beb8b13868.png_compressed",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "170850585",
+          "name": "Spicy Darjeeling Sauce 30 gms",
+          "description": "Serves 1 | A spicy and tangy sauce inspired by Darjeeling flavors, perfect for adding heat to your favorite bites.",
+          "price": 20.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/c4c9a2ee-f1cd-47b5-a27e-8e754fa75735_c1fe689a-ac5e-4be9-bcac-815babbebce0.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "170850587",
+          "name": "Coriander Green Sauce 30gms",
+          "description": "Serves 1 | Fresh, herby green sauce with a zesty coriander kick.",
+          "price": 20.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/e25d5728-d6e6-4674-bbdc-1a36e4b1caed_c29facdb-417a-4224-924e-d8c5b2e140b8.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "6 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "74880569",
+      "categoryName": "Cold Dessert",
+      "itemCount": 13,
+      "items": [
+        {
+          "id": "214997447",
+          "name": "Aamoji (Mango Ice cream)",
+          "description": "Mango-shaped ice cream made with creamy mango milk ice cream, bursting with rich, delicious ripe mango flavour. 110 gm.",
+          "price": 180.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/7/4127d9e3-ea37-4aef-874a-7f2fe4bca6c9_2ae2ed6b-f462-423d-bae2-cafe1ca0681d.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "174423376",
+          "name": "Popsicle Dairy Milk Chocolate",
+          "description": "Serves 1 | Indulge in the velvety richness of Dairy Milk Silk, a frozen delight beyond compare.  Per Serving: Total Protein 6.17g.",
+          "price": 160.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/e83e759d-7d12-4945-8d69-7040761133ba_8ab509de-8977-4a04-82fc-ed4caa355df0.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "174423375",
+          "name": "Popsicle Oreo Cookie Cream",
+          "description": "Serves 1- Crunchy Oreo goodness in every bite. A delightful combination of cookies and creamy indulgence.  Per Serving: Total Protein 6.17g.",
+          "price": 160.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/5ea789f0-6e0d-4d85-a21f-ead57677d272_b7b93610-2920-4793-a913-ac38207bf2d9.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "174423374",
+          "name": "Popsicle Jamun Sorbet",
+          "description": "Serves 1- Experience the bold burst of Jamun in every bite. Our Jamun Popsicle is a unique and refreshing treat. Per Serving: Calories 225.58kcal.",
+          "price": 130.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/af3ccd5f-3d28-4b87-bf92-394ff5adbca9_75a259ac-956a-4e9c-8641-b73de130bc60.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "163838865",
+          "name": "Popsicle Strawberry Sorbet",
+          "description": "Serves 1- Cool off with Strawberry Sorbet Popsicle. A refreshing burst of fruity sweetness in every delightful bite. Per Serving: Calories 225.58kcal.",
+          "price": 130.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/26/90aeda23-3fe3-412f-a5c3-3ac52d7e22b1_3168ea05-3688-4256-a2a4-d3b928ef3a73.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "163838858",
+          "name": "Stick Kulfi Three in one Large",
+          "description": "Serves 1- Indulge in Stick Kulfi Three in One, featuring the divine trio of Malai, Kesar, and Pista. A rich, creamy delight awaits! Per Serving: Calories 225.58kcal, Total Fat 9.44g.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/33eaaf16-a00a-4359-95d7-33d38e958f2a_3bcd67f8-2fee-4946-89f1-beb6e9dcc7a7.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "163838862",
+          "name": "Stick Kulfi Mango Large",
+          "description": "Serves 1- A burst of mango goodness in every bite. Indulge in the luscious flavor of Mango Stick Kulfi for a tropical treat.  Per Serving: Calories 225.58kcal, Total Fat 9.44g.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/5d6a016b-4c57-4870-903e-7745e5271f5e_34ee57e5-ea61-494f-b72d-04a071791c7a.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "163838857",
+          "name": "Stick Kulfi Paan Large",
+          "description": "Serves 1- Savor the post-meal tradition with our Meetha Paan. All-natural delight in a stick to enjoy the refreshing blend of Paan, Saunf and Tutti-Frutti. Per Serving: Calories 225.58kcal, Total Fat 9.44g.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/5a6b5a82-42b8-48f8-b4ba-c44fad90d34b_d1e74595-4024-41e1-a5ea-713f2b438448.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "163838863",
+          "name": "Stick Kulfi Shahi Gulab Large",
+          "description": "Serves 1- Rose-infused almond joy, a sweet symphony of floral and nutty notes in every delectable bite. Per Serving: Calories 225.58kcal, Total Fat 9.44g.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/29f8815e-c351-4d1d-a9aa-2d5c178632fc_94433f35-ada6-476c-8120-34067732aebb.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "163875996",
+          "name": "Stick Kulfi Malai Regular",
+          "description": "Serves 1 | Serves 1- Classic Malai goodness on a stick – rich, creamy, and simply irresistible. Indulge in the timeless delight of our Malai Kulfi! Per Serving: Calories 225.58kcal, Total Fat 9.44g.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/95b5353a-99d6-480a-a1ed-5bf9559eb76d_4936a18f-9b0a-4852-a9c6-db542fecb573.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "163875995",
+          "name": "Stick Kulfi Kesar Pista Regular",
+          "description": "Serves 1 | Serves 1- A royal blend of saffron and pistachio in every bite. Savor the regal flavors of Kesar Pista Kulfi on a stick. Per Serving: Calories 225.58kcal, Total Fat 9.44g.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/42d5cc62-06c9-454a-8c47-99fb4f084f0b_a85fb225-dd35-47b3-a0ef-d321976d2056.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "173906641",
+          "name": "Orange Ice Pops",
+          "description": "Serves 1 | Revitalize with zesty Ice Pops Orange, bursting with orange providing a refreshing twist to beat the heat.",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/e9e0d917-efad-448a-b46f-a52d96d4f832_3d07e84d-d888-4df0-8f0e-4bf792eebee4.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "173906642",
+          "name": "Mango Ice Pops",
+          "description": "Serves 1 | Indulge in sweet & tangy Ice Pops Mango, capturing the essence of India's king of fruits.",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/1cbaca1c-e0be-4105-8754-7244f2740404_279219be-1c1b-49ff-800e-f00e333a2c96.png",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "66527604",
+      "categoryName": "Hot Dessert",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "201839279",
+          "name": "Nutty Choco Lava Cake (2Pc)",
+          "description": "Indulge in the ultimate dessert experience with our Nutty Choco Lava Cake. A rich, moist chocolate cake with a warm, gooey molten center, loaded with crunchy roasted nuts that melt in your mouth. Made without eggs and crafted to perfection, it's the perfect sweet ending to every meal. This item contains of 2 pieces",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/cccb8d42-79f3-4905-8ece-62d796bb40dd_eb274d8d-9411-4895-8c35-6fa85dd11149.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "182025076",
+          "name": "Choco Lava Cake (2 pcs)",
+          "description": "Treat yourself to a decadent dessert with our Hot Molten Eggless Choco Lava Cake  a soft, moist chocolate cake filled with a luscious molten chocolate center that flows with every bite. Eggless and expertly baked, it's the ideal finish to any meal. (Energy: 371Kcal, Carbohydrates: 49.3gm, Proteins: 3.9g, Fat: 18gm, Sodium: 2mg)",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/b5a7f76f-8be2-4ddf-adcd-e1f9825ddabb_9fc7cc4f-3657-4ec8-aa58-607722f296bc.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "201839277",
+          "name": "Nutty Choco Lava Cake (1Pc)",
+          "description": "Serves 1 | Indulge in the ultimate dessert experience with our Nutty Choco Lava Cake. A rich, moist chocolate cake with a warm, gooey molten center, loaded with crunchy roasted nuts that melt in your mouth. Made without eggs and crafted to perfection, it's the perfect sweet ending to every meal.",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/8599fe77-c2ea-477c-a8d6-90de93c3578a_ca0d5600-44e3-41f4-9904-e75f195ea0c1.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "182025075",
+          "name": "Choco Lava Cake (1 pc)",
+          "description": "Serves 1 | Indulge in the ultimate dessert experience with our Hot Molten Eggless Choco Lava Cake — a rich, moist chocolate cake with a warm, gooey molten center that melts in your mouth. Made without eggs and crafted to perfection, it’s the perfect sweet ending to every meal. (Energy: 371Kcal, Carbohydrates: 49.3gm, Proteins: 3.9g, Fat: 18gm, Sodium: 2mg).",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/84d1ff29-ffcc-4c7a-a267-efba32ffde5c_a285c83e-93f9-421d-a7f7-3297a8bbe080.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "72205658",
+          "name": "Chocolate Momo (1 Pc)",
+          "description": "Serve 1 - Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (01 Pcs).",
+          "price": 79.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/13/e69ca31f-5185-45f6-b617-61ade2fc0900_8a46bcc1-3fa6-4311-bbeb-c03ff70411d5.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "40 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62191998",
+      "categoryName": "Wow! China on Wow! Momo",
+      "itemCount": 17,
+      "items": [
+        {
+          "id": "171639658",
+          "name": "Fish in Hot Garlic Sauce Large",
+          "description": "Serves 1 | Fish, bell pepper & onion cooked in a gravy of hot garlic sauce. NO MSG.",
+          "price": 605.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/0a4ba8be-b129-43d7-9c26-1fdf4cd9f004_97b4b93f-14ca-4c71-99e0-f28e09cfa108.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "171639661",
+          "name": "Chilli Chicken Large..",
+          "description": "Serves 1 | Chicken, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+          "price": 559.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/15c809ef-af44-42d4-bc4e-0de43f36b928_58e46702-d0b2-406e-8bdd-3872f1e9855e.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "171639668",
+          "name": "Chilli Fish Large",
+          "description": "Serves 1 | Fish, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+          "price": 589.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/5ba76734-2cf5-4994-b610-eeb27949d3ce_7252c4c9-464a-4f37-aa9c-40b1be9ff38a.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "171639664",
+          "name": "Chicken Manchurian Large..",
+          "description": "Serves 1 | Chicken, Onion, Coriander Cooked In Manchurian Sauce With A Dominant Flavour Of Garlic And Onion To It.",
+          "price": 559.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/67702d8e-a330-4b7d-a425-5596fcf760ac_fd1a5886-45e9-40ce-aa46-b77bea369a71.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "171639647",
+          "name": "Chilli Paneer Large..",
+          "description": "Serves 1 | Fried Paneer, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+          "price": 515.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/3bac2e00-0d59-4660-b097-5a7e3b6de039_aff6ba8f-6d42-416d-9471-efcabb1f4477.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "171639635",
+          "name": "Veggie Noodles In Hot Garlic Sauce Regular",
+          "description": "Serves 1 | Noodles wok tossed with veggies in hot garlic sauce, medium spicy in flavour. NO MSG.",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/62f44de0-6c8e-4c6d-a3ac-11654819c1d6_c53a18f1-506e-49c3-8f87-6031930bb345.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "171639656",
+          "name": "Veg Hakka Noodle Regular",
+          "description": "Serves 1 | Noodles wok tossed with veggies. NO MSG.",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/ebd40053-6cba-412d-83b2-03cc36a008f3_83eb6c38-0ba9-4e2d-bcc4-2b30b5b843c9.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "171639654",
+          "name": "Veg Manchurian Large",
+          "description": "Serves 1 | Vegetable Coins Made Up Of Chopped Mix Vegetables Served In Manchurian Sauce With A Dominant Flavour Of Garlic And Onion To It.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/4aeee27a-3eba-4001-9fab-8063b1f08ede_dbe04775-cc64-4a3b-ae61-bfa28090873d.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "171639640",
+          "name": "Veggie Noodles In Schezwan Sauce Regular",
+          "description": "Serves 1 | Noodles wok tossed with veggies in schezwan sauce, peppery spicy in flavour. NO MSG.",
+          "price": 409.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/bf2eeb6c-f679-4855-a16b-52469ddd8d08_c9e13cc0-89a9-4236-8650-f7b6fac75033.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "7 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "171639659",
+          "name": "Fish In Hot Garlic Sauce Regular",
+          "description": "Serves 1 | Fish, bell pepper & onion cooked in a gravy of hot garlic sauce. NO MSG.",
+          "price": 425.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/758f7ebf-019a-423b-b9df-a0ab8a7d8f91_6f9f99cf-d009-4838-8c1f-40412eda2737.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "171639646",
+          "name": "Veggie Fried Rice Regular",
+          "description": "Serves 1 | Steamed rice wok tossed with veggies, perfectly seasoned. NO MSG.",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/de1684fc-9a86-4428-b440-b945e57e7228_ed930bb2-12b0-4a16-a848-1b78f53aa9b1.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "171639642",
+          "name": "Veggie Rice In Schewan Sauce Regular",
+          "description": "Serves 1 | Steamed rice wok tossed with veggies in schezwan sauce, peppery spicy in flavour. NO MSG.",
+          "price": 385.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/d98979a8-0940-429e-a80b-a9a820aef486_5e619283-11d7-464d-9348-c6e1f636520e.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "171639644",
+          "name": "Veggie Rice In Hot Garlic Sauce Regular",
+          "description": "Serves 1 | Steamed rice wok tossed with veggies in hot garlic sauce, medium spicy in flavour. NO MSG.",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/795c1277-87a7-40a2-a582-b73d7846fe2c_81bb8562-f44f-4cc7-acda-54d3dc4ffccc.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "171639650",
+          "name": "Chilli Paneer Regular..",
+          "description": "Serves 1 | Fried Paneer, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/3bac2e00-0d59-4660-b097-5a7e3b6de039_aff6ba8f-6d42-416d-9471-efcabb1f4477.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "171639669",
+          "name": "Chicken Sweet Corn Soup",
+          "description": "Serves 1 | Thick Broth Soup Typically Made By Sweet Corn Paste, Served With Chicken.",
+          "price": 259.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/a9ce856c-7e6c-4b6e-aa38-b2b9ba452dd0_48db2f9f-e3d5-4260-970b-52b84421146d.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "171639652",
+          "name": "Veg Sweet Corn Soup",
+          "description": "Serves 1 | Thick Broth Soup Typically Made By Sweet Corn Paste, Served With Veggies.",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/689e7f57-d296-4fd9-9c33-27861957a617_427c73e2-e247-4be1-b12b-47fab52f98de.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "171639645",
+          "name": "Veg Manchurian Regular",
+          "description": "Serves 1 | Vegetable coins made up of chopped mix vegetables served in manchurian sauce with a dominant flavour of garlic and onion to it. NO MSG.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/14/88590987-6727-4ac2-b698-1ee5d6132166_0c9138e5-a2ce-4fdf-aeb1-73ae70d53c41.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "68003818",
+      "categoryName": "20 Pcs - Steam Momo",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "185035726",
+          "name": "Chicken Cheese Steam Momo - 20 Pcs",
+          "description": "Serves 2 | Soft juicy boneless chicken, with the flavour of in house spices. Served with schezwan red chilli sauce (20 pcs ). Steam momos taste best when eaten with hand. (Serves 2)",
+          "price": 916.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/c3eb13be-ddfc-4941-88ce-03f8c7ed08f3_8d56b235-eb01-401c-8541-71e59ea2597c.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "185035724",
+          "name": "Corn & Cheese Steam Momo - 20 Pcs",
+          "description": "Serves 2 | Wow! Momo signature dish: Momos filled with shredded cheese and sweet corn, infused with the rich flavors of Indian spices. Accompanied by our home-made red chilli sauce (20 pcs). Steam momos are a finger-licking delight! Please note, we don't serve green coriander chutney. (Serves 2)",
+          "price": 836.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/d8e8ddbc-c132-41a9-9ff4-f2d79f8051dd_a806759e-51fe-4380-afe1-996ee3a46824.png",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "68003821",
+      "categoryName": "20 Pcs - Fried Momo",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "185035753",
+          "name": "Veg Pahari Fresh Fried Momo - 20 Pcs",
+          "description": "Serves 2 | Savor the essence of the mountains with our veg pahari fresh fried momo, filled with vibrant vegetables and infused with mountain-inspired flavors. Each crispy bite is perfectly complemented by our red chilli sauce [20 pcs]. Please note, green coriander chutney is not served. Enjoy the delicious blend of flavors! (Serves 2).",
+          "price": 699.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/47a1115c-5b60-4e4e-862d-5db99aa088a3_c14f6a23-8296-40ae-a35a-9aa13c4515f7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "81924141",
+      "categoryName": "20 Pcs-  Crunchy Kurkure Momo",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "185035769",
+          "name": "Crunchy Kurkure Chicken Cheese Momo - 20 Pcs",
+          "description": "Serves 2 | Indulge in the all-time favorite, mouth-watering Momos filled with a mix of juicy boneless chicken, cheese, coriander, herbs, and Indian spices. Served with a Mayo dip. To make them crispy, they are dipped in hot oil and served with a mayo dip and Red sauce. Indulge in the irresistible flavors of Krunchy Kurkure Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature crunch of Kurkure Krunchy .",
+          "price": 999.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/027244b5-44e6-42b9-ab77-192daa6fa4f2_4c22a41b-360a-4c1e-8bd0-782c38d7736f.png",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

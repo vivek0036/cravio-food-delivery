@@ -1,0 +1,733 @@
+{
+  "restaurant": {
+    "id": "614529",
+    "name": "Itminaan Matka Biryani - Slow Cooked",
+    "city": "Hyderabad",
+    "locality": "Kondapur",
+    "areaName": "Gachibowli",
+    "costForTwo": 250.0,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "avgRating": 4.4,
+    "totalRatings": "235 ratings",
+    "deliveryTime": "20-30 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/3/24/809e2f91-6bfd-476e-a213-38e517a783bc_614529.JPG"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 16,
+      "items": [
+        {
+          "id": "207015826",
+          "name": "1KG Shahi Egg Matka Biryani Feast",
+          "description": "[SERVES 2-3 | 4 Eggs | Comes with 2 Raitas & 1 Dessert] Perfectly cooked eggs layered with long grain basmati rice and a rich, aromatic masala gravy. Sealed and slow-cooked with royal spices for a ...",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/5/12e0869f-f472-4800-8ecd-e2616a6271c2_14a38b42-c1d5-472a-88ff-20c46f5452ac.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "104799795",
+          "name": "1KG Tangdi Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | with Bone | Comes with 2 Raitas & 1 Dessert] Tenderest chicken Tangdi deeply marinated, gloriously slow-cooked with a masala gravy and long grain basmati rice. An exquisitely indulgent ...",
+          "price": 529.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/dbb67ee1-dcd5-4e88-a912-b9c9ea25f50e_bab6f6af-6caa-44e2-90c4-0c47b45ddf17.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "24 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799789",
+          "name": "1KG Original Boneless Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Juicy chicken marinated, sealed & slow-cooked in its own flavours. A special blend of rustic spices cooked with the tenderest of meat & basma...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/3d593c0a-e333-4fc9-89f8-0661e80ba6ac_302f35d9-7f9b-46af-b629-a101cc4cb54d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "37 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799786",
+          "name": "1KG Boneless Chicken Tikka Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] The forever favourite chicken tikka used to create a pot of delicious Biryani. The classic dum-pukht cooking leaves the meat tender & aroma h...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/7bbc3429-abf6-4dbf-94bf-99bef64698e7_9614927a-97e7-4ad0-988a-134f400e07f6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "164924218",
+          "name": "1KG Royal Boneless Chicken Matka Biryani Feast",
+          "description": "Combo contains Biryani, Gulab Jamun, Lemonade & 2 Raitas.\n\n[SERVES 2-3] Juicy boneless chicken marinated, sealed & slow-cooked with long grain rice.",
+          "price": 918.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/28/00114850-28ef-41e0-bdbc-431c37990b56_f73b4da2-1ca1-4bb2-9322-e07216b87404.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799784",
+          "name": "1KG Bhuna Boneless Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Marinated chicken pieces in a delectable creamy gravy, layered on basmati rice. Cooked in authentic Dum-Pukht style, this biryani is an epito...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/5363151f-7637-48b2-8616-3ca51b076da0_821e882b-548c-4aaf-8662-ec2c4ed83593.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "104799792",
+          "name": "1KG Overload Boneless Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Generously loaded with 50% more chicken. Sealed and cooked leisurely in a rich gravy bursting with flavours, layered over basmati rice. A tem...",
+          "price": 679.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/7bc62bc5-d4e2-4390-b876-8ca4d2367031_deafe424-b8ac-44c4-a623-c2a298f107f1.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "104799788",
+          "name": "1KG Gosht Mutton Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Tenderest mutton is marinated, dum cooked with classic masalas & buried in aromatic basmati rice. A preparation that tastes divine.",
+          "price": 729.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/848597cf-154e-44ad-80ed-e1586dce03c5_4baf1c0a-f7a2-40dc-97fc-84708571c5c6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "164937877",
+          "name": "1KG Tandoori Chicken Matka Biryani Feast",
+          "description": "Combo contains Biryani, Gulab Jamun, Thums Up & 2 Raitas.\n\n[SERVES 2-3] Chicken tangdi (with bone) slow-cooked with a melange of spices & basmati rice.",
+          "price": 858.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/6/757bbbc6-c7fd-4a1a-af42-34ab1c53a2e6_fe40166d-ab11-4824-8713-5d49b791b777.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799796",
+          "name": "1KG Veg Nawabi Matka Biryani Feast",
+          "description": "[SERVES 2 | Comes with 2 Raitas & 1 Dessert] Freshly chopped vegetables & long grain Basmati rice slow-cooked in traditional dum-pukht style with classic spices. Savour it at leisure.",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/f57c27be-cbe7-458f-8d62-174dd36742dc_ebd2827a-29e9-431f-838a-01c99f85f228.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "31 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "109859124",
+          "name": "1KG Veg & Paneer Overload Matka Biryani Feast",
+          "description": "[SERVES 2 | Comes with 2 Raitas & 1 Dessert] Succulent pieces of Paneer tossed with vegetables & spices, layered on a bed of ultra-long basmati rice. Slow-cooked to perfection. An-ever-loved classic.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/9e17c88c-cc69-4764-9ac8-3b1b80ff32e0_eb1f7fff-fa0a-464e-8e97-71a532ceab58.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "164929816",
+          "name": "1KG Paneer & Subz Supreme Matka Biryani Feast",
+          "description": "Combo contains Biryani, Gulab Jamun, Lemonade & 2 Raitas.\n\n[SERVES 2-3] Slow-cooked Biryani with succulent paneer & vegetables.",
+          "price": 858.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/25/db5c8e6b-7eaa-4452-abdf-2ccaa111a420_7b4346d7-a584-4642-a42b-efba8542fd84.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "5 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "187996745",
+          "name": "1KG Veg Shahi Matka Biryani Feast",
+          "description": "Combo contains 1KG Biryani, Gulab Jamun, Thums Up & 2 Raitas. \n\n[SERVES 2-3] Dum Pukht Biryani with freshly chopped vegetables & long grain basmati rice.",
+          "price": 718.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/28/708ae448-ec60-4638-a1b3-7b7a0eb7eda7_701960f3-26df-4a93-bcd4-b0e712b27b1b.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "104799767",
+          "name": "Tandoor style Chicken Wings [6 Pcs]",
+          "description": "Boldy spiced tandoori chicken wings are a crowd-pleaser. Marinated in a special masala consisting of yoghurt, lemon and spices, this is grilled to perfection!",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/392a7142-de85-4de2-897b-0402eebff2b4_7317319c-100f-403e-a406-e2ee6506bd3e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "17 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799768",
+          "name": "Spicy Peri Peri Chicken Wings [6 Pcs]",
+          "description": "Wings are marinated in the special Peri Peri masala, and then simply baked in the oven till golden brown. The result is the juiciest wings that you've ever had.",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/7c88cd79-f3d0-4fec-b9e8-8ecfe65ded69_5fd214cb-0d5a-44f7-961c-9f0460c08509.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "104799774",
+          "name": "Tandoor Grilled Paneer Tikka [10 Pcs]",
+          "description": "Succulent Paneer chunks marinated in yogurt & spices, till the flavours sink in thoroughly. Grilled to a beautiful golden brown, this appetizer is a treasure of taste.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/28/f9a9c2af-f2c0-481f-8061-c952d128471d_a5d17078-947d-4052-9731-4586a53d387e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "40058173",
+      "categoryName": "Non-Veg 1 KG Matka Biryani + Free Dessert",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "207015826",
+          "name": "1KG Shahi Egg Matka Biryani Feast",
+          "description": "[SERVES 2-3 | 4 Eggs | Comes with 2 Raitas & 1 Dessert] Perfectly cooked eggs layered with long grain basmati rice and a rich, aromatic masala gravy. Sealed and slow-cooked with royal spices for a ...",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/5/12e0869f-f472-4800-8ecd-e2616a6271c2_14a38b42-c1d5-472a-88ff-20c46f5452ac.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "104799795",
+          "name": "1KG Tangdi Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | with Bone | Comes with 2 Raitas & 1 Dessert] Tenderest chicken Tangdi deeply marinated, gloriously slow-cooked with a masala gravy and long grain basmati rice. An exquisitely indulgent ...",
+          "price": 529.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/dbb67ee1-dcd5-4e88-a912-b9c9ea25f50e_bab6f6af-6caa-44e2-90c4-0c47b45ddf17.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "24 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799789",
+          "name": "1KG Original Boneless Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Juicy chicken marinated, sealed & slow-cooked in its own flavours. A special blend of rustic spices cooked with the tenderest of meat & basma...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/3d593c0a-e333-4fc9-89f8-0661e80ba6ac_302f35d9-7f9b-46af-b629-a101cc4cb54d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "37 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799786",
+          "name": "1KG Boneless Chicken Tikka Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] The forever favourite chicken tikka used to create a pot of delicious Biryani. The classic dum-pukht cooking leaves the meat tender & aroma h...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/7bbc3429-abf6-4dbf-94bf-99bef64698e7_9614927a-97e7-4ad0-988a-134f400e07f6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "164924218",
+          "name": "1KG Royal Boneless Chicken Matka Biryani Feast",
+          "description": "Combo contains Biryani, Gulab Jamun, Lemonade & 2 Raitas.\n\n[SERVES 2-3] Juicy boneless chicken marinated, sealed & slow-cooked with long grain rice.",
+          "price": 918.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/28/00114850-28ef-41e0-bdbc-431c37990b56_f73b4da2-1ca1-4bb2-9322-e07216b87404.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799784",
+          "name": "1KG Bhuna Boneless Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Marinated chicken pieces in a delectable creamy gravy, layered on basmati rice. Cooked in authentic Dum-Pukht style, this biryani is an epito...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/5363151f-7637-48b2-8616-3ca51b076da0_821e882b-548c-4aaf-8662-ec2c4ed83593.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "104799785",
+          "name": "1KG Boneless Butter Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Heavenly butter chicken, basmati rice & a mildly spiced creamy gravy, layered & cooked in a sealed pot. Rustic flavours infused in every grai...",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/bb533f25-4cae-4ff2-a520-509c26c1b4b4_6e483768-6c8f-4a73-ad33-48978e1504b7.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "104799792",
+          "name": "1KG Overload Boneless Chicken Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Generously loaded with 50% more chicken. Sealed and cooked leisurely in a rich gravy bursting with flavours, layered over basmati rice. A tem...",
+          "price": 679.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/7bc62bc5-d4e2-4390-b876-8ca4d2367031_deafe424-b8ac-44c4-a623-c2a298f107f1.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "104799788",
+          "name": "1KG Gosht Mutton Matka Biryani Feast",
+          "description": "[SERVES 2 | Boneless | Comes with 2 Raitas & 1 Dessert] Tenderest mutton is marinated, dum cooked with classic masalas & buried in aromatic basmati rice. A preparation that tastes divine.",
+          "price": 729.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/848597cf-154e-44ad-80ed-e1586dce03c5_4baf1c0a-f7a2-40dc-97fc-84708571c5c6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "169485305",
+          "name": "1KG Murgh Makhani Biryani Feast",
+          "description": "Combo contains 1 KG Biryani, Dessert, Lemonade & 2 Raitas.\n\n[SERVES 2-3] Heavenly makhani chicken, flavourful gravy, basmati rice, layered & cooked in a sealed matka.",
+          "price": 938.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/ec874c18-42d3-41e8-a153-1d324d0d7229_57a144e6-7b30-4882-83b2-bab412b88c8b.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "164937877",
+          "name": "1KG Tandoori Chicken Matka Biryani Feast",
+          "description": "Combo contains Biryani, Gulab Jamun, Thums Up & 2 Raitas.\n\n[SERVES 2-3] Chicken tangdi (with bone) slow-cooked with a melange of spices & basmati rice.",
+          "price": 858.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/6/757bbbc6-c7fd-4a1a-af42-34ab1c53a2e6_fe40166d-ab11-4824-8713-5d49b791b777.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings",
+          "isBestseller": true
+        }
+      ]
+    },
+    {
+      "categoryId": "40058175",
+      "categoryName": "Veg 1 KG Matka Biryani + Free Dessert",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "128411311",
+          "name": "1KG Dum Aloo Matka Biryani Feast",
+          "description": "[SERVES 2-3 | Comes with 2 Raitas & 1 Dessert] A delicious treasure! Potatoes marinated in spice mix & layered with aromatic basmati rice, cooked in dum-pukht style.",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/1521fffe-ba77-41ba-b950-77f3b7f7064b_dbd068ab-03eb-4a68-b673-5af5d1158593.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799796",
+          "name": "1KG Veg Nawabi Matka Biryani Feast",
+          "description": "[SERVES 2 | Comes with 2 Raitas & 1 Dessert] Freshly chopped vegetables & long grain Basmati rice slow-cooked in traditional dum-pukht style with classic spices. Savour it at leisure.",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/f57c27be-cbe7-458f-8d62-174dd36742dc_ebd2827a-29e9-431f-838a-01c99f85f228.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "31 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "109859124",
+          "name": "1KG Veg & Paneer Overload Matka Biryani Feast",
+          "description": "[SERVES 2 | Comes with 2 Raitas & 1 Dessert] Succulent pieces of Paneer tossed with vegetables & spices, layered on a bed of ultra-long basmati rice. Slow-cooked to perfection. An-ever-loved classic.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/9e17c88c-cc69-4764-9ac8-3b1b80ff32e0_eb1f7fff-fa0a-464e-8e97-71a532ceab58.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "104799790",
+          "name": "1KG Original Paneer Matka Biryani Feast",
+          "description": "[SERVES 2 | Comes with 2 Raitas & 1 Dessert] Tender Paneer chunks are marinated in a special spice mix & cooked until golden. Layered with basmati rice in a sealed pot, it's cooked leisurely to ach...",
+          "price": 529.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/4681103c-ea26-40c5-b0e9-24b13add8ef6_d5d5dd64-b060-48c0-964c-c5dc46129340.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "104799794",
+          "name": "1KG Paneer Makhani Matka Biryani Feast",
+          "description": "[SERVES 2 | Comes with 2 Raitas & 1 Dessert] The goodness of Paneer Makhni fused with Biryani. Soft paneer cubes marinated & cooked in a mildly spiced rich Makhni curry. This melt in mouth delicacy...",
+          "price": 529.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/e378806b-c64a-437a-b168-9808c2b11cbf_826480ed-8dab-453f-a501-11cc7edaf44e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "169485306",
+          "name": "1KG Tandoori Aloo Biryani Feast",
+          "description": "Combo contains 1 KG Biryani, Dessert, Lemonade & 2 Raitas.\n\n[SERVES 2-3] Slow-cooked goodness of marinated aloo, masalas & basmati rice.",
+          "price": 658.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/a9fb4af6-949c-4cff-8534-b976f9ef0af9_1bb87563-8861-4c4a-83a0-2982b58edd36.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "164929816",
+          "name": "1KG Paneer & Subz Supreme Matka Biryani Feast",
+          "description": "Combo contains Biryani, Gulab Jamun, Lemonade & 2 Raitas.\n\n[SERVES 2-3] Slow-cooked Biryani with succulent paneer & vegetables.",
+          "price": 858.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/25/db5c8e6b-7eaa-4452-abdf-2ccaa111a420_7b4346d7-a584-4642-a42b-efba8542fd84.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "5 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "187996745",
+          "name": "1KG Veg Shahi Matka Biryani Feast",
+          "description": "Combo contains 1KG Biryani, Gulab Jamun, Thums Up & 2 Raitas. \n\n[SERVES 2-3] Dum Pukht Biryani with freshly chopped vegetables & long grain basmati rice.",
+          "price": 718.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/28/708ae448-ec60-4638-a1b3-7b7a0eb7eda7_701960f3-26df-4a93-bcd4-b0e712b27b1b.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "40058177",
+      "categoryName": "Chicken Starters",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "104799767",
+          "name": "Tandoor style Chicken Wings [6 Pcs]",
+          "description": "Boldy spiced tandoori chicken wings are a crowd-pleaser. Marinated in a special masala consisting of yoghurt, lemon and spices, this is grilled to perfection!",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/392a7142-de85-4de2-897b-0402eebff2b4_7317319c-100f-403e-a406-e2ee6506bd3e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "17 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "104799768",
+          "name": "Spicy Peri Peri Chicken Wings [6 Pcs]",
+          "description": "Wings are marinated in the special Peri Peri masala, and then simply baked in the oven till golden brown. The result is the juiciest wings that you've ever had.",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/7c88cd79-f3d0-4fec-b9e8-8ecfe65ded69_5fd214cb-0d5a-44f7-961c-9f0460c08509.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "104799800",
+          "name": "Kali Mirch Chicken Wings [6 Pcs]",
+          "description": "Juicy chicken wings marinated in herbs & garlic masala, grilled perfectly. Ready to indulge?",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/423bff4d-9e2b-4fd2-aa17-6f594a78d12f_6b3f0a4c-3988-4028-8207-8a3de9388177.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "104799779",
+          "name": "Timeless Chicken Tikka [Boneless]",
+          "description": "Presenting the classic favourite! Tender chunks of boneless chicken marinated in warm spices and grilled to perfection. It is the go-to tikka for all true blue chicken lovers!",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/0e488aac-492f-4404-899f-c35468b5d551_bea5f739-7b46-4f93-9f99-4fd05427e351.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "104799778",
+          "name": "Peri Peri Chicken Tikka [Boneless]",
+          "description": "Boneless chicken pieces rubbed with exotic peri-peri mix enriched with flavours, then glazed in a tandoor. Delve into a savoury and zesty delicacy.",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/2452293b-ed60-468c-af87-c2ba61773962_ca31b404-ac62-4c93-8dfa-fb3cac0c17c0.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "104799801",
+          "name": "Murgh Kalimiri Tikka [Boneless]",
+          "description": "Succulent chicken, creamy marinade, crushed black pepper & herbs, grilled perfectly. Get, set, gorge!",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/a845efc5-ea6c-4d7a-ba05-bae7274e5ba5_e68d7ae7-f8a9-49e1-a081-6be78ce3db58.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "104799799",
+          "name": "BBQ style Chicken [Boneless]",
+          "description": "Tender boneless chicken marinated & tossed in a smoky BBQ sauce. Can't resist? Don't!",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/265241b8-98b8-4b06-bd8e-08a02dfb6f57_f7daa1a4-68e6-4ca7-a45d-12f820538f30.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "40058179",
+      "categoryName": "Veg Starters",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "139626574",
+          "name": "Mini Samosa [Pack of 3]",
+          "description": "Comes with Green Chutney & Imli Chutney. Pack of 3 mini samosas made with potatoes, a variety of spices & deep fried. You can never eat just one!",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/257bef6f-9df0-4c17-9b3b-2426f72a5344_40330968-43d2-417a-ac84-a01954ddfdb3.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "138158475",
+          "name": "Mini Samosa [Pack of 6]",
+          "description": "Comes with Green Chutney & Imli Chutney. Pack of 6 mini samosas, made with potatoes, a variety of spices & deep fried. You can never eat just one!",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/28/3a80f39e-e078-447f-b016-b91e09f7024d_e469e69d-b5ca-4197-b6e2-82955a720aa7.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "104799803",
+          "name": "Tandoori Aloo [10 Pcs]",
+          "description": "Baby potatoes with tikka marination, grilled perfectly in a tandoor. A burst of flavours!",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/1352c3c7-0c0a-46ac-b5da-a0777002e392_7e591097-5a76-4e19-8278-c0b8fd2e4331.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "104799802",
+          "name": "Peri Peri Aloo Tikka [10 Pcs]",
+          "description": "Baby potatoes marinated in peri peri sauce & grilled perfectly. A spicy twist!",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/23/05947c99-bf00-48b7-8c2c-ee309aed1ab7_2dd40296-e414-4dcd-bc6d-0b581c9baefe.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "104799774",
+          "name": "Tandoor Grilled Paneer Tikka [10 Pcs]",
+          "description": "Succulent Paneer chunks marinated in yogurt & spices, till the flavours sink in thoroughly. Grilled to a beautiful golden brown, this appetizer is a treasure of taste.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/28/f9a9c2af-f2c0-481f-8061-c952d128471d_a5d17078-947d-4052-9731-4586a53d387e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "104799775",
+          "name": "Smoky Peri Peri Paneer [10 Pcs]",
+          "description": "Cubes of soft & fresh Paneer blended in a zesty Peri Peri sauce, baked to attain a brilliant smokey tinge. A peri fabulous twist to the traditional Paneer Tikka!",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/28/8eaa7dd3-d253-4ae8-822a-71923fb5252e_33f0c4b0-a58f-43fa-b63c-6defa56a6b90.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "40058180",
+      "categoryName": "Drinks & Desserts",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "104799770",
+          "name": "100% Ghee Moong Dal Halwa [100 gm]",
+          "description": "A rich sweet made with split grams, pure ghee and generous amounts of dry fruits. This heavenly preparation takes time but the taste is absolutely worth it.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/430bf694-ae39-441c-b860-6c29a3f2f106_b9974b68-ab87-4762-9ab7-b8e9f75f804b.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.8",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "104799769",
+          "name": "Gulab Jamun Box [100 gm]",
+          "description": "The classic Indian dessert! This soft and melt-in-mouth sweet is the perfect decadent delicacy for a feast.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/613cc0a1-b6b8-4cec-bc9b-2ff728652746_5fb7c137-bfa8-4bcc-83d2-e720d2ad5c46.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "104799783",
+          "name": "Molten Choco Lava Cake",
+          "description": "Freshly baked soft cake with a gooey centre & oodles of liquid chocolate. A decadent dessert!",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/a20e791d-4a33-4ffa-ab9b-b19b8f164cd8_9a719e8c-439c-42a8-8f24-66968c1be834.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "117098458",
+          "name": "Chocolate Fudge Brownie",
+          "description": "Pure Chocolate Heaven. Dense & fudgy, made with chunks of dark chocolate, this brownie is to die for!",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/debfa91b-4ea6-4428-a93a-74a91a830711_faf476b6-c511-456b-b656-49a58b950339.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "104799781",
+          "name": "100% Ghee Moong Dal Halwa [500 gm]",
+          "description": "Rich moong dal halwa slow-cooked in pure ghee & loaded with dry fruits. Irresistible!",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/d052cc75-b88d-453c-9415-a6b29ad50675_d34b599c-f6a8-4746-a404-dd561522101b.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "104799782",
+          "name": "Angoori Gulab Jamun Box [500 gm]",
+          "description": "Soft & warm gulab jamuns made with fresh mawa. A heavenly sweet treat!",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/9ee14727-4bd1-41a7-9e1d-8b216cf7cb62_358edae9-575b-465f-a24c-442296908c7d.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "104799771",
+          "name": "Masala Lemonade [200 ml]",
+          "description": "A zing of lemon to refreshen you up! Beat the fatigue with this minty punch.",
+          "price": 29.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/52264b5b-a880-49ee-b3a3-60da084802d8_d960c1cc-280d-4846-86fc-5724e6f69a6d.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "134556383",
+          "name": "Masala Chaas [200 ml]",
+          "description": "Freshly made Chaas blended with bhuna jeera, black salt. Refreshment with a kick!",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/3558a840-5db6-44a8-b4b0-7490f0cda88f_81a9236d-1417-4f1b-bce1-42bc16406772.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "134556384",
+          "name": "Shahi Dry Fruit Lassi [200 ml]",
+          "description": "Experience indulgence! Creamy lassi with dry fruits, kesar, elaichi, crafted in Amritsari style. Zero added flavours/preservatives.",
+          "price": 79.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/b777386b-717e-4516-be26-4cfd326cc09a_fd461f73-e549-48ed-9e59-6d019bf6245f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "143369780",
+          "name": "Coke [475 ml]",
+          "description": "A must have, alongside your Biryani.",
+          "price": 70.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/7/d9528c3d-4349-4032-9128-5c9dd3617e63_40615fbe-e626-47cf-86cb-6ffa2eba5442.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "128849231",
+          "name": "Bailley One - Mineral Water [500 ml]",
+          "description": "500 ML Water Bottle.",
+          "price": 20.0,
+          "imageId": "d3441a02cc00cd7dbb4570eca507fbdc",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "104799772",
+          "name": "Masala Raita [100 ml]",
+          "description": "A must have with Biryani, flavoured with a dash of spices and mint.",
+          "price": 35.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/30/ac7a55fe-f3a9-4e5f-91bf-395d6039bb8d_e4bce520-4428-4eee-a43d-0fb3462f17b7.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

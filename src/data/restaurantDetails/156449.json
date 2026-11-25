@@ -1,0 +1,2070 @@
+{
+  "restaurant": {
+    "id": "156449",
+    "name": "The Good Bowl",
+    "city": "Hyderabad",
+    "locality": "Gachibowli Village",
+    "areaName": "Gachibowli",
+    "costForTwo": 400.0,
+    "cuisines": [
+      "Biryani",
+      "Pastas"
+    ],
+    "avgRating": 4.2,
+    "totalRatings": "3.5K+ ratings",
+    "deliveryTime": "20-25 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/15/76799890-2f27-4790-a1bf-4efd6cc2ae86_156449.jpg"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "197016062",
+          "name": "Upvas Aloo Pattice - 2pcs",
+          "description": "No Onion, No Garlic, Sendha Namak - 2 pcs Crisp Upwas Aloo Pattice with a soft, flavourful center and a perfectly golden bite. A classic Upvas favourite that is simple, hearty, and satisfying. (Allergens: Peanuts and their products)",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/d00ff042-c810-4db2-8be0-21f0aa94a0e0_81ef582e-0276-4114-a3e2-156f1eba3005.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "197016068",
+          "name": "Sabudana Vada - 2 pcs",
+          "description": "No Onion, No Garlic, Sendha Namak - 2 pcs of Crispy Sabudana Wada made with soaked sabudana and mild spices, offering a crunchy outside and soft center. A classic Upvas snack perfect for a quick, satisfying bite. (Allergens: Peanuts and their products)",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/1433ef06-412c-4414-8f49-feb9f5b5201e_0a678ee0-8023-40ec-a069-bbcb3adbf01d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "197016065",
+          "name": "Sabudana Vada - 4 pcs",
+          "description": "No Onion, No Garlic, Sendha Namak - 4 pcs of Crispy Sabudana Wada made with soaked sabudana and mild spices, offering a crunchy outside and soft center. A classic Upvas snack perfect for a quick, satisfying bite. (Allergens: Peanuts and their products)",
+          "price": 150.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/ddf82cb3-c1d0-42f0-9288-57285b9944bc_5c56f47d-95ec-4b9e-bab4-e43a2ddd8535.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "206689655",
+          "name": "Sabudana Vada and Green Chutney",
+          "description": "(No Onion, No Garlic & Made with Sendha Namak)\nCrispy Sabudana Vadas made with soaked Sabudana, mashed Potatoes and Peanuts. Served with green chutney. Light, crunchy and perfect for your Vrat cravings. (Allergens: Milk and milk products, Tree nuts and their products, Peanuts and their products)",
+          "price": 150.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/23/e2e3e872-6ebd-415e-ba7a-107b345776ae_a3d038d5-da96-43d0-97e3-09ec096dea7a.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "206689661",
+          "name": "Upvas Pattice and Green Chutney",
+          "description": "(No Onion, No Garlic & Made with Sendha Namak)\nCrispy Vrat Aloo Pattice made with mashed Potato and mild spices, served with green chutney. Light yet filling for your fasting days. (Allergens: Milk and milk products, Tree nuts and their products, Peanuts and their products)",
+          "price": 160.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/23/076c4cf8-2381-4fcd-a63e-b68ca26c27c3_c4a7b55a-1a29-4e3f-b93e-b9959af3fa3c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "187576533",
+          "name": "Bhuna Chicken Rice Bowl.",
+          "description": "Tender chicken cooked in bhuna spices, served with flavoured rice and salad is here to make your day! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/8886aa09-2bc6-4eaf-968b-c3b6f1bc0e38_8f39e9da-0143-4ed2-87e1-c169a4680bd5.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216014329",
+          "name": "Mughlai Mutton Rice Bowl.",
+          "description": "Mutton stewed with spices and cooked in mughlai gravy brings that perfect flavour to this rice bowl. In a mood for a delicious meaty meal. You have to try this one! (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/5/27cda9c4-bb6c-4985-90f2-8d7c6a2fb8a1_3298af24-ba89-4c94-84b8-7c66faec7a4c.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "152944371",
+          "name": "Paneer Tikka Rice Bowl.",
+          "description": "Drumroll King of the tikkas is here. Soft and spicy paneer tikka in rich spicy gravy served on a bed of rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/5512e001-2804-44f4-a81b-3beaa838f6df_060ec4f3-c327-47fd-8060-eaa6909d956e.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "187576602",
+          "name": "Butter Chicken Mac & Cheese Bowl.",
+          "description": "The creaminess of classic Mac & Cheese meets the richness of desi-style Butter Chicken. It is warm, filling, cheesy, and just the right amount of spicy! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/c8206fe2-2d8b-4123-88c6-9c49dd82da3b_df0d8530-c055-4b58-96c8-c3fb26255ff9.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "187576492",
+          "name": "Chicken Tikka Baked Cheese Rice Bowl.",
+          "description": "Smoky, Saucy & Cheesy!\nJuicy minced chicken blended with rich cheese sauce and spices, layered over aromatic rice and baked to gooey pertection. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/f0874700-d0f2-480f-8397-7c58e83ea6f1_0424156f-cc60-4f3e-9775-42da5628e3ee.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216014333",
+          "name": "Hyderabadi Egg Biryani Bowl.",
+          "description": "Perfectly boiled eggs, aromatic rice, and a medley of spices make this bowl a winner. Customize your bowl with either the delicate Hyderabadi twist! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/c8c1a7a9-eea5-4d5d-bd39-f4ce4d772e08_94b5e658-5de2-4119-97c9-a24c893dc284.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "194420980",
+          "name": "Classic Andhra Chicken Rice Bowl",
+          "description": "A fiery Andhra-style chicken bowl made for true spice lovers. Juicy chicken tossed in bold Andhra masalas, served over classic rice for a rich, spicy, full-flavour experience in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame, Egg.)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/ea13a095-c8c9-4d5e-b301-2728281b97de_93796263-383c-4713-895c-a1b4c026a97a.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "194420981",
+          "name": "Classic Ghee Roast Chicken Rice Bowl",
+          "description": "A delightful ghee-roast chicken bowl for those who crave intense flavor. Juicy chicken tossed in spicy ghee masala, layered over classic rice for a bold, buttery, heat-packed experience in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d6545313-1716-4257-bd5b-17033d453c1b_cb3b1649-08d9-463a-8f11-ef62f7bd54a1.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "152860407",
+          "name": "Pindi Chole Rice Bowl",
+          "description": "Zesty Chole on a bed of warm rice - that's what culinary dreams are made of. Try this protein rich combination that is sure to win hearts. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 250.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d4a83aaa-8838-4c30-9f0b-8a716a7bb5d1_30fb0495-7168-41da-b7a5-7c0df61580d8.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "116114089",
+          "name": "Classic Rajma Rice Bowl",
+          "description": "Kidney beans, a great vegetarian source of protein, slow-cooked in a thick, spicy onion-tomato gravy, served with rice and salad. A wholesome bowl packed with goodness, fibre and protein. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 240.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/248768f1-6a0e-4131-ac03-10d978adff69_dce02cd6-25ec-4e79-9634-f56b3934c3d2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "272 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "116114122",
+          "name": "Dal Makhani Rice Bowl",
+          "description": "If soul food had a name, it would be Dal Makhani & Rice. Protein-packed black urad and rajma lentils are cooked with creamy butter and served with warm rice for a comforting, wholesome meal. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 250.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/2c9c71aa-aa75-4e03-bb58-c3599e6404d6_cf850b97-93f2-4646-8697-bc9ef355cba0.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "208 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "88997346",
+          "name": "Palak Paneer Rice Bowl",
+          "description": "(450 gms) Soft paneer cubes cooked in velvety spinach gravy, served with basmati rice and salad. This delicious meal is rich in iron and protein, making it a wholesome, satisfying choice. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/c4582b24-bd48-4cf1-857e-81b214f34a5f_1f41cdcf-a096-43cf-94ff-98c653373d68.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "47 ratings"
+        },
+        {
+          "id": "112850002",
+          "name": "Good'ol Butter Chicken Rice Bowl",
+          "description": "(450 gms)\nButter makes everything better. So does our protein-packed butter chicken bowl served with rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/8c24f53e-ac47-40a9-996c-269d9066e791_22bfbca4-c039-484f-8dd6-e5fb3a2d49bd.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "128693027",
+          "name": "Paneer Lababdar Rice Bowl",
+          "description": "(450 gms) As the name suggests, this dish is truly lababdar! Soft paneer cooked with aromatic spices and creamy gravy, served with flavourful rice. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts, Sesame. May contain Mustard.)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/72279b5d-8c7e-4ae1-8774-a56342076824_3f1976b5-55eb-463f-9175-1331610d5cf3.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "128693024",
+          "name": "Chicken Lababdar Rice Bowl",
+          "description": "(450 gms)\nBoneless chicken in creamy tomato gravy with flavourful rice is sure to leave you wanting for more. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/1f16f1cd-5231-481e-9dd9-faf5b30ac16d_63a234a7-34e9-44b3-8842-818ff1b17c6a.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "6 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "78170631",
+      "categoryName": "Upvas Specials",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "206689661",
+          "name": "Upvas Pattice and Green Chutney",
+          "description": "(No Onion, No Garlic & Made with Sendha Namak)\nCrispy Vrat Aloo Pattice made with mashed Potato and mild spices, served with green chutney. Light yet filling for your fasting days. (Allergens: Milk and milk products, Tree nuts and their products, Peanuts and their products)",
+          "price": 160.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/23/076c4cf8-2381-4fcd-a63e-b68ca26c27c3_c4a7b55a-1a29-4e3f-b93e-b9959af3fa3c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "197016065",
+          "name": "Sabudana Vada - 4 pcs",
+          "description": "No Onion, No Garlic, Sendha Namak - 4 pcs of Crispy Sabudana Wada made with soaked sabudana and mild spices, offering a crunchy outside and soft center. A classic Upvas snack perfect for a quick, satisfying bite. (Allergens: Peanuts and their products)",
+          "price": 150.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/ddf82cb3-c1d0-42f0-9288-57285b9944bc_5c56f47d-95ec-4b9e-bab4-e43a2ddd8535.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "206689655",
+          "name": "Sabudana Vada and Green Chutney",
+          "description": "(No Onion, No Garlic & Made with Sendha Namak)\nCrispy Sabudana Vadas made with soaked Sabudana, mashed Potatoes and Peanuts. Served with green chutney. Light, crunchy and perfect for your Vrat cravings. (Allergens: Milk and milk products, Tree nuts and their products, Peanuts and their products)",
+          "price": 150.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/23/e2e3e872-6ebd-415e-ba7a-107b345776ae_a3d038d5-da96-43d0-97e3-09ec096dea7a.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "197016062",
+          "name": "Upvas Aloo Pattice - 2pcs",
+          "description": "No Onion, No Garlic, Sendha Namak - 2 pcs Crisp Upwas Aloo Pattice with a soft, flavourful center and a perfectly golden bite. A classic Upvas favourite that is simple, hearty, and satisfying. (Allergens: Peanuts and their products)",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/d00ff042-c810-4db2-8be0-21f0aa94a0e0_81ef582e-0276-4114-a3e2-156f1eba3005.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "197016068",
+          "name": "Sabudana Vada - 2 pcs",
+          "description": "No Onion, No Garlic, Sendha Namak - 2 pcs of Crispy Sabudana Wada made with soaked sabudana and mild spices, offering a crunchy outside and soft center. A classic Upvas snack perfect for a quick, satisfying bite. (Allergens: Peanuts and their products)",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/1433ef06-412c-4414-8f49-feb9f5b5201e_0a678ee0-8023-40ec-a069-bbcb3adbf01d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "73749940",
+      "categoryName": "The Good Bowl Recommends",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "152944371",
+          "name": "Paneer Tikka Rice Bowl.",
+          "description": "Drumroll King of the tikkas is here. Soft and spicy paneer tikka in rich spicy gravy served on a bed of rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/5512e001-2804-44f4-a81b-3beaa838f6df_060ec4f3-c327-47fd-8060-eaa6909d956e.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "187576533",
+          "name": "Bhuna Chicken Rice Bowl.",
+          "description": "Tender chicken cooked in bhuna spices, served with flavoured rice and salad is here to make your day! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/8886aa09-2bc6-4eaf-968b-c3b6f1bc0e38_8f39e9da-0143-4ed2-87e1-c169a4680bd5.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216014329",
+          "name": "Mughlai Mutton Rice Bowl.",
+          "description": "Mutton stewed with spices and cooked in mughlai gravy brings that perfect flavour to this rice bowl. In a mood for a delicious meaty meal. You have to try this one! (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/5/27cda9c4-bb6c-4985-90f2-8d7c6a2fb8a1_3298af24-ba89-4c94-84b8-7c66faec7a4c.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "187576602",
+          "name": "Butter Chicken Mac & Cheese Bowl.",
+          "description": "The creaminess of classic Mac & Cheese meets the richness of desi-style Butter Chicken. It is warm, filling, cheesy, and just the right amount of spicy! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/c8206fe2-2d8b-4123-88c6-9c49dd82da3b_df0d8530-c055-4b58-96c8-c3fb26255ff9.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216014332",
+          "name": "Lucknowi Chicken Biryani Bowl.",
+          "description": "(Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 300.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "187576492",
+          "name": "Chicken Tikka Baked Cheese Rice Bowl.",
+          "description": "Smoky, Saucy & Cheesy!\nJuicy minced chicken blended with rich cheese sauce and spices, layered over aromatic rice and baked to gooey pertection. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/f0874700-d0f2-480f-8397-7c58e83ea6f1_0424156f-cc60-4f3e-9775-42da5628e3ee.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216014333",
+          "name": "Hyderabadi Egg Biryani Bowl.",
+          "description": "Perfectly boiled eggs, aromatic rice, and a medley of spices make this bowl a winner. Customize your bowl with either the delicate Hyderabadi twist! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/c8c1a7a9-eea5-4d5d-bd39-f4ce4d772e08_94b5e658-5de2-4119-97c9-a24c893dc284.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216014330",
+          "name": "Hyderabadi Veg Biryani Bowl.",
+          "description": "(Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "73964775",
+      "categoryName": "Wholesome Classic Bowls",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "116114089",
+          "name": "Classic Rajma Rice Bowl",
+          "description": "Kidney beans, a great vegetarian source of protein, slow-cooked in a thick, spicy onion-tomato gravy, served with rice and salad. A wholesome bowl packed with goodness, fibre and protein. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 240.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/248768f1-6a0e-4131-ac03-10d978adff69_dce02cd6-25ec-4e79-9634-f56b3934c3d2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "272 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "116114122",
+          "name": "Dal Makhani Rice Bowl",
+          "description": "If soul food had a name, it would be Dal Makhani & Rice. Protein-packed black urad and rajma lentils are cooked with creamy butter and served with warm rice for a comforting, wholesome meal. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 250.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/2c9c71aa-aa75-4e03-bb58-c3599e6404d6_cf850b97-93f2-4646-8697-bc9ef355cba0.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "208 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "112850002",
+          "name": "Good'ol Butter Chicken Rice Bowl",
+          "description": "(450 gms)\nButter makes everything better. So does our protein-packed butter chicken bowl served with rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/8c24f53e-ac47-40a9-996c-269d9066e791_22bfbca4-c039-484f-8dd6-e5fb3a2d49bd.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "152860407",
+          "name": "Pindi Chole Rice Bowl",
+          "description": "Zesty Chole on a bed of warm rice - that's what culinary dreams are made of. Try this protein rich combination that is sure to win hearts. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 250.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d4a83aaa-8838-4c30-9f0b-8a716a7bb5d1_30fb0495-7168-41da-b7a5-7c0df61580d8.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "88997346",
+          "name": "Palak Paneer Rice Bowl",
+          "description": "(450 gms) Soft paneer cubes cooked in velvety spinach gravy, served with basmati rice and salad. This delicious meal is rich in iron and protein, making it a wholesome, satisfying choice. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/c4582b24-bd48-4cf1-857e-81b214f34a5f_1f41cdcf-a096-43cf-94ff-98c653373d68.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "47 ratings"
+        },
+        {
+          "id": "128693024",
+          "name": "Chicken Lababdar Rice Bowl",
+          "description": "(450 gms)\nBoneless chicken in creamy tomato gravy with flavourful rice is sure to leave you wanting for more. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/1f16f1cd-5231-481e-9dd9-faf5b30ac16d_63a234a7-34e9-44b3-8842-818ff1b17c6a.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "128693027",
+          "name": "Paneer Lababdar Rice Bowl",
+          "description": "(450 gms) As the name suggests, this dish is truly lababdar! Soft paneer cooked with aromatic spices and creamy gravy, served with flavourful rice. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts, Sesame. May contain Mustard.)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/72279b5d-8c7e-4ae1-8774-a56342076824_3f1976b5-55eb-463f-9175-1331610d5cf3.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "128693025",
+          "name": "Paneer Tikka Masala Rice Bowl",
+          "description": "(450 gms)\nCreamy, Delightful, Wholesome and it can go on and on. To sum it up, Paneer Makhmali Rice bowl is the go-to bowl for your meal! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/4a4a9519-5b41-4b52-807c-d728aecef464_f5cfaa88-eadf-45c1-8920-9ba663f1704d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "128693026",
+          "name": "Chicken Tikka Masala Rice Bowl",
+          "description": "(450 gms) Smoky, juicy chicken marinated, tandoored and cooked to perfection in a rich masala gravy. Served with flavourful rice, this hearty dish is sure to make your day! (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d4b331b8-500e-4fdc-a697-2e64893c0010_e4d573b1-943d-4ac5-aaf3-5de1f5fefabc.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "194420981",
+          "name": "Classic Ghee Roast Chicken Rice Bowl",
+          "description": "A delightful ghee-roast chicken bowl for those who crave intense flavor. Juicy chicken tossed in spicy ghee masala, layered over classic rice for a bold, buttery, heat-packed experience in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d6545313-1716-4257-bd5b-17033d453c1b_cb3b1649-08d9-463a-8f11-ef62f7bd54a1.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "194420980",
+          "name": "Classic Andhra Chicken Rice Bowl",
+          "description": "A fiery Andhra-style chicken bowl made for true spice lovers. Juicy chicken tossed in bold Andhra masalas, served over classic rice for a rich, spicy, full-flavour experience in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame, Egg.)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/ea13a095-c8c9-4d5e-b301-2728281b97de_93796263-383c-4713-895c-a1b4c026a97a.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "116114118",
+          "name": "Corn Masala Rice Bowl",
+          "description": "(450 gms) The goodness of Mexican techniques and Indian spices comes together in our Makai Masala Bowl. Served with warm rice and salad, its a flavourful, wholesome meal you will want to come back to. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 240.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/ecd91cae-46b3-49f3-befe-83bf8cc39b77_7e84fcac-3fd7-4515-922c-3ba925007eeb.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "29 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "73964776",
+      "categoryName": "Chef's Signature Bowls",
+      "itemCount": 15,
+      "items": [
+        {
+          "id": "88997313",
+          "name": "Mughlai Grilled Chicken Rice Bowl with Omelette",
+          "description": "Melt-in-mouth reshmi chicken when paired with delicious spicy gravy weaved a food dream like no other. Served with rice, salad and Omelette. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/3/38a5e749-b708-4b28-8ba4-e9ed3c3b9f79_d11119b1-e375-4d72-b0d3-98575c02b0cd.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "228 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "116114133",
+          "name": "Paneer Tikka Rice Bowl",
+          "description": "Drumroll King of the tikkas is here. Soft and spicy paneer tikka in rich spicy gravy served on a bed of rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/5512e001-2804-44f4-a81b-3beaa838f6df_060ec4f3-c327-47fd-8060-eaa6909d956e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "228 ratings"
+        },
+        {
+          "id": "88997315",
+          "name": "Bhuna Chicken Rice Bowl",
+          "description": "Tender chicken cooked in bhuna spices, served with flavoured rice and salad is here to make your day! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/8886aa09-2bc6-4eaf-968b-c3b6f1bc0e38_8f39e9da-0143-4ed2-87e1-c169a4680bd5.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "116114081",
+          "name": "Chicken Kheema Rice Bowl",
+          "description": "Let the good times roll with this all-time favourite bowl. Minced chicken kheema with Hyderabadi rice and a side of salad. Must try! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 410.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/341aa115-2e69-42d9-b5ab-1450434e5069_1d838f0a-de60-4932-afc3-d88ab4bbb932.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "25 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "144888008",
+          "name": "Mughlai Egg Curry Rice Bowl",
+          "description": "(450 gms) Fragrant basmati rice topped with creamy Mughlai gravy and soft boiled eggs. A hearty, satisfying meal that's perfect for any time of the day. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame, Egg. May contain Mustard.)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/23383ea6-d427-4201-8703-102fdafc9fb2_4f3243b6-2c87-4d7f-9166-b8708cdcac5e.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "14 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "88997326",
+          "name": "Roast Vegetables Rice Bowl",
+          "description": "Exotic vegetables cooked in creamy gravy and served with Hyderabadi rice. What else do you want (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/dfa5e492-528c-4ba1-9756-82b90e64ee0d_87921cfd-b291-4c29-a9e1-ee2ecc937ec6.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "116114135",
+          "name": "Creamy Chicken Tikka Rice Bowl",
+          "description": "Your tatsebuds will say gracias with this bowl made of Creamy smoked tandoori chicken in rich gravy. Served with rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 340.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/4c5eef1b-e860-4dd0-b149-94ec1b20f780_74c4a7ff-cf52-40e9-a312-79706cd4a301.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "36 ratings"
+        },
+        {
+          "id": "88997314",
+          "name": "Barbeque Chicken Rice Bowl",
+          "description": "Caution: Not your average bowl. Barbeque chicken in spicy gravy accompanied with rice and salad. A perfect fusion of unique flavors. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/75e79f87-e060-45fe-863b-e51dd837c777_d5af7723-fb22-4014-a88f-d7442a1504f8.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "116114129",
+          "name": "Mughlai Falafel Rice Bowl",
+          "description": "No rules. All heart! Crispy falafels dropped in a bubbling gravy is where Middle East meets North India. Served with rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/681c9433-46c9-4b45-a02a-2e959acae3e8_ffedb4e1-4bb7-4833-ad49-a21062eaf3d4.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "72 ratings"
+        },
+        {
+          "id": "132586385",
+          "name": "Classic Chicken Shawarma Bowl",
+          "description": "Succulent chicken pieces slow-cooked in a creamy, flavourful Mughlai gravy, paired with perfectly spiced rice. The perfect pick for those good-food-in-a-bowl cravings! (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/30fccddb-200a-4b9f-9e05-2cd4f2713470_63bf6df2-da5d-49a6-aa04-7e0c2bf36ee0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "128804555",
+          "name": "Mughlai Mutton Rice Bowl",
+          "description": "Mutton stewed with spices and cooked in mughlai gravy brings that perfect flavour to this rice bowl. In a mood for a delicious meaty meal. You have to try this one! (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/5/27cda9c4-bb6c-4985-90f2-8d7c6a2fb8a1_3298af24-ba89-4c94-84b8-7c66faec7a4c.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "194420978",
+          "name": "Signature Pepper Chicken Rice Bowl",
+          "description": "A spice-loaded pepper chicken bowl that brings the heat. Juicy chicken simmered in smoky pepper masala, served over classic rice for a deep, fiery, flavour-packed experience in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame, Egg. May contain Mustard.)",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/6ad9fdbf-0906-48ef-9542-5fbcba25935d_6d8cca45-0280-4477-ad5e-51de765c403f.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "194420979",
+          "name": "Signature Pepper Paneer Rice Bowl",
+          "description": "A fiery pepper paneer bowl built for serious cravings. Juicy paneer simmered in smoky pepper masala, served over rice for a deep, spicy, flavor-loaded experience in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 380.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/7/234d28be-4ec4-4f08-a7e4-bb4ed686846a_dc3f4346-d2e8-4db9-ae1d-307c8b634086.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "116114078",
+          "name": "Chicken Kofta Rice Bowl with Omelette",
+          "description": "An extraordinary twist youll fall in love with. Soft chicken meatballs dipped in pipping hot gravy served with rice, salad & omelette. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/0b87ac2c-0c5b-4a00-98da-8d7845db8f50_5e6ffa57-69da-4267-a927-f4b6134f24f3.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "138230192",
+          "name": "Mushroom Masala Rice Bowl",
+          "description": "Say hello to your new mealtime favorite! A delicious mushroom gravy served with spicy Hyderabadi Rice. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts.)",
+          "price": 340.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/174dfbb0-06c2-4637-828b-37745a325231_259b5769-7873-4550-b871-1dfc24d3998f.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "8 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "73772218",
+      "categoryName": "Classic Mini Rice Bowls",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "157130427",
+          "name": "Good'ol Butter Chicken Lite Rice Bowl",
+          "description": "Tender chicken cooked in a rich, creamy buttery gravy with just the right balance of spices. Paired with rice for an all-time favorite experience. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/da2a9e69-70a9-4f92-be5a-7ec827cb1ed5_9a20f881-ed73-421f-a615-932ba891de34.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "157130420",
+          "name": "Pindi Chole Lite Rice Bowl",
+          "description": "Traditional Pindi Chole, packed with rich spices and slow-cooked for a deep, robust flavour. Served with rice for an authentic taste of Punjab. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 190.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/2c8c9185-6cf4-43b6-a3b2-774790ab46c3_b4e4f9e8-886b-4adf-ab28-6021e9308ed1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "168000522",
+          "name": "Paneer Tikka Masala Lite Rice Bowl",
+          "description": "Grilled paneer cubes marinated in tikka spices, drenched in a savory masala gravy. Paired with rice, this bowl has all the smokiness of a classic paneer tikka. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/5/c3dd73c1-09d6-4900-8df0-a60b2be96d42_d6c7a1b5-7acb-4002-a9de-914bdd565453.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "157130421",
+          "name": "Dal Makhani Lite Rice Bowl",
+          "description": "Indulge in our creamy Dal Makhani, cooked to perfection with a smoky aroma. Perfectly complemented by a bowl of rice, it is a treat for all dal makhani lovers. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 195.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/0cc7b73e-0f4f-4811-9d2d-10d8030899c6_a8c958b3-742e-4e40-8518-4ad9fe637ea9.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "168000521",
+          "name": "Paneer Lababdar Lite Rice Bowl",
+          "description": "A luscious blend of paneer cubes in a creamy, spicy lababdar gravy, paired with flavourful rice. This comforting bowl is perfect for satisfying those North Indian cravings. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts, Sesame. May contain Mustard.)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/23/c9e69388-09fc-4a6e-92ca-57b458f0f37c_7103d316-58a6-4d9e-8208-776e69fe89d7.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "157130419",
+          "name": "Classic Rajma Lite Rice Bowl",
+          "description": "Dive into the warmth of classic Rajma, slow-cooked with the perfect blend of spices. Served with fluffy rice, it is a homestyle bowl for every occasion.. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 195.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/c773884c-67b0-4101-a378-c9f7b2ed448f_7573e965-f53e-44fa-aaa8-6d53bfe461fb.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "168000523",
+          "name": "Chicken Tikka Masala Lite Rice Bowl",
+          "description": "Juicy chicken tikka pieces in a thick, flavorful gravy, paired with rice for a wholesome, hearty meal that is bursting with smoky flavors. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/23/aafa25bc-0d50-46c7-bf3a-9107b9db1a2b_3a04229a-5cf3-4cc1-81d9-e22d6a5008aa.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "157130426",
+          "name": "Palak Paneer Lite Rice Bowl",
+          "description": "Classic Palak Paneer with a modern twist paneer cubes nestled in a smooth, flavorful spinach gravy, served with rice for a light yet satisfying meal. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/23/9f4175c8-8eba-40a5-80ff-27c431acc138_56fb7511-5d7f-4615-9a45-53b5a6b668ac.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "168000524",
+          "name": "Chicken Lababdar Lite Rice Bowl",
+          "description": "Succulent chicken simmered in a Lababdar gravy that is creamy, tangy, and just a bit spicy. Enjoy it with rice for a comforting meal. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/23/0734d20f-9bef-44ee-8a00-68b111446f87_0fce8a3e-f2b8-428c-aa31-cac31b9c781d.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "157130418",
+          "name": "Corn Masala Lite Rice Bowl",
+          "description": "Bursting with flavors, this bowl combines sweet corn with a spicy masala mix, bringing an irresistible, zesty touch to every bite. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/f6ca9b5d-448d-4827-9dd4-5317178dbc07_41009a7e-2485-425a-b505-feb89d37db11.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "10 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "73772219",
+      "categoryName": "Signature Mini Rice bowls",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "157130431",
+          "name": "Roast Vegetables Lite Rice Bowl",
+          "description": "A medley of roasted vegetables tossed in subtle spices & delicious Mughlai gravy, paired with rice. Perfect for a light, flavorful meal full of goodness. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/dc75abcb-2fd7-4a77-9e99-1277502be9f9_5b58af53-6998-4418-8e9d-62174ec65e54.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "157130439",
+          "name": "Chicken Kheema Lite Rice Bowl",
+          "description": "Minced chicken cooked with aromatic spices, creating a savory kheema that is perfect when paired with rice. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/8324ddf3-c305-4889-92ec-83665e18eb49_0b0ba40c-f64b-495c-a340-b387ab5b4a49.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "157130436",
+          "name": "Creamy Chicken Tikka Lite Rice Bowl",
+          "description": "Juicy, marinated chicken tikka pieces in a creamy, flavorful gravy, served with rice for the ultimate comfort bowl. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/a228e002-12dd-4586-ba6d-eb1ff9ee7a34_2108757f-1346-4a95-b0d8-5f89d75ddc9b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "157130435",
+          "name": "Chicken Tikki Lite Rice Bowl With Omelette",
+          "description": "Flavored chicken tikki with a perfectly cooked omelette, served alongside rice. Its a power-packed bowl of protein. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/2c2dece3-2e10-4f1c-b6f3-4a17489dbe70_7971a96a-0980-4672-91ad-b6584ebc20f4.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "157130440",
+          "name": "Desi Barbeque Chicken Lite Rice Bowl",
+          "description": "Barbeque-style chicken infused with bold desi spices, paired with rice. A smoky delight for every BBQ lover. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/23/3a82de90-8e01-49bd-a913-9febbe9e87bd_e5029a98-df60-41db-a46f-0ac6f32d0fb3.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "157130438",
+          "name": "Mughlai Grilled Chicken Lite Rice Bowl with Omelette",
+          "description": "Grilled chicken in Mughlai gravy, served with rice and topped with a soft omelette. A fusion that is rich, filling, and flavorful. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/bc633c2c-5c79-443e-918b-0394576b77c9_16de105c-bca7-49ff-b130-eec27012876f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "157130444",
+          "name": "Mughlai Mutton Lite Rice Bowl",
+          "description": "Tender mutton slow-cooked in a Mughlai gravy, giving a rich and royal touch to every bite. Served with rice, its perfect for meat lovers. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/95a63afa-bce5-41d3-8cfa-f36cc347f36c_b7a2d7d1-97f3-4d4b-9649-e4b0f12bc4e9.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "157130443",
+          "name": "Smoky Chicken Lite Rice Bowl",
+          "description": "A smoky, robust chicken masala paired with rice, ideal for anyone who loves deep, grilled flavors. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/21ce658d-96ae-4d53-9825-0149fdd8e585_9e99096d-8b3d-42e2-8225-59784836a924.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "157130442",
+          "name": "Peppy Chicken Lite Rice Bowl",
+          "description": "A zesty, spicy chicken bowl with a hint of tang, served with rice. Perfect for those who love a little extra kick. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/8b0527fb-c2a4-4b27-bf63-20555d4b35dd_89813059-675f-4d0c-9689-2dcd37efac33.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "157130441",
+          "name": "Bhuna Chicken Lite Rice Bowl",
+          "description": "Succulent chicken pieces stir-fried with spices for a bold, dry bhuna flavor. Perfectly complemented by rice. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/99f5d24e-2919-4a0a-b57c-8bfe6ade5f5c_65508302-b938-4e0c-9eda-380ea8dac021.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "157130432",
+          "name": "Paneer Tikka Lite Rice Bowl",
+          "description": "Grilled paneer tikka in a rich, spicy gravy. Paired with spicy rice, its everything you love about paneer tikka, now in a convenient bowl. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 260.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/23/05d4f48a-9df1-4165-af0c-9433dfaf8e84_b23a6d02-57f0-42b8-aae5-2c2271827255.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "157130437",
+          "name": "Mughlai Chicken Kofta Lite Rice Bowl",
+          "description": "Tender chicken koftas in a rich, creamy Mughlai gravy. Served with rice, this bowl brings royal flavors to your table. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/6bb44704-e8a8-4519-bcb5-d976cc9ae51b_d5d22dd7-5fd3-407e-a9ec-8df8bcc2419d.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "157130434",
+          "name": "Mushroom Masala Lite Rice Bowl",
+          "description": "Fresh mushrooms cooked in a spicy, savory masala gravy. Served with rice, it is satisfying, earthy meal for mushroom lovers. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 270.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/febdd0be-babc-4e34-866e-e5ce244be359_b3b49f4b-6a48-4626-b092-da896426a4b4.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "157130433",
+          "name": "Mughlai Falafel Lite Rice Bowl",
+          "description": "A fusion of Middle Eastern falafel in a Mughlai-inspired gravy. Served with rice, its an exotic twist for adventurous taste buds. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 260.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/25/941ab4c4-c5ce-48e1-b037-23f63c68c9bd_a23f6675-bb61-4b30-9fcb-a5e712b66357.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "40070684",
+      "categoryName": "Indulgent Biryani Bowls",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "156748267",
+          "name": "Egg Biryani Bowl",
+          "description": "Boiled eggs with flavourful rice and masala, perfect for quick biryani cravings. Choose Lucknowi for a gentle flavour or Hyderabadi for more heat. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame, Egg. May contain Mustard.)",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/9908297e-4880-4574-987d-5c09ba3fc852_b5a025fc-880f-461c-84e1-574d70639d9a.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "54 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "156748266",
+          "name": "Chicken Biryani Bowl (Boneless)",
+          "description": "Juicy chicken with basmati rice and rich spices. This small bowl is made just for one. Pick Lucknowi for a softer taste, or Hyderabadi for a spicy kick. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/45fb960a-47c6-41bf-924a-8442fd771da4_0ed255c5-f130-4c96-a135-4c32ac997004.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "156748264",
+          "name": "Veg Biryani Bowl",
+          "description": "Tasty rice cooked with fresh veggies and Indian spices. A small bowl just for you! Choose between mild Lucknowi or spicy Hyderabadi style. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/ad955ced-aadb-49db-8459-4be21c8e0f06_1e814b2f-de63-46af-8fea-f9fa6275f767.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "156748260",
+          "name": "Paneer Biryani Bowl",
+          "description": "Soft paneer cubes mixed with flavourful rice and aromatic spices, served in a bowl just right for one. Choose Lucknowi for a mild flavour or Hyderabadi for a spicy kick. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/197aa2c3-0260-4b7d-a8b4-74a950ba6a9c_a2185054-56c4-48f0-b9bc-5784aa1ec13e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "161256576",
+          "name": "Mutton Kofta Biryani Bowl (Boneless)",
+          "description": "Juicy mutton koftas with flavourful rice - just the right size for one person. Choose mild and rich Lucknowi or spicy and bold Hyderabadi, depending on your mood. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/4af3ad0b-3782-4c6f-a58a-f856add4c1b2_e4b8a126-69ce-4288-a9cf-8b58083d9f48.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "5 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62517234",
+      "categoryName": "Protein Punch Bowls",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "172336693",
+          "name": "Chicken Tikka Masala Rice Bowl (Protein-35g)",
+          "description": "(450 gms) Smoky, juicy chicken marinated, tandoored and cooked to perfection in a rich masala gravy. Served with flavourful rice, this hearty dish is sure to make your day! (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d4b331b8-500e-4fdc-a697-2e64893c0010_e4d573b1-943d-4ac5-aaf3-5de1f5fefabc.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "172336679",
+          "name": "Chicken Lababdar Rice Bowl (Protein-34g)",
+          "description": "(450 gms)\nBoneless chicken in creamy tomato gravy with flavourful rice is sure to leave you wanting for more. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/1f16f1cd-5231-481e-9dd9-faf5b30ac16d_63a234a7-34e9-44b3-8842-818ff1b17c6a.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "172373455",
+          "name": "Paneer Lababdar Rice Bowl (Protein-21g)",
+          "description": "(450 gms) As the name suggests, this dish is truly lababdar! Soft paneer cooked with aromatic spices and creamy gravy, served with flavourful rice. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts, Sesame. May contain Mustard.)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/72279b5d-8c7e-4ae1-8774-a56342076824_3f1976b5-55eb-463f-9175-1331610d5cf3.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "172336662",
+          "name": "Mughlai Grilled Chicken Rice Bowl with Omelette (Protein-25g)",
+          "description": "Melt-in-mouth reshmi chicken when paired with delicious spicy gravy weaved a food dream like no other. Served with rice, salad and Omelette. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/3/38a5e749-b708-4b28-8ba4-e9ed3c3b9f79_d11119b1-e375-4d72-b0d3-98575c02b0cd.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "172336670",
+          "name": "Mughlai Chicken Kofta Rice Bowl with Omelette (Protein-29g)",
+          "description": "An extraordinary twist youll fall in love with. Soft chicken meatballs dipped in pipping hot gravy served with rice, salad & omelette. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, Egg and egg products, May contain traces of Mustard)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/4/0b87ac2c-0c5b-4a00-98da-8d7845db8f50_5e6ffa57-69da-4267-a927-f4b6134f24f3.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "172336654",
+          "name": "Good'ol Butter Chicken Rice Bowl (Protein-29g)",
+          "description": "(450 gms)\nButter makes everything better. So does our protein-packed butter chicken bowl served with rice and salad. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/8c24f53e-ac47-40a9-996c-269d9066e791_22bfbca4-c039-484f-8dd6-e5fb3a2d49bd.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "40070681",
+      "categoryName": "Fusion Mac & Cheese Bowls",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "112849944",
+          "name": "Chicken Tikka Mac & Cheese Pasta Bowl",
+          "description": "Spicy Chicken Tikka when served with creamy mac and cheesy sauce in Mughlai gravy is a twist you willl love to eat. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products)",
+          "price": 370.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/b80f6a77-db24-4765-a0dd-2456d0d77440_263c2df8-d4ce-4abe-8ea8-90ffc699937d.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "112849946",
+          "name": "Mac & Cheese Paneer Tikka Pasta Bowl",
+          "description": "A tikka twist in this creamy Mac and Cheesy bowl in spicy mughlai gravy topped with soft paneer tikka and garnished with salad (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products)",
+          "price": 375.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/08d1644a-3a6e-4fa1-8697-3d97c71ec192_05bf2564-9c34-46c1-9cd0-a1e31db2e699.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "169835048",
+          "name": "Korean Mac & Cheese With Chicken Popcorn",
+          "description": "Cheesy meets spicy in this bold Korean twist! Our Buldak Mac & Cheese gets a zesty twist with crispy popcorn chicken, creating a bowl thats impossible to resist. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/3c72f737-8fd4-4d3a-a3d1-66063464947d_e6828479-e9ff-4e90-9dfa-f1fbd7e8e32e.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "169835047",
+          "name": "Korean Mac & Cheese With Crispy Paneer",
+          "description": "A fusion you will fall in love with! Creamy Buldak infused Mac & Cheese meets golden-fried paneer for a cheesy, spicy, and oh-so-crunchy delight. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/62ac6a2c-93ef-4e4f-8972-2ec39641eeaa_2b29ff8d-d6de-4524-b675-6011cf964a80.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "173470563",
+          "name": "Butter Chicken Mac & Cheese Bowl",
+          "description": "The creaminess of classic Mac & Cheese meets the richness of desi-style Butter Chicken. It is warm, filling, cheesy, and just the right amount of spicy! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products)",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/c8206fe2-2d8b-4123-88c6-9c49dd82da3b_df0d8530-c055-4b58-96c8-c3fb26255ff9.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "112849933",
+          "name": "Chicken Kheema Mac & Cheese Pasta Bowl",
+          "description": "Delicately spiced chicken kheema layered on a bed of creamy mac and cheesy sauce in Mughlai gravy is an experience to remember. Try now! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products)",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/449e9ecf-19db-4980-80c5-01825ae1cc2a_94f58eeb-ed99-40ed-a0dc-2af6450e7806.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "54 ratings"
+        },
+        {
+          "id": "156189248",
+          "name": "Hot Garlic Mac N Cheese Pasta Bowl With Paneer Tikka",
+          "description": "The best of both worlds indulge in creamy mac & cheese paired with smoky paneer tikka, all wrapped up in a bold and tangy hot garlic sauce. A fusion treat thats as cheesy as it is spicy! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 365.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/e67ff536-9c37-4029-8c4c-94203fce20bc_ac54bb8f-ff45-4aaf-976d-b4edff8e4266.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "156189249",
+          "name": "Hot Garlic Mac N Cheese Pasta Bowl With Sausages",
+          "description": "Classic comfort meets bold flavors! Savor the creamy mac & cheese tossed with juicy chicken sausage and drenched in a fiery hot garlic sauce each bite is a symphony of cheesy goodness with a spicy twist. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 365.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d78ecf7e-6c2e-432a-9514-279e15639033_d100005f-a5aa-4f2e-b6f3-36dea4f77db2.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "112849986",
+          "name": "Mac & Cheese Falafel Pasta Bowl",
+          "description": "Who would have ever thought crispy falafel and mac and cheesy sauce will rock a bowl. Well, we thought and created it. Enjoy! (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/045c1efb-9b9f-44c5-9b9a-ab844e171d8c_902991e6-3a31-4858-a03d-2a4140c7ec9e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "17 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "62606595",
+      "categoryName": "Baked Cheese Rice Bowls",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "172544385",
+          "name": "Mexican Baked Cheese Rice Bowl",
+          "description": "A Veggie Lover Dream!\nA spicy and cheesy mix of roasted veggies and herbs, layered with fluffy rice and baked under a molten cheese crust. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/27040dc5-a382-4f42-b67a-6ecde03f32ba_7d8b5b89-748a-4e1a-b8bb-9e85bfee18ca.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "172544387",
+          "name": "Paneer Tikka Baked Cheese Rice Bowl",
+          "description": "Creamy, Cheesy & Comforting! Indulge in a rich blend of mac & cheese sauce, paneer tikka and aromatic herbs, layered over fragrant rice and baked with mozzarella and liquid cheese for the perfect melt. (Allergens: Gluten, Milk, Soy, Tree Nuts, Peanuts, Sesame. May contain Mustard.)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/e0b4e271-25fb-47fb-ac36-f297cd868638_cfd09c2c-f533-46a6-be8b-8d7e7ff95358.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.2",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "172544383",
+          "name": "Butter Chicken Baked Cheese Rice Bowl",
+          "description": "Butter Chicken, but Cheesier!\nSucculent butter chicken in a creamy, cheesy base, layered with fragrant rice and topped with a golden-baked cheese crust. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/ae573d3a-6988-4463-89f2-c5ec30f26ed5_3ddc3b1d-e6c8-4b7c-bff4-27151d6123d0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "172544384",
+          "name": "Chicken Tikka Baked Cheese Rice Bowl",
+          "description": "Smoky, Saucy & Cheesy!\nJuicy minced chicken blended with rich cheese sauce and spices, layered over aromatic rice and baked to gooey pertection. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/1/f0874700-d0f2-480f-8397-7c58e83ea6f1_0424156f-cc60-4f3e-9775-42da5628e3ee.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "81925069",
+      "categoryName": "Soul Filling Chinese Bowls",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "214711050",
+          "name": "Chicken Chilli Hakka Noodles Bowl",
+          "description": "Juicy chicken tossed in a fiery chilli sauce, served with wok-tossed Hakka noodles. Spicy, tangy and packed with street-style desi Chinese flavours, this bowl is a treat for your taste buds. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 385.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/31/ad436c25-f9e6-41d3-b8c2-0fe80e196fc8_74d93dcf-bb7f-4eb8-b081-341b34a7e9f2.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "214711049",
+          "name": "Paneer Manchurian Hakka Noodles Bowl",
+          "description": "Soft paneer tossed in a lip-smacking Manchurian sauce, paired with wok-tossed Hakka noodles. A delicious desi Chinese combination that brings together tangy, savoury flavours in every bite. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 385.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/31/28a1bcdc-36dc-4f7b-b524-17b28e0232f9_ad77f801-3f23-498a-ac02-ed162815d009.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "214711051",
+          "name": "Chicken Manchurian Hakka Noodles Bowl",
+          "description": "Juicy chicken Manchurian tossed in a tangy, flavour-packed sauce, served over wok-tossed Hakka noodles. A desi Chinese favourite that brings all your street-style cravings together in one bowl. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 385.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/31/d35c1cc8-af5d-4edf-ac7e-e4a8155f3f64_aebf7668-bff1-4272-a9a0-7f532bdb3f70.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "214711052",
+          "name": "Paneer Chilli Hakka Noodles Bowl",
+          "description": "Soft paneer tossed in a spicy, tangy chilli sauce, paired with wok-tossed Hakka noodles. Packed with chatpata desi Chinese flavours, this bowl is just what your Indo-Chinese cravings ordered. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 385.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/31/2cd0cab7-0ed3-4162-bb6c-0404ab59f79a_f0038066-3341-4842-8b83-e0f6718c72d8.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "214711053",
+          "name": "Veg Manchurian Hakka Noodles Bowl",
+          "description": "Crispy veg Manchurian balls tossed in a tangy, flavour-packed sauce, served with wok-tossed Hakka noodles. It's the classic street-style desi Chinese combination that never disappoints. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/31/1a0c4c1d-2419-4fda-9ade-b1c243fdff31_7cebdc29-dc3c-465a-8a39-03e0e2f9b249.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "76159586",
+      "categoryName": "Daily Khichdi Bowls",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "175530478",
+          "name": "Dal Khichdi",
+          "description": "Enjoy the simplicity of this Dal Khichdi, where soft rice and lentils are spiced with cumin, turmeric, and a hint of ginger nutritious and delicious. (Allergens: Milk and milk products)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/f4b081ea-749d-4224-b630-01824ac57964_7de11463-b2ce-4ddb-8821-198e06bddb34.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "7 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "189428988",
+          "name": "Palak Paneer Khichdi",
+          "description": "A light and comforting moong dal khichdi, enriched with spinach and soft paneer.\nBalanced, wholesome, and perfect for when you want something tasty and nourishing.\nGreat for office lunches or lazy dinners. (Allergens: Milk and milk products)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/7341c2a7-f37d-4cfc-9597-3976e350d465_ac61f14d-355b-484f-a82c-d8e9dbf56df1.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "189428989",
+          "name": "Chicken Kheema Khichdi",
+          "description": "Our homestyle dal khichdi, made extra hearty with spiced chicken kheema.\nHigh in protein, full on flavour, this LunchBox is both light and satisfying. (Allergens: Milk and milk products, Soybean and its products, Tree nuts and their products)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/5/b84c535e-29bd-489c-b2cf-2ca887f61202_e30cc4d4-ec5d-4198-a6ef-8e1cbe508c94.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "169109195",
+          "name": "Masala Khichdi Bowl",
+          "description": "This is not your everyday khichdi it is got a bold twist. Made with a spicy masala tadka, this Dal Khichdi packs a flavour punch while still being oh-so-comforting. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/b6ca4479-b441-4d98-aa3b-3e96ca529568_c4a9d282-9781-4762-89f3-38bda52a9c9d.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "78170632",
+      "categoryName": "Paratha Bowls",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "206689677",
+          "name": "Paneer Tikka Paratha Bowl",
+          "description": "Spiced & smoky paneer tikka curry served with 2 flaky parathas. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/1778e3ce-244b-47d6-b0f8-2f53728f626e_f004a4e8-a0c3-4825-8212-0f0f5573fbd6.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "206689675",
+          "name": "Paneer Lababdar Paratha Bowl",
+          "description": "Soft paneer cooked in a mildly spiced, creamy curry, served with 2 warm parathas for a wholesome Dabba. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products)",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/f869f8fc-1ad5-48d8-870f-b074bcc775a1_e9129434-aa45-4d71-b003-a20fe5a7a6e8.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "206689665",
+          "name": "Butter Chicken Paratha Bowl",
+          "description": "A smoky, buttery chicken curry paired with 2 warm parathas. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/25/35b475f6-6b24-4da3-bf9c-3795278e4076_674e23f6-5437-4db9-9fc7-42b79dc9446e.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "206689667",
+          "name": "Chicken Kheema Paratha Bowl",
+          "description": "Lightly spiced minced chicken curry with 2 parathas, a great combination. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/16b280f4-8128-47c1-a808-78d2f8371a5a_da9b3646-d3ad-4947-af21-1ba720e47e3a.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "206689678",
+          "name": "Pindi Chole Paratha Bowl",
+          "description": "Bold, tangy chole in an authentic North Indian style gravy & served with flaky parathas. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e3118522-5225-4784-a832-a45608a1af31_6b4f11ac-fa88-4865-a4c7-8e574fb02618.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "206689668",
+          "name": "Chicken Masala Paratha Bowl",
+          "description": "A flavorful chicken curry served with 2 soft parathas- simple, tasty, and filling. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/36b44781-2376-4e10-a40f-ba0001a4ffc8_818622c5-de55-4fcc-a1a9-1f5e0fa74c2a.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "206689679",
+          "name": "Rajma Masala Paratha Bowl",
+          "description": "2 Parathas served with a hearty rajma curry, just like home. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e838d525-e8e3-492b-9457-4893e0c1c6e4_5032700b-a593-41f3-a03e-dea38b7d9101.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "206689673",
+          "name": "Masala Egg Curry Paratha Bowl",
+          "description": "Egg curry in a royal-style gravy, with crispy parathas. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products, Egg and egg products)",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/7b179fb9-2c02-40b8-9585-52fde870925d_2230a7be-14c3-441c-adfd-ce9063f29ccf.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "206689670",
+          "name": "Dal Makhani & Paratha Dabba",
+          "description": "Creamy dal makhani with 2 parathas familiar and wholesome. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products)",
+          "price": 189.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/0ea8f1a6-42ca-4812-ab48-b78337926117_9e5b4d23-1042-43f5-9c7d-9ed41e77525a.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "206689664",
+          "name": "Aloo Paratha & Omelette Bowl",
+          "description": "A stuffed aloo paratha served with a fluffy omelette simple and filling. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products, Egg and egg products)",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/f8f9eaaa-c1e0-4aed-aec2-45d11582cd37_d4f8f18e-70bf-4f7a-aa4e-e62c68f61445.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "206689672",
+          "name": "Gobi Paratha & Omelette Bowl",
+          "description": "A crisp gobi paratha paired with an omelette for a homely Dabba. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Sesame seeds and their products, Egg and egg products)",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/92dd8819-8927-4085-beaa-37220821613c_15a7f71a-16e3-41d0-aa06-50ac1ad064ff.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "68831011",
+      "categoryName": "Jumbo Rice Bowls (Powered by Faasos)",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "186932749",
+          "name": "Royal Chicken Jumbo Rice Bowl",
+          "description": "Breaking the norm was never this delicious! Succulent chicken with roasted Indian spices, chicken tikka and chicken meatballs, served with Spicy Hyderabadi Rice or Classic Flavourful Rice, topped with a fluffy omelette. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame, Egg. May contain Mustard.)",
+          "price": 440.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/60fa3d78-bce5-4f80-b211-6d13418b1fe5_3c5a96d6-1c9d-4f92-b462-d3444070adf9.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "186932748",
+          "name": "Smoked Butter Chicken Jumbo Rice Bowl",
+          "description": "Good old Butter Chicken but add a little bit of Faasos flair! Choose from a bowl of Spicy Hyderabadi Rice or Classic Flavourful Rice with our flavourful smoked butter chicken. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/91a0f51f-de81-4327-b752-21a803183ddc_47f160d3-db0d-4d55-9e66-e8366dc8274f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "186932750",
+          "name": "Paneer Signature Jumbo Rice Bowl",
+          "description": "Here to satisfy those big cravings, soft paneer tikka chunks cooked in spiced onion-tomato gravy is served over a bed of Spicy Hyderabadi rice or Classic Flavourful Rice. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 440.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/35f31468-4a20-478e-ab7e-460f5e020e88_ba1a650a-51c0-4b94-9a3e-b09e64de427b.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "186932746",
+          "name": "Dal Makhani Jumbo Rice Bowl",
+          "description": "Indulge in a timeless favourite with rich, creamy black lentils slow-cooked to perfection, paired with aromatic Hyderabadi Spicy Rice or Classic Flavourful Rice. A comforting, hearty meal packed with flavour. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/8d1f9f9a-e733-4522-b249-6d49e40b522b_ba01bd5b-8d19-4594-95b6-0fe523bfa0e5.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "186932747",
+          "name": "Rajma Masala Jumbo Rice Bowl",
+          "description": "Amp up your day with this wholesome bowl of rajma, slow-cooked in a subtly spiced gravy and served with Spicy Hyderabadi Rice or Classic Flavourful Rice. A comforting, hearty meal packed with flavour. (Allergens: Gluten, Milk, Soy, Tree Nuts, Sesame. May contain Mustard.)",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/0297e68f-7211-48e2-ad1e-6298dcd709ce_349f15ef-fa30-4392-b351-0a6beff5d756.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "57652954",
+      "categoryName": "Value Combos",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "208157503",
+          "name": "Butter Chicken Rice Bowl + Chicken Tikki Combo",
+          "description": "Double the protein, double the satisfaction. Our Butter Chicken Rice Bowl served with a juicy Chicken Tikki (5 Pcs) makes for a hearty meal that keeps you full for longer. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 480.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/21/90a51e04-e44d-4946-9215-bc4040ba7f38_ee9df184-63c6-4ee9-93de-0319e3e27b60.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "208157502",
+          "name": "Paneer Tikka Rice Bowl + Potato Wedges Combo",
+          "description": "A delicious pairing of our flavour-packed Paneer Tikka Rice Bowl with crispy Potato Wedges (Medium). Everything you need for a satisfying meal. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 500.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/21/00c0a52e-cccf-4a19-a945-ba6f3b0f1fd5_64d05dae-e7b6-40ae-9361-c2038b10292d.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "208157506",
+          "name": "Paneer Tikka Rice Bowl + Coke Combo",
+          "description": "Smoky Paneer Tikka served over fluffy rice with a refreshing Coke on the side. A wholesome meal made complete. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 460.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/21/fa2f8626-99d2-4d83-b0af-8aba04302dfe_6b90fd2b-6063-4997-85ea-f7a1028a4f46.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "208157504",
+          "name": "Paneer Tikka Rice Bowl + Lemon Soda Combo",
+          "description": "Dig into smoky Paneer Tikka over rice, paired with a chilled Lemon Soda for a refreshing, flavourful, and satisfying meal. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products, May contain traces of Mustard)",
+          "price": 450.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/21/c851ef31-af83-4c45-bf6f-67e97e8185fa_3c8f9a7c-bdaf-4842-bb1f-65584926a69f.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "208157507",
+          "name": "Butter Chicken Rice Bowl + Coke Combo",
+          "description": "Good'ol Butter Chicken Rice Bowl paired with a chilled Coke for a complete meal that's rich, satisfying, and packed with comforting flavours. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 410.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/21/e6391519-63a6-4912-a83d-a4a1ddedf298_7a9864ce-5531-4119-91a1-e4cad47856de.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "208157505",
+          "name": "Butter Chicken Rice Bowl + Lemon Soda Combo",
+          "description": "Enjoy our crowd-favourite Butter Chicken Rice Bowl with a refreshing Lemon Soda. A perfectly balanced combo for a satisfying meal. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/21/86a7c48a-1efb-4906-a432-1330dedfb7cd_1476c0bc-01ca-4ad0-b43b-dd4243117d11.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "166476589",
+          "name": "Chicken Biryani Bowl + Thums Up Combo",
+          "description": "Dig into a hearty Chicken Biryani Bowl, layered with delicious spices and juicy chicken, and wash it down with the bold, fizzy refreshment of Thumbs Up.\n",
+          "price": 270.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/35cfd07c-26ab-4a76-8d3a-f0e2a781d96b_b1118bf0-e5bd-47dc-a317-8ef96ff21e8d.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "161554473",
+          "name": "Mini Bowl Meal Combo (Non Veg)",
+          "description": "This one is for those looking for a wholesome meal. Your choice of Bowl and a Beverage or Starter.",
+          "price": 200.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/24/f1341874-1967-4d77-bba5-ab73bb9ea6c5_4a69bffe-8f72-4087-b29d-d114715c5a32.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "174944588",
+          "name": "Mini Bowl Meal Combo (Veg)",
+          "description": "This one is for those looking for a wholesome meal. Your choice of Bowl and a Beverage or Starter.",
+          "price": 180.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/24/53f0fdac-b8ce-4817-b0b4-e6d8f4356a6c_b6eeac19-a4e4-4e1b-9c10-94d570ec6919.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "40070687",
+      "categoryName": "Appetizers",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "194673094",
+          "name": "Chicken Patti Samosa (8 Pcs)",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Crispy golden patti samosas filled with flavourful spiced chicken mince, served with a zesty green chutney for the perfect snack or appetizer.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/9/cfcb6de1-95a0-4334-a7eb-e33de4b7031e_27589866-eff3-4888-98e7-f2e258e7b251.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "129415965",
+          "name": "Chicken Meatball Kebab (5 Pcs)",
+          "description": "Contains milk, gluten (wheat) and soybean. Relish succulent minced chicken infused with aromatic Indian spices. Elevate your dining experience with our Murgh Kefta.",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/40b669d3-017d-464a-a3ef-7a16e3a15e23_7a1c1280-5779-4946-83ef-fe2a83f91eab.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "159764021",
+          "name": "Pizza Puff (Pack of 4)",
+          "description": "Snack-time just got cheesier! Munch on yummy pizza pockets loaded with veggies, diced cheddar mixed with zesty pizza sauce and let the party begin! (Allergens: Gluten, Milk & their Products.)",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/8bbb4151-972f-46a6-a383-0921771acaed_cd9e712b-6518-41da-83e2-a5ea51639e9d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "90020281",
+          "name": "Chicken Tikki (5 pcs)",
+          "description": "Chicken grounded and flavored with cardamom and green chilli and grilled to perfection, served with a mint dip. (Allergens: Cereals containing gluten, Milk and milk products, Soybean and its products, Tree nuts and their products)",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/d808af1a-a4e6-48a2-89b3-495cf28bc5e4_c657c930-09bd-46b2-8fcb-f363705c5757.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "194673092",
+          "name": "Chicken Patti Samosa (4 Pcs)",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Crispy golden patti samosas filled with flavourful spiced chicken mince, served with a zesty green chutney for the perfect snack or appetizer.",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/9/445e487c-cbde-48cf-a3ef-924eb0ef8a8a_c52e36c5-23c7-43d3-9b25-5bd780510a06.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "112854040",
+          "name": "Potato Chilli Shots with Mayo Dip",
+          "description": "Crispy and spiced potato shots served with a cheesy mayonnaise dip to tantalize your tastebuds. (Allergens: Soybean, Milk, Gluten & their Products.)",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/a176c6a0-4afc-4d7b-8edd-d8b8a948c5bd_6e3f4def-f07c-4c8e-a3df-deb3eb564bbf.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "112854081",
+          "name": "Potato Wedges (Medium)",
+          "description": "When you do not know what to eat next we suggest keeping it simple and calling for the wedges. (Allergens: Gluten, Soybean & their Products.)",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/c70e45a0-c795-4ee9-838d-ccc253bb6bb5_de25721d-d045-40b3-9559-c9647a6512cc.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "47 ratings"
+        },
+        {
+          "id": "88997284",
+          "name": "Falafel Nuggets with Mayo Dip",
+          "description": "Mediterranean inspired crispy falafel made from the finest soaked chickpeas and spices, served with a cheesy mayonnaise dip. (Allergens: Sesame seed, Soybean, Milk & their Products.)",
+          "price": 119.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/d94f64df-dfaa-4f49-839e-39c8e5efe59f_d1d539e2-3fcb-4d37-a339-ef7e9b2fb3ad.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "159764020",
+          "name": "Pizza Puff (Pack of 2)",
+          "description": "Snack-time just got cheesier! Munch on 2 yummy pizza pockets loaded with veggies, diced cheddar mixed with zesty pizza sauce and let the party begin! (Allergens: Gluten, Milk & their Products.)",
+          "price": 89.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/12/8da66f9b-5b2d-45ad-bf9c-664e0ca812d0_06182a87-b9ef-469f-afc6-78f1a708971b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "42882101",
+      "categoryName": "Drink It Up",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "112854047",
+          "name": "Badam Kesar Thandai - Pack of 4",
+          "description": "For you and your gang! Uplift your celebration with Holi Special Badam Kesar Thandai this festival.",
+          "price": 539.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/11/c3ed71a7-147c-4983-a4c1-97a37334768e_c4d133af-69b6-4582-825f-5178d973e30e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "194397631",
+          "name": "Badam Kesar Thandai - Pack of 2",
+          "description": "Savor the traditional flavors of Badam Kesar Thandai, a deliciously spiced and nutty drink to elevate your celebrations!",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/12/06255817-f6e2-45c3-9176-785c09d2d6ec_a0489b8e-e8c1-4d12-8a61-8bcc29cf125f.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "112849921",
+          "name": "Badam Kesar Thandai - Pack of 1",
+          "description": "Rich, refreshing, and fasting-friendly, our Badam Kesar Thandai is the perfect upvas treat! (Allergens: Milk and milk products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/11/278316dd-72fb-4ce6-9659-c85cdd9ab95a_4be0b0a2-d754-4413-9f57-a2e22537bb50.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "133732741",
+          "name": "Lemon Ice Tea (250 mL)",
+          "description": "Sip on this refreshing drink for a citrusy lemon punch, infused with brewed tea. This iced tea is a perfect way to re-energize you anytime of the day!",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/20/28f5f24c-4d2b-45ac-9d8f-503dd6218911_e15bbad4-c81a-404a-b202-a55e3a462374.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "88997389",
+          "name": "Coca Cola Bottle (475 mL)",
+          "description": "475 mL Coca Cola Bottle.",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/74fe8967-82b8-4185-8f79-94fb8bc3ec31_2505aede-4b8f-4dca-9879-e9c7d968e6d6.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "126669945",
+          "name": "Thums Up Can (330 mL)",
+          "description": "330 mL Thums Up Can",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/28229821-1915-4197-98a8-964903f32012_0d9323dd-5bf3-456b-8ed2-460ec17aa8fd.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "167760124",
+          "name": "Coke Zero 330 ml Can",
+          "description": "0 KCal,. The iconic Coca-cola taste you love , now with zero sugar and zero calories! Crisp, refreshing, and full of flavor, it is the perfect guilt-free fizz to quench your thirst.",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/d6735cb7-1bbd-425a-9614-69acf7bca1fa_99cdcfb9-4e5b-4271-88a1-ecb7c28c6c22.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "123394731",
+          "name": "Masala Lemonade (200 mL)",
+          "description": "A refreshing classic drink with combined goodness of fresh lime , himalayan pink salt & infused spices.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/20/69816644-1260-45f9-9eab-734f32b25ceb_1990a3cb-ae63-4eb7-99e0-ce1dd9df385b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "152026810",
+          "name": "Lemon Soda",
+          "description": "Cool off with this zesty lemon soda, bursting with bright citrus flavour and lively fizz. A go-to drink for a quick and refreshing boost anytime!",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e90b7f5f-6500-4064-8638-1e93fd31ca76_62a26a2c-9bf4-42b7-b9d9-38fcddeea449.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "189005310",
+          "name": "Jeera Masala Cola (250 ml)",
+          "description": "Experience a twisty take on the classic bubbly cola, infused with cumin that makes for a refreshing Jeera Masala Cola.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/1be5791b-e3da-4a0d-836b-67d9550eb46f_345b9b24-1a3a-45b6-a5fe-4afef6fce9c6.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "150041619",
+          "name": "Coke (250 mL)",
+          "description": "250 ml chilled coke to make your meal just perfect!",
+          "price": 59.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/65f0b965-478e-449e-8675-8abe3777b84a_04274bb2-c8c7-4489-bc93-9fce7a29610c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "112854041",
+          "name": "Skimmed Mint Buttermilk",
+          "description": "Mildly spiced Indian buttermilk with the flavour of mint. (Allergens: Milk & its Products.)",
+          "price": 60.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/9d71ead8-493d-4e75-b85e-f92bd3475e25_f12c185f-c362-4e02-8a4e-25db1f4e21c2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "31 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "42356135",
+      "categoryName": "Desserts",
+      "itemCount": 17,
+      "items": [
+        {
+          "id": "215518408",
+          "name": "Kunafa Celebration Combo",
+          "description": "Double the indulgence with our delicious Kunafa Combo! Enjoy the creamy, crunchy goodness of our Kunafa Mousse Jar paired with the rich, fudgy delight of our Kunafa Brownie. A perfect combination for every dessert lover. Allergens: Contains Gluten (Wheat), Milk, Soy, and Nuts.",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/12/4e991395-4778-423e-a83d-d8d9fa498136_5d83de0b-57cc-43f9-b60b-ca56a0ddd969.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "60076267",
+          "name": "Gulab Jamun Box (Pack of 10)",
+          "description": "Contains milk and gluten (wheat). Gulab Jamun. Soft. Plump and the way we are used to. There is nothing else in our gulab jamuns than authenticity and love.",
+          "price": 315.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/56b09ced-f114-48f3-a810-67473981dc45_4c1b911e-e737-4b68-a370-15496b0a7e36.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "88997348",
+          "name": "Mango Cheesecake",
+          "description": "This New York Style Mango Cheesecake, made with premium quality mango infused cream cheese with the perfect cracker crust is every dessert lovers delight! (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/54b8405e-1296-4c1b-8033-9ee273f3055e_19886108-2594-419b-86e5-dd5323531bf4.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "131246202",
+          "name": "Blueberry Cheesecake",
+          "description": "The combination of delicious cream cheese and blueberries is what makes our Blueberry cheesecake stand apart. Try now! (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products, Sesame seeds and their products)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/74719c7f-2578-4247-b3b4-b87ab46cfab2_2e4118de-a228-4f04-824c-8b3d4c2631c5.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "158117323",
+          "name": "Chocolate Cheesecake Slice",
+          "description": "Cheesecake and chocolate lovers, 'tis one's specially for you! A match made for the season, sure to elevate every celebration. (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products, Sesame seeds and their products)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/edf9b2d5-7dab-460f-a8da-a041aa12b794_c522de54-dd74-4bac-bbe0-55dc094ab47a.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "215518407",
+          "name": "Kunafa Mousse Jar",
+          "description": "Indulge in layers of soft chocolate cake, velvety chocolate mousse, and a generous topping of crispy kunafa, creating a delightful contrast of smooth chocolate and crunchy kunafa in every bite. Allergens: Contains Gluten (Wheat), Milk, Soy, and Nuts.",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/13/12fe8d75-43d2-4963-ad6f-6fda33ed6694_3d85fb80-f40e-4db5-b3ad-7f123bd0ce51.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215518406",
+          "name": "Kunafa Brownie",
+          "description": "A rich, fudgy chocolate brownie topped with crunchy kunafa, offering the perfect combination of chocolatey indulgence and a delightful crunch in every bite. Allergens: Contains Gluten (Wheat), Milk, Soy, and Nuts.",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/13/5567931c-5dd7-4993-8698-828daa2f9e20_c0751a4c-0503-471b-b9d5-f1bede529ed0.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "128904531",
+          "name": "Death by Chocolate Cake Jar",
+          "description": "Dont take the name literally, but our Death By Chocolate Jar is a chocolate heaven sure to transport you to another level. (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products)",
+          "price": 179.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/6f008118-fa9b-4671-9809-e0448a0902ab_a0bed421-7319-4fae-8a8e-0a652fa1109d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "154530400",
+          "name": "Gulab Jamun (Pack of 5)",
+          "description": "Soft, sweet and dripping with deliciousness, here's India's favourite dessert in a pack of 5.",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/4c959d1f-083c-40bc-963c-44656831b567_559e2491-de53-4372-96e8-86993642e119.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "39619687",
+          "name": "Rich Red Velvet Pastry",
+          "description": "Rich and moist Red Velvet cake layered with cream cheese makes our Red Velvet pastry difficult to share. You will think twice too. (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products)",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/136b0ed1-c7e0-4db7-ac18-c34d3a49d6a8_25d350aa-e0fa-4351-97df-56d750de3a93.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "152026809",
+          "name": "Walnut Brownie",
+          "description": "Our Walnut Brownie is the perfect combination of Chocolate & Crunch, featuring a dense, fudgy loaded with walnuts for a treat that's pure bliss. (Allergens: Milk and milk products, Soybeans and their products, Tree nuts and their products)",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/713a97d0-90aa-425a-810f-5507eee08e84_dc01f7d4-df54-4c27-bf86-3c1612fd2b48.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "152026808",
+          "name": "Choco Chip Brownie",
+          "description": "Get ready for a chocolate explosion! Our Choco Chip Brownie is packed with chocolate chips and a soft, gooey texture that will leave you wanting more. (Allergens: Milk and milk products, Soybeans and their products)",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/4d2ae37a-3411-4f79-bb41-504031a37dae_2c1a8cd3-793f-45d7-ba6c-e74ffc7deed3.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "152860479",
+          "name": "Choco Chip Pastry",
+          "description": "Choco-overload! Rich chocolate cake layered with ganache, then showered in chips. It's a dream for chocoholics! (Allergens: Milk and milk products, Soybeans and their products, Sesame seeds and their products)",
+          "price": 119.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/4875b88c-84a2-460f-b7e8-4d9a4e7c5cfe_f8ed9c8b-aa47-4e79-97c5-6ef56f4e6062.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "112854064",
+          "name": "Choco Lava Cake",
+          "description": "A perfect match of Chocolate Cake on the outside and molten Chocolate on the inside, our Choco Lava cake is every dessert lovers dream come true. (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products)",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/bdf5dba9-4b22-4ec8-8415-cc07a62762e1_a2b8667a-0be5-467a-a25e-ceff9011a420.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "127584312",
+          "name": "Moong Dal Halwa (80 gm)",
+          "description": "Add this rich & decadent Indian dessert made with moong lentils, ghee, milk, sugar, garnished with chopped dry-fruits. Perfect for one with Indian sweet cravings (Allergens: Cereals containing gluten, Tree nuts and their products)",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e14c4cfc-03d6-4bd4-b5d0-49e86311ea11_6febe323-8e52-4297-a59e-a0cf307720ae.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "37385230",
+          "name": "Gulab Jamun (Pack Of 2)",
+          "description": "Contains milk and gluten (wheat). Gulab Jamun. Soft. Plump and the way we are used to. There is nothing else in our gulab jamuns than authenticity and love.",
+          "price": 65.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/369fb893-7f02-4186-96e9-0229cc57a2ab_321e8038-47fb-4107-bbce-6fbcaf8b0865.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "88997288",
+          "name": "Gulab Jamun - Pack of 1",
+          "description": "Contains milk and gluten (wheat). These melt in mouth sweet dumplings are the one dessert which can make your knees go weak in anticipation. Now served in a piece.",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/3ae1c9fa-8a03-48d0-959f-4619718d6561_998eac2b-cce3-4003-b53a-4504258f3636.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "12 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "71522153",
+      "categoryName": "Extras",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "193035354",
+          "name": "Mughlai Gravy (80 gm)",
+          "description": "Contains milk. Mughlai Gravy, a classic popular North India dish has a thick & creamy gravy with a flavor of yogurt and the taste of ground and whole spices.",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/7/a6f09ac5-7333-4136-9f41-e786c1af6e35_e7d3f0e6-26cc-4263-b9ae-cd487448f0ab.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "193035351",
+          "name": "Mint Raita (80 gm)",
+          "description": "Contains milk. Mint raita is a refreshing and cooling raita made with mint, whisk yogurt and cumin.",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/3a4d4cba-263e-4c05-8fc9-af7e28e13851_52c2fcfa-f9e1-4056-a378-9c8152c5b01f.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "193035352",
+          "name": "Curd (80 gms)",
+          "description": "Refreshing, creamy curd perfect to pair with all your meals. (Allergens: Milk and milk products)",
+          "price": 30.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/2df99747-569d-4dce-82cb-b59ceecb2880_4ac3eafa-2bdb-4374-87d4-8fbcef857483.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "193035350",
+          "name": "Green Chutney (20 gm)",
+          "description": "A spicy and refreshing coriander-mint chutney to elevate every bite. (Allergens: Milk and milk products, Tree nuts and their products)",
+          "price": 19.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/66b9eed2-b394-4ce8-817e-1786fe518a81_0917845f-eb1a-4660-94ea-f6473a30fe95.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "193035353",
+          "name": "Onion and Lemon",
+          "description": "(Allergens: Allergen Free)",
+          "price": 10.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/29/c8a2e17c-79b5-4a96-85b8-9fe3b4dd3cec_3ffd42a5-cad2-445a-88ea-1799facc70a3.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

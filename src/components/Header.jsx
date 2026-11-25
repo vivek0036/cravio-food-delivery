@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header bg-white shadow-xl px-24 flex flex-wrap items-center justify-between">
       <div>
         <Link to="/">
-          <img className="w-24" src="./logo.svg" alt="" />
+          <img className="w-24" src="/logo.svg" alt="" />
         </Link>
       </div>
       <div>

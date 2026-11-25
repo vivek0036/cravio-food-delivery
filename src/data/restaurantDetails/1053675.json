@@ -1,0 +1,550 @@
+{
+  "restaurant": {
+    "id": "1053675",
+    "name": "Truth Bowl",
+    "city": "Hyderabad",
+    "locality": "Gachibowli Village",
+    "areaName": "Gachibowli",
+    "costForTwo": 200.0,
+    "cuisines": ["North Indian", "High Protein"],
+    "avgRating": 4.3,
+    "totalRatings": "344 ratings",
+    "deliveryTime": "15-20 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/2/21a0688d-938d-4e58-b0de-d4c6e3c1e32e_1053675.JPG"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "206878406",
+          "name": "Sabudana Khichdi",
+          "description": "(No Onion, No Garlic & Made with Sendha Namak)\nSoft Sabudana cooked with potatoes, green chillies, cumin, and crunchy peanuts. Simple, mild flavours that are perfect for vrat days. Light yet filling, it helps keep you energized and refreshed throughout your fast. (Allergens: Peanuts and their products)",
+          "price": 239.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/15/0e3a649f-fb3b-41e5-ae8d-2a79964fef2e_fa7861b9-239c-4535-85e0-5e983353a982.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "206878409",
+          "name": "Upvas Aloo Pattice (2pcs)",
+          "description": "No Onion, No Garlic, Sendha Namak - 2 pcs Crisp Upwas Aloo Pattice with a soft, flavourful center and a perfectly golden bite. A classic Upvas favourite that is simple, hearty, and satisfying. (Allergens: Peanuts and their products)",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/d00ff042-c810-4db2-8be0-21f0aa94a0e0_81ef582e-0276-4114-a3e2-156f1eba3005.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1"
+        },
+        {
+          "id": "213131896",
+          "name": "Sabudana Khichdi Meal with Curd & Thandai",
+          "description": "A vrat-friendly, sabudana khichdi, paired with refreshing Badam Kesar Thandai. (Allergens: Milk and milk products, Tree nuts and their products, Peanuts and their products, Sesame seeds and their products)",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/12/d0196b84-d51c-4ab3-a1e1-993336b1ad14_f23c0e54-3ea3-42ea-a21e-ebe46ea436a8.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "213131897",
+          "name": "2pcs - Sabudana Vada",
+          "description": "No Onion, No Garlic, Sendha Namak - 2 pcs of Crispy Sabudana Wada made with soaked sabudana and mild spices, offering a crunchy outside and soft center. A classic Upvas snack perfect for a quick, satisfying bite. (Allergens: Peanuts and their products)",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/18/1433ef06-412c-4414-8f49-feb9f5b5201e_0a678ee0-8023-40ec-a069-bbcb3adbf01d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "195609391",
+          "name": "Make Your Own Bowl - Veg",
+          "description": "Build it, love it, fuel it! Choose your base, veg gravy, and protein, then top it with OWN Whey. Extra protein, extra yum! (Allergen info : None)",
+          "price": 419.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/20/b8179211-ae08-412e-8f3a-7fab8e49e94c_a8075a1a-5b35-47eb-b7a8-1ff9da98d329.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "4"
+        },
+        {
+          "id": "195609392",
+          "name": "Make Your Own Bowl - Non Veg",
+          "description": "Build it, devour it, power it up! Pick your base, non-veg gravy, and protein, then boost it with OWN Whey. Extra protein, extra punch! (Allergen info : None)",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/17/57add8e8-bf48-4a80-abb8-7d92fd859d2e_10e837b8-a705-4833-9b64-c24cc75257aa.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5"
+        },
+        {
+          "id": "166313440",
+          "name": "Creamy Mushroom Masala Bowl",
+          "description": "Mushrooms simmered in a homestyle masala, served over your choice of spicy Hyderabadi rice or supergrains for a comforting, hearty bowl. (Allergen info : Gluten, Milk, Soybean, Peanut, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/eede37b2-52e7-4bd5-810e-5a3c40060264_389402f3-b982-425c-858a-c5ada784a7f1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1"
+        },
+        {
+          "id": "188924616",
+          "name": "Paneer Biryani Bowl with Dahi Kebab",
+          "description": "Paneer biryani paired with a soft dahi kebab. Take it with flavourful rice or switch to spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/11/b5906a3a-616e-4fcd-aaff-4115c77eab08_b4bfcc80-9b48-4189-acc5-0784c5288e32.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2"
+        },
+        {
+          "id": "166313608",
+          "name": "Grilled Mughlai Chicken Bowl",
+          "description": "Juicy grilled chicken with rich Mughlai flavours over your choice of rice or supergrains. Smoky, creamy and seriously satisfying. (Allergen info : Gluten, Milk, Egg, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/be1acb36-41c0-44dc-a3db-d6d59a0997dd_fa4724ef-cfec-4c12-9bec-ad17e6e71103.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "12"
+        },
+        {
+          "id": "200809638",
+          "name": "Hyderabadi Egg Biryani Bowl",
+          "description": "Flavourful eggs and biryani spices served with our spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Egg, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/ba7ed355-84eb-4826-aff0-8fb4aaa02bcc_be6f713a-b169-4fe1-90c7-2e569251c2be.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "209126791",
+          "name": "Hyderabadi Chicken Biryani Bowl",
+          "description": "Juicy, spice-marinated chicken cooked to perfection in a traditional Hyderabadi dum biryani. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/45688fae-7d14-4379-b824-99e6a232eecd_afa2a527-9038-47be-9980-ee962a6496d0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2"
+        },
+        {
+          "id": "166313624",
+          "name": "Hyderabadi Paneer Biryani Bowl",
+          "description": "Soft paneer cooked with biryani spices and served with spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/f1f866bc-5fca-47e9-bf14-3e81398fe7ac_be6b22c1-8293-49af-acfd-5e6fc0c64aab.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "8"
+        },
+        {
+          "id": "200809641",
+          "name": "Hyderabadi Veg Biryani Bowl",
+          "description": "A mix of veggies cooked with aromatic spices and served with spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/497592eb-366e-4a30-a05e-49ac1e1e87fc_edfa6b14-6377-4260-a42b-2d82c60a128b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "166313762",
+          "name": "Homestyle Veggie Delight Bowl",
+          "description": "A comforting mix of veggies and flavourful gravy, served with your choice of rice or supergrains. Simple, hearty and satisfying. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/01f349c1-48b4-4c8a-8e67-59a328595506_9833e833-84d7-4f1a-bbda-65b5e48f6332.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3"
+        },
+        {
+          "id": "167687412",
+          "name": "Chicken Kofta Curry Bowl",
+          "description": "Juicy chicken koftas in a rich Mughlai gravy, made for soaking up every delicious bite. Choose spicy Hyderabadi rice or supergrains. (Allergen info : Gluten, Milk, Egg, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/84bc73de-74e4-4981-ac91-09fe0370617a_660cffbf-c2cb-47ad-ad76-23a27be7f392.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1"
+        },
+        {
+          "id": "167687410",
+          "name": "Bhuna Chicken Rice Bowl",
+          "description": "Tender chicken cooked in a rich bhuna masala. Pick spicy Hyderabadi rice for extra flavour or switch to supergrains. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/209e91c6-14fe-46f3-9c80-467c37401ccf_6779f8b5-5ff0-4775-a863-cbabfbd12182.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "6"
+        },
+        {
+          "id": "167687460",
+          "name": "Tandoori Paneer Delight Bowl",
+          "description": "Smoky tandoori paneer with flavourful gravy and a hearty base. Keep it classic with rice or give it a supergrain upgrade. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/ee8c0463-9868-41e6-96cd-bf5d40e783f3_82f77623-9b93-4f7d-a5fd-54b4f48d668c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "9"
+        },
+        {
+          "id": "166313457",
+          "name": "Falafel & Curry Bowl",
+          "description": "Crispy falafel with rich Mughlai flavours for a bowl that is anything but boring. Pair it with spicy Hyderabadi rice or go for supergrains. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/9541bd1c-f6df-4c12-84e6-a6e45a9ac5ad_7a84020f-e0c8-4e23-a27c-d07a627c0c6b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "166313434",
+          "name": "Chicken Kheema Masala Bowl",
+          "description": "Chicken kheema cooked in a spicy, flavourful masala. Pair it with spicy Hyderabadi rice or keep it hearty with supergrains. (Allergen info : Gluten, Milk, Soybean, Peanut, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/443832a0-f8b9-4c88-8b0e-eb5d39ba5a3d_113fc3e7-08d6-4b79-a6ae-753f7240677b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "13"
+        },
+        {
+          "id": "166313449",
+          "name": "Creamy Tandoori Chicken Bowl",
+          "description": "Juicy chicken tikka in a creamy, flavour-packed gravy. Your call: spicy Hyderabadi rice or a supergrain base. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 329.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/d4ffa73e-d5b8-4b0b-af54-adcfea3d629f_97dd27d3-7f01-46c6-98e7-b4ac9e38ad20.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "5"
+        }
+      ]
+    },
+    {
+      "categoryId": "72643221",
+      "categoryName": "Make your Own Bowl",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "195609392",
+          "name": "Make Your Own Bowl - Non Veg",
+          "description": "Build it, devour it, power it up! Pick your base, non-veg gravy, and protein, then boost it with OWN Whey. Extra protein, extra punch! (Allergen info : None)",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/17/57add8e8-bf48-4a80-abb8-7d92fd859d2e_10e837b8-a705-4833-9b64-c24cc75257aa.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5"
+        },
+        {
+          "id": "195609391",
+          "name": "Make Your Own Bowl - Veg",
+          "description": "Build it, love it, fuel it! Choose your base, veg gravy, and protein, then top it with OWN Whey. Extra protein, extra yum! (Allergen info : None)",
+          "price": 419.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/20/b8179211-ae08-412e-8f3a-7fab8e49e94c_a8075a1a-5b35-47eb-b7a8-1ff9da98d329.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "4"
+        }
+      ]
+    },
+    {
+      "categoryId": "75739079",
+      "categoryName": "20g+ Protein Bowls",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "166313608",
+          "name": "Grilled Mughlai Chicken Bowl",
+          "description": "Juicy grilled chicken with rich Mughlai flavours over your choice of rice or supergrains. Smoky, creamy and seriously satisfying. (Allergen info : Gluten, Milk, Egg, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/be1acb36-41c0-44dc-a3db-d6d59a0997dd_fa4724ef-cfec-4c12-9bec-ad17e6e71103.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "12"
+        },
+        {
+          "id": "200809638",
+          "name": "Hyderabadi Egg Biryani Bowl",
+          "description": "Flavourful eggs and biryani spices served with our spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Egg, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/ba7ed355-84eb-4826-aff0-8fb4aaa02bcc_be6f713a-b169-4fe1-90c7-2e569251c2be.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "166313440",
+          "name": "Creamy Mushroom Masala Bowl",
+          "description": "Mushrooms simmered in a homestyle masala, served over your choice of spicy Hyderabadi rice or supergrains for a comforting, hearty bowl. (Allergen info : Gluten, Milk, Soybean, Peanut, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/eede37b2-52e7-4bd5-810e-5a3c40060264_389402f3-b982-425c-858a-c5ada784a7f1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1"
+        },
+        {
+          "id": "188924616",
+          "name": "Paneer Biryani Bowl with Dahi Kebab",
+          "description": "Paneer biryani paired with a soft dahi kebab. Take it with flavourful rice or switch to spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/11/b5906a3a-616e-4fcd-aaff-4115c77eab08_b4bfcc80-9b48-4189-acc5-0784c5288e32.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2"
+        }
+      ]
+    },
+    {
+      "categoryId": "75192970",
+      "categoryName": "Biryani Bowls",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "166313624",
+          "name": "Hyderabadi Paneer Biryani Bowl",
+          "description": "Soft paneer cooked with biryani spices and served with spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/f1f866bc-5fca-47e9-bf14-3e81398fe7ac_be6b22c1-8293-49af-acfd-5e6fc0c64aab.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "8"
+        },
+        {
+          "id": "209126791",
+          "name": "Hyderabadi Chicken Biryani Bowl",
+          "description": "Juicy, spice-marinated chicken cooked to perfection in a traditional Hyderabadi dum biryani. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/15/45688fae-7d14-4379-b824-99e6a232eecd_afa2a527-9038-47be-9980-ee962a6496d0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2"
+        },
+        {
+          "id": "200809641",
+          "name": "Hyderabadi Veg Biryani Bowl",
+          "description": "A mix of veggies cooked with aromatic spices and served with spicy Hyderabadi rice. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/497592eb-366e-4a30-a05e-49ac1e1e87fc_edfa6b14-6377-4260-a42b-2d82c60a128b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        }
+      ]
+    },
+    {
+      "categoryId": "75192971",
+      "categoryName": "Under 500 Calories Bowls",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "166313762",
+          "name": "Homestyle Veggie Delight Bowl",
+          "description": "A comforting mix of veggies and flavourful gravy, served with your choice of rice or supergrains. Simple, hearty and satisfying. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/01f349c1-48b4-4c8a-8e67-59a328595506_9833e833-84d7-4f1a-bbda-65b5e48f6332.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3"
+        }
+      ]
+    },
+    {
+      "categoryId": "75230192",
+      "categoryName": "Indulgent Bowls",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "167687410",
+          "name": "Bhuna Chicken Rice Bowl",
+          "description": "Tender chicken cooked in a rich bhuna masala. Pick spicy Hyderabadi rice for extra flavour or switch to supergrains. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/209e91c6-14fe-46f3-9c80-467c37401ccf_6779f8b5-5ff0-4775-a863-cbabfbd12182.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "6"
+        },
+        {
+          "id": "166313434",
+          "name": "Chicken Kheema Masala Bowl",
+          "description": "Chicken kheema cooked in a spicy, flavourful masala. Pair it with spicy Hyderabadi rice or keep it hearty with supergrains. (Allergen info : Gluten, Milk, Soybean, Peanut, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/443832a0-f8b9-4c88-8b0e-eb5d39ba5a3d_113fc3e7-08d6-4b79-a6ae-753f7240677b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "13"
+        },
+        {
+          "id": "166313425",
+          "name": "Charred BBQ Chicken Bowl",
+          "description": "Juicy chicken with smoky BBQ flavours. Take it with spicy Hyderabadi rice or make the switch to supergrains. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/670d1a1d-96c0-4f1b-a907-7fb1ad8a3897_cbaa6b75-ca4d-42a6-a253-7600cfa4723f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "3"
+        },
+        {
+          "id": "166313449",
+          "name": "Creamy Tandoori Chicken Bowl",
+          "description": "Juicy chicken tikka in a creamy, flavour-packed gravy. Your call: spicy Hyderabadi rice or a supergrain base. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 329.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/d4ffa73e-d5b8-4b0b-af54-adcfea3d629f_97dd27d3-7f01-46c6-98e7-b4ac9e38ad20.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "5"
+        },
+        {
+          "id": "167687460",
+          "name": "Tandoori Paneer Delight Bowl",
+          "description": "Smoky tandoori paneer with flavourful gravy and a hearty base. Keep it classic with rice or give it a supergrain upgrade. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/ee8c0463-9868-41e6-96cd-bf5d40e783f3_82f77623-9b93-4f7d-a5fd-54b4f48d668c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "9"
+        },
+        {
+          "id": "187299065",
+          "name": "Soya Chaap Rice Bowl",
+          "description": "Soya chaap in a creamy gravy, paired with spicy Hyderabadi rice or supergrains for a good balance of rich and hot. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 309.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/f95cab95-cb5a-4e22-ae19-c285593c1550_6dd756d5-fd69-4e5d-bbe5-446284fbff53.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "167687412",
+          "name": "Chicken Kofta Curry Bowl",
+          "description": "Juicy chicken koftas in a rich Mughlai gravy, made for soaking up every delicious bite. Choose spicy Hyderabadi rice or supergrains. (Allergen info : Gluten, Milk, Egg, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/84bc73de-74e4-4981-ac91-09fe0370617a_660cffbf-c2cb-47ad-ad76-23a27be7f392.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1"
+        },
+        {
+          "id": "166313457",
+          "name": "Falafel & Curry Bowl",
+          "description": "Crispy falafel with rich Mughlai flavours for a bowl that is anything but boring. Pair it with spicy Hyderabadi rice or go for supergrains. (Allergen info : Gluten, Milk, Soybean, Tree nuts, Sesame. may contain traces of Mustard)",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/27/9541bd1c-f6df-4c12-84e6-a6e45a9ac5ad_7a84020f-e0c8-4e23-a27c-d07a627c0c6b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        }
+      ]
+    },
+    {
+      "categoryId": "64591543",
+      "categoryName": "Combos for 2",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "178179256",
+          "name": "Non Veg Combo",
+          "description": "Cant settle on one, Double the flavour with our irresistible Non-Veg Combo Bowls!",
+          "price": 450.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/30/117a89ef-38f0-4836-bacc-6c8a77ba0d73_bf55bbd5-f149-4e96-a961-4ccdb3881983.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        }
+      ]
+    },
+    {
+      "categoryId": "59728274",
+      "categoryName": "Beverages",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "171474429",
+          "name": "Coke Zero 330 ml Can",
+          "description": "0 KCal,. The iconic Coca-cola taste you love , now with zero sugar and zero calories! Crisp, refreshing, and full of flavor, it is the perfect guilt-free fizz to quench your thirst.",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/d6735cb7-1bbd-425a-9614-69acf7bca1fa_99cdcfb9-4e5b-4271-88a1-ecb7c28c6c22.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "4"
+        },
+        {
+          "id": "166473990",
+          "name": "Masala Lemonade (200 mL)",
+          "description": "A refreshing classic drink with combined goodness of fresh lime , himalayan pink salt & infused spices.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/20/69816644-1260-45f9-9eab-734f32b25ceb_1990a3cb-ae63-4eb7-99e0-ce1dd9df385b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": null,
+          "ratingCount": null
+        },
+        {
+          "id": "166474007",
+          "name": "Lemon Soda",
+          "description": "Cool off with this zesty lemon soda, bursting with bright citrus flavour and lively fizz. A go-to drink for a quick and refreshing boost anytime!",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e90b7f5f-6500-4064-8638-1e93fd31ca76_62a26a2c-9bf4-42b7-b9d9-38fcddeea449.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1"
+        },
+        {
+          "id": "166473987",
+          "name": "Skimmed Mint Buttermilk",
+          "description": "Mildly spiced Indian buttermilk with the flavour of mint. (Allergens: Milk & its Products.)",
+          "price": 50.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/9d71ead8-493d-4e75-b85e-f92bd3475e25_f12c185f-c362-4e02-8a4e-25db1f4e21c2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "8"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation."
+  }
+}

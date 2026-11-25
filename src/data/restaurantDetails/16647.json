@@ -1,0 +1,1301 @@
+{
+  "restaurant": {
+    "id": "16647",
+    "name": "Behrouz Biryani",
+    "city": "Hyderabad",
+    "locality": "Green land colony",
+    "areaName": "Gachibowli",
+    "costForTwo": 500.0,
+    "cuisines": [
+      "Biryani",
+      "Kebabs"
+    ],
+    "avgRating": 3.9,
+    "totalRatings": "10K+ ratings",
+    "deliveryTime": "20-25 MINS",
+    "imageId": "a4ffed13eb197c6df43dfe1c756560e5"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "193058508",
+          "name": "Lucknowi Lazeez Bhuna Murgh Biryani (Dum Chicken Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender, boneless murgh and the longest-grain basmati rice, dum-pukht over hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices add sheer nazaakat in every bite.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/5/19937c27-00dd-49b7-8750-d50ed83b4c42_bd98d841-c99f-4dec-8034-77775a34254f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "30 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058519",
+          "name": "Lucknowi Dum Gosht Biryani (Dum Mutton Biryani, Boneless)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. A dum-pukht perfection of mulayam, boneless gosht, the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The royal touch of kewra water and the garnishing of birista, almonds, coriander and whole spices elevates the warmth of this shahi peshkash.",
+          "price": 539.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/a513b410-0885-472a-aad4-5fbfa0e807ed_cb986108-6eaa-431a-843b-5361ddc3b95b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "17 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058526",
+          "name": "Lucknowi Zaikedaar Paneer Biryani (Paneer Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Narm paneer and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the adornment of birista, almonds, coriander and whole spices enrich its zaikedaar warmth.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/1750e6f3-e164-4d33-a859-cc1485f4c02e_b7bb6095-677e-477f-bb27-c26b02e7604b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "193058535",
+          "name": "Lucknowi Subz-e-Biryani (Veg Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Subz and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The splash of kewra water adds aroma and freshness, while birista, almonds, coriander and whole spices bring a royal touch to every bite.",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/0419701e-9f2c-4048-975c-8e4f41787f78_3735bcf3-f02b-429e-b7ec-d85350761744.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058541",
+          "name": "Mehfooz Makhmali Murgh Biryani(Murgh Afghani Tikka).",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Juicy Afghani-marinated murgh tikka and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the royal garnish of birista, almonds, coriander and whole spices enrich its creamy warmth.",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/33c86b32-6af2-4307-beb5-52b848ddfa8e_39b6f9e5-b15a-4b9e-a48e-ba316de5e626.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "193058548",
+          "name": "Lucknowi Murgh Tikka Biryani (Chicken Tikka Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender, spiced murgh tikka and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the adornment of birista, almonds, coriander and whole spices elevate every smoky, flavourful bite.",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/e3e72d6d-f1ad-4c38-ba2c-3fbdfb733505_a9a743f3-861a-4bdf-9b06-77271fbef3e2.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "193058558",
+          "name": "Lucknowi Paneer Subz Biryani (Paneer Dum and Veg Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Narm paneer and subz layered with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A mildly spicy Behrouz classic. The splash of kewra water adds aroma and fragrance, while birista, almonds, coriander and whole spices bring a royal touch to every bite.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/5/f5855e82-c8bc-4cf0-a672-0d06ad977ec4_0aa5f687-55c8-4f73-89c4-1ccd0ecabb34.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "6 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058561",
+          "name": "Lucknowi Do Gosht ki Dum Biryani (Mutton & Chicken Dum)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean. Juicy boneless mutton and tender boneless chicken layered with the longest-grain basmati rice,dum-pukht for hours with 23 shahi masale.This is Behrouz,s classic recipe-mildly spicy.The aroma of kewra water and the royal garnish of birista,almonds,coriander and whole spices deepen the richness of this do-gosht creation.",
+          "price": 489.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/e8890209-6af3-4064-919d-1e11a8a3c595_de643e37-2059-42c8-a186-4d4c4a406ec0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058566",
+          "name": "Lucknowi Taj-e-Khumb Biryani (Mushroom Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, peanut, tree nuts and sesame. Tender mushrooms and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The splash of kewra water adds aroma and freshness, while birista, almonds, coriander and whole spices bring a royal touch to every bite.",
+          "price": 389.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/68cfc817-948f-4f65-b670-a71008eb3606_58c22745-4cbb-4190-b9ae-7f4ace717677.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058572",
+          "name": "Lucknowi Tokhm-e-Biryani (Lucknowi Egg Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, egg, gluten (wheat), soybean, tree nuts and sesame. Flavour-rich whole eggs and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices enrich every royal bite.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/9fc7da82-c909-4ff0-bea1-cc6ce75f3bbf_4203e9d3-0cf5-4db6-924c-915bdb5f9b78.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "193058580",
+          "name": "Lucknowi Raaz-e-Kalimirch Murgh Biryani (Pepper Chicken)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Mulayam, boneless murgh infused with kali mirch and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices enhance its peppery warmth.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3fc3d2a0-48cf-4688-b77d-fac9d7e53341_9ff66386-40bf-4af1-b517-22a185d44416.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "193058589",
+          "name": "Lucknowi Raaz-e-Kalimirch Paneer Biryani (Pepper Paneer)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Narm paneer wrapped in kali mirch,s warmth, layered with the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the adornment of birista, almonds, coriander and whole spices add a regal richness to every bite.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/0af56d31-1f9e-4c10-8070-0bb03601d8e1_76e76c25-6730-490a-9b99-b1f6379a3e8a.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058595",
+          "name": "Lucknowi Daastan-e-Ghee Murgh Biryani (Ghee Roast Chicken)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender, boneless murgh slow-cooked in rich ghee with the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The royal touch of kewra water and the garnishing of birista, almonds, coriander and whole spices elevate its luxurious warmth.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/2411ab1a-db75-4196-8631-5fc6b0cf3618_db1f481f-0461-4d01-ad2a-76974b8f524d.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "193058602",
+          "name": "Hyderabadi Lazeez Bhuna Murgh Biryani (Dum Chicken Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Tender, boneless murgh and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a garnish of birista, almonds, coriander and spices adds a rich, fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/8579fdd2-d448-4b34-8b6c-19a9d99649ad_324a5c58-910f-4567-83e5-174d560438ee.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "40 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058606",
+          "name": "Hyderabadi Dum Gosht Biryani (Dum Mutton Biryani, Boneless)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Mulayam, boneless gosht and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a garnish of birista, almonds, coriander and spices adds a deep, fiery zayqa.",
+          "price": 539.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3248692a-8cd2-47b1-a076-908215555931_e7bfd796-9012-4ca8-aeae-701ca8f1f3dc.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "19 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058610",
+          "name": "Hyderabadi Zaikedaar Paneer Biryani (Paneer Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Tender paneer and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Lifted by kewra water aroma and finished with birista, almonds, coriander and whole spices for a rich, fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/53f43657-cbd6-48ad-98b4-5d8ee82755a9_33c1b066-1ae9-41ef-96f9-c32dc9c3aa04.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "193058617",
+          "name": "Hyderabadi Subz-e-Biryani (Veg Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. subz and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. Aromatic kewra water and a royal garnish of birista, almonds, coriander and spices add a vibrant, fiery zayqa to this hearty subz feast.",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/61361274-bde6-4cbf-934c-3870263b62dd_573d1283-6e02-4b05-91ec-8ebe2298694d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "149477005",
+          "name": "Spicy Mehfooz Makhmali Murgh Biryani(Murgh Afghani Tikka Biryani).",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Creamy Afghani-marinated murgh tikka layered with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. The touch of kewra water and a garnish of birista, almonds, coriander and spices create a rich, fiery zayqa.",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3bccc2eb-7e08-4d8a-8185-6ae5b804c729_8aac6f3c-a475-477e-b763-f14c4cb08ea9.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "193058625",
+          "name": "Hyderabadi Murgh Tikka Biryani (Chicken Tikka Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Juicy, spiced murgh tikka paired with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. Kewra aroma and a finishing of birista, almonds, coriander and spices enhance its smoky, fiery zayqa.",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/b9d7e190-48a3-47d6-b91e-3f4b137576fc_d3339513-238f-4e90-a27b-c0d4bfa0cca2.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "12 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058630",
+          "name": "Hyderabadi Paneer Subz Biryani (Paneer and Veg Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain mustard. subz and narm paneer layered with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. Aromatic kewra water and a garnish of birista, almonds, coriander and spices bring a vibrant, fiery zayqa to this paneer-subz feast.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/00679936-9c56-454d-93d4-332c37f35a9c_f252fe0a-df47-4782-a2c7-dc31fdf8e7d4.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "7 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "71529979",
+      "categoryName": "Lucknowi Biryani (Signature Recipe - Mild Spicy)",
+      "itemCount": 13,
+      "items": [
+        {
+          "id": "193058508",
+          "name": "Lucknowi Lazeez Bhuna Murgh Biryani (Dum Chicken Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender, boneless murgh and the longest-grain basmati rice, dum-pukht over hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices add sheer nazaakat in every bite.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/5/19937c27-00dd-49b7-8750-d50ed83b4c42_bd98d841-c99f-4dec-8034-77775a34254f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "30 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058519",
+          "name": "Lucknowi Dum Gosht Biryani (Dum Mutton Biryani, Boneless)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. A dum-pukht perfection of mulayam, boneless gosht, the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The royal touch of kewra water and the garnishing of birista, almonds, coriander and whole spices elevates the warmth of this shahi peshkash.",
+          "price": 539.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/a513b410-0885-472a-aad4-5fbfa0e807ed_cb986108-6eaa-431a-843b-5361ddc3b95b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "17 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058548",
+          "name": "Lucknowi Murgh Tikka Biryani (Chicken Tikka Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender, spiced murgh tikka and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the adornment of birista, almonds, coriander and whole spices elevate every smoky, flavourful bite.",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/e3e72d6d-f1ad-4c38-ba2c-3fbdfb733505_a9a743f3-861a-4bdf-9b06-77271fbef3e2.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "193058541",
+          "name": "Mehfooz Makhmali Murgh Biryani(Murgh Afghani Tikka).",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Juicy Afghani-marinated murgh tikka and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the royal garnish of birista, almonds, coriander and whole spices enrich its creamy warmth.",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/33c86b32-6af2-4307-beb5-52b848ddfa8e_39b6f9e5-b15a-4b9e-a48e-ba316de5e626.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "193058526",
+          "name": "Lucknowi Zaikedaar Paneer Biryani (Paneer Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Narm paneer and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the adornment of birista, almonds, coriander and whole spices enrich its zaikedaar warmth.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/1750e6f3-e164-4d33-a859-cc1485f4c02e_b7bb6095-677e-477f-bb27-c26b02e7604b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "193058561",
+          "name": "Lucknowi Do Gosht ki Dum Biryani (Mutton & Chicken Dum)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean. Juicy boneless mutton and tender boneless chicken layered with the longest-grain basmati rice,dum-pukht for hours with 23 shahi masale.This is Behrouz,s classic recipe-mildly spicy.The aroma of kewra water and the royal garnish of birista,almonds,coriander and whole spices deepen the richness of this do-gosht creation.",
+          "price": 489.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/e8890209-6af3-4064-919d-1e11a8a3c595_de643e37-2059-42c8-a186-4d4c4a406ec0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058535",
+          "name": "Lucknowi Subz-e-Biryani (Veg Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Subz and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The splash of kewra water adds aroma and freshness, while birista, almonds, coriander and whole spices bring a royal touch to every bite.",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/0419701e-9f2c-4048-975c-8e4f41787f78_3735bcf3-f02b-429e-b7ec-d85350761744.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058558",
+          "name": "Lucknowi Paneer Subz Biryani (Paneer Dum and Veg Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Narm paneer and subz layered with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A mildly spicy Behrouz classic. The splash of kewra water adds aroma and fragrance, while birista, almonds, coriander and whole spices bring a royal touch to every bite.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/5/f5855e82-c8bc-4cf0-a672-0d06ad977ec4_0aa5f687-55c8-4f73-89c4-1ccd0ecabb34.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "6 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058595",
+          "name": "Lucknowi Daastan-e-Ghee Murgh Biryani (Ghee Roast Chicken)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender, boneless murgh slow-cooked in rich ghee with the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The royal touch of kewra water and the garnishing of birista, almonds, coriander and whole spices elevate its luxurious warmth.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/2411ab1a-db75-4196-8631-5fc6b0cf3618_db1f481f-0461-4d01-ad2a-76974b8f524d.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "193058580",
+          "name": "Lucknowi Raaz-e-Kalimirch Murgh Biryani (Pepper Chicken)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Mulayam, boneless murgh infused with kali mirch and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices enhance its peppery warmth.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3fc3d2a0-48cf-4688-b77d-fac9d7e53341_9ff66386-40bf-4af1-b517-22a185d44416.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "193058566",
+          "name": "Lucknowi Taj-e-Khumb Biryani (Mushroom Biryani)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, peanut, tree nuts and sesame. Tender mushrooms and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The splash of kewra water adds aroma and freshness, while birista, almonds, coriander and whole spices bring a royal touch to every bite.",
+          "price": 389.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/68cfc817-948f-4f65-b670-a71008eb3606_58c22745-4cbb-4190-b9ae-7f4ace717677.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058572",
+          "name": "Lucknowi Tokhm-e-Biryani (Lucknowi Egg Dum Biryani)(Mild Spicy)",
+          "description": "Contains milk, egg, gluten (wheat), soybean, tree nuts and sesame. Flavour-rich whole eggs and the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices enrich every royal bite.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/9fc7da82-c909-4ff0-bea1-cc6ce75f3bbf_4203e9d3-0cf5-4db6-924c-915bdb5f9b78.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "193058589",
+          "name": "Lucknowi Raaz-e-Kalimirch Paneer Biryani (Pepper Paneer)(Mild Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Narm paneer wrapped in kali mirch,s warmth, layered with the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s classic recipe - mildly spicy. The aroma of kewra water and the adornment of birista, almonds, coriander and whole spices add a regal richness to every bite.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/0af56d31-1f9e-4c10-8070-0bb03601d8e1_76e76c25-6730-490a-9b99-b1f6379a3e8a.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "71529980",
+      "categoryName": "Hyderabadi Biryani (Spicy)",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "193058602",
+          "name": "Hyderabadi Lazeez Bhuna Murgh Biryani (Dum Chicken Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Tender, boneless murgh and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a garnish of birista, almonds, coriander and spices adds a rich, fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/8579fdd2-d448-4b34-8b6c-19a9d99649ad_324a5c58-910f-4567-83e5-174d560438ee.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "40 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058625",
+          "name": "Hyderabadi Murgh Tikka Biryani (Chicken Tikka Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Juicy, spiced murgh tikka paired with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. Kewra aroma and a finishing of birista, almonds, coriander and spices enhance its smoky, fiery zayqa.",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/b9d7e190-48a3-47d6-b91e-3f4b137576fc_d3339513-238f-4e90-a27b-c0d4bfa0cca2.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "12 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058610",
+          "name": "Hyderabadi Zaikedaar Paneer Biryani (Paneer Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Tender paneer and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Lifted by kewra water aroma and finished with birista, almonds, coriander and whole spices for a rich, fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/53f43657-cbd6-48ad-98b4-5d8ee82755a9_33c1b066-1ae9-41ef-96f9-c32dc9c3aa04.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "193058606",
+          "name": "Hyderabadi Dum Gosht Biryani (Dum Mutton Biryani, Boneless)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Mulayam, boneless gosht and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a garnish of birista, almonds, coriander and spices adds a deep, fiery zayqa.",
+          "price": 539.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3248692a-8cd2-47b1-a076-908215555931_e7bfd796-9012-4ca8-aeae-701ca8f1f3dc.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "19 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058617",
+          "name": "Hyderabadi Subz-e-Biryani (Veg Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. subz and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. Aromatic kewra water and a royal garnish of birista, almonds, coriander and spices add a vibrant, fiery zayqa to this hearty subz feast.",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/61361274-bde6-4cbf-934c-3870263b62dd_573d1283-6e02-4b05-91ec-8ebe2298694d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "193058630",
+          "name": "Hyderabadi Paneer Subz Biryani (Paneer and Veg Dum Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain mustard. subz and narm paneer layered with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. Aromatic kewra water and a garnish of birista, almonds, coriander and spices bring a vibrant, fiery zayqa to this paneer-subz feast.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/00679936-9c56-454d-93d4-332c37f35a9c_f252fe0a-df47-4782-a2c7-dc31fdf8e7d4.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "193058634",
+          "name": "Hyderabadi Do Gosht ki Dum Biryani (Mutton & Chicken Dum)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean. Juicy boneless mutton and tender boneless chicken layered with the longest-grain basmati rice, dum-pukht over hours with 23 shahi masale. This is Behrouz,s Hyderabadi recipe - bold & spicy. Finished with kewra aroma and the royal garnish of birista, almonds, coriander and whole spices for a rich, fiery do-gosht zayqa.",
+          "price": 489.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/f23ccb26-da58-49f1-8004-338e7e98871a_d4607bf7-4906-4c95-a9d9-723f002ac61e.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "191270137",
+          "name": "Junoon-e-Andhra Murgh Biryani (Andhra Chicken Biryani)",
+          "description": "Contains milk, egg, gluten (wheat), soybean and sesame. Spicy Andhra-style murgh cooked with the longest-grain basmati rice, dum-pukht for hours with 23 shahi masale. This is Behrouz,s Hyderabadi recipe - bold & spicy with an Andhra kick. Kewra aroma and a rich garnish of birista, almonds, coriander and whole spices uplift its fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/6ce503a7-0a14-4789-b33a-6b82e4c87d42_b35d07cf-7fdb-4133-9dd2-fb4bcae1cc5e.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "193058680",
+          "name": "Hyderabadi Daastan-e-Ghee Murgh Biryani (Ghee Roast Chicken)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Tender boneless murgh slow-cooked in rich ghee with the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s Hyderabadi recipe - bold & spicy. Lifted by the aroma of kewra water and finished with birista, almonds, coriander and whole spices, it delivers a deep and fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/70a46054-e490-4909-9487-f78fad81ba5a_9b53fc86-9e62-437a-9326-b7b71c415032.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058643",
+          "name": "Hyderabadi Taj-e-Khumb Biryani (Mushroom Biryani)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, peanut, tree nuts and sesame. May contain traces of mustard. Tender mushrooms and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a royal garnish of birista, almonds, coriander and spices add a deep, fiery zayqa.",
+          "price": 389.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/991f93ff-6291-463c-8a93-b6c35d1f35f0_2de7a04e-ff4a-42eb-9085-9dde6faa5677.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "8 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "193058673",
+          "name": "Hyderabadi Raaz-e-Kalimirch Paneer Biryani (Pepper Paneer)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean and sesame. Narm paneer enriched with kali mirch,s warmth, paired with the longest-grain basmati rice and 23 shahi masale. This is Behrouz,s Hyderabadi recipe - bold & spicy. The aroma of kewra water and the garnish of birista, almonds, coriander and whole spices add depth and a bold, peppery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/5/f0db4320-6901-4ad8-87af-35d693a907e9_41a88a61-f131-496d-be28-95b7ead8d321.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "193058660",
+          "name": "Hyderabadi Raaz-e-Kalimirch Murgh Biryani (Pepper Chicken)(Spicy)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. Mulayam boneless murgh infused with kali mirch and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a royal garnish of birista, almonds, coriander and spices heighten its peppery, fiery zayqa.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3db82258-f9f0-4fc0-917b-30f3374b71f8_666f3c7b-0baf-4088-95c2-76f384d4242c.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193058638",
+          "name": "Hyderabadi Tokhm-e-Biryani (Hyderabadi Egg Dum Biryani)(Spicy)",
+          "description": "Contains milk, egg, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Flavourful whole eggs and long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. This bold, spicy biryani follows Behrouz Hyderabadi recipe. Kewra water aroma and a garnish of birista, almonds, coriander and spices add a hearty, fiery zayqa.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/243190e7-f628-4eef-95b6-5d535431a8da_f34b94d0-d28e-43d2-bf1f-7a987669f798.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "149477005",
+          "name": "Spicy Mehfooz Makhmali Murgh Biryani(Murgh Afghani Tikka Biryani).",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. May contain traces of mustard. Creamy Afghani-marinated murgh tikka layered with long-grain basmati rice, slow-cooked dum-pukht with 23 shahi masale. A bold, spicy Hyderabadi recipe. The touch of kewra water and a garnish of birista, almonds, coriander and spices create a rich, fiery zayqa.",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/3bccc2eb-7e08-4d8a-8185-6ae5b804c729_8aac6f3c-a475-477e-b763-f14c4cb08ea9.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "59165730",
+      "categoryName": "Kathi Rolls",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "160688807",
+          "name": "Chicken Tikka Kathi Roll",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Succulent Chicken Tikka chunks embraced in a lachha paratha, enriched with the fusion of green chutney and mint mayo, and crowned with fresh, crunchy onions. A feast truly fit for the royalty!",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/e466fc47-351b-45c2-ab1d-f85d288273ed_fc6319a9-b381-4e1e-a2df-c5f762475e94.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "160688806",
+          "name": "Murgh Seekh Kebab Kathi Roll",
+          "description": "Contains milk, egg, gluten (wheat), soybean and tree nuts. Spiced Murgh Seekh Kebab cradled in a lachha paratha, enriched with a fusion of green chutney and mint mayo, and crowned with crisp onions. A shahi creation, destined to leave the Shahenshah spellbound!",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/0b6128ee-6c93-4ee6-a6e0-92e46fe207a2_195084fa-5a2a-4ea2-b63e-87c81a0bde81.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "172537560",
+          "name": "Mutton Kofta Kathi Roll",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Delicately spiced mutton koftas wrapped in a lachha paratha layered with green chutney and mint mayo Finished with crunchy taaza onions a roll steeped in shahi indulgence",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/f2da778e-3f8a-4fef-ad71-191a386a3cd1_1ff86636-e686-4b87-865f-d94bb924fd9e.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "172537561",
+          "name": "Paneer Tikka Kathi Roll",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Spiced Paneer Tikka chunks cradled within a lachha paratha enriched with a layer of green chutney and mint mayo Topped with taaza onions this roll is truly worth savouring till the last bite",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/918d1b9f-0ae7-4c29-ba4f-8f43c7646e94_6fbc9f9b-5d96-4880-b1a5-246ee4ca001e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "172537559",
+          "name": "Hara Bhara Kebab Kathi Roll",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Tender Hara Bhara Kebabs encased in a lachha paratha lavished with a blend of green chutney and mint mayo and crowned with crunchy onions A masterpiece fit for your daawat",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/cfbec4c8-0201-45df-9cff-486163e478d8_ed647751-599a-4451-91ee-e3e69cdd3a8b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "40047700",
+      "categoryName": "Dastaan e Kebabs",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "128140592",
+          "name": "Murgh Seekh Kebab",
+          "description": "Contains milk, egg, gluten (wheat), soybean and tree nuts. One of the most revered kebab delicacies, this culinary marvel is crafted with minced chicken that is elegantly spiced with royal spices and is served with a refreshing mint dip.",
+          "price": 215.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/7d467d36-7566-4ca6-bcf2-01cba33a7b28_b460e207-e014-42f5-a552-2afe94eff363.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "48 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "123060677",
+          "name": "Murgh Kefta (Chicken Meatball Kebab)",
+          "description": "Contains milk, gluten (wheat) and soybean. Minced chicken kebabs cooked into soft delicious meatballs served with Minty dip.",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e24d7bf5-bc86-40e6-970e-6e0bad7b992e_84c379e5-e54f-4713-a1f0-223aed1785a8.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "49 ratings"
+        },
+        {
+          "id": "123060678",
+          "name": "Murgh Koobideh (Chicken Tikki Kebab)",
+          "description": "Contains milk, gluten (wheat), soybean and tree nuts. Ground chicken flavored with cardamom & green chilli and grilled to perfection.",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/6c12325e-afaa-4c7f-8423-ab33638204e1_799b4bc2-b8bc-4236-9769-e3059ea51848.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "27 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "123060724",
+          "name": "Dahi Labneh Kebab",
+          "description": "Contains milk, gluten (wheat) and tree nuts. Enriched with gentle flavours of Curd, this kebab is delicately spiced with cumin and ginger & beautifully complements the royal biryani",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/c5600cf8-e628-4582-a214-240b76c9e167_881460ab-a02d-4e39-8e13-3a6dc7025ef5.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "128488662",
+          "name": "Hara Bhara Kebab",
+          "description": "Contains milk, gluten (wheat) and tree nuts. Savour the goodness of finely minced potatoes, garden spinach and green peas, gently spiced with shahi masalas and shallow-fried to perfection. Coated with a generous layer of bread crumbs, these tender yet crispy kebabs will brighten up your daawat.",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/62315592-8dea-45e0-8d21-1a006f0c0bdc_6367a1e2-fffb-4c75-abda-611879cdfeb7.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "123060680",
+          "name": "Falafel-E-Khaas",
+          "description": "Contains milk, gluten (wheat), soybean and sesame. Savour the great taste with shallow fried chickpea nuggets with a blend of aromatic spices.",
+          "price": 119.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/c00e9961-de6c-41bc-b901-3a0f9b4b67ce_a219b85d-6745-4ebb-b944-0494bc5fcb22.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "84 ratings"
+        },
+        {
+          "id": "123060676",
+          "name": "Aloo Chaap Tikki",
+          "description": "Contains milk, peanut and tree nuts. A street favourite recipe that now resides in our royal kitchens. A mix of mashed potatoes, coriander, chilies and onions, shallow-fried to form the perfect tea-time snack.",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/4327745d-7075-4b07-926b-4cfb2d9f7fdb_c39633b2-26c7-4d6a-b0b0-852af4091fc2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "128189369",
+          "name": "Aloo Chaap Tikki (3 Pcs)",
+          "description": "Contains milk, peanut and tree nuts. A street favourite recipe that now resides in our royal kitchens. A mix of mashed potatoes, coriander, chilies and onions, shallow-fried to form the perfect tea-time snack.",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/4327745d-7075-4b07-926b-4cfb2d9f7fdb_c39633b2-26c7-4d6a-b0b0-852af4091fc2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "72516879",
+      "categoryName": "Biryani with Thums Up Combos",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "195350513",
+          "name": "Dum Gosht Biryani with Thums Up",
+          "description": "Succulent mutton slow-cooked on dum with long-grain basmati, rich spices and royal flavours. Comes with a refreshing Free Thums Up to complete the experience.",
+          "price": 639.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/61de472f-481a-4954-a382-6852ea772286_146b82bd-0094-4499-8059-c8bd094811ba.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "195350512",
+          "name": "Do Gosht ki Dum Biryani with Thums Up",
+          "description": "A royal blend of two meats slow-cooked with fragrant basmati rice and aromatic spices on dum. Paired with a chilled Free Thums Up for the perfect indulgent feast.",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/92df736d-6a37-49d7-9aa4-2b325564db7d_7ddcca39-51fa-4865-ab26-5bb197516116.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350520",
+          "name": "Murgh Afghani Tikka Biryani with Thums Up",
+          "description": "Creamy Afghani-style chicken tikka layered with aromatic rice and mild royal spices. Comes with a Free Thums Up for a smooth, indulgent pairing.",
+          "price": 569.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/c1376db5-ae6a-41ae-b90a-8f69a90714d8_753d402c-d982-4fb8-9261-4796b00c624e.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350524",
+          "name": "Murgh Tikka Biryani with Thums Up",
+          "description": "Smoky grilled chicken tikka, dum-cooked with fragrant basmati rice and signature spices. Paired with a refreshing Free Thums Up.",
+          "price": 569.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/72b8cdcd-d383-4718-8274-8281f071142e_879b9965-cf18-4ab2-aeb7-4a7589256b57.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350515",
+          "name": "Lazeez Bhuna Murgh Biryani with Thums Up",
+          "description": "Slow-bhuna chicken in rich masalas, layered with fragrant basmati rice. Enjoy it with a chilled Free Thums Up for a satisfying meal.",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/4808c7ce-feeb-48ab-bcef-42e9fd4ff3d0_ee4755fe-32aa-4391-b368-77441dfcd7c7.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350557",
+          "name": "Andhra Chicken Biryani with Thums Up",
+          "description": "Spicy Andhra-style chicken biryani with bold chillies, aromatic rice and robust flavours. Served with a refreshing Free Thums Up.",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/1b7671d4-1240-4698-b130-0cc8d5f202a1_5ff73cc8-4de1-42e7-a37f-1109c3e06f85.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350556",
+          "name": "Zaikedaar Paneer Biryani with Thums Up",
+          "description": "Flavour-packed paneer cooked in rich, bold masalas and layered with aromatic rice. Enjoy with a Free Thums Up.",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/8d1b481c-684a-4f7d-9a49-a1285002b8f0_af13465e-1e87-42fe-8983-c360ffc285d1.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "195350514",
+          "name": "Daastan-e-Ghee Murgh Biryani with Thums Up",
+          "description": "Juicy chicken roasted in desi ghee, layered with aromatic rice and bold South Indian spices. Served with a Free Thums Up for a fiery, flavour-packed combo.",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/93640ba9-3d6e-4e97-b234-a9fc24959d6f_c848df20-88ee-450b-b7ac-95a0fd5210d2.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350529",
+          "name": "Paneer Subz Biryani with Thums Up",
+          "description": "Soft paneer and vegetables layered with aromatic rice and rich biryani masala. Served with a chilled Free Thums Up.",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/4804f790-a778-4e6b-9ea3-08a6da297159_c48eb902-779d-4ebc-a28c-d317ee9fc2e9.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "195350553",
+          "name": "Taj-e-Khumb Biryani with Thums Up",
+          "description": "Exotic mushrooms cooked in rich royal spices, layered with fragrant basmati rice on dum. Comes with a refreshing Free Thums Up.",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/9887fcfa-b341-4a5c-8e13-5d364dd958ea_fad1d650-96a2-44a7-b045-422bd58a7a1b.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "195350535",
+          "name": "Raaz-e-Kalimirch Murgh Biryani with Thums Up",
+          "description": "Spicy black-pepper chicken cooked with fragrant basmati and bold spices for a fiery bite. Enjoy with a Free Thums Up.",
+          "price": 469.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/3e0a728f-a168-4bf7-b3b4-72fa6af5a751_1d24dc69-85e9-4b41-9b86-817361c2cb58.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350555",
+          "name": "Tokhm-E-Biryani with Thums Up",
+          "description": "Protein-rich egg biryani cooked in aromatic spices and layered with fragrant basmati rice. Paired with a chilled Free Thums Up.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/bc79bef5-bcd7-48a3-8ff0-92b1c5e86379_06c9fba5-dee9-49bc-a7ac-e5dd01c9a147.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "195350549",
+          "name": "Subz-E-Biryani with Thums Up",
+          "description": "A royal medley of vegetables, slow-cooked with aromatic basmati and signature spices. Served with a Free Thums Up.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/e9eb0d8a-c7ac-431b-9e95-75e5dc43b4e4_10d80298-d23c-49ad-827d-2933aaf2199c.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "195350540",
+          "name": "Raaz-e-Kalimirch Paneer Biryani with Thums Up",
+          "description": "Cubes of paneer tossed in peppery masala, layered with aromatic rice and herbs. Comes with a refreshing Free Thums Up.",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/24/60bde847-da7f-4729-8dd9-6c2169de930c_ff0ee65b-3988-4f2c-9a0b-28847774f4b0.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "40047699",
+      "categoryName": "Royal Curries & Breads",
+      "itemCount": 18,
+      "items": [
+        {
+          "id": "128722844",
+          "name": "Aftaabi Murgh Tikka Masala",
+          "description": "Contains milk. Enjoy this royal curry made with authentic spicy masalas and juicy, succulent chicken tikka, char-grilled immaculately for the lajawab taste you've been waiting for!",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/27/1e4e0f01-654e-451b-90e0-e19f6ff9b468_75317044-8637-43ed-a901-e640691c9d2e.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "28 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "128691938",
+          "name": "Shabnami Murgh Lababdar",
+          "description": "Contains milk, soybean, peanut and tree nuts. Get ready for a shaandaar peshkash of this mildly sweet curry of tender chicken, kaju, tomatoes, chopped onions and shahi masalas. Pair this royal chicken curry with our biryanis & breads!",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/27/ab3712ab-e918-4a46-aa4f-e0c235d6851a_19740221-19cc-4554-82da-e36b7c2a4557.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "128691940",
+          "name": "Royal Paneer Daawat Combo (Serves 2)",
+          "description": "(1 Shahi Biryani with choice of Paneer Curry & Breads) A khaas daawat for the paneer shaukeens! Relish your choice of royal paneer biryani, curry, and bread and add a refreshing beverage to sum up the feast.",
+          "price": 649.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/2/d386e825-ad2b-410c-8cfa-29be86ce0c59_47ba9bf3-af04-4958-86bd-cd8769d914d8.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "130343549",
+          "name": "Shaandaar Murgh Curries Combo (Serves 2)",
+          "description": "1 Murgh Curry (500gm), Choice of Bread (Pack of 4), Kebab (6pcs) and a Beverage.\nDaawat ka aaghaz karein with your favourite murgh curry and bread and pair it with a lajawab kebab and beverage.",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/c0e31f82-39db-4727-a84c-796ecc03e079_b457e598-caa6-44b9-85c3-0c7be94dd61e.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "130343551",
+          "name": "Shaandaar Paneer Curries Combo (Serves 2)",
+          "description": "1 Paneer Curry (500gm), Choice of Bread (Pack of 4), Kebab (6pcs) and a Beverage.\nDaawat ka aaghaz karein with your favourite paneer curry and bread and pair it with a lajawab kebab and beverage.",
+          "price": 879.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/8183a454-d159-4e7b-a995-202ee319df84_d91c72f2-2f30-4d44-8889-bfccba9fd571.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "128722843",
+          "name": "Aftaabi Paneer Tikka Masala",
+          "description": "Contains milk. Savour tender, char-grilled paneer chunks with this authentic tikka masala curry. A mouthwatering combination of flavour and texture, indulge in this lajawab paneer peshkash for a royal daawat!",
+          "price": 310.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/a7ebd820-f88e-4401-a221-66b8c4669533_1fc79beb-ae21-4930-b99e-f1535eab41a5.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "130343554",
+          "name": "Rivayati Murgh Curry Combo (Serves 2)",
+          "description": "Murgh Curry (500 gm) with Choice of Bread (Pack of 4).\nSet up a wholesome daawat for 2 with your choice of North Indian murgh curry and breads.",
+          "price": 625.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/2/297d936c-8fa1-4291-a4e7-4b36ad299ef8_92f78f71-d55b-402d-9340-68b607a90b55.jpeg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "130343557",
+          "name": "Rivayati Paneer Curry Combo (Serves 2)",
+          "description": "Paneer Curry (500 gm) with Choice of Bread (Pack of 4).\nSet up a wholesome daawat for 2 with your choice of North Indian paneer curry and breads.",
+          "price": 605.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e8ae628f-9d43-405f-9fdf-0d1c08ff6f01_fe72c3cc-ee0f-43c4-9592-00bc2b84952e.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "128691942",
+          "name": "Paneer Lababdar",
+          "description": "Contains milk, peanut and tree nuts. Relish this mildly sweet curry of tender paneer with an aromatic blend of kaju, tomatoes, sliced onions and shahi masalas. Make the most of this Punjabi peshkash with your favourite biryanis & breads!",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/abcc6044-a9c8-4059-8138-f5010b2a7199_c72ba115-0712-4014-ab7e-582ac3d84819.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "128691939",
+          "name": "Royal Murgh Curry Combo (Serves 1)",
+          "description": "(1 Murgh Curry and Bread of your choice) Brighten your World Biryani Day daawat with this North Indian spread of delicious murgh curry and a soft, flaky bread.",
+          "price": 369.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/c46674fa-7d39-425e-91ec-e86a4812e6d3_8ad8eac2-2061-45fb-a420-533cddfee35c.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "139168623",
+          "name": "Aftaabi Mushroom Masala",
+          "description": "Contains milk, gluten (wheat), soybean, peanut and tree nuts. Relish a melange of shahi masalas in this peshkash of delectable, bite-sized mushrooms. Savour this nayaab gravy along with parathas or kulchas for your royal dawat.",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/27/cda49c18-c88c-400a-a8dd-e5ec3782868e_9dbd324c-c4e1-4d94-8b9f-86e5bf0ecdc1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "128691943",
+          "name": "Royal Paneer Curry Combo (Serves 1)",
+          "description": "(1 Paneer Curry and Bread of your choice) The perfect companion for your World Biryani Day daawat - an indulgent paneer curry and bread of your choice. Relish this shandaar combo with your favourite biryani!",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/2/fc34ef6f-bbad-410d-9069-8081d25e6574_1b4e986b-6d5c-4d40-a006-e4d092808909.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "129761521",
+          "name": "Nafees Laccha Paratha (Pack of 4)",
+          "description": "Contains milk and gluten (wheat). Make it an indulgent daawat with these flaky parathas, fried until crispy with desi ghee. Nothing beats these crowd favourite flatbreads for a wholesome meal.",
+          "price": 170.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/eb2381be-c3bb-418b-9500-eda8321b36dd_fcd84ce2-395b-4c66-9c0f-3b98f654f117.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "124114426",
+          "name": "Dilkhush Narm Kulcha (Pack of 4)",
+          "description": "Contains milk, gluten (wheat), soybean and sesame. Complete your daawat with this desi, soft-leavened bread. Pair your favourite curries and gravies with a side of these fluffy Kulchas.",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/9412d202-8914-4270-bdd1-72f9ce6139b9_9fa89d6e-f29a-483e-8923-0513910adb72.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "141865471",
+          "name": "Rumali Roti",
+          "description": "Contains gluten (wheat). Indulge in the delicate layers of our Rumali Roti, crafted to perfection with tenderness in every bite. Pair this as a fine accompaniment to your choice of royal curries.",
+          "price": 89.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/24/f8d2652c-5c9f-4e02-a97b-3afe0305e1dc_537520a1-0c47-4712-9473-758ca7e31669.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "129761520",
+          "name": "Nafees Laccha Paratha (Pack of 2)",
+          "description": "Contains milk and gluten (wheat). Make it an indulgent daawat with these flaky parathas, fried until crispy with desi ghee. Nothing beats these crowd favourite flatbreads for a wholesome meal.",
+          "price": 90.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/dec51e33-9603-40e0-9c29-7922a0f5f418_8dde6b49-d6ca-46b8-994b-38433fa85d6e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "114049432",
+          "name": "Afreen Basmati Rice (300 gm)",
+          "description": "Contains milk, gluten (wheat), soybean, tree nuts and sesame. You cannot go wrong with this absolutely fine and flavourful rice. Enjoy the khusbudaar long-grain basmati rice with your favourite curries.",
+          "price": 79.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/73096eb6-e190-4464-8351-d5c0d1cd45ef_f5d31d75-bce9-4448-a475-f6af86772f75.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "114186938",
+          "name": "Dilkhush Narm Kulcha (Pack of 2)",
+          "description": "Contains milk, gluten (wheat), soybean and sesame. Complete your daawat with this desi, soft-leavened bread. Pair your favourite curries and gravies with a side of these fluffy Kulchas,",
+          "price": 89.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/43a23a8e-7ab8-4714-9254-385c51353de5_3bc97ba1-1da7-4cd7-9358-f0b6ba8140c7.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "9 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "55885568",
+      "categoryName": "Sides",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "193952743",
+          "name": "Murgh Patti Samosa",
+          "description": "Crispy, Iranian-style patti samosa filled with murgh blended in 23 shahi masale, fried to golden perfection. A savoury peshkash, best enjoyed as a side dish during Iftar.",
+          "price": 189.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/9/4b37cfa1-9754-4669-9d2e-0ce6f60511cb_1de7bbba-5aaf-4eee-a727-3f12797f426b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "112853383",
+          "name": "Mughlai Gravy",
+          "description": "Contains milk. Mughlai Gravy, a classic popular North India dish has a thick & creamy gravy with a flavor of yogurt and the taste of ground and whole spices.",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/6b70fdab-ae23-46c5-8a29-c2368ecc6682_d5ddf990-2fc2-4499-929b-9fa921e415fb.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "39 ratings"
+        },
+        {
+          "id": "24755806",
+          "name": "Mint Raita (80 gm)",
+          "description": "Contains milk. Mint raita is a refreshing and cooling raita made with mint, whisk yogurt and cumin.",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/3a4d4cba-263e-4c05-8fc9-af7e28e13851_52c2fcfa-f9e1-4056-a378-9c8152c5b01f.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "30 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "55885569",
+      "categoryName": "Beverages",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "167203244",
+          "name": "Badam Kesar Thandai (Pack of 2)",
+          "description": "Savor the traditional flavors of Badam Kesar Thandai, a deliciously spiced and nutty drink to elevate your celebrations!",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/12/06255817-f6e2-45c3-9176-785c09d2d6ec_a0489b8e-e8c1-4d12-8a61-8bcc29cf125f.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "166675347",
+          "name": "Badam Kesar Thandai",
+          "description": "Rich, refreshing, and fasting-friendly, our Badam Kesar Thandai is the perfect upvas treat! (Allergens: Milk and milk products, Tree nuts and their products, Sesame seeds and their products)",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/11/278316dd-72fb-4ce6-9659-c85cdd9ab95a_4be0b0a2-d754-4413-9f57-a2e22537bb50.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "25042120",
+          "name": "Ayran (Buttermilk)",
+          "description": "Contains milk. A popular drinks from the land of Behrouz, Ayran is a Persian take of buttermilk topped with mint.",
+          "price": 65.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/24/3580b2f6-f337-475d-8530-a27b5559197c_52e68810-7926-4c45-94f0-e313c162e91b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "86 ratings"
+        },
+        {
+          "id": "76404084",
+          "name": "Coca Cola Bottle (475 mL)",
+          "description": "475 mL Coca Cola Bottle.",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/74fe8967-82b8-4185-8f79-94fb8bc3ec31_2505aede-4b8f-4dca-9879-e9c7d968e6d6.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "47 ratings"
+        },
+        {
+          "id": "126623351",
+          "name": "Thums Up Can (330 mL)",
+          "description": "330 mL Thums Up Can",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/28229821-1915-4197-98a8-964903f32012_0d9323dd-5bf3-456b-8ed2-460ec17aa8fd.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "167759892",
+          "name": "Coke Zero 330 ml Can",
+          "description": "0 KCal,. The iconic Coca-cola taste you love , now with zero sugar and zero calories! Crisp, refreshing, and full of flavor, it is the perfect guilt-free fizz to quench your thirst.",
+          "price": 66.5,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/d6735cb7-1bbd-425a-9614-69acf7bca1fa_99cdcfb9-4e5b-4271-88a1-ecb7c28c6c22.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "152028160",
+          "name": "Lemon Soda",
+          "description": "Cool off with this zesty lemon soda, bursting with bright citrus flavour and lively fizz. A go-to drink for a quick and refreshing boost anytime!",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e90b7f5f-6500-4064-8638-1e93fd31ca76_62a26a2c-9bf4-42b7-b9d9-38fcddeea449.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "189005300",
+          "name": "Jeera Masala Cola (250 ml)",
+          "description": "Experience a twisty take on the classic bubbly cola, infused with cumin that makes for a refreshing Jeera Masala Cola.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/1be5791b-e3da-4a0d-836b-67d9550eb46f_345b9b24-1a3a-45b6-a5fe-4afef6fce9c6.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "123398247",
+          "name": "Masala Lemonade (200 mL)",
+          "description": "A refreshing classic drink with combined goodness of fresh lime , himalayan pink salt & infused spices.",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/20/69816644-1260-45f9-9eab-734f32b25ceb_1990a3cb-ae63-4eb7-99e0-ce1dd9df385b.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "150096357",
+          "name": "Coke (250 mL)",
+          "description": "250 ml chilled coke to make your meal just perfect!",
+          "price": 59.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/65f0b965-478e-449e-8675-8abe3777b84a_04274bb2-c8c7-4489-bc93-9fce7a29610c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "55885570",
+      "categoryName": "Desserts",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "112853377",
+          "name": "Gulab Jamun Box (Pack of 10)",
+          "description": "Contains milk and gluten (wheat). Gulab Jamun. Soft. Plump and the way we are used to. There is nothing else in our gulab jamuns than authenticity and love.",
+          "price": 315.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/56b09ced-f114-48f3-a810-67473981dc45_4c1b911e-e737-4b68-a370-15496b0a7e36.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "127968223",
+          "name": "Moong Dal Halwa (300gm)",
+          "description": "Contains gluten (wheat) and tree nuts. Add this rich & decadent Indian dessert made with moong lentils, ghee, milk, sugar, garnished with chopped dry-fruits. Perfect for one with Indian sweet cravings.",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/17defd9a-aa4d-4352-8afc-86b7ed8ce67d_63a77ba4-7c95-4f2b-aca8-0926ab930fa1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "158334940",
+          "name": "Chocolate Cheesecake Slice",
+          "description": "Cheesecake and chocolate lovers, 'tis one's specially for you! A match made for the season, sure to elevate every celebration. (Allergens: Cereals containing gluten, Milk and milk products, Soybeans and their products, Sesame seeds and their products)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/27/edf9b2d5-7dab-460f-a8da-a041aa12b794_c522de54-dd74-4bac-bbe0-55dc094ab47a.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "215459075",
+          "name": "Kunafa Mousse Jar",
+          "description": "Indulge in layers of soft chocolate cake, velvety chocolate mousse, and a generous topping of crispy kunafa, creating a delightful contrast of smooth chocolate and crunchy kunafa in every bite. Allergens: Contains Gluten (Wheat), Milk, Soy, and Nuts.",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/11/22a44a32-584c-428b-b727-626d013013f2_86ee6776-8abe-4007-b553-c66959bfc144.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215459074",
+          "name": "Kunafa Brownie",
+          "description": "A rich, fudgy chocolate brownie topped with crunchy kunafa, offering the perfect combination of chocolatey indulgence and a delightful crunch in every bite. Allergens: Contains Gluten (Wheat), Milk, Soy, and Nuts.",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/11/81d9795a-ce2c-4f4a-a5ab-e23d23ce3ce3_9c7ee0ba-d2cb-405e-a3b9-6b5313db9138.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "127606274",
+          "name": "Moong Dal Halwa (80 gm)",
+          "description": "Add this rich & decadent Indian dessert made with moong lentils, ghee, milk, sugar, garnished with chopped dry-fruits. Perfect for one with Indian sweet cravings (Allergens: Cereals containing gluten, Tree nuts and their products)",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/e14c4cfc-03d6-4bd4-b5d0-49e86311ea11_6febe323-8e52-4297-a59e-a0cf307720ae.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "112853432",
+          "name": "Gulab Jamun (Pack Of 2)",
+          "description": "Contains milk and gluten (wheat). Gulab Jamun. Soft. Plump and the way we are used to. There is nothing else in our gulab jamuns than authenticity and love.",
+          "price": 65.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/369fb893-7f02-4186-96e9-0229cc57a2ab_321e8038-47fb-4107-bbce-6fbcaf8b0865.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "77 ratings"
+        },
+        {
+          "id": "159377008",
+          "name": "Gulab Jamun - Pack of 1",
+          "description": "Contains milk and gluten (wheat). These melt in mouth sweet dumplings are the one dessert which can make your knees go weak in anticipation. Now served in a piece.",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/4/23/3ae1c9fa-8a03-48d0-959f-4619718d6561_998eac2b-cce3-4003-b53a-4504258f3636.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "7 ratings"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

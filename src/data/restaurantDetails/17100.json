@@ -1,0 +1,1764 @@
+{
+  "restaurant": {
+    "id": "17100",
+    "name": "KFC",
+    "city": "Hyderabad",
+    "locality": "Bal Schander",
+    "areaName": "Gachibowli",
+    "costForTwo": 400.0,
+    "cuisines": [
+      "Burgers",
+      "Fast Food"
+    ],
+    "avgRating": 4.0,
+    "totalRatings": "48K+ ratings",
+    "deliveryTime": "10-15 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/11/17/c2ddc363-f116-4521-9c70-65e59be235fa_17100.JPG"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "97235438",
+          "name": "Wednesday Chicken Strips Bucket",
+          "description": "Wednesdays are for Fun! Savings of 52% off on 12 pc chicken Peri Peri Boneless Strips served with 4 delicious dips",
+          "price": 870.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/b52d2b74-88ec-48b6-a768-b46e534ea51d_17e745ee-7b66-4c0b-8e57-7023fd37af3e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "333 ratings"
+        },
+        {
+          "id": "138090613",
+          "name": "Wednesday Value Chicken Bucket",
+          "description": "Wednesday Value Savings of 40% on Bucket of 6 Pc Hot Wings, 7 Pc Peri Peri Strips & 2 Pc Chicken Leg Pc",
+          "price": 944.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/472ec25e-63b2-4048-aab1-90b31ad350d6_dcc44845-6210-4fee-b91c-e23ef8c08416.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "97235439",
+          "name": "Wednesday Chicken Bucket",
+          "description": "Enjoy Special Wednesday Bucket with flat 37% off on 10 pcs of Hot & Crispy Chicken",
+          "price": 1190.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/fc71ec71-ecd6-4d5b-a4b4-57238206926f_65fc745b-4a81-48ab-90ea-a354ef39db2e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "41 ratings"
+        },
+        {
+          "id": "138090611",
+          "name": "Wednesday Value Chicken Meal Bucket",
+          "description": "Flat 35% on Bucket of 6 Pc Hot Wings, 7 Pc Peri Peri Strips & 2 Pc Chicken Leg Pc, Medium Fries & Pepsi PET 475ml",
+          "price": 1120.2,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/b1222bc3-7b44-45ff-89b5-b5acbad5d753_d8917bc8-09b3-4576-b06b-6a07b046debf.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "138090610",
+          "name": "Wednesday Chicken Strips Meal Bucket",
+          "description": "Saving on 36% on bucket of 10 Pc Peri Peri Strips, 3 Dips, 4 Pc Hot Wings, Medium Fries & a Pepsi PET 475ml",
+          "price": 1081.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/3607e7b9-457b-4dc0-95ef-ada96daf26c8_4256e77a-fd86-43e8-a456-68bdcf45d32d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "138090609",
+          "name": "Wednesday Variety Chicken Meal",
+          "description": "Save 37% on Variety Bucket of 9 Pc Hot & Crispy, 4 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml",
+          "price": 1499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/a0cbd122-b8f5-430d-94a6-4619d243c30c_b46b7f0f-803a-426b-9848-3a386eb9dd4d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "215373223",
+          "name": "Korean Dunked Zinger",
+          "description": "The classic Zinger dunked in Korean sauce for a bold and flavourful twist. (Serving: 1 | Avg wt. 210g | 462 kcal | Contains: Wheat, Soya, Milk)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/10/ae649feb-213a-4c00-9806-10b191bf2579_c5eba941-410a-4422-8a0a-c0282678919f.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215373221",
+          "name": "Korean Dunked 2pc Drums",
+          "description": "Two juicy chicken drums coated in Korean sauce and packed with flavour. (Serving: 1 | Avg wt. 180g | 495 kcal | Contains: Wheat, Milk)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/10/3240a441-dac8-409f-b487-c5b076f60d8f_21e5e35e-bf84-48e1-9f67-67af31230555.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215373219",
+          "name": "Korean Dunked 3pc Strips",
+          "description": "Three crispy chicken strips dunked in Korean sauce for a bold, saucy bite. (Serving: 1 | Avg wt. 135g | 325 kcal | Contains: Wheat, Milk)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/10/9172524d-da76-49ea-8c17-9bc79c0f1daf_122a25cc-fed7-459c-8e58-a9cbfa2b1db2.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215373217",
+          "name": "Korean Dunked Meal Box",
+          "description": "A complete Dunked meal with a Dunked Zinger, 2 Hot Wings, crispy fries, and a refreshing Pepsi. (Serving: 1 | Avg wt. 855g | 1351 kcal | Contains: Wheat, Soya, Milk)",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/11/9fe1d485-fd46-4559-9df3-c440e1416d14_078d4b9a-83af-4a1e-b11c-17e37c5fd2e0.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "201944914",
+          "name": "Chicken Krisper with Reg Chicken Popcorn",
+          "description": "Chicken Krisper served with Chicken Popcorn and a whole lot of Savings!",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/28/bb9fa82b-c0f5-4375-a9e8-b56c6a388ba8_47d83a73-b92c-4651-b325-f03024e2b01a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "201944915",
+          "name": "Chicken Krisper with 2 Hot Wings",
+          "description": "Chicken Krisper served with 2 Hot Wings and a whole lot of Savings!",
+          "price": 244.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/26/19d837e8-7af3-4d22-96f3-a898aee491b3_639c377d-0bee-440a-ad67-9c9712c5f078.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "201944918",
+          "name": "Chicken Krisper with Reg Fries",
+          "description": "Mega KFC Value Meals with our best seller Chicken Krisper and Reg Fries",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/26/1ac4d74c-7570-4dba-87aa-b9efd7dd4142_cf93de7c-ee59-4d9a-ae55-f76377368668.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "201944912",
+          "name": "Chicken Krisper Meal",
+          "description": "True Value unlocked! Make it a meal and add to Chicken Krisper, 2 Hot Wings and refreshing Pepsi.\r\n",
+          "price": 343.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "201944917",
+          "name": "Chicken Krisper With Med Fries",
+          "description": "Mega KFC Value Meals with our best seller Chicken Krisper and Med Fries",
+          "price": 269.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "201944906",
+          "name": "Chana Burger with Reg Fries",
+          "description": "Vegetarian Delight! Chana burger with Fries on a deal price.",
+          "price": 184.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/28/e95beef2-a16f-4122-824e-c78330d5fedf_cf695761-ea0b-4c3e-86b2-4b90ff0afd0f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "189277906",
+          "name": "Chicken Zinger Meal with Fries & Pepsi",
+          "description": "Crispy, juicy Chicken Zinger Burger served with Large Fries and chilled Pepsi Reusable — your perfect midnight hunger fix.",
+          "price": 447.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "189277905",
+          "name": "Veg Zinger Meal with Fries & Pepsi",
+          "description": "Crunchy Veg Zinger Burger, Large Fries, and Pepsi Reusable — the ultimate vegetarian comfort combo for late-night cravings.",
+          "price": 437.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "189277898",
+          "name": "Non Veg Snacking Combo with Fries & Pepsi",
+          "description": "Popcorn Chicken with Large Fries and Pepsi Reusable — bite-sized fun to keep the night going strong.",
+          "price": 363.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "189277903",
+          "name": "Chicken Roll Meal with Fries & Pepsi",
+          "description": "Soft wrap loaded with spicy chicken and creamy sauce, paired with Large Fries and Pepsi Reusable for a satisfying meal on the go.",
+          "price": 374.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82795621",
+      "categoryName": "Wednesday Kfc Epic Deals (upto 50% Off)",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "97235438",
+          "name": "Wednesday Chicken Strips Bucket",
+          "description": "Wednesdays are for Fun! Savings of 52% off on 12 pc chicken Peri Peri Boneless Strips served with 4 delicious dips",
+          "price": 870.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/b52d2b74-88ec-48b6-a768-b46e534ea51d_17e745ee-7b66-4c0b-8e57-7023fd37af3e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "333 ratings"
+        },
+        {
+          "id": "138090609",
+          "name": "Wednesday Variety Chicken Meal",
+          "description": "Save 37% on Variety Bucket of 9 Pc Hot & Crispy, 4 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml",
+          "price": 1499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/a0cbd122-b8f5-430d-94a6-4619d243c30c_b46b7f0f-803a-426b-9848-3a386eb9dd4d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "138090613",
+          "name": "Wednesday Value Chicken Bucket",
+          "description": "Wednesday Value Savings of 40% on Bucket of 6 Pc Hot Wings, 7 Pc Peri Peri Strips & 2 Pc Chicken Leg Pc",
+          "price": 944.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/472ec25e-63b2-4048-aab1-90b31ad350d6_dcc44845-6210-4fee-b91c-e23ef8c08416.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "97235439",
+          "name": "Wednesday Chicken Bucket",
+          "description": "Enjoy Special Wednesday Bucket with flat 37% off on 10 pcs of Hot & Crispy Chicken",
+          "price": 1190.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/fc71ec71-ecd6-4d5b-a4b4-57238206926f_65fc745b-4a81-48ab-90ea-a354ef39db2e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "41 ratings"
+        },
+        {
+          "id": "138090611",
+          "name": "Wednesday Value Chicken Meal Bucket",
+          "description": "Flat 35% on Bucket of 6 Pc Hot Wings, 7 Pc Peri Peri Strips & 2 Pc Chicken Leg Pc, Medium Fries & Pepsi PET 475ml",
+          "price": 1120.2,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/b1222bc3-7b44-45ff-89b5-b5acbad5d753_d8917bc8-09b3-4576-b06b-6a07b046debf.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "138090610",
+          "name": "Wednesday Chicken Strips Meal Bucket",
+          "description": "Saving on 36% on bucket of 10 Pc Peri Peri Strips, 3 Dips, 4 Pc Hot Wings, Medium Fries & a Pepsi PET 475ml",
+          "price": 1081.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/3607e7b9-457b-4dc0-95ef-ada96daf26c8_4256e77a-fd86-43e8-a456-68bdcf45d32d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "82283597",
+      "categoryName": "New Korean Dunked Range",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "215373217",
+          "name": "Korean Dunked Meal Box",
+          "description": "A complete Dunked meal with a Dunked Zinger, 2 Hot Wings, crispy fries, and a refreshing Pepsi. (Serving: 1 | Avg wt. 855g | 1351 kcal | Contains: Wheat, Soya, Milk)",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/11/9fe1d485-fd46-4559-9df3-c440e1416d14_078d4b9a-83af-4a1e-b11c-17e37c5fd2e0.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "215373223",
+          "name": "Korean Dunked Zinger",
+          "description": "The classic Zinger dunked in Korean sauce for a bold and flavourful twist. (Serving: 1 | Avg wt. 210g | 462 kcal | Contains: Wheat, Soya, Milk)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/10/ae649feb-213a-4c00-9806-10b191bf2579_c5eba941-410a-4422-8a0a-c0282678919f.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215373221",
+          "name": "Korean Dunked 2pc Drums",
+          "description": "Two juicy chicken drums coated in Korean sauce and packed with flavour. (Serving: 1 | Avg wt. 180g | 495 kcal | Contains: Wheat, Milk)",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/10/3240a441-dac8-409f-b487-c5b076f60d8f_21e5e35e-bf84-48e1-9f67-67af31230555.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215373219",
+          "name": "Korean Dunked 3pc Strips",
+          "description": "Three crispy chicken strips dunked in Korean sauce for a bold, saucy bite. (Serving: 1 | Avg wt. 135g | 325 kcal | Contains: Wheat, Milk)",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/10/9172524d-da76-49ea-8c17-9bc79c0f1daf_122a25cc-fed7-459c-8e58-a9cbfa2b1db2.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "76024263",
+      "categoryName": "Value Burger Meals (starting From 99)",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "201944918",
+          "name": "Chicken Krisper with Reg Fries",
+          "description": "Mega KFC Value Meals with our best seller Chicken Krisper and Reg Fries",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/26/1ac4d74c-7570-4dba-87aa-b9efd7dd4142_cf93de7c-ee59-4d9a-ae55-f76377368668.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "201944915",
+          "name": "Chicken Krisper with 2 Hot Wings",
+          "description": "Chicken Krisper served with 2 Hot Wings and a whole lot of Savings!",
+          "price": 244.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/26/19d837e8-7af3-4d22-96f3-a898aee491b3_639c377d-0bee-440a-ad67-9c9712c5f078.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "201944914",
+          "name": "Chicken Krisper with Reg Chicken Popcorn",
+          "description": "Chicken Krisper served with Chicken Popcorn and a whole lot of Savings!",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/28/bb9fa82b-c0f5-4375-a9e8-b56c6a388ba8_47d83a73-b92c-4651-b325-f03024e2b01a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "201944912",
+          "name": "Chicken Krisper Meal",
+          "description": "True Value unlocked! Make it a meal and add to Chicken Krisper, 2 Hot Wings and refreshing Pepsi.\r\n",
+          "price": 343.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "201944917",
+          "name": "Chicken Krisper With Med Fries",
+          "description": "Mega KFC Value Meals with our best seller Chicken Krisper and Med Fries",
+          "price": 269.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "201944906",
+          "name": "Chana Burger with Reg Fries",
+          "description": "Vegetarian Delight! Chana burger with Fries on a deal price.",
+          "price": 184.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/5/28/e95beef2-a16f-4122-824e-c78330d5fedf_cf695761-ea0b-4c3e-86b2-4b90ff0afd0f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "9 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "57808620",
+      "categoryName": "Late Night Specials (starting At 199)",
+      "itemCount": 18,
+      "items": [
+        {
+          "id": "150553577",
+          "name": "Lazy BFF Rice combo",
+          "description": "BFF deal savings of Rs. 89 on 2 units of Popcorn Rice Bowl and 4 Leg Pc [Serves 2]",
+          "price": 799.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/cc0d9c3c-b038-4aac-a447-271b40202bcf_c6b525e2-333f-44ac-947d-18877bfc3249.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "150553590",
+          "name": "Craving Saving meal",
+          "description": "Crave & Save whooping Rs. 213 on 4 Pc Hot & Crispy, 4 Pc Peri Peri Strips, Medium Popcorn, 2 Dips & a Pepsi PET 475ml [Serves 2-3]",
+          "price": 779.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/9e5902f5-c942-4371-99cf-433bee88b8db_5463d28f-6503-4666-af67-419ebe262289.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "150553589",
+          "name": "Party Bucket Meal",
+          "description": "Party time Savings of Rs. 102 on 4 Pc Peri Peri Chicken Leg Pc, 2 Pc Peri Peri Strips, Regular Popcorn & a Pepsi PET 475ml [Serves 2]",
+          "price": 648.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/6c1b2981-60c2-4bcf-8566-002519dccca1_67401533-ea91-49bd-9320-e55d22ae31f3.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "150553584",
+          "name": "Thai Roll Dream meal",
+          "description": "Dream deal of Rs.74 on 2 units of Thai Spicy Chicken Roll, 2 units of Popcorn Rice Bowl and a Pepsi PET 475ml [Serves 2]",
+          "price": 648.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/de2a7280-a059-40b1-9fda-8fef1a6b7660_e839fa2f-4777-4245-b109-2b7e8af9b997.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "150553585",
+          "name": "Peri Peri Binge Watch combo",
+          "description": "Binge & Save Rs. 95 on 4 Pc Peri Peri Leg pc, 2 Pc Peri Peri Strips & Regular Popcorn",
+          "price": 599.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/5399c2df-c3d8-4d02-b45b-97d662ac7a57_84ef2049-345c-4aa4-ac20-92b3e5f32b61.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "189277906",
+          "name": "Chicken Zinger Meal with Fries & Pepsi",
+          "description": "Crispy, juicy Chicken Zinger Burger served with Large Fries and chilled Pepsi Reusable — your perfect midnight hunger fix.",
+          "price": 447.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "150553583",
+          "name": "Night Shift Zinger Pro Meal",
+          "description": "Relax in Night shift and save Rs. 66 on Zinger Pro Burger, Large Popocorn and 7Up Zero Sugar Can [Serves 1-2]",
+          "price": 488.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/286a5a97-6656-42c9-aaa2-1ec3767be7f9_ed0959c9-9b5b-40e5-af19-fef57b4d822a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "150553582",
+          "name": "Rice & Bites combo",
+          "description": "Deal meal of Hot & Crispy Rice Bowl and Large Popcorn [Serves 1]",
+          "price": 448.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/bcceee6c-627d-4708-ace4-8838694bf483_becfb89e-9d3e-4b52-afa6-6582f7ecad5e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "150553581",
+          "name": "Midnight Spicy Zinger & Popcorn Meal",
+          "description": "Midnight special savings of Rs. 66 on Spicy Zinger, Large Popcorn and Pepsi Black Can [Serves 1-2]",
+          "price": 459.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/16592baf-6ae0-472e-a9eb-4f38924c184d_310b9165-84d4-4274-99c0-95b46f1a2d60.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "150553586",
+          "name": "Rice Krunch Bowl Combo",
+          "description": "Krunchy savings of Rs. 69 on Popcorn Chicken Rice Bowl and 4 Pc Peri Peri Strips [Serves 1-2]",
+          "price": 399.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/d58ac62c-619f-4c8b-b84e-1e2f734d0537_4a7e2fbd-f270-4a19-8da1-854812149b43.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "189277905",
+          "name": "Veg Zinger Meal with Fries & Pepsi",
+          "description": "Crunchy Veg Zinger Burger, Large Fries, and Pepsi Reusable — the ultimate vegetarian comfort combo for late-night cravings.",
+          "price": 437.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "189277898",
+          "name": "Non Veg Snacking Combo with Fries & Pepsi",
+          "description": "Popcorn Chicken with Large Fries and Pepsi Reusable — bite-sized fun to keep the night going strong.",
+          "price": 363.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "189277903",
+          "name": "Chicken Roll Meal with Fries & Pepsi",
+          "description": "Soft wrap loaded with spicy chicken and creamy sauce, paired with Large Fries and Pepsi Reusable for a satisfying meal on the go.",
+          "price": 374.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "189277900",
+          "name": "Veg Snacking Combo with Fries & Pepsi",
+          "description": "Choco Lava Cake, Large Fries, and Pepsi Reusable — a combo that’s sweet, salty, and everything nice.",
+          "price": 357.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "189277902",
+          "name": "Veg Roll Meal with Fries & Pepsi",
+          "description": "A delicious paneer & veggie roll with KFC spices, teamed with Large Fries and Pepsi Reusable — light yet filling!",
+          "price": 367.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "150553572",
+          "name": "Still Awake Veg Zinger Meal",
+          "description": "Special Veg deal with Rs. 66 off on Veg Zinger Burger, Large Fries & a Pepsi Black Can [Serves 1]",
+          "price": 299.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/12/552c36a5-a81e-4ef2-b204-40a4d7ba63e0_c6ce48d6-f384-4ee0-9cd2-7380c77a0883.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "23 ratings"
+        },
+        {
+          "id": "150553587",
+          "name": "Night Owl Roll combo",
+          "description": "Eye opener deal on Classic Chicken Roll & Medium Fries [Serves 1]",
+          "price": 199.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/eb4bf183-297e-4c7a-82db-6d2e0f787472_324a0669-3780-43d0-bfb3-2ff3483188c3.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "150553574",
+          "name": "Night Bite Veg Roll combo",
+          "description": "Munching deal of Rs. 39 on Veg Spicy Roll & Large Fries [Serves 1]",
+          "price": 199.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/11/a39e1ee7-7f57-460a-aff5-e568c6c25b18_fa010fd0-0059-4be3-b193-6a4103fca417.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "13 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939346",
+      "categoryName": "Big Big Chicken Buckets",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "211054936",
+          "name": "Full House Popcorn Bucket",
+          "description": "Full House Popcorn Bucket",
+          "price": 1499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/22/fbea5902-7c16-4adc-a223-032d0838eca6_6cf9f1d6-b7f2-42ab-9a56-31dc6f6daf6f.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "104643490",
+          "name": "Big 12 - Chicken Bucket",
+          "description": "Relish 6 Hot and Crispy and 6 Boneless Wings in our hearty meal.| Allergens: Wheat| Protein/gm 25| Portion weight in gm 870| Kcal/serve 338| Carbohydrate/gm 24| Total Fat/gm 28| Sodium/serve 388|",
+          "price": 829.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/d30bb5e5-359f-4a34-abb8-f0c384ecc0f4_d44ed5c4-ad36-411d-ae8b-aace07ce5bf6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "57 ratings"
+        },
+        {
+          "id": "110155272",
+          "name": "Stay Home Chicken Bucket",
+          "description": "Save Rs. 232 & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken peri peri boneless strips & 2 delicious dips (20gm each) [serves 3]",
+          "price": 849.0,
+          "imageId": "nku1xlhmmifu1hxoiugt",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "110155269",
+          "name": "Big 8 - Chicken Bucket",
+          "description": "A flavour-packed bucket featuring 2 pieces of Hot & Crispy Chicken, 2 juicy Chicken Strips, and 4 pieces of bold Smoky Red Chicken—a perfect mix for sharing with family or friends. Portion in gm 1235| Kcal per serve  575| Carbohydrate per gm 31| Protein per gm 42| Total Fat per gm 32| Sodium per serve 692| Allergens: Wheat, Soya, Milk",
+          "price": 880.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/d66e9848-1867-4bcd-957b-6f67a4c94220_8a748fc3-08dc-4e22-ab5e-54731259b4eb.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "35 ratings"
+        },
+        {
+          "id": "128684578",
+          "name": "Ultimate Saving Bucket",
+          "description": "Enjoy signature bucket of 4 Pc Legs, 6 Pc Wings, 4 Chicken Peri Peri Boneless strips, 2 Dips (20 gms each) & a Pepsi PET 475ml [serves 2-3 ]. Portion in gm 1305| Kcal per serve  635| Carbohydrate per gm 62| Protein per gm 30| Total Fat per gm 33| Sodium per serve 661| Allergens: Wheat, Milk",
+          "price": 1126.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/664e5b17-de8a-406a-a565-994f8e5ec68c_681bcdc9-ad3d-456f-b891-85b506155c4a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "189 ratings"
+        },
+        {
+          "id": "104643519",
+          "name": "Family Feast",
+          "description": "Family Deal of 3 chicken zingers, a medium popcorn, medium fries & a chilled Pepsi PET 475ml [serves 3] ",
+          "price": 859.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/10/25f28d37-ed9d-4791-b254-5b0ddc2bdc4f_5f3991b4-6297-4ae9-8b94-cdb0026c21f6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "200734382",
+          "name": "Epic Savers Chicken Bucket",
+          "description": "Epic Savings on Bucket of 6 Pc Peri Peri Strips, 4 Pc Hot Wings, 2 Pc Hot & Crispy, 2 Dips (20 gms each) [Serves 2-3]",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/30/4f2a6b3f-3945-40a9-b7cb-e98daf3cce5e_da5584f7-866d-4e34-8539-3921b8c33357.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "148955855",
+          "name": "All in One Chicken Bucket",
+          "description": "Save 21% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml [Serves 2-3]",
+          "price": 599.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/cecc5007-dbb6-4b8c-b59e-6d0e0910861c_16977a50-b01f-4706-951b-98d3a9f9d472.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "211054935",
+          "name": "Mingles Bucket",
+          "description": "Mingle with 4 Chicken Hot Wings, 2 Chicken peri peri boneless strips & a Regular Popcorn at a deal price [serves 1-2]",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/9ce85257-5e05-4839-81e1-da2f55f14378_0ef34b6f-60a3-4ab1-8b80-e49f9d3074e3.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1421 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939347",
+      "categoryName": "Epic Value Meals For 1-2 (up To Rs 22% Off)",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "182995637",
+          "name": "Mad duo Meal",
+          "description": "2 Peri Peri Leg + 4 Chicken Boneless Wings + Large Chicken Popcorn+Tandoori DIP.| Allergens: Wheat, Soya, Milk| Protein/gm 41| Portion weight in gm 510| Kcal/serve 825| Carbohydrate/gm 50| Total Fat/gm 46| Sodium/serve 1581|",
+          "price": 998.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/24/f8eaf25a-f309-49db-bd2e-2c1dc1c97889_465aa16e-2dfc-496f-bed6-20571978d83e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "75 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "181677166",
+          "name": "Peri Peri Grand Feast",
+          "description": "2 Peri Peri Leg + 4 Chicken Strip + 4 Wings + 1 Medium Popcorn + 1 Pepsi Pet + 2 Tandoori DIP",
+          "price": 1298.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/1/4922bcba-c199-4621-b79e-2a122f5d5ef6_045c8ea6-49ab-4633-bc02-8c600cee02e5.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "48 ratings"
+        },
+        {
+          "id": "211054934",
+          "name": "Classic Zinger Box",
+          "description": "All new special Zinger Box with savings of Rs 86 on Classic American Zinger Burger, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1]",
+          "price": 399.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/15feea43-fd25-4fb1-912b-d53bd5cb9534_0f39c5a9-cfa1-4306-9214-5aba886c6575.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "182995639",
+          "name": "Jumbo Zinger Meal",
+          "description": "2 Classic Zinger + 2 Pepsi Resuable + 4 Peri Peri Strip + Large Fries+2 Tandoori DIP",
+          "price": 1398.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/24/53451ecd-2528-456f-a621-43d767ac3d1e_48fa9871-41b1-487e-ad8e-b58a140d08ca.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "182995638",
+          "name": "Thrice as Nice",
+          "description": "3 Hot and Crispy + 3 Chicken Strip + 3 Wings + Large Chicken Popcorn ",
+          "price": 1298.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/24/c85e26ed-57d7-45f9-92cf-20a6dfd53725_51e739a3-bfe4-4c11-9b72-61aa83879813.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "182995635",
+          "name": "Full-on Bowl Meal",
+          "description": "Popcorn Chicken Rice Bowl + 1 Peri Peri Leg + 2 Chicken Wings + Pepsi Resuable + Tandoori DIP",
+          "price": 798.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/c419607c-aee5-4803-8edc-0a888790593f_40732d77-f38c-4fa7-9ec9-c445f1651be2.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "58 ratings"
+        },
+        {
+          "id": "182995636",
+          "name": "Pure Veggie Bliss",
+          "description": "Veg Zinger with Cheese + Medium Fries + Pepsi Resuable + Choco Mud Pie + DIP",
+          "price": 798.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/24/62f28192-5433-4038-b685-9e6e4099ad6f_a5981c0f-e031-45ea-b7b7-98c5eb50777d.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "181677164",
+          "name": "Signature Leg & Wing Box",
+          "description": "2 leg pcs + 4 pcs wings + 1 Tandoori DIP",
+          "price": 558.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "181677167",
+          "name": "Fiery Indulgence Box",
+          "description": "1 Peri Peri Leg + 2 Chicken Strip + 2 Wings + 1 Tandoori DIP",
+          "price": 458.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/1/55d2e150-9cb4-422c-ad3d-ff8975a122d3_ec463855-f6f2-45de-b232-32fed0548aeb.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "8 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939342",
+      "categoryName": "Boneless Chicken Popcorn",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "110155170",
+          "name": "Chicken Popcorn-Large",
+          "description": "Signature bite-sized boneless chicken, with special spices",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/a9862cbe-4c80-45ef-9508-ef042b0f3e79_cad8ae71-4417-47c5-bf1a-2479bf26b11a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "4084 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "110155168",
+          "name": "Chicken Popcorn-Regular",
+          "description": "Signature bite-sized boneless chicken, with special spices",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/4bcee0d5-d92f-4788-be34-7bf1e881cc68_bf9a8b30-29ef-4d57-bc05-9fbad2111f9a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "876 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "110155169",
+          "name": "Chicken Popcorn-Medium",
+          "description": "Signature bite-sized boneless chicken, with special spices",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/28/f51c2536-9379-48f8-9c84-5eaa938bab27_a924b689-13a2-493f-b20b-8b7a9f6c3cc3.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "1280 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "175732410",
+          "name": "Full House Popcorn Chicken Bucket",
+          "description": "Enjoy Full Bucket of Boneless Chicken Popcorn with special spices at a deal Price!",
+          "price": 1499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/22/fbea5902-7c16-4adc-a223-032d0838eca6_6cf9f1d6-b7f2-42ab-9a56-31dc6f6daf6f.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "174023708",
+          "name": "2 x Medium Chicken Popcorn",
+          "description": "2 units of Signature bite-sized boneless chicken, with special spices in Medium Size",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/18/ba8ad606-7fb3-4994-8993-5782b1d39500_fbe719bc-ba83-4755-9db2-2a54c5d45164.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "176027132",
+          "name": "Medium Chicken Popcorn & Pepsi Reusable",
+          "description": "Signature bite-sized boneless chicken - medium variant with Pepsi in a Reusable Bottle",
+          "price": 278.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/18/70ffe00f-25e6-4bcc-8a19-201fe07dba79_e01846f6-b4eb-4c17-9309-897371ec1eae.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "69843722",
+      "categoryName": "Chicken Burgers And Meals",
+      "itemCount": 16,
+      "items": [
+        {
+          "id": "51751711",
+          "name": "Chicken Zinger Burger - Classic",
+          "description": "Signature American Classic Chicken burger made with a crunchy chicken fillet, veggies & a delicious mayo sauce",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/4d00e8e8-76ca-4f7a-b02a-7264fbf28fbd_7eb6c478-f3a7-4f7a-be7a-e98058a63c62.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "1807 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "62257323",
+          "name": "Chicken Zinger Burger - Tandoori",
+          "description": "Chicken zinger with a delicious Indian Tandoori flavour sauce",
+          "price": 239.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/8/00a8f2cf-1d91-4894-970b-a8cbc50e8a87_e9f8aa1b-ed88-43b4-b285-15d39bcd6225.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "743 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "137666064",
+          "name": "Spicy Zinger Burger",
+          "description": "New Caribbean Spicy Zinger Burger with Spicy Bun & Spicy chilli sauce with Zinger Fillet, Lettuce, Onion and Tomatoes",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/8/eb53ca3a-ef2c-477d-beb0-84bde051b75e_b14b4a58-cca1-42f7-860b-37b2f2254054.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "242 ratings"
+        },
+        {
+          "id": "122147596",
+          "name": "Zinger Pro Burger",
+          "description": "Mexican Premium Burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/e90b31f2-28db-430d-b472-6b0cb8c9a348_4a2b4b35-cb0e-401f-b007-0bc5e9a8ffe6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "156 ratings"
+        },
+        {
+          "id": "189277885",
+          "name": "2 Classic Chicken Krisper Burgers",
+          "description": "2 units of delicious chicken value burgers featuring delicious sauce & 2 peri peri chicken strips",
+          "price": 259.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "104643400",
+          "name": "Mixed Chicken Zinger Burger Doubles",
+          "description": "Save Rs.39 on Best-seller combo of American classic chicken Zinger & Indian Tandoori zinger burgers",
+          "price": 368.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/2/e41803fd-995e-4309-8128-94a8eaf23bd1_1b236811-0911-4fc0-a1e8-85fdeedff288.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "106 ratings"
+        },
+        {
+          "id": "104643402",
+          "name": "Chicken Burger Buddy Meal",
+          "description": "Share 2 American Classic Chicken Zinger Burgers & a Medium Chicken Popcorn in this delightful combo for 2",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/2/d896942d-66e1-4ac1-80f9-949db041eb89_68c9fb9a-1b60-4b20-b55f-1b9d5012ff62.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "67 ratings"
+        },
+        {
+          "id": "115929968",
+          "name": "Chicken Zinger Burger - Classic with Cheese",
+          "description": "Gourmet Signature American Classic Burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
+          "price": 255.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/27/1ebd7ee5-b4f6-4f99-9765-c8d3a3cb8f5f_599640ca-f2f6-4876-8658-1c6c28eab611.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "57 ratings"
+        },
+        {
+          "id": "189277886",
+          "name": "Chicken Longer Burger & 2 Strips Combo",
+          "description": "Longgg burger with crunchy chicken, onions & a punchy sauce , served with 2 peri peri chicken strips",
+          "price": 229.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "184720589",
+          "name": "Gold Chicken Zinger",
+          "description": "Gold Chicken Zinger",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/27/ff640a6c-a596-402d-8ad7-1b51affa76c5_621a669a-6e93-4c9a-b0c0-32031716e019.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "115929967",
+          "name": "Chicken Zinger Burger - Tandoori with Cheese",
+          "description": "Chicken Zinger Burger - Tandoori with Cheese",
+          "price": 265.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/27/f326bac5-656d-4e7f-b440-a978c2cd3491_2cae2d83-c8d9-4f5a-9536-88d9eb483140.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "55 ratings"
+        },
+        {
+          "id": "137131421",
+          "name": "Classic Zinger Mojito Combo",
+          "description": "Get All New Mojito Reusable Bottle with American Classic Chicken Zinger Burger",
+          "price": 308.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/2/a30eb590-58f4-48c3-85bf-5e1913ec9afb_ad836b2e-4aaf-427d-81d6-f1855d1bd564.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "196873047",
+          "name": "Chicken Krisper Popcorn Meal",
+          "description": "Favourite value burger Chicken krisper meets all time favourite Reg Chicken popcorn in this hearty meal.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/17/c35ff658-a9cc-40c8-b22f-60fed1c45df6_f4818b66-c4db-418f-91b0-50e47cd7ac0d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "196873048",
+          "name": "Chicken Krisper Fries Meal",
+          "description": "Relish delicious chicken krisper and crispy medium fries on the side\r\n",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/17/ed094f46-7a65-47f8-a3da-d2ed9616ebd1_3e70eded-a0d6-4fc0-b062-4b344a4c51fb.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "206650004",
+          "name": "Spicy Zinger Burger with Cheese",
+          "description": "Spicy Zinger Burger with Cheese",
+          "price": 265.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/14/f55ac431-ceec-4418-9eec-a2662dcf6806_58ccb434-193d-4d6b-b09d-901a916e3c38.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "197425202",
+          "name": "Grilled Chicken Burger",
+          "description": "A grilled chicken fillet with sauces in a soft bun — light yet satisfying",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/27/c313e5fe-b49f-41da-a38c-755b67f929a7_8ba007cd-6f68-4c62-9d66-b77dafa3eb15.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "9 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "69843720",
+      "categoryName": "Veg Burgers And Meals",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "137666066",
+          "name": "Paneer Zinger Burger",
+          "description": "It's Back! Crunchy Indian Paneer Patty Burger with tangy sauce and Veggies",
+          "price": 239.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/ca8b5056-202e-41e4-9ed3-4cbccb557966_448fb712-1380-46f5-84ec-9ce408c04647.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "65 ratings"
+        },
+        {
+          "id": "44572201",
+          "name": "Veg Zinger Burger",
+          "description": "Signature veg burger with crispy patties, cheese slice, veggies & a tangy sauce",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/16/15622d75-88f9-41d4-ac0c-991430caa6f1_784fb5c5-a3f8-4ac1-a7fa-b0b368522d49.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "394 ratings"
+        },
+        {
+          "id": "115929966",
+          "name": "Veg Zinger Burger with Cheese",
+          "description": "Signature veg burger with crispy patties, cheese slice, veggies & a tangy sauce",
+          "price": 245.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/2/2cded7e0-cf0d-4ffa-8a7f-ed976f06577f_537ba2e9-0f5b-42d7-b5d7-3495a9a4d783.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "46 ratings"
+        },
+        {
+          "id": "172223181",
+          "name": "Gold Edition - Veg Zinger Burger",
+          "description": "Our Signature Veg Zinger Dunked in Cheese Sauce in the new Brioche Bun to get your tastebuds tingling",
+          "price": 259.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/16/cb6e9c4a-4de6-4cb4-b549-35db959bf077_e7a57bea-8111-4037-8963-7275075500d2.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "189277882",
+          "name": "Veg Longer Burger - 2pc",
+          "description": "The really long burger with Veg Patty, Onion, Lettuce and two sauces ",
+          "price": 198.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/ae33e3ca-d590-4f96-b0a2-ac9de0517eac_8f8d83d7-f230-4361-bc27-556bac36d844.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "189277883",
+          "name": "Veg Krisper Burgers 2pc",
+          "description": "2 delicious veg value burgers - at a deal price",
+          "price": 189.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/1568fd97-3c90-4127-ac93-f26d3c247032_e58005ae-9dc1-4795-978c-2ee30c3addd4.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "177020751",
+          "name": "2 x Chatpata Chana Veg Burger & Fries combo",
+          "description": "Save Rs. 56 on 2 units of New Delicious Channa Burger with a unique Indian Chatpata Twist, Medium French Fries & 2 Dips",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/10/da7b540b-4bcf-4fc5-b764-1d63d4a6e84d_75a88c2c-bc58-4052-ae2f-6eea7e252f1f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "206650003",
+          "name": "Paneer Zinger with Cheese",
+          "description": "Paneer Zinger with Cheese",
+          "price": 265.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/1/456aa893-0218-4e39-ac06-826a0956b80f_044d426e-ae58-49b3-8d31-fb595a07ff68.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "189277884",
+          "name": "Chatpata Chana Veg Burger - 2 pc",
+          "description": "Try New 2 units of Delicious Channa Burger with a unique Indian Chatpata Twist",
+          "price": 169.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "44939343",
+      "categoryName": "Hot & Crispy Chicken",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "110155172",
+          "name": "Hot Chicken Wings-4 pc",
+          "description": "Seasoned, signature KFC chicken wings",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/4248e39d-2e52-4399-9288-408b21ae05da_3c249232-715d-4ca9-85f6-6c88daa3e14b.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "1609 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "110155173",
+          "name": "Hot & Crispy Chicken-2 pc",
+          "description": "Signature Hot & crispy chicken",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/20/fd52c74d-7c9e-44d6-8dcb-a392db6b90bd_e7e46d07-a637-472f-8940-f4f8cfad5b36.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "1079 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "110155179",
+          "name": "Hot & Crispy Chicken-8 pc",
+          "description": "Save Rs. 123 & get 8pc signature Hot & crispy chicken [serves 3-4]",
+          "price": 849.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/26d8cc3f-2562-4093-9be0-f1fdbec46a78_a0468cab-eb6a-4305-9faa-63ebc60133f7.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "59 ratings"
+        },
+        {
+          "id": "110155176",
+          "name": "Hot & Crispy Chicken-4 pc",
+          "description": "Save Rs. 24 on 4 pc of signature Hot & Crispy Chicken at a deal price",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/259d9aa7-bd76-47b8-867a-49591d14afed_366e4030-02aa-4765-b236-d634087e373d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "158 ratings"
+        },
+        {
+          "id": "110155178",
+          "name": "Hot & Crispy Chicken-6 pc",
+          "description": "Flat 10% off on 6pc signature Hot & crispy chicken [serves 2-3]",
+          "price": 659.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/dfe4b410-ef00-40d5-9fb1-2a87c9c8be7a_f8f62dda-dc24-487f-aacd-ecace04b6031.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "110155171",
+          "name": "Hot & Crispy Chicken-1pc",
+          "description": "Signature Hot & crispy chicken",
+          "price": 119.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/29/f0a84637-ded1-48df-bab0-8e9c6d4ce232_a99f5628-4767-427c-8d4c-e17666efd81c.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "132 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939345",
+      "categoryName": "Rolls",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "145438573",
+          "name": "Indian Tandoori Chicken Roll",
+          "description": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken strips in rich and creamy tandoori sauce",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/9/4c966f38-c191-4d0e-a54c-c70b832e4de1_69ee13c1-f267-4385-ab98-6efbc811de33.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "132 ratings"
+        },
+        {
+          "id": "113951414",
+          "name": "Classic Chicken Roll",
+          "description": "Street Syle Roll with Layerful parantha, single chicken strip, onions and two spicy sauce",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/12/98809656-a56f-400b-a5f4-85da2c373728_1f87888c-7eeb-4dfe-b233-0588c8c7a99b.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "231 ratings"
+        },
+        {
+          "id": "113951413",
+          "name": "Double Chicken Roll",
+          "description": "Double fun with double chicken strip filling, layerful parantha onions and two spicy sauce",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/12/c51d83f6-4c85-477a-9262-204092ab3e91_d5f20a0c-8b5d-49a5-a178-ba8745b59ff1.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "233 ratings"
+        },
+        {
+          "id": "145438574",
+          "name": "Thai Spicy Chicken Roll",
+          "description": "Fresh burst of Thai flavours and sauces in a flaky paratha, chicken strips and vegetables",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/7a872529-69f2-486b-861b-d69b45c99768_6ef91fcf-6864-4843-b1e3-f54e6c908ce7.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "145438572",
+          "name": "Indian Spicy Veg Roll",
+          "description": "Veg special spicy indian sauce and veggie roll",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/c4241509-feed-4f71-a93d-93723583272d_8540d46a-2519-4c1f-bef6-19f357a89ee3.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "5 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939348",
+      "categoryName": "Peri Peri Chicken Strips & Leg Pc",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "113590804",
+          "name": "Peri Peri chicken strips - 6 Pc",
+          "description": "Save 13% with on savouring 6 Spicy Peri Peri chicken boneless strips [serves 2]",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/6/8/931e8554-cd24-4ec8-aaa9-fbeac5f6aca2_c17ee2fb-9f22-4d25-bac4-796ba95c84ba.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "294 ratings"
+        },
+        {
+          "id": "160491960",
+          "name": "Peri Peri Chicken 5 Leg Piece Bucket",
+          "description": "Deal Bucket of 5 Spicy Peri Peri Leg Pieces [serves 2]",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/2/79a32368-3549-4d48-9e52-e7f7c58900b1_8a46771a-6bba-4fe1-9429-6972d8ba432b.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "62 ratings"
+        },
+        {
+          "id": "211314952",
+          "name": "Peri Peri Chicken Strips - 3 pc",
+          "description": "3 Pieces Spicy Peri Peri chicken boneless strips ",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/12/b2d3aa8f-feba-457d-9562-a66b1470a660_b4cb9eeb-3b16-46bd-8f9d-660ea23d720a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "650 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939351",
+      "categoryName": "Rice Bowlz",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "176800455",
+          "name": "Popcorn Andhra rice",
+          "description": "Andra Style Chicken Rice Bowlz in gravy served with signature Popcorn| Allergens: Wheat, Soya, Milk| Protein/gm 32| Portion weight in gm 320| Kcal/serve 640| Carbohydrate/gm 88| Total Fat/gm 39| Sodium/serve 2935|",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/12/cfc10e79-2594-4ac1-a07d-506d1f3efe79_79453ab6-a729-4ba7-9e3a-db587d3529b5.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "32 ratings"
+        },
+        {
+          "id": "176800452",
+          "name": "Smoky Legs Andhra Rice",
+          "description": "Our beloved Chicken Rice Bowlz served with 1 pc Smoky Red Chicken [serves 1]| Allergens: Soya, Milk| Protein/gm 26| Portion weight in gm 340| Kcal/serve 418| Carbohydrate/gm 63| Total Fat/gm 17| Sodium/serve 2211|",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/15/b6679ea7-9211-40f3-a257-e60a54baa93c_a1fae73f-deb7-45d5-8bd4-dfd181452b24.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "176800453",
+          "name": "HC Andhra Rice",
+          "description": "Andra Style Rice Bowlz served with 1 Hot & Crispy Chicken| Allergens: Wheat, Milk| Protein/gm 24| Portion weight in gm 340| Kcal/serve 654| Carbohydrate/gm 71| Total Fat/gm 31| Sodium/serve 2241|",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/fe18cc65-400c-44e6-ba02-0f54ae4e56bd_12d5f8a0-8df7-4248-8581-4f99eb084c62.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "176800454",
+          "name": "Veg Andhra Rice",
+          "description": "Andra Style Veg Rice Bowlz in gravy served with a crispy Veg Patty| Allergens: Wheat, Milk| Protein/gm 9| Portion weight in gm 305| Kcal/serve 418| Carbohydrate/gm 73| Total Fat/gm 16| Sodium/serve 2306|",
+          "price": 189.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/12/ee0dd8b3-bb77-4d0c-bdcd-dad34256735f_d2953e24-f8b8-4ca3-b6c8-bd9b6bf79a26.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "131123984",
+          "name": "Plain Rice Bowlz",
+          "description": "Aromatic Plain Rice Bowl| Allergens: Wheat, Milk| Protein/gm 10| Portion weight in gm 250| Kcal/serve 417| Carbohydrate/gm 65| Total Fat/gm 12| Sodium/serve 880|",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/16/db620e9e-6222-4a0b-9941-bfb9f1733900_55200096-7182-41f6-bb26-67e6c8eec47c.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "19 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "52914855",
+      "categoryName": "Grilled Smoky Red Chicken",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "110155166",
+          "name": "Smoky Red Grilled Chicken-2 pc",
+          "description": "Spicy, red, grilled chicken",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/12/87f62860-7db2-4fa0-aa17-7ff68d83d623_cff623d2-f2f0-43f5-a2af-20b0e7459648.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "93 ratings"
+        },
+        {
+          "id": "110155167",
+          "name": "Smoky Red Grilled Chicken-5 pc",
+          "description": "Save Rs. 85 on 5pc Smoky red grilled chicken [serves 2]",
+          "price": 579.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/20/50804139-669e-4448-8a03-1ea4fc83c415_20ea435b-d5e0-4778-be10-f387a595f361.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "110155165",
+          "name": "Smoky Red Grilled Chicken-1 pc",
+          "description": "Spicy, red, grilled chicken",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/0050f404-6496-4d54-b223-2443c9d78d1e_4e4483de-e326-4751-9cda-e82d58a3ea29.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "81 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939340",
+      "categoryName": "Sides And Dips",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "110155164",
+          "name": "French Fries-Large",
+          "description": "Jazz up your meal with crispy french fries",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/12/b777e299-5015-438f-be10-d5105b78d0c8_3d845be4-ebb0-4184-859f-e20551964346.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "919 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "110155163",
+          "name": "French Fries-Medium",
+          "description": "Jazz up your meal with crispy french fries",
+          "price": 129.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/12/9ef48a46-7a20-4725-9389-17090081f62f_901e0b64-9669-450d-905e-d3de4a96e812.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "558 ratings"
+        },
+        {
+          "id": "106401918",
+          "name": "2 pc Veg Patty",
+          "description": "Delicious, crispy, veg add-on",
+          "price": 159.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/12/1029085f-b9b3-42a6-9752-c7ae162c1ab1_c4f6961f-2058-42e2-8d92-3ece164578b6.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "66 ratings"
+        },
+        {
+          "id": "172223180",
+          "name": "Gold Edition - Regular Fries",
+          "description": "Enjoy our Regular Fries Dipped in Cheesy Sauce",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/15/19f74684-9989-4d6a-848a-8418cfc6108e_9f32a472-5ae5-4fb6-b8ab-1a3a9f344942.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "104643349",
+          "name": "Pack of 4 Dips",
+          "description": "Adding dips is always a good idea (20gm each)",
+          "price": 109.52,
+          "imageId": "2a7a207a21279ef61087d021a97d8329",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "23 ratings"
+        },
+        {
+          "id": "110155160",
+          "name": "Pack of 2 Dips",
+          "description": "Adding dips is always a good idea (20gm each)",
+          "price": 57.14,
+          "imageId": "lw4sl8lgwpavcwizvqrt",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "206650002",
+          "name": "Mayo",
+          "description": "Pair crispy fried chicken with our classic mayo dip",
+          "price": 29.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/8/1/38351e2a-53c3-4fa9-b685-861ce2a44c54_8aa5f58f-a812-4bb8-8960-60b896ab959b.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "74562670",
+          "name": "Tandoori Flavour Dip - 20 gm",
+          "description": "Special tandoori flavor dip to add a twist to your meal",
+          "price": 28.57,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/13/cf9e12bd-8579-4c77-b57b-ebcb4c9c5a27_6968a86d-7b3a-4bd6-927e-a15a2179a389.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "309 ratings"
+        },
+        {
+          "id": "198049865",
+          "name": "Naagin - The 65 Dip",
+          "description": "Homage to the classic South Indian flavour, with a twist!",
+          "price": 29.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/19/5f8facca-fd00-40bb-b48c-0e9a136867ff_279c4762-fa3f-451b-bcc3-9ca3b4589f51.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "198049866",
+          "name": "Naagin - The Original Dip",
+          "description": "Sauce that isn't too spicy. It's extremely family-friendly!",
+          "price": 29.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/22/9eaabb72-a81e-4453-a097-f82969af56f3_8250e554-483e-42b3-b02c-032feaa5c38a.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "44939339",
+      "categoryName": "Desserts & Beverages",
+      "itemCount": 16,
+      "items": [
+        {
+          "id": "119174122",
+          "name": "Choco Lava Cake",
+          "description": "Soft choco lava cake with a gooey center- perfect chocolaty end to every meal",
+          "price": 129.0,
+          "imageId": "thb7rrdooctsnknsnatz",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "170 ratings"
+        },
+        {
+          "id": "211381566",
+          "name": "Hazelnut Iced Cappuccino Reusable Bottle",
+          "description": "Grab refreshing Hazelnut flavoured Iced Cappuccino in reusable bottle",
+          "price": 208.57,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "150553561",
+          "name": "Cold Coffee Reusable Bottle",
+          "description": "Classic coffee just the way you like it",
+          "price": 199.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/9/9/2941b251-8ed1-46f5-99bc-2161a7074518_b37ebbca-5b0a-44b3-8879-c593fd5c046e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "55539288",
+          "name": "Choco Mud Pie",
+          "description": "Chocolate lovers unite! Say hello to our delicous, new, creamy chocolate & cake dessert- a must try! ",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/9/959cf6fe-dc3f-4aa6-8bee-621cb200f27f_1dd9cf41-9c9d-4df3-a196-142571950087.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "140 ratings"
+        },
+        {
+          "id": "157693410",
+          "name": "Virgin Mojito Reusable Bottle",
+          "description": "All New Reusable Mojito Bottle 330ml",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/17/6c53ffe5-4590-4243-94b3-ca859272c859_b067eb5d-2920-44e8-a310-73642ade0041.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "24 ratings"
+        },
+        {
+          "id": "150553557",
+          "name": "Dew Mojito Reusable Bottle",
+          "description": "A refreshing drink with Mountain Dew, lime and soda to beat the heat",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/13/ae8a872d-0d9a-4b20-b922-1e4ce7f43791_05c7e105-f21b-4202-bdf6-6c9a99425c2a.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "150553560",
+          "name": "Masala Pepsi Reusable Bottle",
+          "description": "A spicy kick to everyone's favourite drink",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/19/919f5e98-659d-4dd6-9382-8f0fce0dbda3_e7ae77a6-cab4-4ca1-8ed8-8a19a7ebd742.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "150553558",
+          "name": "Masala Mirinda Reusable Bottle",
+          "description": "A refreshing drink with Mirinda, masala lime and soda to beat the heat",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/19/deab65cb-ee05-447f-8f08-96ad0938bf92_e1eba102-531b-4114-83b9-9f46bcc5d267.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "150553553",
+          "name": "Mirinda Reusable Bottle",
+          "description": "Mirinda in a KFC reusable bottle",
+          "price": 99.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/17/c2543c5e-3d8d-4ce0-a536-f3db9df5f068_f98473e1-45ab-4c4d-b65f-daea19a4dd69.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "150553555",
+          "name": "7Up Reusable Bottle",
+          "description": "7Up in a KFC reusable bottle",
+          "price": 99.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/13/4fdfbdc7-cb5f-428f-bee4-f208b83fca33_69f4ba3f-232f-4ea7-a999-097e55983b6a.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "150553551",
+          "name": "Mountain Dew Reusable Bottle",
+          "description": "Mountain Dew in a KFC reusable bottle",
+          "price": 99.05,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/13/ae8a872d-0d9a-4b20-b922-1e4ce7f43791_05c7e105-f21b-4202-bdf6-6c9a99425c2a.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "49905093",
+          "name": "Pepsi Can Black 330 ML",
+          "description": "Enjoy Pepsi Black to make your food rise up to max levels of awesome with Zero sugar and Zero guilt!",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/15/e55c98fd-63b1-465d-ac8f-cbddff020c17_62384ee0-1c37-4fbd-9f6a-b5f350567cda.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "67077410",
+          "name": "Pepsi Can 330 ml",
+          "description": "Cheers to fizz that makes you Rise Up Baby! Order Pepsi to make your food rise up to your level of awesome!",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/12/90a37264-cc9f-4a0e-ae02-e7a6cbcbae4e_9e4a6c10-13b0-4271-a2e5-5415fd924c15.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "102 ratings"
+        },
+        {
+          "id": "49905092",
+          "name": "Mirinda CAN 330ml",
+          "description": "Great orange taste and sparking bubbles encourage you to be carefree, spontaneous and playful!",
+          "price": 66.67,
+          "imageId": "hoxyuosfrlevghoho7u9",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "67077409",
+          "name": "7UP Can 330 ml",
+          "description": "7UP is the ultimate Super-Duper Refresher. Every sip of this crisp lemon flavour refreshes you to the core.",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/1/21ee47a0-3236-4983-9df8-09c0e092cb1f_64dc0947-bf40-402c-a5b3-7d18ecb0dc9a.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "45 ratings"
+        },
+        {
+          "id": "63005647",
+          "name": "Pepsi PET 475ml",
+          "description": "Cheers to fizz that makes you Rise Up Baby! Order Pepsi to make your food rise up to your level of awesome!",
+          "price": 57.14,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/7/dc23843d-5fdc-4f94-a852-ab140ee2ec96_c68da80e-4ffa-4901-a6e6-13b2284de59c.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "439 ratings"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

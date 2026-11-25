@@ -1,0 +1,783 @@
+{
+  "restaurant": {
+    "id": "594950",
+    "name": "Biryani By Kilo",
+    "city": "Hyderabad",
+    "locality": "Sri Krishna Sanjay Commercial",
+    "areaName": "Gachibowli",
+    "costForTwo": 499.0,
+    "cuisines": [
+      "Biryani",
+      "Hyderabadi"
+    ],
+    "avgRating": 4,
+    "totalRatings": "10K+ ratings",
+    "deliveryTime": "25-35 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/9/1/7edaa7f1-437a-4e1a-abed-eac4a2766a49_594950.JPG"
+  },
+  "menu": [
+    {
+      "categoryId": "80384790",
+      "categoryName": "750 Gms Dum Biryani",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "211458986",
+          "name": "Chicken Hyderabadi Dum Biryani (750grams)",
+          "description": "(750 gms) | (3 pcs) chicken | (serves 2) | fresh chicken marinated in a mixture of freshly ground bbk spices & layered with long grain basmati rice in the claypot | size: 375 g | servings: 2 | calories: 758 kcal | allergens: milk & milk products",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/e1408caa-dbce-4977-9924-99a4d1a8e737_0ad49462-789a-4c65-bfa1-0257d8e50e71.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "2254 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211458990",
+          "name": "Kathal Dum Biryani (750gms).",
+          "description": "(750 gms) | (serves 2) | fresh jackfruit pieces marinated in bbk spices, layered with rice and dum-cooked in handi for authentic flavour. Masala is kept at the base. | size: 375 g | servings: 2 | calories: 796 kcal | allergens: milk & milk products",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/0c7c4d42-7f6e-4a01-93a5-efa49fb52b5c_9a70b148-6701-4f30-ba5c-7ec0818eea49.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "1447 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211458989",
+          "name": "Paneer Dum Biryani (750 Gms)",
+          "description": "(750 gms) | (serves 2) | fresh paneer cubes & capsicum dices marinated in a mixture of freshly ground bbk spices & layered with long grain basmati rice in the claypot | size: 375 g | servings: 2 | calories: 769 kcal | allergens: milk & milk products",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/ae7ce08f-4c9d-468f-9272-b472de9ed8c9_8652677a-6743-41f2-938b-ad6f0bb39d29.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "837 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211458985",
+          "name": "Mutton Hyderabadi Dum Biryani (750 Gms)",
+          "description": "(750 gms) | (3 pcs) chicken | (serves 2) | tender mutton marinated with bbk spices, layered with basmati rice and dum-cooked in handi for authentic hyderabadi | size: 375 g | servings: 2 | calories: 702 kcal | allergens: milk & milk products",
+          "price": 569.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/9dd97e34-b423-488b-8a80-870a36c3ecfc_289c1a2e-82a3-45f1-b0c3-8dfeac3f6c85.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "354 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211458987",
+          "name": "Chicken Boneless Dum Biryani (750grams)",
+          "description": "(750 gms) | (serves 2) | boneless fresh & succulent chicken marinated in a mixture of freshly ground bbk spices & layered with long grain basmati rice in the claypot | size: 375 g | servings: 2 | calories: 694 kcal | allergens: milk & milk products",
+          "price": 489.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/f7789a10-4039-4012-9415-59057a382bb3_a65986d5-14fc-41c5-ba34-e9864d05d044.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "575 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211458988",
+          "name": "Veg Hyderabadi Dum Biryani (750 Gms)",
+          "description": "(750 gms) | (serves 2) | fresh seasonal vegetables marinated in bbk spices, layered with basmati rice and slow-cooked in handi for authentic hyderabadi taste. Masala | size: 375 g | servings: 2 | calories: 690 kcal | allergens: milk & milk products",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/21/783dca91-47a2-4bd3-a2ce-ddc33ac3988d_c2caded3-25db-4c2d-befa-b087ffbab4ce.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "929 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211463676",
+          "name": "Egg Dum Biryani (750gms).",
+          "description": "750 gms | serves 2 | 3 eggs | elegance in every layer. Eggs, spice, and slow-cooked perfection | (/serving) | contains milk & milk products and egg | size: 375g | servings: 2 | calories: 523 kcal | allergens: milk & milk products and egg",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/aeee0192-7699-4539-bf74-7fce1cd0f807_5fed1483-64dc-4a8e-9a3e-402da3f32344.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80384800",
+      "categoryName": "750 Gms",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "211458991",
+          "name": "Nizami Chicken Biryani [750 Gms]",
+          "description": "Served with raita | (750 grams) | (serves 2) | contains (2 pcs) fresh chicken and one boiled egg marinated in a mixture of freshly ground bbk spices & layered with | size: 375g | servings: 2 | calories: 746 kcal | allergens: milk & milk products",
+          "price": 419.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/4003119f-2167-4a81-ad84-c19985d19ddf_55c5c973-094a-4dbd-b86a-6a24dac9037f.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "923 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211458992",
+          "name": "Guntur Chicken Biryani [750 Gms]",
+          "description": "Served with raita | (serves 2) | andhra specialty spicy chicken biryani, (750 grams) contains 4 pcs fresh chicken and one boiled egg marinated in a mixture of freshly | size: 375g | servings: 2 | calories: 738 kcal | allergens: milk & milk products",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/8/be4652a2-4c35-4d21-bc49-e522f7390d67_cf2f2352-49b8-4f6a-8a63-d1c36580396b.JPG_compressed",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "351 ratings"
+        },
+        {
+          "id": "211458993",
+          "name": "Zafarani Chicken Biryani [750 Gms]",
+          "description": "(750 gms) | (served with raita | (serves 2) | chicken (2 pcs) essence of saffron and desi ghee with fresh chicken and one boiled egg marinated in a mixture of freshly | size: 375g | servings: 2 | calories: 740 kcal | allergens: milk & milk products",
+          "price": 429.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/9cb2dd77-fe14-48a9-92c1-e524715b7ca0_5a488fd3-155a-465a-bebd-0aaa60d5cd1c.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "255 ratings"
+        },
+        {
+          "id": "211458994",
+          "name": "Nizami Egg Biryani [750 Gms]",
+          "description": "Served with raita | (750 gms) | (serves 2) | contains (3 eggs) marinated in a mixture of freshly ground bbk spices & layered with long grain basmati rice in | size: 375g | servings: 2 | calories: 777 kcal | allergens: milk & milk products and egg",
+          "price": 389.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/29/99cbdc47-a1ca-4c3f-bee3-d3d03b270088_ef47eb5a-d5a9-4ae9-83a6-3c0c62d6f184.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "133 ratings"
+        },
+        {
+          "id": "211458997",
+          "name": "Nizami Veg Biryani [750 Gms]",
+          "description": "Served with raita | (serves 2) | fresh vegetables marinated in a mixture of freshly ground bbk spices & layered with long grain basmati rice in the lagan & slow dum | size: 375g | servings: 2 | calories: 724 kcal | allergens: milk & milk products",
+          "price": 389.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/97658978-3cdb-44cb-8ec5-dbf2386922fc_4aab0787-c918-42bb-a6cd-13dc385b76f6.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "329 ratings",
+          "isBestseller": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80384802",
+      "categoryName": "Non Veg",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "106466448",
+          "name": "Tandoori Chicken Half (4 Pcs)",
+          "description": "4 pcs | tender chicken on the bone, marinated in bbk�s signature spices and roasted in tandoor for smoky flavour. | serving size: 4 pcs | servings per portion: 1 | calories per serving: 254 kcal| allergen information: contains milk products",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/10250ea3-1476-4cdd-b903-d21aeeb6cacd_cefa7b71-b1f6-448a-92c6-5765357b226e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "62 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "196798782",
+          "name": "Tandoori Chicken Full [8 Pcs]",
+          "description": "8 pcs | tender chicken on the bone, marinated in bbk�s signature spices and roasted in tandoor for smoky flavour. | serving size: 4 pcs | servings per portion: 2 | calories per serving: 244 kcal| allergen information: contains milk products",
+          "price": 719.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/10250ea3-1476-4cdd-b903-d21aeeb6cacd_cefa7b71-b1f6-448a-92c6-5765357b226e.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "198617464",
+          "name": "Chicken Ghee Roast [250 Gms]",
+          "description": "250 gms | coastal-style chicken tossed in freshly ground spices and finished with desi ghee for a rich, aromatic flavour. | serving size: 250 g | servings per portion: 1 | calories per serving: 799 kcal| allergen information: contains milk products",
+          "price": 439.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/8652ff6c-8455-481c-ac21-924f3d153dbd_17cb1db0-26d0-4884-9640-09faffb4a472.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "102334259",
+          "name": "Non Veg Platter",
+          "description": "Serves 2 | a hearty sharing platter of chicken galauti (3 pcs), chicken seekh kebab (4 pcs), chicken malai tikka (4 pcs), chefspecial bengaluru chicken kebab (4 pcs),  served with 3 dips. ",
+          "price": 859.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/20/c0cc5586-9008-4acd-bde2-5e19048d05a8_8ff6682d-ca8c-40ef-84d1-4a75b9c52e83.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.2",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "211459000",
+          "name": "Mutton Galouti Kebab",
+          "description": "4 pcs | a lucknowi delicacy of finely minced mutton marinated with exotic spices, served with laccha pyaaz and mint chutney. | size: 6 pcs | servings: 1 | calories: 558 kcal | allergens: milk products",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/17/cc3f5dc0-754f-406e-8020-8be7af68f3c8_0f290854-7f50-4b56-844f-c86b24969c57.jpg_compressed",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "99017690",
+          "name": "Guntur Chicken",
+          "description": "10 pc | andhra style traditional spicy chicken dish marinated with guntur chilly. ",
+          "price": 369.0,
+          "imageId": "599181e0b9b0800ac3acde446883fc78",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "50 ratings"
+        },
+        {
+          "id": "107975511",
+          "name": "Chicken 65",
+          "description": "8 pcs | hyderabadi-style chicken cubes fried and tossed in a spicy curd-based masala with curry leaves. | size: 8 pcs | servings: 1 | calories: 413 kcal | allergens: milk product, gluten, mustard & egg",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/815389b9-8ad9-43da-875d-ff2791bb84e4_1e0bb7da-a2b7-4a17-8cfb-fc6f094a6f8c.jpg_compressed",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "211458999",
+          "name": "Murg Malai Tikka",
+          "description": "8 pcs | soft, juicy chicken tikka that melts in your mouth. Tender pieces of boneless chicken in our creamy and cheesy marinade. | size: 8 pcs | servings: 2 | calories: 254 kcal | allergens: milk products",
+          "price": 389.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/79ec31ec-b408-41e5-a0dd-e22faa6beb14_c64280c4-2d66-4bc1-a103-cbe22903ad69.jpg_compressed",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "211458998",
+          "name": "Classic Chicken Tikka",
+          "description": "8 pcs | soft, juicy chicken tikka that melts in your mouth. Tender pieces of boneless chicken in our secret and spicy home marinade. | size: 8 pcs | servings: 2 | calories: 252 kcal | allergens: milk products",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/bdbf5437-3a8d-4c03-8f3a-9b0cf9cf0eaa_93c22e2c-06ee-4d91-9680-084556b0d1a0.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "107975507",
+          "name": "Chicken Seekh Kebab",
+          "description": "8 pcs | minced chicken mixed with indian spices, skewered and roasted over charcoal for smoky, juicy kebabs : 22g protein and 329 kcal | size: 8 pcs | servings: 1 | calories: 352 kcal | allergens: milk product & egg",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/e19de4c5-bf10-481d-bd41-2226038f1402_3e7fcbb6-8081-4b2c-aecd-770516056424.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "99017689",
+          "name": "Bengaluru Chicken Kebab",
+          "description": "10 pcs | chicken with bone chunk pieces marinated with special blend of spices, served crispy fried. Hint of curry leaves and dash of lemon. | size: 10 pcs | servings: 2 | calories: 240 kcal | allergens: milk products",
+          "price": 329.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/6/36fb2dbd-cbc8-4989-bb33-1a45caeba8fe_91e663c4-7257-4882-8ccf-7c2f8e7e50c5.jpeg_compressed",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "42 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80384803",
+      "categoryName": "Veg",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "102334258",
+          "name": "Veg Platter",
+          "description": "Serves 2 | a mix of paneer tikka (4 pcs) + veg galouti (4 pcs) + crispy corn stick (3 pcs) + chaap malai tikka (4 pcs). Served with 3 dips. ",
+          "price": 699.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/21/f97df4e0-1303-4034-90b2-9dd729e1223f_87f00e67-f262-4e45-aaf5-0161c36a7a7d.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "211459004",
+          "name": "Paneer 65",
+          "description": "10 pcs | crispy paneer cubes tossed in hyderabadi-style masala with curry leaves and tangy spices. A fiery vegetarian delight. | size: 10 pcs | servings: 1 | calories: 312 kcal | allergens: milk product, gluten,",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/3c08fe43-5f2c-4e75-8fad-7df9c521bacd_9b882f6a-7a10-4295-a856-dd35da5fbdc0.jpg_compressed",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211459002",
+          "name": "Soya Malai Chaap Tikka",
+          "description": "8 pcs | 100% pure soya chaap is coated in a velvety marinade of fresh cream (malai), yogurt, cashew paste, and mild white spices. | size: 4 pcs | servings: 2 | calories: 138 kcal | allergens: milk product, soy & nuts",
+          "price": 339.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/d3870d8a-62a7-4a1a-9084-c23c453b3c57_0a4b2016-0923-4db2-8195-0cc65da0d3b8.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "186190198",
+          "name": "Tandoori Soya Chaap Tikka",
+          "description": "8 pcs | protein-rich 100% pure soya chaap marinated in a signature blend of yogurt, cream, and bold tandoori spices of bbk. | size: 4 pcs | servings: 2 | calories: 209 kcal | allergens: milk product, gluten, soy & nuts",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/801e3edb-8fd8-4a52-a151-c304649b068e_7df84137-ce7c-4a11-8ca8-b0bbfc51a827.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "190387798",
+          "name": "Malai Soya Chaap + 2 Rumali Roti",
+          "description": "Malai soya chaap (8 pcs) + 2 rumali roti | soft, creamy malai soya chaap marinated in rich spices, paired with two thin, soft rumali rotis , a perfect indulgent combo",
+          "price": 329.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/efec30e3-b25c-414e-a3c2-d751064b5dbf_0b5c804c-9e9a-42ae-8921-bcdbcbb333c6.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "109890050",
+          "name": "Paneer Malai Tikka",
+          "description": "6 pcs | paneer pieces marinated with rich cashew, cheesy, cream with mild spices blend with herbs and cooked in tandoor, which is soft, crunchy and melts in mouth. ",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/ebdbedd2-a87f-49ec-96d7-7939510cb444_10582a41-4a92-4163-9d54-b178c84569bc.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "211459005",
+          "name": "Classic Paneer Tikka",
+          "description": "6 pcs | soft paneer tikka marinated in our secret and spicy house marinade with classic capsicum, onion and tomato. | serving size: 6 pcs | servings per portion: 1 | calories per serving: 688 kcal| allergen information: contains milk product, gluten",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/68277eeb-ab0a-4897-8e73-4bb5a50860de_758fd3ff-2b7d-4032-a17b-fdece306e511.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211459001",
+          "name": "Crispy Corn Stick [6 Pcs]",
+          "description": "6 pcs | sweet corn blended with paneer, potato and chef�s spices, coated in crumbs and served on wooden sticks. A crunchy vegetarian snack. | size: 6 pcs | servings: 1 | calories: 492 kcal | allergens: milk product, gluten",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/24bbb6e7-8213-4ed8-9709-6978797b3bb0_547a86d0-23a3-4258-b9fd-ff167e39a5ca.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "35 ratings"
+        },
+        {
+          "id": "198756606",
+          "name": "Hara Bhara Kebab [6pcs]",
+          "description": "Serves 1-2 | 6 pcs | veg kebabs crafted with spinach, peas & potatoes. Crispy outside, soft inside. | serving size: 6 pcs | servings per portion: 1 | calories per serving: 344  kcal| allergen information: no allergen",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/22/e6bdbfbd-8893-427b-855f-f49c52f5c643_7697e0aa-0fe1-415f-8fd5-6aadd09c6d50.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.8",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "211459006",
+          "name": "Corn Cheese Tikki (6 Pcs)",
+          "description": "6 pcs | serves 1 | crispy tikki stuffed with corn & cheese. Golden, crunchy & delicious | (443 kcal/serving) | contains milk product | size: 6 pcs | servings: 1 | calories: 443 kcal | allergens: milk product",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/9/6161b2c1-9613-435f-8a03-b3de4513c7ae_4bf14071-8369-4e36-981f-d1735ce23105.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211459003",
+          "name": "Veg Galouti",
+          "description": "4 pcs | lucknowi-style vegetarian galoutis made with ground vegetables and spices, served with laccha pyaaz and mint chutney. | size: 4 pcs | servings: 1 | calories: 218 kcal | allergens: milk products",
+          "price": 239.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/53761aa3-ee88-44d9-b25a-7359390a2b51_690b2c0e-d88b-47f1-ba46-b0a94b5ac501.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80384805",
+      "categoryName": "Non Veg.",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "211459007",
+          "name": "Butter Chicken [Boneless][500 Ml](chef Special)",
+          "description": "500 ml | serves 1-2 | 4 pcs juicy chicken tikka in rich butter gravy with kasuri methi, cream & butter. | serving size: 250g | servings per portion: 2 | calories per serving: 626 kcal| allergen information: contains milk products",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/22/ba870dd5-2cf7-4e36-a045-9da086d306c5_b864c1ab-8f43-408f-8361-b19bd51c65ca.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "211459009",
+          "name": "Butter Chicken With Bone",
+          "description": "750 ml | chefs special perfect blend of butter gravy which stands unique, cooked with chicken tikka finished with kasuri methi, cream, and butter. | size: 375 g | servings: 2 | calories: 919 kcal | allergens: milk & milk products",
+          "price": 589.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/0f3a03da-e105-4168-ab8b-f9b71ffa7644_afb3cdc3-aebe-484b-bd5c-011c88507f5c.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80384806",
+      "categoryName": "Veg.",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "211459011",
+          "name": "Butter Paneer [500 Ml](chef Special)",
+          "description": "500 ml | serves 1-2 | bbk version of the classic butter paneer, reviving the authentic flavors and giving it a new smoky twist. Creamy and comforting | size: 250g | servings: 2 | calories: 600 kcal | allergens: milk products",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/338ec7e2-e4e1-47a3-bdb6-f03c132d87ad_e8f89859-3366-4ebc-b9db-61369ab2d735.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211459010",
+          "name": "Dal Makhani [Half]",
+          "description": "250 gms | serves 1 | slow-cooked black dal in a rich buttery gravy, best enjoyed with indian breads. | serving size: 250g | servings per portion: 1 | calories per serving: 384 kcal| allergen information: contains milk products",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/f3d602eb-bacd-41b2-a181-cb390f36c80d_954939e1-1f6d-4fe0-b725-2a43ed242a90.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80384808",
+      "categoryName": "Rolls",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "109890047",
+          "name": "Chicken Tikka Roll",
+          "description": "Serves 1 | succulent chicken tikka wrapped in flaky paratha with laccha pyaaz & flavourful chutney. ",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/d37a3d87-b140-4cb3-958f-3f0188f85290_7bddde25-ec21-4c59-bbe2-becdb8abb0b4.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "87 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "109890056",
+          "name": "Paneer Tikka Roll",
+          "description": "Serves 1 | juicy paneer tikka wrapped in flaky paratha with crunchy laccha pyaaz & tangy chutney. | serving size: 1 no. | servings per portion: 1 | calories per serving: 465 kcal| allergen information: contains milk products, gluten",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/5202a2cf-f34d-4774-a4ec-c27fb40397ba_08c20ba2-51c5-4f0c-84ff-222516a06e0e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "50 ratings"
+        },
+        {
+          "id": "160858706",
+          "name": "Chicken Seekh Roll",
+          "description": "Serves 1 | tender chicken seekh kebab rolled in flaky paratha with laccha pyaaz & spicy chutney. ",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/a92782c7-fdf6-4e0d-bb4d-487aeea1a764_f7e966cc-e8fa-40da-8bb0-b60aea9dff8b.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "12 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80384809",
+      "categoryName": "Breads",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "166421290",
+          "name": "Jeera Rice",
+          "description": "300 gm | serves 1-2 | fragrant basmati rice tempered with cumin seeds, light & flavorful. | serving size: 300 g | servings per portion: 1 | calories per serving: 461 kcal| allergen information: no allergen",
+          "price": 189.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/2747b679-80a9-4977-bf1f-9825ebb70b4a_75381a26-a2e6-4ad3-8a7c-b70a9be25a35.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "211459012",
+          "name": "Rice",
+          "description": "300 gm | serves 1-2 | steamed basmati rice, soft & fluffy, perfect with any curry | serving size: 300 g | servings per portion: 1 | calories per serving: 398 kcal| allergen information: no allergen",
+          "price": 179.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/70ec7326-b6da-4d72-88b9-3850bdd48d3e_819c0f1c-d61e-4fc3-ae09-a326e2ff5194.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "106466444",
+          "name": "Butter Naan",
+          "description": "1 pc  | soft, fluffy naan with a charred exterior and smoky flavor, baked in the tandoor, topped with butter. | serving size: 1 pcs | servings per portion: 1 | calories per serving: 368  kcal| allergen information: contains milk products & gluten",
+          "price": 79.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/ee75b140-7ec9-44ca-bd27-d92d9d83f49d_79423054-2680-4d59-808b-bab7d18d5d8a.jpg_compressed",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "211459014",
+          "name": "Garlic Naan ",
+          "description": "1 pc | a tandoor-baked naan infused with garlic, delivering rich aroma and flavor. | serving size: 1 pc | servings per portion: 1 | calories per serving: 375 kcal| allergen information: contains gluten",
+          "price": 79.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/22/87112c6e-35bb-4e4b-bda5-04e6922f991c_2b98838c-febf-44ee-8abf-cf73197310b6.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "211459015",
+          "name": "Plain Naan",
+          "description": "1 pc  | soft, fluffy naan with a charred exterior and smoky flavor, baked in the tandoor. | serving size: 1 pcs | servings per portion: 1 | calories per serving: 350  kcal| allergen information: contains gluten",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/03fef53f-1418-41e7-bffa-b846d53fdd77_9511bf97-a6b6-4e32-9612-8ab91e0e034b.jpg_compressed",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "211459013",
+          "name": "Lachcha Paratha",
+          "description": "1 pc | flaky, layered paratha cooked in a tandoor for a golden, crispy bite. | serving size: 1 pcs | servings per portion: 1 | calories per serving: 364  kcal| allergen information: contains gluten",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/22/75d26368-2dd4-4346-963e-fec4a5503e0c_1409af9c-5d04-4868-8c70-392a200f7a3e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "186190196",
+          "name": "Malabar Paratha",
+          "description": "1 pc | flaky, layered south-style paratha. Perfectly paired with curries & kebabs. ",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/273c77fb-e6f5-46a6-b2b6-d03499b78f61_7497b5bb-556e-4667-af87-5f7ea7d56c3a.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "196798783",
+          "name": "Butter Tandoori Roti",
+          "description": "1 pc | crispy, simple roti baked in the tandoor, topped with butter. A classic pair for curries. | serving size: 1 pcs | servings per portion: 1 | calories per serving: 251  kcal| allergen information: contains milk products & gluten",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/22/b1c4c7b3-664e-4f28-93c1-2aadf13de7c6_971cdb75-b1fc-4bcd-9fe1-0233f84061eb.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "99017665",
+          "name": "Rumali Roti",
+          "description": "1 pc | thin and soft wheat-based rumali roti, crafted to stay light and guilt-free. | serving size: 1 pc | servings per portion: 1 | calories per serving: 193 kcal| allergen information: contains gluten",
+          "price": 45.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/3178e0de-b538-44cf-aa1b-b1d8d96071a9_6d6b3511-a13a-4c8c-876d-b3598be5853c.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "189 ratings"
+        },
+        {
+          "id": "156965500",
+          "name": "Tandoori Roti",
+          "description": "1 pc | crispy, simple roti baked in the tandoor. A classic pair for curries. | serving size: 1 pcs | servings per portion: 1 | calories per serving: 246  kcal| allergen information: contains gluten",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/22/7f0388df-2e6b-4f59-b859-445d696f844c_24fc30f6-5801-43bd-90d7-285bd092700f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "21 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80384810",
+      "categoryName": "Beverages",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "211459018",
+          "name": "Coolberg Cranberry Non-alcoholic Beer",
+          "description": "330 ml | fruity cranberry non-alcoholic beer with a crisp finish. ",
+          "price": 94.29,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/8e79c475-50c8-4f11-9a7a-15b2e5b3ca33_b54db7a4-ecae-4df7-8cef-6c9e10fe7b8d.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "211459017",
+          "name": "Coolberg Ginger Non-alcoholic Beer",
+          "description": "330 ml | zesty ginger-flavoured non-alcoholic beer, crisp & refreshing. ",
+          "price": 94.29,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/ce5f9757-8daa-41fc-88a6-50f9cdb26bf9_0413f22d-c831-41a5-bd39-f8ac09d81262.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80384811",
+      "categoryName": "Dessert",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "211459025",
+          "name": "Matka Phirni [500 Gms]",
+          "description": "1/2 kg | serves 2-3 | traditional matka phirni, slow-cooked with milk & rice for a rich, creamy dessert. | serving size: 500g | servings per portion: 3 | calories per serving: 328 kcal| allergen information: contains milk & milk products",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/ead32d24-2672-4c65-96bd-17eaf5f004a2_9731d0cf-d957-41ad-8fdf-007b1bf0fc50.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211459024",
+          "name": "Matka Phirni (250 Gms)",
+          "description": "250 gms | serves 1-2 | classic matka phirni made with milk, rice & saffron, served chilled. | serving size: 125ml | servings per portion: 2 | calories per serving: 247 kcal| allergen information: contains milk products",
+          "price": 179.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/4ffb3f87-a219-4399-a268-c876a18b6e56_73199e3a-c27d-4259-afbf-f6f31b0482d6.jpg_compressed",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "87 ratings"
+        },
+        {
+          "id": "211459023",
+          "name": "Gulab Jamun With Rabri [2pc]",
+          "description": "Serves 1-2 | 2 pcs gulab jamun served with creamy kesar rabri. | serving size: 2 pcs | servings per portion: 2 | calories per serving: 215 kcal| allergen information: contains milk & milk products, gluten and nuts",
+          "price": 179.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/baa8cb98-1ec9-47cd-b910-c9e8a8132430_dbe6b155-a1e6-4b1e-bf6e-129a279488f4.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "89 ratings"
+        },
+        {
+          "id": "211459022",
+          "name": "Gulab Jamun With Rabri [1pc]",
+          "description": "Serves 1 | soft gulab jamun topped with rich kesar rabri. | serving size: 90 g | servings per portion: 1 | calories per serving: 242 kcal| allergen information: contains milk product, gluten, nuts",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/04458f35-a7a0-4fea-8f98-0baa69becf17_dcdeb72e-605a-4129-a684-bc1e727d3847.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "45 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80384812",
+      "categoryName": "Extras",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "99017668",
+          "name": "Burani Raita",
+          "description": "250 ml | creamy garlic-flavoured raita with subtle spices. | serving size: 100 ml | servings per portion: 1 | calories per serving: 144 kcal| allergen information: contains milk products",
+          "price": 89.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/bf74bb26-aeb0-4605-94d4-ef2fb97a240f_b04ff27f-0b81-4015-a7f9-ae54b4b91561.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "102330031",
+          "name": "Masala Curry",
+          "description": "200 ml | smooth & spicy curry, must-try with biryani. | serving size: 200ml | servings per portion: 1 | calories per serving: 242 kcal| allergen information: contains milk, soy, celery & gluten",
+          "price": 75.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/351e5c9c-c8db-403a-b5e4-8f732316bd06_b5c53b6a-99a9-48e8-a949-d4817563ad3e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "211459026",
+          "name": "Raita [200 Ml]",
+          "description": "200 ml | cool & creamy raita that pairs well with every dish. | serving size: 100ml | servings per portion: 2 | calories per serving: 83 kcal| allergen information: contains milk products",
+          "price": 65.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/21/7765c8b1-0e36-471d-84ae-d8b6b1378847_3af721c9-6b5d-41c9-983d-9e3d61d1a29e.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "120 ratings"
+        },
+        {
+          "id": "211459027",
+          "name": "Salan [200 Ml]",
+          "description": "200 ml | traditional salan, the perfect biryani partner. | serving size: 100ml | servings per portion: 2 | calories per serving: 182. 32 kcal| allergen information: contains milk product, peanut & mustard",
+          "price": 65.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/31/17543128-9d6e-45ca-b761-80cdd2ea8e6b_460b2b9c-b096-43cd-b731-be092ddc38f5.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "171805625",
+          "name": "Extra Chutney",
+          "description": "Tangy & flavourful chutney, perfect for your meal",
+          "price": 20.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/814d9919-0da8-4d19-83c0-8308d297ddd2_e8784922-1272-488e-9603-08a2c59cf119.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "20 ratings"
+        },
+        {
+          "id": "171805626",
+          "name": "Extra Onion",
+          "description": "Freshly cut onions to pair with your meal. ",
+          "price": 15.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/9/cb43ed34-f1d1-47bb-a337-44a3df657956_7a4bfdef-ae32-4779-9bc3-cea1e42c30eb.jpg_compressed",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "24 ratings"
+        },
+        {
+          "id": "183845356",
+          "name": "Biryani Handi Aanch Box",
+          "description": "Light up the aanch box candles and give your biryani a extra dum. Experience the same fresh, dum-cooked taste at home",
+          "price": 10.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/60eed8d4-c9de-4408-90f7-5487ce8ff5a0_6a9e7cd1-1544-4937-b746-0a22a2bf4e2f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "11 ratings"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

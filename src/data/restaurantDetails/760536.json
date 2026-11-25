@@ -1,0 +1,2179 @@
+{
+  "restaurant": {
+    "id": "760536",
+    "name": "Shree Balaji Family Dhaba.",
+    "city": "Hyderabad",
+    "locality": "Serlingampally",
+    "areaName": "Nanakramguda",
+    "costForTwo": 300.0,
+    "cuisines": ["Snacks", "Chinese"],
+    "avgRating": 3.9,
+    "totalRatings": "1.8K+ ratings",
+    "deliveryTime": "40-45 MINS",
+    "imageId": "10dee72e35c41a4bdfa3c8cc767d2f00"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "125927247",
+          "name": "Fried Noodles",
+          "description": "",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/a62fd3bd-4862-4039-bbe3-71f34e938f76_359a17a7-122c-4ad0-80c7-3395c1e4b0f1.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125917733",
+          "name": "Green Peas Masala",
+          "description": "",
+          "price": 230.0,
+          "imageId": "xahxztfbvibspxryeges",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125927362",
+          "name": "Ginger Paneer",
+          "description": "",
+          "price": 320.0,
+          "imageId": "srqckese0j4zulirqw7k",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174987",
+      "categoryName": "Salad",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "125927251",
+          "name": "Green Salad",
+          "description": "",
+          "price": 120.0,
+          "imageId": "r3jzatdqwdblomzmdhmu",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125927239",
+          "name": "Masala Salad",
+          "description": "",
+          "price": 120.0,
+          "imageId": "271ddce54a8f463b01eb0976c50db5bb",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927246",
+          "name": "Tomato Salad",
+          "description": "",
+          "price": 120.0,
+          "imageId": "p2y69xgcxmqtioqwpjf7",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174988",
+      "categoryName": "Soups",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927258",
+          "name": "Tomato Soup",
+          "description": "",
+          "price": 180.0,
+          "imageId": "uduimeqrbccl38yiqpz1",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "125927276",
+          "name": "Mushroom Soup",
+          "description": "",
+          "price": 180.0,
+          "imageId": "kpymaj9p2b1houaepj00",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989892",
+          "name": "Veg Corn Soup",
+          "description": "",
+          "price": 180.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989894",
+          "name": "Veg Manchow Soup",
+          "description": "",
+          "price": 180.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125927265",
+          "name": "Sweet Corn Soup",
+          "description": "",
+          "price": 180.0,
+          "imageId": "iknakxcemniqcvev1i86",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "211989893",
+          "name": "Veg Hot And Sour Soup",
+          "description": "",
+          "price": 180.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174985",
+      "categoryName": "Snacks",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "211989896",
+          "name": "Veg Manchurian Dry",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "211989904",
+          "name": "Paneer Majestic",
+          "description": "",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989899",
+          "name": "Paneer Manchurian",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927354",
+          "name": "Crispy Corn",
+          "description": "",
+          "price": 360.0,
+          "imageId": "3e17b6281a7ec8a97858d4ef4421416f",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "211989905",
+          "name": "Chilli Paneer",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989897",
+          "name": "Gobi Manchurian",
+          "description": "",
+          "price": 279.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "211989901",
+          "name": "Baby Corn Manchurian",
+          "description": "",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927359",
+          "name": "Paneer Tikka Dry",
+          "description": "",
+          "price": 380.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/8/983e2b55-9134-42fa-8117-1fe2b2ba877a_3a6cefcb-c548-4d29-82d0-6ef3895202cc.jpg_compressed",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "211989907",
+          "name": "Mushroom Manchurian",
+          "description": "",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927349",
+          "name": "Chilly Mushroom",
+          "description": "",
+          "price": 360.0,
+          "imageId": "ca5ac8d794955912d997e7f0d9cb9483",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "211989902",
+          "name": "Baby Corn Majestic",
+          "description": "",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989895",
+          "name": "Veg Manchurian Gravy",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989906",
+          "name": "Chilli Baby Corn",
+          "description": "",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989898",
+          "name": "Schezwan Manchurian",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "80643968",
+      "categoryName": "65 Ki Pasand",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "123614601",
+          "name": "Paneer 65",
+          "description": "",
+          "price": 280.0,
+          "imageId": "ll8yf3ffo41ondyasgia",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "211989910",
+          "name": "Mushroom 65",
+          "description": "",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927383",
+          "name": "Baby Corn 65",
+          "description": "",
+          "price": 360.0,
+          "imageId": "oqwpnwwdlg8jz5x5ti6d",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125927365",
+          "name": "Veg 65",
+          "description": "",
+          "price": 330.0,
+          "imageId": "94f1c81a345d50f67644df5e6d53c1f6",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "211989909",
+          "name": "Aloo 65",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927375",
+          "name": "Gobi 65",
+          "description": "",
+          "price": 330.0,
+          "imageId": "zbbchyvm8wlvxcnjvb6r",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "9 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174994",
+      "categoryName": "Chinese",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "125927240",
+          "name": "Schezwan Noodles",
+          "description": "",
+          "price": 300.0,
+          "imageId": "lfunlpyod0d3npcoigve",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "211989914",
+          "name": "Hakka Noodles",
+          "description": "",
+          "price": 320.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989911",
+          "name": "Veg Noodles",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "125927247",
+          "name": "Fried Noodles",
+          "description": "",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/a62fd3bd-4862-4039-bbe3-71f34e938f76_359a17a7-122c-4ad0-80c7-3395c1e4b0f1.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "211989913",
+          "name": "American Chopsuey",
+          "description": "",
+          "price": 320.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "39174991",
+      "categoryName": "Dal Bahar",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927393",
+          "name": "Dal Fry",
+          "description": "",
+          "price": 200.0,
+          "imageId": "bn8tqvjmbv1y3emieoch",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "93 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125927402",
+          "name": "Dal Tadka",
+          "description": "",
+          "price": 285.0,
+          "imageId": "rhulaoo1ijah0cequoni",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "125927391",
+          "name": "Dal Makhani",
+          "description": "",
+          "price": 285.0,
+          "imageId": "z3cjzgoq1qux7egz9tx9",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.2",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "125927396",
+          "name": "Dal Pan Methi Wala",
+          "description": "",
+          "price": 200.0,
+          "imageId": "fa467a781edee7ac548316c76712d359",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "125927399",
+          "name": "Dal Palak",
+          "description": "",
+          "price": 285.0,
+          "imageId": "09dc8eb89022d157cc6eb8c50fc1070d",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "125927405",
+          "name": "Dal Butter",
+          "description": "",
+          "price": 285.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/28/f50ce56a-8b80-45c3-b9b2-7d46b232e4d0_2dbc407c-dd91-4272-9376-ebde7ec81c81.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174993",
+      "categoryName": "Kofta Ki Curries",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "125927410",
+          "name": "Malai Kofta",
+          "description": "",
+          "price": 270.0,
+          "imageId": "npqaawsm9hovnrpvyjeh",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "125927420",
+          "name": "Punjabi Kofta",
+          "description": "",
+          "price": 330.0,
+          "imageId": "218581ce0c3d512309c14816d4b0a2ae",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "125927418",
+          "name": "Paneer Kofta",
+          "description": "",
+          "price": 330.0,
+          "imageId": "jqdd1j2xa9uhxbmswtw6",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "125927414",
+          "name": "Kajal Kofta",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "211989929",
+          "name": "Palak Kashmiri Kofta",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989925",
+          "name": "Gujarati Kofta",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989921",
+          "name": "Veg Kofta",
+          "description": "",
+          "price": 270.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989927",
+          "name": "Rani Kofta",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989928",
+          "name": "Bulbul Kofta",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "41059042",
+      "categoryName": "Curries",
+      "itemCount": 66,
+      "items": [
+        {
+          "id": "125917707",
+          "name": "Paneer Butter Masala",
+          "description": "",
+          "price": 290.0,
+          "imageId": "mqpde15kuji25siwcqsp",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "211 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125917690",
+          "name": "Kaju Paneer",
+          "description": "",
+          "price": 340.0,
+          "imageId": "el0bvanhaf5hnvvhb60v",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "81 ratings"
+        },
+        {
+          "id": "125917710",
+          "name": "Paneer Chatpata",
+          "description": "",
+          "price": 299.0,
+          "imageId": "lhwgrnretaqtzlk5jclm",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "71 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125917704",
+          "name": "Methi Chaman",
+          "description": "",
+          "price": 270.0,
+          "imageId": "fyti0ixvymuctiexlmf7",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "49 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125917709",
+          "name": "Palak Paneer",
+          "description": "",
+          "price": 300.0,
+          "imageId": "lcgdrsz6ik3kexmg1wdd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "125917689",
+          "name": "Kaju Butter Masala",
+          "description": "",
+          "price": 340.0,
+          "imageId": "pzjygjwkurvukoh3vkyf",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "48 ratings"
+        },
+        {
+          "id": "125917607",
+          "name": "Shahi Paneer",
+          "description": "",
+          "price": 300.0,
+          "imageId": "coogplnsqckilxzmdxva",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "57 ratings"
+        },
+        {
+          "id": "125927379",
+          "name": "Kadai Paneer",
+          "description": "",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/65fde412-2fbd-4fc4-affd-c8acb6ea41c2_12a217ec-9705-43fa-bf11-a8cabd4161a2.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "125917700",
+          "name": "Mushroom Masala",
+          "description": "",
+          "price": 300.0,
+          "imageId": "luns6ppsimfmcrd7vaar",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "36 ratings"
+        },
+        {
+          "id": "125927435",
+          "name": "Paneer Tikka Masala",
+          "description": "",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/20/502fab70-b845-4218-87a0-3692c61bbcc1_3fdfbef3-c7d6-4410-ab4c-d199ac03aaef.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125927372",
+          "name": "Handi Paneer",
+          "description": "",
+          "price": 360.0,
+          "imageId": "w6qom73ntrjkbtm8wvpm",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125927238",
+          "name": "Paneer Pasanda",
+          "description": "",
+          "price": 360.0,
+          "imageId": "b7daa3a463e88437ad46bfbdb100a454",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125927434",
+          "name": "Paneer Patiala",
+          "description": "",
+          "price": 360.0,
+          "imageId": "eujmvxavxbwwcmtzdncm",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125917711",
+          "name": "Paneer Makhanwala",
+          "description": "",
+          "price": 300.0,
+          "imageId": "j0vys9scdfpzeoanskmx",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125927411",
+          "name": "Mutter Paneer",
+          "description": "",
+          "price": 270.0,
+          "imageId": "90662f7c0576475eaca6c0231bf5174c",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "125927400",
+          "name": "Kadai Mushroom",
+          "description": "",
+          "price": 380.0,
+          "imageId": "314aac706046f5908309c6575b668b34",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125927362",
+          "name": "Ginger Paneer",
+          "description": "",
+          "price": 320.0,
+          "imageId": "srqckese0j4zulirqw7k",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125917691",
+          "name": "Kaju Makhanwala",
+          "description": "",
+          "price": 340.0,
+          "imageId": "8ade735b600e00137139ba11f94b3bdd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "125917703",
+          "name": "Mushroom Paneer",
+          "description": "",
+          "price": 300.0,
+          "imageId": "hlk1go40uanqvnu7lliq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "125927302",
+          "name": "Butter Mushroom Masala",
+          "description": "",
+          "price": 340.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/20/c6dbaa19-dd79-44e7-89e7-0fe9d755ba10_538bb684-2fa5-42b4-9f4c-b431541e2a2b.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125927244",
+          "name": "Rani Paneer",
+          "description": "",
+          "price": 360.0,
+          "imageId": "f0a9c1b7c1f75e2d1f57d6bce44e5592",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927308",
+          "name": "Corn Palak",
+          "description": "",
+          "price": 300.0,
+          "imageId": "8df45b57710162ed679bf55db92e7d7b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125917706",
+          "name": "Punjabi Chana Masala",
+          "description": "",
+          "price": 300.0,
+          "imageId": "36dafe2f7026ceb55965b78b6c4d3120",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125917728",
+          "name": "Chana Masala",
+          "description": "",
+          "price": 260.0,
+          "imageId": "ka4uruiaiobvz97utg8s",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "125927419",
+          "name": "Mutter Mushroom Masala",
+          "description": "",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/22/b7f84b13-164a-4333-a8c8-9d88b146ef14_0645900d-355a-4b42-b382-3c2a64511e78.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917724",
+          "name": "Baby Corn Paneer",
+          "description": "",
+          "price": 280.0,
+          "imageId": "lp3guvyf8xvjurwynuc0",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125917723",
+          "name": "Baby Corn Masala",
+          "description": "",
+          "price": 280.0,
+          "imageId": "fv6ydafwz2zqnrnth7j8",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125917729",
+          "name": "Chana Paneer",
+          "description": "",
+          "price": 260.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/4e4c27f0-ec37-4b13-933d-e9cc33d2b00b_9009de8d-fa70-4d51-a82b-5568b926b935.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125917614",
+          "name": "Tomato Curry",
+          "description": "",
+          "price": 280.0,
+          "imageId": "ae27abbc10b8a5d3616bd820478474c6",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125917727",
+          "name": "Capsicum Masala",
+          "description": "",
+          "price": 260.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/20/f3dffb0d-d242-40fc-ad6c-88b95cc6370c_08a70f86-0de3-4d1d-a3c9-9284dc1d170d.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125927250",
+          "name": "Stuff Capsicum Masala",
+          "description": "",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/199e5d96-3601-40a6-910a-6159f72e7926_a3d062c2-da95-41b7-87b9-065d618ed0b2.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917733",
+          "name": "Green Peas Masala",
+          "description": "",
+          "price": 230.0,
+          "imageId": "xahxztfbvibspxryeges",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125927403",
+          "name": "Lacha Lacha Paneer",
+          "description": "",
+          "price": 280.0,
+          "imageId": "e4mcr5z70749yakdqutv",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125927255",
+          "name": "Stuff Tomato Masala",
+          "description": "",
+          "price": 330.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/433abcc5-0405-4ece-af86-eb271b1380d9_93e69008-cfd5-4d86-bf93-7dba52870155.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927427",
+          "name": "Plain Palak",
+          "description": "",
+          "price": 300.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/8/fc653578-437e-4905-9037-c838f43945c7_f0c58850-b3d7-4705-8ae3-cb5097bdfd6e.",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125917695",
+          "name": "Mixed Vegetable",
+          "description": "",
+          "price": 270.0,
+          "imageId": "jsvybalnhmdpxe74xckl",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "125927366",
+          "name": "Hara Bhara Masala",
+          "description": "",
+          "price": 300.0,
+          "imageId": "307a0a19f0a79cae3d442f845932d032",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927433",
+          "name": "Paneer Bhurji",
+          "description": "",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/8/9fb51a15-4277-4db7-bb3a-ec3f59007f8e_49854399-7eeb-4aa6-b8f8-8578cec62018.",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125917628",
+          "name": "Veg Kolhapuri",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "211989945",
+          "name": "Paneer Keema Masala",
+          "description": "",
+          "price": 290.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917634",
+          "name": "Veg Punjabi",
+          "description": "",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989891",
+          "name": "Schezwan Handi Paneer",
+          "description": "",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989890",
+          "name": "Special Punjabi Gobi Masala",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989946",
+          "name": "Paneer Dilruba",
+          "description": "",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989943",
+          "name": "Kadai Veg",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989932",
+          "name": "Veg Navratan Korma",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917737",
+          "name": "Paneer Do Pyaza",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917620",
+          "name": "Veg Kheema Masala",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917639",
+          "name": "Veg Chatpata",
+          "description": "",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989941",
+          "name": "Dum Ka Aloo Nawabi",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989942",
+          "name": "Ginger Aloo",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989936",
+          "name": "Aloo Tomato",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989940",
+          "name": "Dum Ka Aloo",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917625",
+          "name": "Veg Do Pyaza",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917697",
+          "name": "Marwadi Veg",
+          "description": "",
+          "price": 270.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989938",
+          "name": "Aloo Matar",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917718",
+          "name": "Aloo Gobi Masala",
+          "description": "",
+          "price": 260.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "211989939",
+          "name": "Aloo Paneer",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917622",
+          "name": "Veg Garlic",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "211989930",
+          "name": "Veg Jaipuri",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989947",
+          "name": "Aloo Jeera Dry",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989937",
+          "name": "Aloo Palak",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917612",
+          "name": "Tomato Chutney",
+          "description": "",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/8/b588df8c-7123-4047-8332-8f1b9079a22c_4186e14e-fbf2-4ecd-89d7-485aecd24e85.jpeg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989944",
+          "name": "Matar Palak",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917617",
+          "name": "Veg Kurma",
+          "description": "",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989931",
+          "name": "Veg Singapuri",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "41059039",
+      "categoryName": "Rotis",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927369",
+          "name": "Pudina Butter Roti",
+          "description": "",
+          "price": 70.0,
+          "imageId": "icua7jh3akmyuedj32xq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "125917660",
+          "name": "Butter Roti",
+          "description": "",
+          "price": 60.0,
+          "imageId": "apxs0zhcsjrl1ighuk0x",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "198 ratings"
+        },
+        {
+          "id": "125927360",
+          "name": "Kothmir Butter Roti",
+          "description": "",
+          "price": 70.0,
+          "imageId": "w7fi4jlkv481k8bfzqmo",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "34 ratings"
+        },
+        {
+          "id": "125927356",
+          "name": "Kothmir Roti",
+          "description": "",
+          "price": 60.0,
+          "imageId": "omwebdszcalbxqk88rf2",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "125917665",
+          "name": "Pudina Roti",
+          "description": "",
+          "price": 60.0,
+          "imageId": "z11xg1wbekbsrsbotnu4",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "125917658",
+          "name": "Tandoori Roti",
+          "description": "",
+          "price": 50.0,
+          "imageId": "fo0qp9u7yrjsdjmt0k4t",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "166 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "41059041",
+      "categoryName": "Naan",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "125917681",
+          "name": "Garlic Butter Naan",
+          "description": "",
+          "price": 130.0,
+          "imageId": "zjfkbifiqxpqfol6ilgs",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "30 ratings"
+        },
+        {
+          "id": "125917686",
+          "name": "Stuffed Naan",
+          "description": "",
+          "price": 150.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917672",
+          "name": "Butter Naan",
+          "description": "",
+          "price": 90.0,
+          "imageId": "no1nqeb1r2amwtl1xrgz",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "220 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125917683",
+          "name": "Baby Naan",
+          "description": "",
+          "price": 130.0,
+          "imageId": "eyeqvytufzwn3jptbrix",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917684",
+          "name": "Chatpata Naan",
+          "description": "",
+          "price": 130.0,
+          "imageId": "tchngnfq3bmevq3eonvw",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125917685",
+          "name": "Kashmiri Naan",
+          "description": "",
+          "price": 130.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/7/97081b8d-d44c-4cef-9984-ec8252265aa8_00a1f7d7-6a3f-48ae-b22c-a75c82eb33e0.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125927390",
+          "name": "Kothmir Butter Naan",
+          "description": "",
+          "price": 100.0,
+          "imageId": "t436r9dqzyvhunvtq1hd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "125917678",
+          "name": "Pudina Naan",
+          "description": "",
+          "price": 90.0,
+          "imageId": "2b8d69e09d33268e1f3b7c79c5c02dce",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927394",
+          "name": "Pudina Butter Naan",
+          "description": "",
+          "price": 100.0,
+          "imageId": "213de31a6bf5fdd697a10ab5f3a84c44",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125927385",
+          "name": "Kothmir Naan",
+          "description": "",
+          "price": 90.0,
+          "imageId": "hi9qur0n4ecy4rjvo5d7",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "125917670",
+          "name": "Plain Naan",
+          "description": "",
+          "price": 80.0,
+          "imageId": "mvq2faqbqbmfup4awq39",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "29 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80643969",
+      "categoryName": "Paratha And Kulcha",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "125917604",
+          "name": "Paneer Paratha",
+          "description": "",
+          "price": 160.0,
+          "imageId": "on7pr4ygyozmnzenaam3",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "23 ratings"
+        },
+        {
+          "id": "125927426",
+          "name": "Stuff Kulcha",
+          "description": "",
+          "price": 160.0,
+          "imageId": "k8dbl59ipra1pduqysuq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125917611",
+          "name": "Paneer Kulcha",
+          "description": "",
+          "price": 160.0,
+          "imageId": "9264c3af67a35edd7b2e5849717ae11b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "125917600",
+          "name": "Aloo Paratha",
+          "description": "",
+          "price": 160.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "125917608",
+          "name": "Rajasthani Methi Paratha",
+          "description": "",
+          "price": 160.0,
+          "imageId": "on39jhjnzvihtcekerhw",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "125917609",
+          "name": "Masala Kulcha",
+          "description": "",
+          "price": 160.0,
+          "imageId": "eoytcuevonxc9ludrwqa",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "125917602",
+          "name": "Pudina Paratha",
+          "description": "",
+          "price": 110.0,
+          "imageId": "khe3koqxnhnxyktv7gum",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125917598",
+          "name": "Plain Paratha",
+          "description": "",
+          "price": 100.0,
+          "imageId": "yzlk4uqpdp2rewuc3k6s",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125927421",
+          "name": "Lacha Paratha",
+          "description": "",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/7f6424d2-dd51-40bb-9c83-2c4bae6b2f81_bfb1dcaf-c007-4ac3-975a-1014f347f84f.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "7 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "41059034",
+      "categoryName": "Rice",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "211989934",
+          "name": "Jeera Rice",
+          "description": "",
+          "price": 200.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "121 ratings"
+        },
+        {
+          "id": "125927266",
+          "name": "Tomato Rice",
+          "description": "",
+          "price": 250.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/0961d52a-04f6-4f94-bf88-312f94c594c5_e2f77422-357e-4c77-b538-9dbd7f60e8ef.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "211989935",
+          "name": "Kaju Jeera Rice",
+          "description": "",
+          "price": 330.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927431",
+          "name": "Butter Rice",
+          "description": "",
+          "price": 220.0,
+          "imageId": "b99a12d4231f783e1859a4d5c2c93407",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "125927429",
+          "name": "Curd Rice",
+          "description": "",
+          "price": 200.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/51fde3fd-1c41-40ff-81ab-4cffcb8844d6_63999d52-74af-48db-bcfd-93a69733948f.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "125927430",
+          "name": "Lemon Rice",
+          "description": "",
+          "price": 240.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/c784afda-662d-4e2e-bdfd-0549123e2bf1_533b3e77-2fe5-47a0-8449-6e37e82172da.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "125927428",
+          "name": "Plain Rice",
+          "description": "",
+          "price": 150.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/8047770c-6d68-44c4-b280-e465d9245486_c293e281-2709-4485-bf13-34a80aba25a1.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "32 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174995",
+      "categoryName": "Fried Rice",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125917644",
+          "name": "Veg Fried Rice",
+          "description": "",
+          "price": 270.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "61 ratings"
+        },
+        {
+          "id": "125917646",
+          "name": "Paneer Fried Rice",
+          "description": "",
+          "price": 330.0,
+          "imageId": "dk44zgbcenff7vsv1cf7",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "125917653",
+          "name": "Kaju Fried Rice",
+          "description": "",
+          "price": 360.0,
+          "imageId": "qmmqyk5foazgjnvlhyhq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "125917649",
+          "name": "Schezwan Fried Rice",
+          "description": "",
+          "price": 300.0,
+          "imageId": "enuoiuvdsmtwgqwc27hj",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "125917655",
+          "name": "Mushroom Fried Rice",
+          "description": "",
+          "price": 360.0,
+          "imageId": "pr06zexuaitagi7lwatz",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125917651",
+          "name": "Masala Fried Rice",
+          "description": "",
+          "price": 350.0,
+          "imageId": "pfityghhborwsdbbw8jx",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "4 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174996",
+      "categoryName": "Biryani",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927322",
+          "name": "Paneer Biryani",
+          "description": "",
+          "price": 380.0,
+          "imageId": "vhdlkplwe0zjca2fmpe9",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "37 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125917657",
+          "name": "Veg Biryani",
+          "description": "",
+          "price": 260.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "100 ratings"
+        },
+        {
+          "id": "125927327",
+          "name": "Kaju Biryani",
+          "description": "",
+          "price": 380.0,
+          "imageId": "htlx2ki8dnwjyjdu66lk",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "35 ratings"
+        },
+        {
+          "id": "125927318",
+          "name": "Dum Biryani",
+          "description": "",
+          "price": 260.0,
+          "imageId": "spaxawejz0mbvay0rjlt",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "16 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125917659",
+          "name": "Handi Biryani",
+          "description": "",
+          "price": 260.0,
+          "imageId": "hoebqf9k5agshcfqt8ht",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "55 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "125927330",
+          "name": "Hyderabadi Biryani",
+          "description": "",
+          "price": 380.0,
+          "imageId": "iase9b1ieqxdfdhj0o34",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "14 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174997",
+      "categoryName": "Pulao",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927357",
+          "name": "Paneer Pulao",
+          "description": "",
+          "price": 350.0,
+          "imageId": "tzauitp3ad0tp6gjdmse",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "211989903",
+          "name": "Kashmiri Pulao",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989900",
+          "name": "Veg Pulao",
+          "description": "",
+          "price": 300.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927353",
+          "name": "Punjabi Pulao",
+          "description": "",
+          "price": 350.0,
+          "imageId": "784c8915ccb9b96b1178edeb9f452617",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "125927342",
+          "name": "Corn Kaju Pulao",
+          "description": "",
+          "price": 350.0,
+          "imageId": "ly5hodnalnyhvuneyuup",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "125927351",
+          "name": "Navratan Pulao",
+          "description": "",
+          "price": 350.0,
+          "imageId": "0a4bd8fb80033d96c6d58c6e604c2643",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174989",
+      "categoryName": "Papad",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "211989908",
+          "name": "Special Punjabi Papad",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927292",
+          "name": "Masala Papad",
+          "description": "",
+          "price": 100.0,
+          "imageId": "sor9h3ydpnvhnywjolay",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "125927290",
+          "name": "Butter Papad",
+          "description": "",
+          "price": 60.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/23/496aa67e-84bf-4a2f-b076-f982ca0fe67b_44eb53a8-0faa-481b-b5cc-0ce8b53a660a.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "125927287",
+          "name": "Fry Papad",
+          "description": "",
+          "price": 70.0,
+          "imageId": "6023188fabda9ff1d4c680686e6abd6e",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "125927285",
+          "name": "Roasted Papad",
+          "description": "",
+          "price": 70.0,
+          "imageId": "rwb8rjtcwptw0huwwqjq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "7 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "41059035",
+      "categoryName": "Special Starter",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "125917627",
+          "name": "Stick Paneer",
+          "description": "",
+          "price": 380.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/19/8883e8e4-f39b-4e04-9ba3-a102675490c7_9bc5afcf-f77c-4c2f-958c-451d1c95936b.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917630",
+          "name": "Dragon Paneer",
+          "description": "",
+          "price": 380.0,
+          "imageId": "dzd3svepze9dnpq5soac",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125917633",
+          "name": "Veg Spring Roll",
+          "description": "",
+          "price": 380.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "125917631",
+          "name": "Narmada Paneer",
+          "description": "",
+          "price": 380.0,
+          "imageId": "wcpypwuej4wzogdzkimk",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "125917635",
+          "name": "Veg Bullet",
+          "description": "",
+          "price": 380.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989917",
+          "name": "Onion Raita",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989918",
+          "name": "Boondi Raita",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989916",
+          "name": "Mixed Raita",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "41059036",
+      "categoryName": "Special Biryani",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "125917641",
+          "name": "Kaju Paneer Biryani",
+          "description": "",
+          "price": 420.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/cb7157ee-d3d8-4be4-8d52-95b461cb6898_b04cded0-f34b-4959-aaab-fd0fbbc4c51f.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "65 ratings"
+        },
+        {
+          "id": "125917638",
+          "name": "Mushroom Biryani",
+          "description": "",
+          "price": 420.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917637",
+          "name": "Nizam Biryani",
+          "description": "",
+          "price": 420.0,
+          "imageId": "nzqatbjswe7f6bgikist",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "211989912",
+          "name": "Paneer Keema Biryani",
+          "description": "",
+          "price": 420.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "80643970",
+      "categoryName": "Soft Drink And Beverages",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "125917652",
+          "name": "Salted Lassi",
+          "description": "",
+          "price": 80.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125917650",
+          "name": "Sweet Lassi",
+          "description": "",
+          "price": 80.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125917647",
+          "name": "Curd",
+          "description": "",
+          "price": 80.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/f8626d86-e3ff-4b97-9932-4a0f7c93059d_bb6338f4-0acc-442c-b422-675fd563f936.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "211989915",
+          "name": "Buttermilk",
+          "description": "",
+          "price": 80.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "24 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "39174983",
+      "categoryName": "Paneer Special",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927380",
+          "name": "Malai Methi Paneer",
+          "description": "",
+          "price": 400.0,
+          "imageId": "kfeuyo3a2hqw58c0zceo",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "125927377",
+          "name": "Kundan Paneer",
+          "description": "",
+          "price": 400.0,
+          "imageId": "edkrmpcbkz63t7e50qnp",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989919",
+          "name": "Paneer Makhani",
+          "description": "",
+          "price": 400.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989922",
+          "name": "Paneer Kasha Masala",
+          "description": "",
+          "price": 400.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927384",
+          "name": "Paneer Pakiza",
+          "description": "",
+          "price": 400.0,
+          "imageId": "euctgwgtgqqa0y0do2gq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "211989920",
+          "name": "Shanghai Paneer",
+          "description": "",
+          "price": 400.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "39174984",
+      "categoryName": "Veg Special",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "125927397",
+          "name": "Jil Mil Veg",
+          "description": "",
+          "price": 380.0,
+          "imageId": "e6088903ff51f0624f5528335485af1c",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989923",
+          "name": "Veg Mandakini",
+          "description": "",
+          "price": 380.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "125927404",
+          "name": "Hariyali Methi Chaman",
+          "description": "",
+          "price": 380.0,
+          "imageId": "a73db57fcdf0917ca5b4b76e4729dcc2",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "211989926",
+          "name": "Veg Ashiyana",
+          "description": "",
+          "price": 380.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989924",
+          "name": "Khandari Veg",
+          "description": "",
+          "price": 380.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211989948",
+          "name": "Sangam Special Paneer And Veg",
+          "description": "",
+          "price": 400.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId are left without imageId; descriptions are empty where not provided by the source."
+  }
+}

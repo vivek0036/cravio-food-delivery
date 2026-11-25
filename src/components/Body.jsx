@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 const Body = () => {
   const [resList, setResList] = useState([]);
   const [filteredResList, setFilteredResList] = useState([]);
+
   const [topRated, setTopRated] = useState(false);
 
   const [searchText, setSearchText] = useState("");
@@ -77,6 +78,7 @@ const Body = () => {
           {topRated ? "All Restaurants" : "Top Restaurants"}
         </button>
       </div>
+
       <div className="flex flex-wrap justify-center gap-5 ">
         {filteredResList.map((res) => (
           <Link to={`/resMenu/${res.id}`} key={res.id}>

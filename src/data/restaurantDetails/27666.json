@@ -1,0 +1,2464 @@
+{
+  "restaurant": {
+    "id": "27666",
+    "name": "Pista House",
+    "city": "Hyderabad",
+    "locality": "Gachibowli",
+    "areaName": "Gachibowli",
+    "costForTwo": 400.0,
+    "cuisines": ["Biryani", "Hyderabadi"],
+    "avgRating": 4.2,
+    "totalRatings": "182K+ ratings",
+    "deliveryTime": "30-40 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/13/24ccdf17-5f3f-4443-84c6-9629d5f4e6d8_27666.jpg"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "71260669",
+          "name": "Zaffrani Veg Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Mingled Along With Fresh Assorted Vegetables",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/65946e46-5534-41b9-8c96-232e8c9f01ba_b8789457-0aff-4ace-91e1-b1203e024d70.PNG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1416 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260668",
+          "name": "Zaffrani Paneer Biryani (serves 2)",
+          "description": "Flavourful Saffrom Rice Tossed With Paneer Gravy And Loaded With Finest Cottage Paneer (Chopped)",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/10/d2b6e9b3-5f79-47ae-be42-0079a94d01c9_373a6f42-c4ca-43eb-9d8b-6a1581ebfc64.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "931 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "63683578",
+          "name": "Zaffrani Kaju Paneer Biryani (serves 2)",
+          "description": "Flavourful Saffrom Rice Tossed With Smashed Cashew Paste And Paneer Gravy And Loaded With Finest Cottage Paneer (Chopped)",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/4b4d20f0-107f-43cb-84b8-96c74e265cc7_d2c49966-999e-4240-bc92-fe9a3342f400.PNG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "1259 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "93855606",
+          "name": "Zaffrani Nalli Ghosht Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Cooked With Freshly Marinated Tendered Mutton Leg Pieces Mixed With Traditional Exotic Herbs, A Perfect Combination Of Taste And Aroma",
+          "price": 619.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/d277ae45-0e7f-4b14-9447-567f5ac35389_eb088e50-3b3b-4bda-958a-dfb51cd87e90.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "253 ratings"
+        },
+        {
+          "id": "71260673",
+          "name": "Zaffrani Egg Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Boiled Egg Gravy",
+          "price": 319.0,
+          "imageId": "szhjf0r2f3laghqfyfnw",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "544 ratings"
+        },
+        {
+          "id": "71986458",
+          "name": "Zaffrani Chicken Biryani (regular) (serves 1)",
+          "description": "A Moderate Portion Of Our Splendid Zaffrani Biryani",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/7bc89cb5-e526-49da-baf8-517ddc0ae7a2_396f6de5-7698-435f-8ccb-afe093d17575.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "6704 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "39616795",
+          "name": "Zaffrani Chicken Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Enriched With Freshly Marinated Chicken Prepared With Traditonal Exotic Herbs, A Perfect Combination Of Taste And Aroma [Serves 2]",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/7bc89cb5-e526-49da-baf8-517ddc0ae7a2_396f6de5-7698-435f-8ccb-afe093d17575.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "12709 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71986459",
+          "name": "Zaffrani Mutton Biryani (regular) (serves 1)",
+          "description": "A Moderate Portion Of Our Splendid Zaffrani Biryani",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/22/d454db27-4b64-4f0b-b5d9-87601f734702_a1bbb41b-8436-4110-9abf-2671621da8f5.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "3977 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "39616793",
+          "name": "Zaffrani Mutton Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Cooked With Freshly Marinated Tendered Mutton Pieces Mixed With Traditional Exotic Herbs, A Perfect Combination Of Taste And Aroma",
+          "price": 519.0,
+          "imageId": "mgtypzmbj46kbbvuwahv",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "4513 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260671",
+          "name": "Zaffrani 65 Biryani (serves 2)",
+          "description": "A Classical Combination Of Chicken 65 Tosssed Aligside Flavourful Saffron Rice",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/4372fa0b-abdc-4d3d-b495-283e004e1072_1745a44c-5932-4a6f-baf0-70298ebd8e07.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "2070 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260674",
+          "name": "Zaffrani Fish Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Diced N Chopped Fish Fillets",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/b558c3d4-1b04-4905-8489-99db672019ba_70e25e49-c6f5-4352-a524-ec67472d56ac.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "12516772",
+          "name": "Zaffrani Prawns Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Freshly Marinated Prawns",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/2c559fc6-e452-46c1-9f85-e4f61ce79f9b_7b8e101a-e047-44ed-8d92-df27fbac17c9.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "226 ratings"
+        },
+        {
+          "id": "71986460",
+          "name": "Special Zaffrani Chicken Biryani (serves 2)",
+          "description": "A Customized Portion Of Our Splendid Zaffrani Biryani served along with boiled eggs and pieces of Chicken 65",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/7bc89cb5-e526-49da-baf8-517ddc0ae7a2_396f6de5-7698-435f-8ccb-afe093d17575.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "1181 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71986461",
+          "name": "Special Zaffrani Mutton Biryani (serves 2)",
+          "description": "A Customized Portion Of Our Splendid Zaffrani Biryani served along with boiled eggs and pieces of Chicken 65",
+          "price": 619.0,
+          "imageId": "mhadbmtnaobq4xjvzsem",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "513 ratings"
+        },
+        {
+          "id": "71986463",
+          "name": "Zaffrani Mutton Biryani Travel Pack (serves 1)",
+          "description": "Carry Out The Amazing Biryani In A Well Packed Container On The Go!!!",
+          "price": 379.0,
+          "imageId": "ketncw8fu5x2sijb0jbo",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "111 ratings"
+        },
+        {
+          "id": "71260670",
+          "name": "Pista House Special Premium Biryani (serves 4 To 5)",
+          "description": "A Unique And Rare Combination Of Marinated Mutton, Marinated Chicken & Chicken 65 Dressed With Fried Onion & Almonds",
+          "price": 1099.0,
+          "imageId": "ei8esddzmcexxqpxld4h",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "641 ratings"
+        },
+        {
+          "id": "71260682",
+          "name": "Zaffrani Veg Biryani Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Veg Biryani.",
+          "price": 799.0,
+          "imageId": "ydafsly5mvdipnz2n3ow",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "282 ratings"
+        },
+        {
+          "id": "71260679",
+          "name": "Zaffrani Chicken Biryani Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Chicken Biryani.",
+          "price": 999.0,
+          "imageId": "leefpd8n3gwdlcbcibws",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "2958 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "156333489",
+          "name": "Zaffrani Chicken 65 Bucket Biryani  (serves 5-6)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Bucket Chicken 65 Biryani in Elegant Packing",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/23/0804eb11-4c50-42b2-9cdf-a465148eb69e_dbc19bc0-9023-4e44-81b5-9575b79901b6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "24 ratings"
+        },
+        {
+          "id": "156333490",
+          "name": "Zaffrani Chicken Bucket Biryani  (serves 5-6)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Bucket Chicken Biryani in Elegant Packing",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/25/b4775282-e84a-4f83-8d23-b9053a7a24fa_d63985cb-ddd6-4b59-9821-2a0f39fe77bd.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "239 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881113",
+      "categoryName": "Non-veg Dum Biryani",
+      "itemCount": 15,
+      "items": [
+        {
+          "id": "39616795",
+          "name": "Zaffrani Chicken Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Enriched With Freshly Marinated Chicken Prepared With Traditonal Exotic Herbs, A Perfect Combination Of Taste And Aroma [Serves 2]",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/7bc89cb5-e526-49da-baf8-517ddc0ae7a2_396f6de5-7698-435f-8ccb-afe093d17575.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "12709 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71986458",
+          "name": "Zaffrani Chicken Biryani (regular) (serves 1)",
+          "description": "A Moderate Portion Of Our Splendid Zaffrani Biryani",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/7bc89cb5-e526-49da-baf8-517ddc0ae7a2_396f6de5-7698-435f-8ccb-afe093d17575.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "6704 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "39616793",
+          "name": "Zaffrani Mutton Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Cooked With Freshly Marinated Tendered Mutton Pieces Mixed With Traditional Exotic Herbs, A Perfect Combination Of Taste And Aroma",
+          "price": 519.0,
+          "imageId": "mgtypzmbj46kbbvuwahv",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "4513 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71986460",
+          "name": "Special Zaffrani Chicken Biryani (serves 2)",
+          "description": "A Customized Portion Of Our Splendid Zaffrani Biryani served along with boiled eggs and pieces of Chicken 65",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/7bc89cb5-e526-49da-baf8-517ddc0ae7a2_396f6de5-7698-435f-8ccb-afe093d17575.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "1181 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260670",
+          "name": "Pista House Special Premium Biryani (serves 4 To 5)",
+          "description": "A Unique And Rare Combination Of Marinated Mutton, Marinated Chicken & Chicken 65 Dressed With Fried Onion & Almonds",
+          "price": 1099.0,
+          "imageId": "ei8esddzmcexxqpxld4h",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "641 ratings"
+        },
+        {
+          "id": "71986459",
+          "name": "Zaffrani Mutton Biryani (regular) (serves 1)",
+          "description": "A Moderate Portion Of Our Splendid Zaffrani Biryani",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/22/d454db27-4b64-4f0b-b5d9-87601f734702_a1bbb41b-8436-4110-9abf-2671621da8f5.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "3977 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260671",
+          "name": "Zaffrani 65 Biryani (serves 2)",
+          "description": "A Classical Combination Of Chicken 65 Tosssed Aligside Flavourful Saffron Rice",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/4372fa0b-abdc-4d3d-b495-283e004e1072_1745a44c-5932-4a6f-baf0-70298ebd8e07.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "2070 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71986461",
+          "name": "Special Zaffrani Mutton Biryani (serves 2)",
+          "description": "A Customized Portion Of Our Splendid Zaffrani Biryani served along with boiled eggs and pieces of Chicken 65",
+          "price": 619.0,
+          "imageId": "mhadbmtnaobq4xjvzsem",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "513 ratings"
+        },
+        {
+          "id": "93855606",
+          "name": "Zaffrani Nalli Ghosht Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Cooked With Freshly Marinated Tendered Mutton Leg Pieces Mixed With Traditional Exotic Herbs, A Perfect Combination Of Taste And Aroma",
+          "price": 619.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/d277ae45-0e7f-4b14-9447-567f5ac35389_eb088e50-3b3b-4bda-958a-dfb51cd87e90.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "253 ratings"
+        },
+        {
+          "id": "12516772",
+          "name": "Zaffrani Prawns Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Freshly Marinated Prawns",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/2c559fc6-e452-46c1-9f85-e4f61ce79f9b_7b8e101a-e047-44ed-8d92-df27fbac17c9.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "226 ratings"
+        },
+        {
+          "id": "71260675",
+          "name": "Zaffrani Kheema Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Minced Lamb Mutton",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/91dc9fd3-61c3-4fbf-a6a2-4b02425c63cf_cac21dd5-f099-4f93-8434-b9cbe7ae5e83.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "214 ratings"
+        },
+        {
+          "id": "71260674",
+          "name": "Zaffrani Fish Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Diced N Chopped Fish Fillets",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/b558c3d4-1b04-4905-8489-99db672019ba_70e25e49-c6f5-4352-a524-ec67472d56ac.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "71986463",
+          "name": "Zaffrani Mutton Biryani Travel Pack (serves 1)",
+          "description": "Carry Out The Amazing Biryani In A Well Packed Container On The Go!!!",
+          "price": 379.0,
+          "imageId": "ketncw8fu5x2sijb0jbo",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "111 ratings"
+        },
+        {
+          "id": "71260673",
+          "name": "Zaffrani Egg Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Tossed With Boiled Egg Gravy",
+          "price": 319.0,
+          "imageId": "szhjf0r2f3laghqfyfnw",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "544 ratings"
+        },
+        {
+          "id": "71986462",
+          "name": "Zaffrani Chicken Biryani Travel Pack (serves 1)",
+          "description": "Carry Out The Amazing Biryani In A Well Packed Container On The Go!!!",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/5/e6477b2a-b60b-4598-b25a-14be96a19bbd_27f7c7bc-e8a0-44a6-b423-aff4b3673821.JPG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "69 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881112",
+      "categoryName": "Veg Dum Biryani",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "63683578",
+          "name": "Zaffrani Kaju Paneer Biryani (serves 2)",
+          "description": "Flavourful Saffrom Rice Tossed With Smashed Cashew Paste And Paneer Gravy And Loaded With Finest Cottage Paneer (Chopped)",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/4b4d20f0-107f-43cb-84b8-96c74e265cc7_d2c49966-999e-4240-bc92-fe9a3342f400.PNG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "1259 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260668",
+          "name": "Zaffrani Paneer Biryani (serves 2)",
+          "description": "Flavourful Saffrom Rice Tossed With Paneer Gravy And Loaded With Finest Cottage Paneer (Chopped)",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/10/d2b6e9b3-5f79-47ae-be42-0079a94d01c9_373a6f42-c4ca-43eb-9d8b-6a1581ebfc64.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "931 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260669",
+          "name": "Zaffrani Veg Biryani (serves 2)",
+          "description": "Flavourful Saffron Rice Mingled Along With Fresh Assorted Vegetables",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/65946e46-5534-41b9-8c96-232e8c9f01ba_b8789457-0aff-4ace-91e1-b1203e024d70.PNG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1416 ratings",
+          "isBestseller": true
+        }
+      ]
+    },
+    {
+      "categoryId": "15881100",
+      "categoryName": "Oriental Veg Starters",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "39616756",
+          "name": "Paneer 65",
+          "description": "Paneer 65 is a spicy South Indian appetizer made with Paneer aka Indian cheese, flour, spices and herbs like curry leaves.",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/905deedf-4e8f-4dd1-9bda-d2991e851990_b7fd40c1-9508-4371-bf02-af5a422dd038.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "146 ratings"
+        },
+        {
+          "id": "71260580",
+          "name": "Paneer Majestic",
+          "description": "A classic restaurant-style Hyderabadi appetiser made in a flavourful yoghurt-based sauce",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/6653713b-ca31-4046-a3cc-92b2597e1869_f10bcd79-7021-431f-b297-ef17ee3f5b41.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "111 ratings"
+        },
+        {
+          "id": "39616749",
+          "name": "Paneer Manchurian",
+          "description": "Deep Fried Cottage Paneer Is Tossed In Flavourful Manchurian Sauce And Prepared In Wok",
+          "price": 379.0,
+          "imageId": "bd5icoiy99mc706fiu30",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "83 ratings"
+        },
+        {
+          "id": "39616682",
+          "name": "Veg Manchurian",
+          "description": "Dumplings Of Deep Fried Mixed Vegetables Are Tossed In Flavourful Manchurian Sauce And Is Prepared In Wok",
+          "price": 359.0,
+          "imageId": "eerourxakdmrqrdcwbkt",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "802 ratings"
+        },
+        {
+          "id": "39616761",
+          "name": "Chilly Paneer",
+          "description": "Chilli Paneer is one of the popular recipe from the Indian Chinese made with batter coated, crispy fried paneer cubes tossed in a spicy, salty",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/ee038fae-9c1a-4ee6-8b15-ee7df5a5b918_2803ec13-e6b7-4163-9c8a-86a694825e61.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "129 ratings"
+        },
+        {
+          "id": "40444293",
+          "name": "Baby Corn Majestic",
+          "description": "Baby corn majestic dry. Juicy, spiking taste of sweet, sour and spice. Crisp fried baby corn in a base in indo chinese way.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/fc8551f8-7d8b-4426-ba73-ee1b3ee38424_4f71565c-7223-4f75-a570-60bca4a998a2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "137 ratings"
+        },
+        {
+          "id": "12516823",
+          "name": "Baby Corn 65",
+          "description": "Baby corn 65 or baby corn fry is a tasty, crispy addictive starter or appetizer with fresh baby corns.",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/17efa34a-dc3f-47dd-8f41-af84d28b4474_0adc5e50-3cb7-485d-989b-39b504e884ef.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "46 ratings"
+        },
+        {
+          "id": "40444345",
+          "name": "Chilly Garlic Paneer",
+          "description": "Deeply Fried Cottage Paneeer Is Coated With Herbs And Spices And Prepared Alongside Bell Peppers And Tossed With Flavourful Garlic Sauce",
+          "price": 379.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "35 ratings"
+        },
+        {
+          "id": "71260575",
+          "name": "Crispy Baby Corn",
+          "description": "Crispy Baby Corn is a vegetarian Indo-Chinese dish which is popular all over India. Crispy Baby Corn is made from deep fried baby corn tossed in Chinese ...",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/870f93b8-5ab3-4f07-8ff9-3431a89f12a2_5aec4791-3de1-4eba-aad3-e931c9eb5bc1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "69 ratings"
+        },
+        {
+          "id": "40444343",
+          "name": "Crispy Paneer",
+          "description": "Paneer 65 is a spicy irresistibly delicious starter prepared by deep frying spicypaste coated paneer cubes. it is moderately spicy, flavorful and tastes delicious starter",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/b32a9cf0-dd1e-4e54-a1db-0805dbece37c_9d2a6115-2751-4461-8081-0f9c77988bf1.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "70 ratings"
+        },
+        {
+          "id": "40444333",
+          "name": "Spicy Crispy Corn",
+          "description": "A Spicy & Crispy Appetizer Made Via Frying Sweet Corn Kernels And Is Tossed With Onion, Herbs And Spices",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/31dbe9bd-8fd0-4404-a2f7-2d9fd134b325_f8249061-c4d3-434f-9a97-5b249a2b2941.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "205 ratings"
+        },
+        {
+          "id": "39616786",
+          "name": "Gobi 65",
+          "description": "Gobi 65 is a crispy fried snack made with cauliflower, flour, spices & herbs.",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/25430550-b62d-4fd2-a25d-e9fa34b86a5a_61c1febd-3206-4665-83bd-eeebede36238.PNG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "60 ratings"
+        },
+        {
+          "id": "39616784",
+          "name": "Gobi Manchurian",
+          "description": "Deep Fried Cauli Flower Florets Are Tossed In Flavourful Manchurian Sauce And Prepared In Wok",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/964e84a0-0821-4028-a672-6be982f98e29_5da382bc-b125-4e77-91c8-9e1c405c69c5.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "128 ratings"
+        },
+        {
+          "id": "39616766",
+          "name": "Paneer Salt & Pepper",
+          "description": "Deeply Fried Cottage Paneer Is Tossed In Wok Alongside Salt & Pepper",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/4c73b702-5069-4b26-87c5-70d61e628775_cfb9a894-a363-45d1-b551-b47973714010.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "20 ratings"
+        },
+        {
+          "id": "71260576",
+          "name": "Crispy Corn Chilly Pepper",
+          "description": "A Crunchy & Crispy Appetizer Made By Frying Sweet Corn Kernels Tossed With Herbs And Spices",
+          "price": 359.0,
+          "imageId": "bn4be1kluzs8ueafz9v6",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "152 ratings"
+        },
+        {
+          "id": "39616779",
+          "name": "Mushroom Manchurian",
+          "description": "Deep Fried Mushroom Is Tossed In Flavourful Manchurian Sauce And Prepared In Wok",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/598954c9-9192-437d-a77a-c4f5b62525f8_725c5b62-d319-4bd5-a573-9c4cf043b2e3.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "120 ratings"
+        },
+        {
+          "id": "39616744",
+          "name": "Honey Chilly Potato",
+          "description": "Deep Fried French Fried Are Tossed In Flavourful Spicy Sauce, Dressed With Honey And Is Prepared In Wok",
+          "price": 359.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "35 ratings"
+        },
+        {
+          "id": "39616692",
+          "name": "Crispy Baby Corn Salt & Pepper",
+          "description": "Deeply Fried Baby Corn Is Tossed In Wok Alongside Salt & Pepper",
+          "price": 359.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "31 ratings"
+        },
+        {
+          "id": "39616713",
+          "name": "Baby Corn Manchurian",
+          "description": "Deep Fried Baby Corn Dumplings Are Tossed In Flavourful Manchurian Sauce And Is Prepared In Wok",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/fc8551f8-7d8b-4426-ba73-ee1b3ee38424_4f71565c-7223-4f75-a570-60bca4a998a2.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "99 ratings"
+        },
+        {
+          "id": "39616689",
+          "name": "Veg Spring Roll",
+          "description": "Crispy Deep Fried Crunchy Vegetables Are Finely Stuffed And Deliciously Wrapped In Thin Flat Bread And Is Infused With Sauces",
+          "price": 359.0,
+          "imageId": "gqsrk86nvfa8csvq2cwq",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.1",
+          "ratingCount": "261 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881101",
+      "categoryName": "Oriental Chicken Starters",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "71986456",
+          "name": "Chicken 65",
+          "description": "Delicious deep fried chicken tossed in authentic 65 indo Chinese spices",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/3fcb8120-6cc6-448a-aca7-262b70d23de8_bdb94043-8134-4d3e-8bf9-47bfaad277b6.PNG",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "948 ratings"
+        },
+        {
+          "id": "39616856",
+          "name": "Chicken Majestic",
+          "description": "Mouth watering boneless chicken sticks",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/0f8c3f34-3902-49bd-9a25-409a3953f1d7_b313fa60-671f-445e-b2ff-b44c2444f186.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "520 ratings"
+        },
+        {
+          "id": "39616858",
+          "name": "Chicken Lollipop",
+          "description": "Chicken Winglets And Drummettes Are Marinated In Flavourful Sauces, Cut And Perfected Into A Lollipop Appearance",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/14b49036-e1f7-43f8-be81-8c302b3b6315_10a8020b-609f-47ae-9572-c9b8504b63e3.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "737 ratings"
+        },
+        {
+          "id": "12516683",
+          "name": "Pepper Chicken",
+          "description": "Well Deep Fried Chicken Is Tossed In Batter Of Black Pepper, A Crips And Crunchy Appetizer",
+          "price": 449.0,
+          "imageId": "vzghoqwjeri3yqnzyws0",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1960 ratings"
+        },
+        {
+          "id": "71260583",
+          "name": "Chicken Drumstick",
+          "description": "Fried chicken drumsticks for the leg piece lovers",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/34aa6274-5bdc-4f4c-8bdb-6c486333c104_a7f40316-1515-4a43-82f8-547d665b4377.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "117 ratings"
+        },
+        {
+          "id": "39616850",
+          "name": "Chilly Chicken",
+          "description": "Delicious chicken tenders yosses in chilly sauce with authentic and tasty spices",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/53f3a9e4-c176-44f2-aacc-bdd7e8a399d1_6b769d9e-dff0-4c72-8013-ebd0329c7edf.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "612 ratings"
+        },
+        {
+          "id": "48436199",
+          "name": "Kaju Chicken Pakoda",
+          "description": "Cashew Nut Fritters Are Deeply Fried And Tossed With Herbs And Spices In Wok",
+          "price": 449.0,
+          "imageId": "dygniplputptz608wjsq",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "66 ratings"
+        },
+        {
+          "id": "71260586",
+          "name": "Devil Chicken (spicy)",
+          "description": "A Spicy Continental Chicken Dish Consisting Of Bell Peppers, Papprika And Spicy Ingredients Tossed In Flavourful Hot And Spicy Sauces And Prepared In Wok",
+          "price": 449.0,
+          "imageId": "aboegfykse7agch83yfu",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "109 ratings"
+        },
+        {
+          "id": "39616791",
+          "name": "Chicken Manchurian",
+          "description": "Deep Fried Chicken Is Tossed In Flavourful Manchurian Sauce And Prepared In Wok",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/822db56e-67af-44d1-874f-48829024da08_f3eb2cd9-901d-4487-a427-cdacaca27fd8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "207 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881102",
+      "categoryName": "Oriental Sea Food Starters",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "12516700",
+          "name": "Apollo Fish",
+          "description": "Apollo Fish is a popular Restaurant appetizer made with boneless fish, spices and curry leaves.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/1d70cd9f-5014-4f93-868b-b816db98435b_376be820-e3d2-48e3-aec1-5bec5613d448.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "342 ratings"
+        },
+        {
+          "id": "39616613",
+          "name": "Loose Prawns",
+          "description": "Loose chilli prawns are crispy and spicy snacks made with batter coated prawn which is deep-fried .",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/b30e48fe-12a3-4876-8edf-a406a914b509_6cb427e0-3d92-4bb2-b947-b6dfc108dc4b.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "148 ratings"
+        },
+        {
+          "id": "39616670",
+          "name": "Crispy Fried Fish",
+          "description": "Crispy And Crunchy Chunks Of Fish Are Dressed And Coated With Batter And Sesame Oil",
+          "price": 499.0,
+          "imageId": "jqza6xddpjpbsvcyhqjc",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "56 ratings"
+        },
+        {
+          "id": "39616631",
+          "name": "Chilly Butter Garlic Prawns",
+          "description": "A Preparation Of Aromatic Buttery Garlic Prawns Are Dressed With Chilly Flakes And Prepared In Wok",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "38 ratings"
+        },
+        {
+          "id": "39616661",
+          "name": "Chilly Fish",
+          "description": "Deep Fried Fish Fillets Are Dipped In Batter Coated With Herbs And Spcies And Is Prepared Alongside Bellpeppers On Wok",
+          "price": 499.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "14 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881104",
+      "categoryName": "Chicken Main Course",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "39616769",
+          "name": "Butter Chicken",
+          "description": "Tandoori chicken cooked in creamy tomato gravy and butter.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/dadbe8a9-64b9-4de3-95bd-eb23904d0c49_2b6ade5c-b6fd-4e72-b77d-7e8073f2271d.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "1307 ratings"
+        },
+        {
+          "id": "39616598",
+          "name": "Murgh Afghani",
+          "description": "",
+          "price": 449.0,
+          "imageId": "u2enozbfbltjadjedm72",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "401 ratings"
+        },
+        {
+          "id": "39616643",
+          "name": "Dum Ka Murgh",
+          "description": "",
+          "price": 489.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/27/c274ceff-5783-4163-bc75-1e801b594b56_0d17293f-e591-4b32-a800-27ea21544461.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "185 ratings"
+        },
+        {
+          "id": "39616819",
+          "name": "Methi Chicken",
+          "description": "Methi Chicken is an Indian curried dish of chicken cooked with onions, spices, herbs, tomatoes and yogurt.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/1227f12d-51cf-4e09-8db0-0502810e6d0d_2b6be17e-4b48-456c-89d3-106a584fd44f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "101 ratings"
+        },
+        {
+          "id": "40444332",
+          "name": "Andhra Kodi Curry",
+          "description": "",
+          "price": 489.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "110 ratings"
+        },
+        {
+          "id": "40444299",
+          "name": "Telangana Kodi Curry",
+          "description": "",
+          "price": 489.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "73 ratings"
+        },
+        {
+          "id": "39616619",
+          "name": "Chicken Chatpata",
+          "description": "A flavourful chicken recipe cooked in a medley of masalas",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/41758e24-d31c-4c09-87c4-cc547d100765_194c05be-aae6-4434-b04a-3cc8c4ca083d.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "162 ratings"
+        },
+        {
+          "id": "71260621",
+          "name": "Mutton Noorjahani",
+          "description": "",
+          "price": 449.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "39616611",
+          "name": "Kadai Murgh",
+          "description": "",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/53faf9f2-0c13-4595-b6fc-1b4eec665d2a_a9502289-d8e1-49e3-b478-eeb556710166.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "172 ratings"
+        },
+        {
+          "id": "12516718",
+          "name": "Murgh Tikka Masala",
+          "description": "",
+          "price": 499.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "378 ratings"
+        },
+        {
+          "id": "39616591",
+          "name": "Murgh Peshawari",
+          "description": "",
+          "price": 449.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "115 ratings"
+        },
+        {
+          "id": "39616658",
+          "name": "Punjabi Murgh",
+          "description": "",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/23/e9d907f5-ee9f-4a67-b5d6-280b209a8896_acd4e230-f20c-42f5-8f50-2476e620e037.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.1",
+          "ratingCount": "51 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881103",
+      "categoryName": "Veg Main Course",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "39616719",
+          "name": "Paneer Butter Masala",
+          "description": "Rich & creamy paneer, mildly sweet curry made with onions, fresh tomato puree, exotic spices, cashew, cream and butter. Enjoy with tandoori roti or naan.",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/85b9a9e1-18d0-4b62-928b-9fbe44063545_21f66f4b-9b66-4176-9b7a-8fbd58d5b806.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "699 ratings"
+        },
+        {
+          "id": "71260601",
+          "name": "Kaju Paneer",
+          "description": "",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/22/7e6f6687-d4fe-4027-a5d5-8a9752bd31cd_37096768-fc38-4ee6-844c-a637ff6abeb8.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "183 ratings"
+        },
+        {
+          "id": "40444307",
+          "name": "Paneer Tikka Masala",
+          "description": "",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/19/770831c7-534a-46e9-957f-91121abe4939_e1893c7f-827c-4ea8-a491-6026ffc3541f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "228 ratings"
+        },
+        {
+          "id": "39616729",
+          "name": "Palak Paneer",
+          "description": "Palak Paneer is a popular Indian Vegetarian Dish consisting of paneer (Indian cheese) in a smooth, creamy and delicious spinach gravy.",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/cd5c82f2-cec3-4d42-95c6-46aa1f2a29d6_b9104868-dc42-41fc-aeeb-763ce1a9f352.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "108 ratings"
+        },
+        {
+          "id": "39616723",
+          "name": "Kadai Paneer",
+          "description": "",
+          "price": 399.0,
+          "imageId": "tquktkj8idzeclmff1ut",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "302 ratings"
+        },
+        {
+          "id": "12516692",
+          "name": "Methi Chaman",
+          "description": "Methi Chaman Made With Fresh Fenugreek Leaves And Paneer Cooked In A Creamy Yogurt- Based Gravy.",
+          "price": 379.0,
+          "imageId": "fpd1cnlyjla5eilyxn2p",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "116 ratings"
+        },
+        {
+          "id": "39616767",
+          "name": "Dal Tadka",
+          "description": "Yellow dal with rich tempering of onion, green chilies and tomato",
+          "price": 299.0,
+          "imageId": "igwblks42kjps5jckqem",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "218 ratings"
+        },
+        {
+          "id": "39616706",
+          "name": "Mixed Veg Curry",
+          "description": "",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/27/719c2f78-bf32-4e54-ae51-cb32a62a20b5_c55819ad-6d65-4837-a459-0b1884d0b8b7.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "121 ratings"
+        },
+        {
+          "id": "39616762",
+          "name": "Dal Fry",
+          "description": "Dal fry is a delicious Indian lentil dish made the simplest way with toor dal, spices and herbs",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/85a0fcbb-a7cb-40a4-977c-9b131d5866e4_b950dedf-4432-48fc-a641-6c61813b032d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "169 ratings"
+        },
+        {
+          "id": "39616714",
+          "name": "Kadai Sabzi",
+          "description": "",
+          "price": 379.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "40 ratings"
+        },
+        {
+          "id": "12516756",
+          "name": "Dal Makhani",
+          "description": "Spice up your legumes with our Dal Makhani",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/30568517-5d20-4655-aca3-8aca0143302a_351f1c2c-318e-44cf-8a51-f986a7113e75.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "178 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881105",
+      "categoryName": "Mutton Main Course",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "39616665",
+          "name": "Mutton Rogan Josh",
+          "description": "",
+          "price": 519.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/5b498224-ea95-4f89-9f31-ea73b3ea1546_a37dbeab-e70f-45c9-86f0-e1c0a580561c.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "195 ratings"
+        },
+        {
+          "id": "71260632",
+          "name": "Talawa Mutton",
+          "description": "",
+          "price": 599.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "71260625",
+          "name": "Mutton Kheema Masala",
+          "description": "",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "85 ratings"
+        },
+        {
+          "id": "12516742",
+          "name": "Andhra Mutton Curry",
+          "description": "",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "59 ratings"
+        },
+        {
+          "id": "39616724",
+          "name": "Telangana Mutton Curry",
+          "description": "",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "52 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881106",
+      "categoryName": "Sea Food Main Course",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "48436202",
+          "name": "Prawns Ghee Roast",
+          "description": "",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "39616743",
+          "name": "Mahi Fish Masala",
+          "description": "",
+          "price": 499.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "40444344",
+          "name": "Fish Tikka Masala",
+          "description": "",
+          "price": 499.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "13 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881097",
+      "categoryName": "Chicken Tandoor Starters",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "71986321",
+          "name": "Tandoori Chicken Half",
+          "description": "Juicy half chicken bird seasoned with freshly ground spices and cooked to perfection in flavourable tandoori masala",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/27/f31dd565-f9d7-4808-ac18-4cea9fa5a2c2_9d5dc32a-b5db-49fc-82c1-017eeedc4493.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "666 ratings"
+        },
+        {
+          "id": "39616650",
+          "name": "Tandoori Chicken Full",
+          "description": "Fresh Marinated Chicken Is Roasted In Yogurt And Spicews And Prepared On Skewars In Earthly Clay Oven",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/2879f04d-f2cb-407f-90fe-b279029fda63_23d25a04-1a2b-4eac-96fb-c0d71749aacc.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1090 ratings"
+        },
+        {
+          "id": "12516865",
+          "name": "Zaffrani Chicken Kabab",
+          "description": "Fresh Marinated Blocks Of Tender Chicken Prepared With Flavourful Saffron Is Grilled On Skewers And Prepared In Earthly Oven.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/f5a04f8a-c955-426e-b2c2-9c7f8f315b59_5058f7a4-654f-465b-83d1-3c49c2bf420f.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1845 ratings"
+        },
+        {
+          "id": "71986320",
+          "name": "Chicken Tikka",
+          "description": "Boneless chicken marinated in aromatic spices and grilled in tandoor",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/d6cf2bd9-9023-4452-865a-415a23c0101a_68407661-99ac-4a96-aa61-49784681495f.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "305 ratings"
+        },
+        {
+          "id": "12516864",
+          "name": "Zaffrani Tangdi Kabab",
+          "description": "Freshly Marinated Drumsticks Are Dressed And Infused With Saffron And Grilled And Roasted On Skewars In Earthly Clay Oven.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/5ac2436b-3ba7-4d2b-8155-8c874b09ed00_4bf9c42c-26e8-4e9d-9bfc-9823ac8d5fd0.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "784 ratings"
+        },
+        {
+          "id": "12516863",
+          "name": "Murgh Malai Kabab",
+          "description": "Fresh Marinated Blocks Of Chicken Is Prepared With Rich Paste Of Cashew, Curd, Cream And Cheese Grilled On Skewers And Prepared In Earthly Clay Oven.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/c5deef27-d1cb-4228-b5bd-f905a8c61281_895bce20-ae17-43a0-96a6-b3ade070ea88.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "1291 ratings"
+        },
+        {
+          "id": "12516867",
+          "name": "Chicken Sheek Kabab",
+          "description": "Fresh And Finely Hand Pounded Minced Chicken Is Grilled On Skewer And Prepared In Earthly Clay Oven.",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/22/9a3095cd-6112-4070-b7a5-a98ba29b238e_6291ffd9-324f-4a88-aece-5be0f93ef45d.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "145 ratings"
+        },
+        {
+          "id": "12516868",
+          "name": "Achari Chicken Tikka",
+          "description": "An Amazing Twist Of Naturally Spiced Pickle When Marinated With Blocks Of Chicken, Grilled On Skewars And Prepared In Earthly Clay Oven",
+          "price": 499.0,
+          "imageId": "t5y87ndjpw5sgeasybgp",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "868 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881099",
+      "categoryName": "Sea Food Tandoor Starters",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "40444319",
+          "name": "Fish Roast",
+          "description": "Ready to Eat Treat for fish lovers Fried fish cooked in a aromatic, spicy & tangy sauce",
+          "price": 499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/27/2b3ca1b2-857c-4952-841f-47f29c078479_fe5df596-5362-46d8-954d-19e92f8e0edc.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "82 ratings"
+        },
+        {
+          "id": "12516877",
+          "name": "Tandoori Prawns",
+          "description": "Fresh Prawns Are Marinated With Herbs And Spices And Are Grilled On Skewars And Prepared In Earthly Clay Oven",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "74 ratings"
+        },
+        {
+          "id": "12516881",
+          "name": "Zaffrani Prawns",
+          "description": "A Tasty Combination Of Prawns And Flavourful Saffron Is Grilled On Skewars And Is Prepared In Earthly Clay Oven",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "34 ratings"
+        },
+        {
+          "id": "71260569",
+          "name": "Lasoni Prawns",
+          "description": "A Classical Taste Of Marinated Garlic And Prawns, Dressed With Finest Oils Are Grilled On Skewars And Is Prepared In Earthly Clay Oven",
+          "price": 519.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "20 ratings"
+        },
+        {
+          "id": "12516876",
+          "name": "Tawa Fish",
+          "description": "Pieces Of Fresh Deeply Fried And Marinated Fish Mixed With Spices And Herbs Is Prepared On Wok",
+          "price": 499.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "52 ratings"
+        },
+        {
+          "id": "12516873",
+          "name": "Fish Tikka",
+          "description": "Chunks Of Fish Are Marinated With Chilli, Cumin & Coriander And Are Grilled On Skewars And Prepared In Earthly Clay Oven",
+          "price": 499.0,
+          "imageId": "yswjjgatjjejmnasixz5",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "82 ratings"
+        },
+        {
+          "id": "12516874",
+          "name": "Zaffrani Fish Tikka",
+          "description": "Chunks Of Fish Are Flavoured With Cardom Seeds And Flavourful Saffron Are Marinated With Aromatic Spics And Prepared In Earthly Clay Oven",
+          "price": 499.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "77 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881098",
+      "categoryName": "Mutton Tandoor Starters",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "71260563",
+          "name": "Pathar Ka Ghosht",
+          "description": "An Authentic Hyderabadi Delicacy Made From Fresh Tender Pieces Of Marinated Mutton Lamb Which Is Prepared Upon A Heated Wide Stone [On Charcoal Flame]",
+          "price": 599.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/8f4a7b14-396c-41cc-8dbf-d49962f63402_1e144fb2-aade-4375-a22b-394fad278984.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "223 ratings"
+        },
+        {
+          "id": "12516870",
+          "name": "Mutton Sheek Kabab",
+          "description": "Fresh And Finely Hand Pounded Minced Mutton Lamb Is Grilled On Skewers And Prepared In Earthly Clay Oven",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/f945fb3c-084a-4b58-88b6-40666f70f454_bff9ae8a-fbc5-49c0-8f41-573b15fd7d17.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "217 ratings"
+        },
+        {
+          "id": "71260559",
+          "name": "Mutton Boti Kabab",
+          "description": "Mutton Boti Kebab is a popular starter dish where succulent  pieces are marinated and grilled in a tandoor or in an oven.",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/8e156f53-0164-4ac0-9726-860b0c478659_6cdce5b3-c7ed-4738-9295-74715399175a.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "46 ratings"
+        },
+        {
+          "id": "12516872",
+          "name": "Mutton Galoti Kabab",
+          "description": "Fresh And Finely Hand Pounded Minced Mutton Lamb Is Roasted With Butter, Lentis And Dressed With Our Special Spices !",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "80 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881096",
+      "categoryName": "Veg Tandoor Starters",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "71260545",
+          "name": "Zaffrani Paneer Tikka",
+          "description": "Finest Chunks Of Cottage Paneer Infused With Flavourful Saffron And Grilled On Skewars And Prepared On Earthly Clay Oven",
+          "price": 419.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/d12f5acc-2c87-4f2a-bc17-25fb9b6b6ee4_fa385805-c61c-470b-8ad7-72ead63d8ff0.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "68 ratings"
+        },
+        {
+          "id": "71260537",
+          "name": "Hara Bhara Kabab",
+          "description": "Fried patties made with mix vegetables and paneer",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/b8f13af3-05f7-47a4-92c0-0062c4aff225_e8b9c23c-4194-4ef5-9639-07e84e9beabd.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "57 ratings"
+        },
+        {
+          "id": "71260538",
+          "name": "Haryali Mushroom",
+          "description": "An Excellent Combination Of Mushroom Marinated With Diced Coriander, Ginger Garlic, Mint, Onion & Whole Spices",
+          "price": 399.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "3.8",
+          "ratingCount": "17 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881111",
+      "categoryName": "Non Vegetarian",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "12516757",
+          "name": "Chicken Fried Rice",
+          "description": "Stir fried rice with chicken and egg",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/4b2820f8-12a1-49c8-af65-9578906bfc33_b26e6e3c-0709-47b9-80d9-0dfa458f767d.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "2019 ratings"
+        },
+        {
+          "id": "39616742",
+          "name": "Egg Fried Rice",
+          "description": "Stir fried rice with scrambled eggs and vegetables",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/33069a43-9dc1-4b6b-a886-0d2971bc113c_a3c7e340-59a3-48c0-9ce2-ec0d04a7fb88.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "683 ratings"
+        },
+        {
+          "id": "175807197",
+          "name": "Chicken Soft Noodles..",
+          "description": "",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/4/6a170523-b9ad-420f-bf2b-7e5baf39f825_784980bb-f5c1-41ed-a4ae-6c55f9b80ce8.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "42 ratings"
+        },
+        {
+          "id": "39616837",
+          "name": "Egg Soft Noodles",
+          "description": "Soft Noodles Stir-Fried With Fluffy Eggs And A Touch Of Savory Spices.",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/096602d8-9e6d-4046-be5b-347e14daaa18_8bf05102-300b-48b7-8298-a39317942c80.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "101 ratings"
+        },
+        {
+          "id": "39616768",
+          "name": "Schezwan Chicken Fried Rice",
+          "description": "Stir fried rice with chicken and spicy schezwan sauce",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/4b8dfcb9-ceea-4114-88f1-d40dbd5c1be8_9eee7528-4cba-428a-8c35-5295aa5d7686.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "303 ratings"
+        },
+        {
+          "id": "39616842",
+          "name": "Schezwan Chicken Noodles",
+          "description": "",
+          "price": 379.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/e44b3409-7b98-4ee2-a446-845ceb793591_e82ef2bf-b79c-46d5-bd06-2ea4170ec7c8.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "157 ratings"
+        },
+        {
+          "id": "71260662",
+          "name": "Chilly Garlic Prawns Noodles",
+          "description": "",
+          "price": 389.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "71260661",
+          "name": "Chilly Garlic Chicken Noodles",
+          "description": "",
+          "price": 379.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "86 ratings"
+        },
+        {
+          "id": "39616841",
+          "name": "Schezwan Egg Noodles",
+          "description": "Noodles with scrambles eggs and spicy schezwan sauce",
+          "price": 299.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "35 ratings"
+        },
+        {
+          "id": "39616763",
+          "name": "Schezwan Egg Fried Rice",
+          "description": "Stir fried rice with scrambled eggs and schezwan sauce",
+          "price": 289.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/22/e41c2037-da4c-4b87-af3a-efcd2341a877_075607b6-29ae-4b6d-89a3-a940030173dc.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "121 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881110",
+      "categoryName": "Vegetarian",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "39616737",
+          "name": "Veg Fried Rice",
+          "description": "Stir fried rice with vegetables",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/4534c213-9f83-43d1-88f1-34c57fbd3982_9222a6fa-c578-4db0-b051-0dfc0c9dcfb3.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "614 ratings"
+        },
+        {
+          "id": "39616782",
+          "name": "Veg Soft Noodles",
+          "description": "Soft, stir-fried noodles tossed with fresh veggies and savory seasonings.",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/24/059d9378-4992-49da-91eb-b7857f069e1d_3365d1cf-0802-4d23-87a5-6d52ae2d8222.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "150 ratings"
+        },
+        {
+          "id": "39616759",
+          "name": "Schezwan Veg Fried Rice",
+          "description": "Stir fried rice with schezwan sauce",
+          "price": 319.0,
+          "imageId": "xuhekyyr0jobstbtw90s",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "154 ratings"
+        },
+        {
+          "id": "39616843",
+          "name": "Butter Garlic Noodles",
+          "description": "",
+          "price": 349.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "39616839",
+          "name": "Chilly Garlic Noodles",
+          "description": "",
+          "price": 319.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/4/6a170523-b9ad-420f-bf2b-7e5baf39f825_784980bb-f5c1-41ed-a4ae-6c55f9b80ce8.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "63 ratings"
+        },
+        {
+          "id": "39616845",
+          "name": "Hakka Veg Noodles",
+          "description": "",
+          "price": 349.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "59 ratings"
+        },
+        {
+          "id": "39616840",
+          "name": "Schezwan Veg Noodles",
+          "description": "",
+          "price": 319.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "74 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881109",
+      "categoryName": "Rice & Noodles",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "71260651",
+          "name": "Curd Rice",
+          "description": "Curd Rice is a comforting South Indian rice meal that is creamy & yummy.",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/f577a744-0564-4d44-8721-2ffb96aa8da8_d889ca6c-0f1e-4040-9f5e-8eb541a19fac.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "562 ratings"
+        },
+        {
+          "id": "71260659",
+          "name": "Zeera Rice",
+          "description": "Flavourful Saffron Rice Prepared As An Add On For Extra Appetizing Meal",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/8fba0013-22d6-46c4-b0d9-090d7981516f_dadc96c4-58c7-4b68-92ae-f22e9c9500d5.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "187 ratings"
+        },
+        {
+          "id": "71260657",
+          "name": "Plain Rice",
+          "description": "Steamed Fluffy White Rice That Tates Best When Served With And Appetizing Gravy",
+          "price": 149.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "61 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880249",
+      "categoryName": "Platters",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "71260426",
+          "name": "Mixed Non.veg Platter (any Kababs Of Choice)",
+          "description": "A Rare And Fine Combination Of Chicken, Mutton And Sea Food Kababs (4 Variety)",
+          "price": 1999.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/3950346e-f98c-499b-9b5a-4e6a1ebc4106_5a9bbead-d818-449e-b6d1-2c995c9a8aa4.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "96532800",
+          "name": "Mixed Chinese Platter",
+          "description": "",
+          "price": 1899.0,
+          "imageId": "y0opqm5ivn8yd6du5yvp",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "71986438",
+          "name": "Sea Food Platter",
+          "description": "4 Varieties Of Traditionally Prepared Marine Kababs",
+          "price": 1749.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "12523690",
+          "name": "Chicken Platter",
+          "description": "Tandoori Chicken + Tangidi + Malai Kebab + Chicken Tikka + Garlic Kebab",
+          "price": 1449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/91d121df-9f68-4daa-803d-59c718c669be_59e3990e-0ee2-4622-b10b-500c3af43e29.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "48 ratings"
+        },
+        {
+          "id": "12523691",
+          "name": "Mutton Platter",
+          "description": "4 Varieties Of Assorted Kababs With A Divine Taste",
+          "price": 1599.0,
+          "imageId": "d5daaxqwwnzpvqegrvjo",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "71260424",
+          "name": "Chinese Chicken Platter",
+          "description": "Chicken Majestic + Chicken 65 + Pepper Chicken + Drumsticks + Green Chilli Chicken",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/589feb5b-d0a1-4b75-bceb-2a1de945db67_7ec2a67e-d5b0-48da-8692-7dc8bf2401e6.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "96532801",
+          "name": "Veg Chinese Platter",
+          "description": "",
+          "price": 999.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/aafe2032-6c6d-4a53-97ac-f2cbb82e5b07_501b5e1d-0be5-4e8d-b51c-48f42178eee9.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "12523689",
+          "name": "Veg Platter",
+          "description": "Hara Bhara Kebab + Tandoori Mushroom + Cheese Brocoli + Paneer Tikka + Grilled Baby Corn",
+          "price": 1099.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/21134f26-df78-47ea-9b22-a9250028996a_1e38f5a7-d010-4ed9-90a8-94a9b0537677.jpeg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.2",
+          "ratingCount": "21 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880255",
+      "categoryName": "Takeaway Family Pack",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "71260679",
+          "name": "Zaffrani Chicken Biryani Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Chicken Biryani.",
+          "price": 999.0,
+          "imageId": "leefpd8n3gwdlcbcibws",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "2958 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "71260681",
+          "name": "Zaffrani Mutton Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Muttonn Biryani.",
+          "price": 1149.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "719 ratings"
+        },
+        {
+          "id": "71986308",
+          "name": "Zaffrani Chicken 65 Biryani Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Chicken 65 Biryani.",
+          "price": 1099.0,
+          "imageId": "vftctawau7ec9q4a96dl",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "240 ratings"
+        },
+        {
+          "id": "71260680",
+          "name": "Zaffrani Kaju Paneer Biryani Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Kaju Paneer Biryani.",
+          "price": 899.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "221 ratings"
+        },
+        {
+          "id": "71260682",
+          "name": "Zaffrani Veg Biryani Family Pack (serves 4 To 5)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Veg Biryani.",
+          "price": 799.0,
+          "imageId": "ydafsly5mvdipnz2n3ow",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "282 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "55534542",
+      "categoryName": "Bucket Biryani",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "156333491",
+          "name": "Zaffrani Mutton Bucket Biryani  (serves 5-6)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Bucket Mutton Biryani in Elegant Packing",
+          "price": 1499.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/25/b4775282-e84a-4f83-8d23-b9053a7a24fa_d63985cb-ddd6-4b59-9821-2a0f39fe77bd.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "102 ratings"
+        },
+        {
+          "id": "156333489",
+          "name": "Zaffrani Chicken 65 Bucket Biryani  (serves 5-6)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Bucket Chicken 65 Biryani in Elegant Packing",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/8/23/0804eb11-4c50-42b2-9cdf-a465148eb69e_dbc19bc0-9023-4e44-81b5-9575b79901b6.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "24 ratings"
+        },
+        {
+          "id": "156333490",
+          "name": "Zaffrani Chicken Bucket Biryani  (serves 5-6)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Bucket Chicken Biryani in Elegant Packing",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/25/b4775282-e84a-4f83-8d23-b9053a7a24fa_d63985cb-ddd6-4b59-9821-2a0f39fe77bd.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "239 ratings"
+        },
+        {
+          "id": "156333492",
+          "name": "Zaffrani Veg Bucket Biryani (serves 5-6)",
+          "description": "Relish An Excellent Portion Of Our Mesmerizing Zaffrani Bucket Veg Biryani in Elegant Packing",
+          "price": 999.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/25/b4775282-e84a-4f83-8d23-b9053a7a24fa_d63985cb-ddd6-4b59-9821-2a0f39fe77bd.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "21 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880253",
+      "categoryName": "Indian Breads",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "71260438",
+          "name": "Garlic Naan",
+          "description": "Soft and fluffy flatbread flavored with garlic",
+          "price": 79.0,
+          "imageId": "p45ei8anlxshpry7gz1t",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "772 ratings"
+        },
+        {
+          "id": "39616597",
+          "name": "Butter Naan",
+          "description": "",
+          "price": 69.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/6254bf04-7748-46d7-8dd8-1ee17c42a708_db58a09a-20ed-425d-89ea-669742b14063.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2139 ratings"
+        },
+        {
+          "id": "71260437",
+          "name": "Butter Roti",
+          "description": "",
+          "price": 59.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/235dd1bb-7cb5-4765-8f41-56607e8c0324_f21e2464-af43-4a5e-a37a-38a719d3eab6.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "304 ratings"
+        },
+        {
+          "id": "39616666",
+          "name": "Tandoori Roti",
+          "description": "",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/aceb569c-0bb9-4889-bf46-65b3d3121f81_b28bee37-f889-4022-ad91-fb1fd8f21ebf.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "906 ratings"
+        },
+        {
+          "id": "39616590",
+          "name": "Plain Naan",
+          "description": "",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/27/d77fda92-7d68-4663-89f0-0712793f5904_aabf1e46-1176-4d2b-8f6f-80fb7dc92043.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "413 ratings"
+        },
+        {
+          "id": "39616620",
+          "name": "Pudina Paratha",
+          "description": "",
+          "price": 79.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.8",
+          "ratingCount": "43 ratings"
+        },
+        {
+          "id": "71260436",
+          "name": "Aloo Paratha",
+          "description": "",
+          "price": 99.0,
+          "imageId": "aeudssasfuky6c2qeoib",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.3",
+          "ratingCount": "242 ratings"
+        },
+        {
+          "id": "71260441",
+          "name": "Plain Paratha",
+          "description": "",
+          "price": 69.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.0",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "39616628",
+          "name": "Laccha Paratha",
+          "description": "",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/58b047c6-6740-46c3-b96d-e901ff388a4c_ff2da86c-6c4c-426c-bcb1-649132047d41.jpeg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.4",
+          "ratingCount": "207 ratings"
+        },
+        {
+          "id": "39616659",
+          "name": "Rumali Roti",
+          "description": "",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/9b1b7e06-8eaa-4e48-86c4-05840d6853bc_f38acbf2-f157-4468-bed1-bc14be7f6c86.jpeg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.3",
+          "ratingCount": "1912 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881108",
+      "categoryName": "Oriental Non Veg Main Course",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "39616716",
+          "name": "Ginger Chicken Wet",
+          "description": "",
+          "price": 479.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "43 ratings"
+        },
+        {
+          "id": "71260648",
+          "name": "Chilly Chicken Wet",
+          "description": "",
+          "price": 479.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/1403dd3d-03ee-445f-8cd9-652be8e75025_57c17ce0-dbe8-4d40-a5a8-8fdb9874b7c5.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "50 ratings"
+        },
+        {
+          "id": "39616707",
+          "name": "Chicken Manchurian Wet",
+          "description": "Deep fried chicken chunks simmered in delicious Manchurian gravy packed with salty and spicy flavours",
+          "price": 479.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/313cb938-a978-4aa3-b061-1893c993bd22_973a0770-a4a3-4a5a-b28f-035d132c4505.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "72 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15881107",
+      "categoryName": "Oriental Veg Main Course",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "40444342",
+          "name": "Paneer Manchurian Gravy",
+          "description": "",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/19/0ef50366-6c7a-40cb-942e-6dfff87be2bc_1d1554de-1a0e-421b-ba32-d0f7893a9340.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "71260647",
+          "name": "Gobi Manchuriuan Gravy",
+          "description": "",
+          "price": 399.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.8",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "40444339",
+          "name": "Baby Corn Manchurian Gravy",
+          "description": "",
+          "price": 399.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "10 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880248",
+      "categoryName": "Soups",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "71986300",
+          "name": "Non Veg Lemon Coriander",
+          "description": "Chicken",
+          "price": 199.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "27 ratings"
+        },
+        {
+          "id": "71986301",
+          "name": "Non Veg Manchow",
+          "description": "Chicken",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/88c88f82-df64-4783-94b7-38495c137f97_6a4bcdff-3cbe-45e8-aea4-774bb7649e74.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "102 ratings"
+        },
+        {
+          "id": "71986302",
+          "name": "Non Veg Hot & Sour",
+          "description": "Chicken",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/b1ff2228-ce56-490d-8a0c-91455a6ad29b_34a315ca-46f8-426d-8426-a45455f2b922.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "64 ratings"
+        },
+        {
+          "id": "71986303",
+          "name": "Non Veg Sweet Corn",
+          "description": "Chicken",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/8be18071-4e2a-4adb-8b55-28d3fabfc9f9_169818d3-6284-4a5f-ad84-7c04b8546cb0.jpeg",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "39 ratings"
+        },
+        {
+          "id": "71986295",
+          "name": "Veg Manchow",
+          "description": "Loaded with vegetables and overflowing with hot and spicy flavor",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/d7e95883-31be-407a-9030-b248d8829ef9_2f79f92f-5b99-4b1d-b162-8bfe9880ec4c.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "54 ratings"
+        },
+        {
+          "id": "71986297",
+          "name": "Veg Sweet Corn",
+          "description": "",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/9f979cdd-4231-4134-b69d-7a560532bba9_efc68e7c-ae2a-44f1-b37b-bc986ec60b4e.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "48 ratings"
+        },
+        {
+          "id": "71986296",
+          "name": "Veg Hot & Sour",
+          "description": "",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/6af60a84-47e5-4123-8d13-d44d05b075de_baf8acdf-88b3-4bf1-b282-030d2695702d.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "71986306",
+          "name": "Non Veg Mutton Shorba",
+          "description": "",
+          "price": 219.0,
+          "isVeg": false,
+          "isAvailable": false,
+          "rating": "3.2",
+          "ratingCount": "53 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880247",
+      "categoryName": "Accompaniments",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "71986441",
+          "name": "Boiled Eggs",
+          "description": "",
+          "price": 89.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "375 ratings"
+        },
+        {
+          "id": "71260435",
+          "name": "Onion Salad",
+          "description": "",
+          "price": 69.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "70 ratings"
+        },
+        {
+          "id": "78029256",
+          "name": "Plain Curd",
+          "description": "",
+          "price": 69.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "243 ratings"
+        },
+        {
+          "id": "71986440",
+          "name": "Extra Gravy",
+          "description": "",
+          "price": 39.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "121 ratings"
+        },
+        {
+          "id": "71986439",
+          "name": "Extra Raita",
+          "description": "",
+          "price": 29.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "276 ratings"
+        },
+        {
+          "id": "71260434",
+          "name": "Mixed Raita",
+          "description": "",
+          "price": 109.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.7",
+          "ratingCount": "56 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880254",
+      "categoryName": "Pulav",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "71260430",
+          "name": "Kaju Pulav",
+          "description": "Relish The Delicios Combination Of Cashew And Fried Onions Tossed Alongside Whole Spices",
+          "price": 349.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "102 ratings"
+        },
+        {
+          "id": "71260429",
+          "name": "Corn Pulav",
+          "description": "A Rich Aromatic Dish Prepared From Sweet Corn Kernels Tossed With Herbs, Spices And Dressed With Onions",
+          "price": 319.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "71260432",
+          "name": "Veg Tawa Pulav",
+          "description": "A Splendid Combination Of Diced And Chopped Assorted Vegetables And Whole Spices And Onions",
+          "price": 319.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "86 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "15880257",
+      "categoryName": "Desserts & Sweets",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "104641453",
+          "name": "Apricot Delight",
+          "description": "",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/19/84040db0-31da-40aa-9dfd-c5c664e93699_6839be15-91b3-4801-a8a6-ffd42fe85154.jpg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.3",
+          "ratingCount": "662 ratings"
+        },
+        {
+          "id": "39616625",
+          "name": "Double Ka Meetha",
+          "description": "",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/26/bfcad674-c2f6-4f41-8d40-3f2d2fe4a491_420953ed-116a-4517-8b1e-5253d18967b9.jpeg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.2",
+          "ratingCount": "979 ratings"
+        },
+        {
+          "id": "73612422",
+          "name": "Jamuni Rabdi",
+          "description": "",
+          "price": 169.0,
+          "imageId": "mpqcsoxbamih4y83akyg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.2",
+          "ratingCount": "284 ratings"
+        },
+        {
+          "id": "39616622",
+          "name": "Qubani Ka Meetha",
+          "description": "",
+          "price": 169.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/22/230072da-939a-464b-99b3-c2f9bc972917_cab41a2d-86b8-404e-a5ba-8fe924b115f9.jpg",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.3",
+          "ratingCount": "227 ratings"
+        },
+        {
+          "id": "71260508",
+          "name": "Gajar Ka Halwa (seasonal)",
+          "description": "",
+          "price": 169.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.6",
+          "ratingCount": "139 ratings"
+        },
+        {
+          "id": "39616629",
+          "name": "Kaddu Ki Kheer",
+          "description": "",
+          "price": 169.0,
+          "imageId": "lcz9ekk340sw6tkdnfll",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "4.4",
+          "ratingCount": "283 ratings"
+        },
+        {
+          "id": "39616633",
+          "name": "Gulab Jamun",
+          "description": "2 pcs",
+          "price": 149.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "3.5",
+          "ratingCount": "263 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "28790095",
+      "categoryName": "Hyderabadi Marag.",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "104641460",
+          "name": "Mutton Marag  ( 8 Pcs )",
+          "description": "Prepared in Flavourful Spices, A Hyderabadi Soup Prepared in Tender Mutton",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/5aefab8f-5d59-4127-9643-6652b9f59159_175ddd22-ab29-4544-a516-f164436934bd.png",
+          "isVeg": false,
+          "isAvailable": false,
+          "rating": "4.3",
+          "ratingCount": "57 ratings"
+        },
+        {
+          "id": "104641459",
+          "name": "Mutton Marag (4 Pcs)",
+          "description": "Prepared in Flavourful Spices, A Hyderabadi Soup Prepared in Tender Mutton",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/28/5aefab8f-5d59-4127-9643-6652b9f59159_175ddd22-ab29-4544-a516-f164436934bd.png",
+          "isVeg": false,
+          "isAvailable": false,
+          "rating": "4.2",
+          "ratingCount": "188 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "24753991",
+      "categoryName": "Vegetarian Salads",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "71260527",
+          "name": "Green Salad",
+          "description": "",
+          "price": 109.0,
+          "imageId": "gxxdru6xnagbua667oph",
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "3.1",
+          "ratingCount": "94 ratings"
+        },
+        {
+          "id": "71260528",
+          "name": "Mix Raita",
+          "description": "",
+          "price": 109.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "3.1",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "71260526",
+          "name": "Cucumber Raita",
+          "description": "",
+          "price": 99.0,
+          "isVeg": true,
+          "isAvailable": false,
+          "rating": "2.3",
+          "ratingCount": "14 ratings"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

@@ -1,0 +1,1883 @@
+{
+  "restaurant": {
+    "id": "15855",
+    "name": "KS Bakers",
+    "city": "Hyderabad",
+    "locality": "Gachibowli",
+    "areaName": "Gachibowli",
+    "costForTwo": 250.0,
+    "cuisines": [
+      "Bakery",
+      "Pizzas"
+    ],
+    "avgRating": 4.1,
+    "totalRatings": "74K+ ratings",
+    "deliveryTime": "15-20 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/29/995b79bf-7f0e-447b-8ee2-ea7fa063fbb8_15855.jpg"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "61956535",
+          "name": "Choco Chips Cake  500 Gms",
+          "description": "Serves 1 | |Serves 8| A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 891.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/748b2dd4-c935-4c2d-bb5d-aab0d9a60ca7_501db147-d6db-4dd8-b1c9-069908e9efd7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "64 ratings"
+        },
+        {
+          "id": "61956543",
+          "name": "Eggless Butterscotch Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 |Creamy and buttery bakery style butterscotch cake with butterscotch shavings studded on the sides",
+          "price": 1149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/07b02749-70f8-48a3-9bf5-6a2d36cb5929_82393274-66f2-4590-804c-887f99b794af.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "138 ratings"
+        },
+        {
+          "id": "61956544",
+          "name": "Eggless Almond Delight Cake  1 Kg",
+          "description": "Serves 1 | The eggless version of our signature roasted almond cake. Rich, nutty, and creamy.",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/4/bfe30c0f-9bb3-469c-854c-e7580d19b9b4_2674070e-4446-4adc-8b3b-07eb52160d92.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "51 ratings"
+        },
+        {
+          "id": "61956573",
+          "name": "Eggless Choco Chips Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 |A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/103659ea-d852-4ef9-b320-d64c53f644b5_bf416c45-eaa2-429b-ae36-2d7c5c28477b.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "43 ratings"
+        },
+        {
+          "id": "61956579",
+          "name": "Eggless Black Forest Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12 |Layers of moist chocolate cake whipped cream and cherries make for the classic black forest cake",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e6027ab9-e079-4270-b918-59b1d030f063_c2f2c496-cff0-479c-8333-6be0e178aeeb.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "61956594",
+          "name": "Butterscotch Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12 | Creamy and buttery bakery style butterscotch cake with butterscotch shavings studded on the sides",
+          "price": 1149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/4a7f3ba5-2534-4e6f-925b-ca9a7d0134ac_1b941b58-62a3-45a0-8c4a-15c0d4db2a21.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "1462 ratings"
+        },
+        {
+          "id": "61956598",
+          "name": "Choco Chips Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 | A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/0f0c2ca5-330f-484f-8ccc-ff2f79184fb5_1d7474e3-c0ca-4681-bf00-5bda07d85114.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "61956601",
+          "name": "Pineapple Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12 | An all time favourite fruity and refreshing cake with a hint of tropical sweetness",
+          "price": 1099.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3bd2a916-363d-412d-9604-c5115bf5a268_d34e47a7-a277-4e17-8637-b74653ed0179.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "241 ratings"
+        },
+        {
+          "id": "61956605",
+          "name": "Black Forest Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12| Layers of moist chocolate cake whipped cream and cherries make for the classic black forest cake",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e6027ab9-e079-4270-b918-59b1d030f063_c2f2c496-cff0-479c-8333-6be0e178aeeb.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1591 ratings"
+        },
+        {
+          "id": "65765421",
+          "name": "Eggless Almond Delight Cake  500 Gms",
+          "description": "Serves 1 | | Serves 8 | Indian inspired, incredibly fragrant layers of fluffy cake and frosting with the added delight of almonds",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/4/bfe30c0f-9bb3-469c-854c-e7580d19b9b4_2674070e-4446-4adc-8b3b-07eb52160d92.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "65765429",
+          "name": "Eggless Choco Chips Cake  500 Gms",
+          "description": "Serves 1 | |Serves 8| A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/58cc01e7-b470-4d57-ba43-6c53736e192e_e6254e08-615d-4cf1-bfaf-a2300fac51d1.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "3936301",
+          "name": "Pineapple Pastry",
+          "description": "Serves 1 | An all time favourite fruity and refreshing pastry with a hint of tropical sweetness",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/2565c7eb-a931-431b-959b-9d4e327fee78_d5bef8e8-6442-48cb-aabe-cc82ffd57135.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "2171 ratings"
+        },
+        {
+          "id": "3936302",
+          "name": "Classic Butterscotch Pastry",
+          "description": "Serves 1 | Creamy and buttery bakery style butterscotch pastry with butterscotch shavings studded on the sides",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/b5f696f5-7bbc-497f-a0b4-2dfe6692a457_a7d1fc0b-8232-4191-aab6-f6c51aeb3a00.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "3936303",
+          "name": "Black Forest Pastry",
+          "description": "Serves 1 | Layers of moist chocolate cake whipped cream and cherries make for the classic black forest pastry",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/ac3bc4f9-b48a-4b7b-9c8b-74237578d911_d85bef57-3452-4ac4-8b22-3e88ef9a8cd4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "2831 ratings"
+        },
+        {
+          "id": "28530781",
+          "name": "Choco Chips Pastry",
+          "description": "Serves 1 | A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/49d0554f-203f-46f8-8066-2b424918c97c_1332e51f-d329-4478-9efb-ef724cd8770f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "475 ratings"
+        },
+        {
+          "id": "29230029",
+          "name": "Choco Truffle Pastry",
+          "description": "Serves 1 | Decadent chocolate truffle pastry thats perfect for indulging in your chocolate cravings",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/7308799a-31f0-4c8d-a338-95cfc9b19ff9_55791e5b-c6a2-4004-9ec1-4f4a29128b3a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "253 ratings"
+        },
+        {
+          "id": "61956618",
+          "name": "Red Velvet Jar",
+          "description": "Serves 1 | Velvety red cake crumbles meet luscious cream cheese frosting, layered perfectly in a jar. Classic, irresistible, and made to share",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/74f2218e-68e0-420b-9567-fd519cbe848b_4913e93c-c696-4720-94a6-e9eb894de7d0.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "63625868",
+          "name": "Red Velvet Cream Cheese Pastry",
+          "description": "Serves 1 | Moist red velvet slices layered with cream cheese frosting. Perfect to celebrate any occasion.",
+          "price": 177.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a6a0838d-dec9-4788-b58a-ed62922c186f_ea8a1fb6-876e-4f36-a87e-c8b510972a53.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "32 ratings"
+        },
+        {
+          "id": "214159875",
+          "name": "Laddu Licious Box (170 g)",
+          "description": "A delightful box of delicious, sweet laddus crafted with a rich taste and traditional flavour. Perfect for satisfying sweet cravings or sharing a little happiness with loved ones.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/25/cd945036-29bf-4bd5-97f8-a1e4e686ad51_6e639e86-4c58-41d3-8e74-e639505ae715.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "214159876",
+          "name": "Caramel Peda Box (170 g)",
+          "description": "Indulge in soft, creamy pedas with a delightful caramel flavour and a rich, sweet taste. A perfect treat for festive celebrations, gifting, or enjoying a special moment.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/25/cf7549ca-053d-4707-b74a-d4b2a5c0a1d4_9e4437be-4161-4921-8a8c-1d0f80a890df.png",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82698010",
+      "categoryName": "Celebration & Bento Cakes",
+      "itemCount": 34,
+      "items": [
+        {
+          "id": "61956573",
+          "name": "Eggless Choco Chips Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 |A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/103659ea-d852-4ef9-b320-d64c53f644b5_bf416c45-eaa2-429b-ae36-2d7c5c28477b.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "43 ratings"
+        },
+        {
+          "id": "61956544",
+          "name": "Eggless Almond Delight Cake  1 Kg",
+          "description": "Serves 1 | The eggless version of our signature roasted almond cake. Rich, nutty, and creamy.",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/4/bfe30c0f-9bb3-469c-854c-e7580d19b9b4_2674070e-4446-4adc-8b3b-07eb52160d92.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "51 ratings"
+        },
+        {
+          "id": "76780807",
+          "name": "Eggless Red Velvet Cream Cheese Cake 1 Kg",
+          "description": "Serves 1 | Tender red velvet layered with cream cheese frosting.",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/219b07f0-88ac-4212-a79d-6d15b7144271_5e841364-4fce-4c15-ad1c-66fae1605fa7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "61956566",
+          "name": "Almond Delight Cake  1 Kg",
+          "description": "Serves 1 | A nutty indulgence loaded with roasted almond flakes and rich cream. Perfect for those who love a crunch in their cake",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/4/bfe30c0f-9bb3-469c-854c-e7580d19b9b4_2674070e-4446-4adc-8b3b-07eb52160d92.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "61956598",
+          "name": "Choco Chips Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 | A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/0f0c2ca5-330f-484f-8ccc-ff2f79184fb5_1d7474e3-c0ca-4681-bf00-5bda07d85114.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "61956554",
+          "name": "Eggless Caramel Delight Cake  1 KG",
+          "description": "Serves 1 | A rich and indulgent caramel flavoured cake",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/22c3e473-77fd-464e-945c-c0a32eb8e820_04923a1d-862f-4703-b40f-a705faf6694c.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "61956605",
+          "name": "Black Forest Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12| Layers of moist chocolate cake whipped cream and cherries make for the classic black forest cake",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e6027ab9-e079-4270-b918-59b1d030f063_c2f2c496-cff0-479c-8333-6be0e178aeeb.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1591 ratings"
+        },
+        {
+          "id": "61956543",
+          "name": "Eggless Butterscotch Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 |Creamy and buttery bakery style butterscotch cake with butterscotch shavings studded on the sides",
+          "price": 1149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/07b02749-70f8-48a3-9bf5-6a2d36cb5929_82393274-66f2-4590-804c-887f99b794af.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "138 ratings"
+        },
+        {
+          "id": "61956579",
+          "name": "Eggless Black Forest Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12 |Layers of moist chocolate cake whipped cream and cherries make for the classic black forest cake",
+          "price": 1199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e6027ab9-e079-4270-b918-59b1d030f063_c2f2c496-cff0-479c-8333-6be0e178aeeb.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "61956594",
+          "name": "Butterscotch Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12 | Creamy and buttery bakery style butterscotch cake with butterscotch shavings studded on the sides",
+          "price": 1149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/4a7f3ba5-2534-4e6f-925b-ca9a7d0134ac_1b941b58-62a3-45a0-8c4a-15c0d4db2a21.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "1462 ratings"
+        },
+        {
+          "id": "61956531",
+          "name": "Eggless Pineapple Cake 1 Kg",
+          "description": "Serves 1 | |Serves 12 | An all time favourite fruity and refreshing cake with a hint of tropical sweetness",
+          "price": 1099.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3f9ad5b7-2734-44bb-8126-7ae240198895_e9d1e2d1-3c93-4ec5-840f-adb9bcc5a68a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.1",
+          "ratingCount": "49 ratings"
+        },
+        {
+          "id": "61956601",
+          "name": "Pineapple Cake  1 Kg",
+          "description": "Serves 1 | |Serves 12 | An all time favourite fruity and refreshing cake with a hint of tropical sweetness",
+          "price": 1099.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3bd2a916-363d-412d-9604-c5115bf5a268_d34e47a7-a277-4e17-8637-b74653ed0179.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "241 ratings"
+        },
+        {
+          "id": "65765421",
+          "name": "Eggless Almond Delight Cake  500 Gms",
+          "description": "Serves 1 | | Serves 8 | Indian inspired, incredibly fragrant layers of fluffy cake and frosting with the added delight of almonds",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/4/bfe30c0f-9bb3-469c-854c-e7580d19b9b4_2674070e-4446-4adc-8b3b-07eb52160d92.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "142133982",
+          "name": "Belgium Chocolate Cake 500 Gms",
+          "description": "Indulge in pure chocolate bliss with this rich pastry made with premium Belgium chocolate ganache. (100% Vegetarian)",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/673c812b-6bb6-4e50-8641-27b3a57eb0b4_4e58da11-77fa-46b4-86bb-a694d863a459.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "61956535",
+          "name": "Choco Chips Cake  500 Gms",
+          "description": "Serves 1 | |Serves 8| A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 891.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/748b2dd4-c935-4c2d-bb5d-aab0d9a60ca7_501db147-d6db-4dd8-b1c9-069908e9efd7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "64 ratings"
+        },
+        {
+          "id": "65765429",
+          "name": "Eggless Choco Chips Cake  500 Gms",
+          "description": "Serves 1 | |Serves 8| A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/58cc01e7-b470-4d57-ba43-6c53736e192e_e6254e08-615d-4cf1-bfaf-a2300fac51d1.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "76780806",
+          "name": "Eggless Redvelvet Cream Cheese Cake 500 Gms",
+          "description": "Serves 1 | |Serves 8| Tender red velvet layered with cream cheese frosting.",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/5349d2f8-c971-4d6a-9405-2a34ea784f42_5f365b5e-9709-49dc-86d8-407ebacba563.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "80907588",
+          "name": "Eggless Blue Berry Delight Cake (Serves 12) 1 KG",
+          "description": "Serves 1 | A deliciously fruity cake bursting with the flavour of juicy blueberries",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/c0eb7e98-199c-4f88-9855-7a0b2280f145_b5871372-21e6-42b4-b69e-b8f5fe0c7abb.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "107790177",
+          "name": "Eggless Butterscotch Cake  500 Gms",
+          "description": "Light vanilla sponge layered with crunchy butterscotch praline and smooth whipped cream. (100% Eggless)",
+          "price": 799.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/07b02749-70f8-48a3-9bf5-6a2d36cb5929_82393274-66f2-4590-804c-887f99b794af.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "80969353",
+          "name": "Eggless Caramel Delight Cake  500 Gms",
+          "description": "Serves 1 | Serves 8 A rich and indulgent caramel flavoured cake",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a1f82fab-75cd-40dc-bb26-efd157b465ed_ddf3d0fd-04d9-4c85-83e5-bf1852fa48c8.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "142133993",
+          "name": "Milk Rocher Cake 500 Gms",
+          "description": "Treat yourself to a slice of our delectable Milk Rocher Cake. With its combination of smooth milk chocolate and fluffy cake layers, every bite is a melt-in-your-mouth experience.",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/976b0bad-698a-4a26-acab-6dc92644af11_c1f3367f-af57-4c3c-bf67-c311d6b6a946.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "86194639",
+          "name": "Butterscotch Cake 500 Gms",
+          "description": "Serves 1 | Serves 8 Indian bakery style  Crunchy cashew caramel praline Totally to die for",
+          "price": 799.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/366b7a32-38a5-43c3-b1b2-af9012a7c473_bd364ea7-1618-4c60-9c11-e223bb53b93a.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "61956582",
+          "name": "Eggless Choco Truffle Cake 1 Kg",
+          "description": "Serves 1 | Serves 12 Decadent chocolate truffle cake thats perfect for indulging in your chocolate cravings",
+          "price": 1399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/6c96334d-1e99-4c8b-9ccd-9ea5c4daa7ef_dedee4a0-5862-44e4-a028-ba435c4486d4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "37 ratings"
+        },
+        {
+          "id": "95168007",
+          "name": "Pineapple Cake 500 Gms",
+          "description": "Serves 1 | Serves8 An all time favourite fruity and refreshing cake with a hint of tropical sweetness",
+          "price": 749.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3bd2a916-363d-412d-9604-c5115bf5a268_d34e47a7-a277-4e17-8637-b74653ed0179.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "118466575",
+          "name": "Black Forest Cake 500 Gms",
+          "description": "Serves 1 | |Serves 8|The king of all cake..perfect classic dessert goes for all occasion",
+          "price": 799.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/ff77837f-58fd-435f-9a5a-04dd64b09d1f_a1fbbdcd-5024-4f5c-846f-fa075685e86d.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "175233369",
+          "name": "Kunafa Chocolate Cake 400gms",
+          "description": "Chocolate Kunafa Cake A Dubai dessert with a chocolaty twist! Crunchy kunafa layered with rich chocolate sponge and smooth pistachio cream, topped with chocolate drizzle and roasted pistachios.",
+          "price": 1049.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/d32c075d-5bab-44c8-ba69-865e63a47c7a_bfef2bef-e14b-472c-b693-0a03e96a7d1f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "80964116",
+          "name": "Eggless Rasmalai Cake  500 Gms",
+          "description": "Serves 1 | |Serves 8 |A delightful blend of rasmalai and rich cream layered over soft sponge. This dessert brings a touch of modern mithaas to every celebration.",
+          "price": 839.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/4a6809b9-512c-4f5a-8d8d-b31f084598f8_d676782b-76bf-4d18-96c6-3d296290d3d7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "165472169",
+          "name": "Eggless Choco Truffle Cake  500 Gms",
+          "description": "Serves 1 | |Serves 8| Decadent chocolate truffle cake thats perfect for indulging in your chocolate cravings",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e6fa90bb-2569-4322-b835-a27daa8b7c8d_eebe98fc-5c90-4ddf-967a-1515d9fa3048.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "74123547",
+          "name": "Eggless Gulab Jamun Cake (Serves 8) 500 GMS",
+          "description": "Serves 1 | Your favourite mithai, reimagined as a cake. Soft, eggless layers soaked in gulab jamun syrup a festive fusion you`ll crave every day.",
+          "price": 839.0,
+          "imageId": "97e3026a71c09a741fc1b1c38102eee2",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "204533016",
+          "name": "Chocolate Crunch Bento Cake 300 Gms",
+          "description": "Treat yourself to the ultimate chocolate indulgence with our Chocolate Crunch Cake. Made with layers of rich, moist chocolate sponge and silky chocolate cream, this cake is finished with a generous coating of crunchy chocolate bits for the perfect balance of smooth and crispy textures. Every bite delivers an intense chocolate flavor with a satisfying crunch, making it the perfect dessert for birthdays, celebrations, or any chocolate lover`s craving.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/7/3/e43301ba-62ca-4492-8880-8c0a1b082b02_c309d8c3-f229-4b5a-8a3b-f62fe9be72c6.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "187425725",
+          "name": "Almond Delight Bento Cake 300 Gms",
+          "description": "A delicate vanilla sponge embraced by silky almond cream, crowned with graceful pink swirls. Every bite offers a subtle nutty elegance and a whisper of sweetness that feels like pure indulgence.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/8338b703-3f5e-41c3-be1e-8e4c47d1fcfd_f3832c08-3c94-4b77-a86a-2136701b5d97.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "204533015",
+          "name": "Biscoff Bento Cake 300 Gms",
+          "description": "Indulge in the rich, caramelized flavor of our Biscoff Cake, made with soft, moist vanilla sponge layered with smooth Biscoff cookie butter frosting. Every bite is filled with the irresistible taste of Lotus Biscoff spread and finished with a generous drizzle of Biscoff sauce and crunchy crushed Biscoff biscuits. Perfectly balanced in sweetness and texture, this cake is a delightful treat for birthdays, celebrations, or simply satisfying your dessert cravings.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/96775c8a-bf0b-46b1-8bc7-22c366facf6d_6d017038-dc05-406e-826f-c53965240b8c.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "187425727",
+          "name": "Choco Truffle Bento Cake 300 Gms",
+          "description": "Lush chocolate sponge infused with silky truffle cream, topped with a flawless dark glaze for an irresistible, decadent bite.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/0d06f24d-8323-4a68-8fdd-0d8d6f6cd16e_778f8138-2f88-40c3-8c53-7367120a981c.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "189188058",
+          "name": "Ghee Cake",
+          "description": "A rich, golden-brown loaf cake baked with aromatic ghee for a deep, buttery flavor and a supremely moist crumb. Topped with crunchy nuts.",
+          "price": 275.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/ac9e91a5-d4ec-430e-919f-f9ab08ae4967_7944a9ae-8cb3-408e-8fcd-c89631f0a166.png",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "79676927",
+      "categoryName": "Everyday Bakes & Breakfast",
+      "itemCount": 42,
+      "items": [
+        {
+          "id": "80223679",
+          "name": "Fiery French Fries - Spicy & Crispy",
+          "description": "Serves 1 | Hot, golden, and crispy french fries seasoned to perfection. The perfect side for any meal.",
+          "price": 156.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/eaf90a98-010f-4142-af20-f0e4ef36459b_23c3874f-4fc0-4576-8a4f-10d8263efa20.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "21 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "63625881",
+          "name": "Plum Cake Big 1 Kg",
+          "description": "Serves 1 | A traditional holiday fruitcakefilled with candied fruits and nuts soaked in our signature spice blend - Thats perfect for Christmas or really,all year round",
+          "price": 799.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/b9c3fbff-94ff-4fbf-88e8-f45717092653_f88b3b7e-4acf-41e0-91fa-e740d7741ce8.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "169057516",
+          "name": "Eggless Mix DryFruit Cake - 500Gms",
+          "description": "Loaded with almonds, cashews, pistachios, royal anjeer and more. this cake delivers timeless flavor with a rich and hearty bite. A true classic, reimagined for today.",
+          "price": 899.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/8a40d789-402c-404e-b520-08a09aedbce8_612b9f66-9e11-4455-aeb5-ede28a7986e0.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "3936270",
+          "name": "Classic Chicken Hot Dog",
+          "description": "Serves 1 | Get your hunger fix with our hot and Classic chicken hot dog with our special in house spice mix",
+          "price": 114.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/f185af58-9a6f-4a6c-81b3-ac7cb3030907_2c198c76-62fd-4299-ac95-afbed614e4b1.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "61956577",
+          "name": "Cheesy Chicken Roll",
+          "description": "Serves 1 | A hot snack consisting of batter fried chicken and grated cheese",
+          "price": 114.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/64e8b562-e189-4067-9d2f-a9ecc925e7e2_36ca4933-b905-4f77-8220-29375b39793b.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "184563768",
+          "name": "Bun Maska",
+          "description": "Soft, fresh bakery bun generously slathered with creamy butter. A classic comfort snack that pairs perfectly with tea.",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/957fe32e-327e-458b-bec4-178417c5308d_e2e6c325-ea00-40c6-9eb8-1a49a81cbd65.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "63625885",
+          "name": "Plum Cake Medium 300 Grams",
+          "description": "Serves 1 | A traditional holiday fruitcakefilled with candied fruits and nuts soaked in our signature spice blend - Thats perfect for Christmas or really,all year round",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3b73c335-c129-413a-8370-0e8e1f8ee60a_22c2da39-d67c-4ca5-b447-9a6174c56eed.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "80242651",
+          "name": "Classic Salted French Fries",
+          "description": "Serves 1 | A perfect side dish made of potato for our Burger and  Sandwich",
+          "price": 146.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/ce14ab85-79b3-43e2-8680-e6aa8aefcd20_9b97c70e-46c4-4360-9312-00837f7817f7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "63625871",
+          "name": "Fruit Cake",
+          "description": "Serves 1 | Best dunked in milk, coffee or Chai. Soft, addictive and melt in your mouth that will instantly send you down memory lane.",
+          "price": 164.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/dc210744-4688-4089-9ac8-15656d8b98b9_e1776ef9-7f16-4191-9745-ad1aa1925398.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "147764018",
+          "name": "Plum Cake 500 Gms",
+          "description": "A traditional holiday fruitcakefilled with candied fruits and nuts soaked in our signature spice blend - Thats perfect for Christmas or really,all year round",
+          "price": 488.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/c3558aee-27b9-4d19-a9c4-aa9db6fa8821_b6629013-055d-4735-bf40-93a14c32498e.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "290 ratings"
+        },
+        {
+          "id": "151400286",
+          "name": "Dilpasand 200gms",
+          "description": "Sweet puff filled with sweetened mixture of coconut candied fruits and nuts. Often enjoyed as a snack or dessert.",
+          "price": 97.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/16/0498e74d-a7ac-4bc1-81f3-23b65ca3674e_1d5be67b-8e4a-4582-9973-2c05b2462f9c.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "42 ratings"
+        },
+        {
+          "id": "7936086",
+          "name": "Loaded Chicken Tikka Roll",
+          "description": "Serves 1 | Tender, tandoori-spiced chicken tikka chunks wrapped in a soft roll with crisp veggies and tangy sauces",
+          "price": 93.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/849c5c05-46f3-4849-83d4-f129b4879644_0d041fe6-6ae8-4460-b481-f2711eb6f034.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "6 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "151400285",
+          "name": "Dilkush 200gms",
+          "description": "A deliciously  sweet bun filled with coconut and dry fruits. Its a perfect snack or a dessert option. Literally translates to Heart is Happy",
+          "price": 94.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/16/d5cd1eb5-4241-4ae9-94f1-633f3c53433d_fdfddf9a-086f-430e-96f4-91b61aa44c64.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "29 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "187016562",
+          "name": "Chicken Chilli Garlic Fingers ( 6 Pcs )",
+          "description": "Bold and spicy Chicken Chilli Garlic Fingers . These savory chicken strips are marinated and cooked in a vibrant blend of chili and aromatic garlic. A flavorful, ready-to-eat appetizer.",
+          "price": 194.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/84f48d75-b956-4e0f-900a-75615f4470b3_1282d5ed-9d0c-4b41-b198-20669195c085.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "213918276",
+          "name": "Chicken Tikka Salad.",
+          "description": "A flavour-packed salad featuring spicy chicken tikka, crunchy bell peppers, and fresh greens, finished with creamy dressing and a tangy sauce. Smoky, zesty, and loaded with juicy chicken in every satisfying bite!",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a3755fd7-7c7a-46cb-ae93-df8daa580f83_2864a15d-e5d9-4463-8023-d0ac57591fed.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "213918277",
+          "name": "Paneer Tikka Salad.",
+          "description": "A flavour-packed salad featuring spicy paneer tikka, crunchy bell peppers, sweet corn, and fresh greens, finished with creamy dressing and a tangy sauce. Smoky, zesty, and satisfying in every bite!",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/a46a5e69-a9c8-4c50-81d4-4a65d15bf289_092b02aa-0b6a-478a-9d23-82fdb540b936.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "213918278",
+          "name": "Veg Crunch Salad.",
+          "description": "A fresh and crunchy mix of sweet corn, garden-fresh veggies, and crisp greens, tossed in a creamy dressing with a drizzle of tangy, spicy sauce. Light, flavourful, and perfect for a refreshing bite!",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/a9bb0ac6-6cfd-4577-a716-6897ba4cd9ba_cf9ca1d3-d648-4f1b-a284-7950e81c8d42.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "61956590",
+          "name": "Chand Biscuits Big 400 Gms",
+          "description": "Serves 1 | Half moon shaped biscuits made the old fashioned way that are melt in your mouth soft and oh so delicious",
+          "price": 305.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/70456a55-b4e8-4b17-8b04-672bac6fed23_7cda14b5-aa49-43ff-a2cc-8dca060e0e7c.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "61956524",
+          "name": "Osmania Biscuits Big 400gms",
+          "description": "Serves 1 | A Hyderabad specialty - A perfect balance of sweet and salty that melt in your mouth. Dip it in your daily tea and enjoy!",
+          "price": 301.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/adae1f87-111e-4839-a6ff-8528345ed20f_18e7f028-7e91-4418-ba28-c87455c1c773.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "38 ratings"
+        },
+        {
+          "id": "187016566",
+          "name": "Crunchy Chicken Nuggets ( 6 Pcs )",
+          "description": "Perfectly sized and irresistibly crunchy! Our premium Chicken Nuggets are expertly baked/fried to a golden crisp and ready to be enjoyed immediately. A classic snack great for kids and adults alike.",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/2689261d-8382-4d46-bf93-9252aa49fd45_0fc98e70-788d-4fcf-8329-9b31d6e6c374.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "189188057",
+          "name": "Coconut Dry Cake 300gms",
+          "description": "A moist and tender dry cake infused with coconut milk, offering a delicate sweetness and topped with toasted coconut for texture.",
+          "price": 281.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/19cd45a3-4863-483f-8062-9b267e85654a_8870eca7-a3e2-4faa-b676-bb3f8a71c603.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "63625864",
+          "name": "Chocolate Dry Cake 300 Gms",
+          "description": "Serves 1 | Velvety cake with chocolate chips and a hint of caramel  Any time snacking",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/11/8/93c04d4f-d9e5-407b-8353-ab528f60d3d6_0f1e942d-64c6-493e-9e31-34d26ab31374.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "63625855",
+          "name": "Salt Biscuits Big 400 Gms",
+          "description": "Serves 1 | Simple yet delicious, these salt biscuits are your go to for dipping and enjoying in your favourite hot beverage.",
+          "price": 301.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/1f417a00-201f-428d-b8e8-f5dcc835d38b_18aa137b-153d-4f57-a83b-8a7205f3aa4b.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "206331919",
+          "name": "Korean Chicken Wings",
+          "description": "",
+          "price": 251.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/3d9bea05-5bdb-4aec-9af7-940f73aa74c9_07ef4e19-7d43-43d6-aca7-34ba7eebb41c.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "187016560",
+          "name": "Chicken Breast Strips",
+          "description": "Tender, lean Chicken Breast Strips . Classic and fully cooked, offering a simple, high-protein snack or meal component. Enjoy the pure flavor of quality chicken.",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/36efae1a-a002-4006-b761-4d795fd6072f_061a4f80-7d25-48ff-bb90-959ea5ca645b.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "206331917",
+          "name": "Chicken Jhol Momos (3 Pcs)",
+          "description": "",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/9c283d5e-984a-4639-86f1-4522efc26559_b74deca5-1824-461e-ac5f-f8cabe3c3fd0.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "63625886",
+          "name": "PLUM CAKE SMALL 200 GRAMS",
+          "description": "Serves 1 | A traditional holiday fruitcakefilled with candied fruits and nuts soaked in our signature spice blend - Thats perfect for Christmas or really,all year round",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3b73c335-c129-413a-8370-0e8e1f8ee60a_22c2da39-d67c-4ca5-b447-9a6174c56eed.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "206331918",
+          "name": "Veg Jhol Momos (3 Pcs)",
+          "description": "Soft Veg Momos served with delicious jhol gravy,packed with smoky,tangy,and aromatic flavors",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/9c283d5e-984a-4639-86f1-4522efc26559_b74deca5-1824-461e-ac5f-f8cabe3c3fd0.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "61956593",
+          "name": "Classic Veg Hot Dog - Cheesy & Loaded",
+          "description": "Serves 1 | The perfect quick snack or meal option for you with a flavourful veggie patty in between our in house made soft bun",
+          "price": 114.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/363eb963-98e5-46c6-9c88-0582ca50dda3_71a1b19c-4752-4697-8cb9-292b16c42f3a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "187016564",
+          "name": "Coated Spicy Chicken Wings ( 4 Pcs )",
+          "description": "Perfectly seasoned and crispy Spicy Chicken Wings . These wings are fully cooked, delivering maximum heat and crunch in every bite. A classic, ready-to-devour item.",
+          "price": 224.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a9cccbe0-bd98-4207-aca5-5424521b7e0d_7ee667b8-5b75-4a63-9043-8a8bf362425f.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "187016570",
+          "name": "Mini Punjabi Samosa( 5 Pcs)",
+          "description": "Traditional Punjabi Samosas . A perfectly crisp, flaky outer crust filled with a flavorful, spiced mixture of potato and green peas. A classic, ready-to-eat vegetarian treat.",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/d7b4de39-b4cf-4882-bf50-d8c7c32dd82a_85a1a47d-875f-49ca-bc3e-e35a9d8a146b.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "187016568",
+          "name": "Onion Rings-snack ( 7 Pcs )",
+          "description": "Golden and classic Onion Rings . Thick-cut onion slices in a light, crunchy vegetarian batter, cooked to a perfect crisp. A delicious, ready-to-eat side or snack.",
+          "price": 204.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/538c6241-a3dd-4e87-8d21-88b9b618ba01_8b5c5dc0-a4ed-4674-856a-416e53396f35.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "193789838",
+          "name": "Brownie Waffle",
+          "description": "Dark Chocolate Brownie Tower Decadence reaches new heights! Layers of deep, dark chocolate brownie waffles artfully stacked and drizzled with luxurious white chocolate ribbons. Fudgy, intense, and unapologetically rich ? this towering creation is a chocolate lover`s ultimate fantasy. Every bite delivers that perfect brownie texture with a waffle twist. Perfect for: Chocolate obsessives | Ultimate indulgence | Sharing (or not!)",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/eab9eaed-8233-47de-80b4-62e4f99cd677_efc710c5-d7ce-47b9-9bdf-08c60481cab1.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "148782286",
+          "name": "Soan Papdi Cookies 130 Gms",
+          "description": "Discover the irresistible crunch of our Soan Papdi Biscuit a delectable treat that combines the best of both worlds traditional Indian sweets and crispy biscuits.",
+          "price": 195.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/da12aa99-a1f1-429f-bf02-760faa1f58d2_7ace2aa9-2a96-48c5-adb7-7c743c766412.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "193789839",
+          "name": "Redvelvet waffle",
+          "description": "Red Velvet Skyscraper A towering masterpiece of indulgence! Our signature red velvet waffle layers stacked sky-high, draped in velvety white chocolate cream and finished with colorful sprinkles. Each tier delivers that iconic red velvet flavor ? rich, cocoa-kissed, and irresistibly moist. A show-stopping treat that tastes as spectacular as it looks. Perfect for: Instagram-worthy moments | Celebrations | Date nights",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/299d45e0-0ca8-4a9e-b88f-7b543ddfae1e_70ef3017-f161-4098-8798-eeabfe9a7d8d.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "187016572",
+          "name": "Sabudana Vada ( 3 Pcs )",
+          "description": "Crispy and wholesome Sabudana Vada (Sago Patties). These popular patties are fully prepared, light, and perfectly seasoned. A great vegetarian snack",
+          "price": 134.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/7a141f23-5bd9-481e-bef0-9d90606bed54_7f4ac8e7-ff1b-41b8-abc4-7ee0fd08b64f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "3936257",
+          "name": "Spicy Paneer Puff",
+          "description": "Serves 1 | A flaky puff filled with paneer and aromatic spices",
+          "price": 60.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/6b340a14-a694-4195-8adf-1d95baf085c7_394565b8-a143-4795-b7ee-3d9c23fa6f50.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "206331920",
+          "name": "Pahadi Maggi",
+          "description": "",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/0e00b6c0-e389-4e80-96fc-664d71e31a64_b2e6931e-59dd-4114-bea2-61e40fe5e3de.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.8",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "3936260",
+          "name": "Classic Egg Puff",
+          "description": "Serves 1 | An all time favourite snack made delicious with our special in house signature spice mix",
+          "price": 45.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/9d643f7e-3925-41aa-bc0b-73dbda1e964c_7de3afe0-fdba-42b7-866e-1acab135fcf7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "63625875",
+          "name": "Plum Cake Tiny 50 Gms",
+          "description": "Serves 1 | A bite-sized traditional treat packed with soaked dry fruits and festive spices.",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/2bfe7079-4b87-4c6b-a6bb-ea43fc783557_d06add3a-6e89-483a-ae47-da5f0c266ca6.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "95 ratings"
+        },
+        {
+          "id": "61956510",
+          "name": "Crispy Aloo Veg Samosa",
+          "description": "Serves 1 | A golden, crispy triangular pastry filled with a spiced potato and pea mash. The ultimate Indian tea-time snack",
+          "price": 40.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/bb0ceba2-7cc2-493f-ad2b-b4787468787f_f0e7cc37-5151-4946-b152-fea3c4b654e4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "61956541",
+          "name": "Fruit Bread 200gms",
+          "description": "Serves 1 | Perfect for on the go breakfast or a delicious snack. Traditionally served with butter and accompanied with tea.",
+          "price": 49.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/0c06d367-d0b1-4811-9ca9-571278168375_5ce4bce5-b648-470e-9402-90c4958e0025.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "13 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "77980541",
+      "categoryName": "Burgers, Pizzas & Sandwiches",
+      "itemCount": 27,
+      "items": [
+        {
+          "id": "3936275",
+          "name": "Classic Grilled Chicken Sandwich",
+          "description": "Serves 1 | Classic and tender grilled chicken combined with fresh veggies, makes for a delicious sandwich that hits the spot everytime!",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/8470ed11-16ce-4d8b-bebb-f0b8ab9826bb_868183e5-abc1-402c-83c2-3a27ce2c116f.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "7 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "61956603",
+          "name": "Grilled Chicken Tikka Sandwich - Loaded & Spicy",
+          "description": "Serves 1 | Our grilled chicken tikka sandwich is a true classic packed with flavour and loaded with boneless chicken marinated in Indian spiced yogurt",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/2dd7b4c4-0f4b-4680-8ea9-276d6b6d6cf9_b76f3f52-6474-4ba9-a357-e7d2b045be39.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "31 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "3936320",
+          "name": "Grilled Paneer Tikka Sandwich - Loaded & Spicy",
+          "description": "Serves 1 | Get ready for a flavour explosion with our grilled paneer tikka sandwich filled with succulent paneer and an abundance of spices!",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/72b9c7a7-bed0-4fef-a4f9-a5ab4b157cf8_a40d746a-b71e-4f2f-8437-0e5cd636ad49.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "21 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "129114156",
+          "name": "Chicken Pizza - 4 inch",
+          "description": "Serves 1 | A mini pizza topped with savoury chicken pieces and melted cheese",
+          "price": 230.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e8e0d0eb-3537-477e-9aca-45767b53cffc_a569b63b-14ca-4d8b-b285-6dc9f86ac020.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "3936280",
+          "name": "Chicken Tikka Burger",
+          "description": "Serves 1 | A lip smacking burger stuffed with boneless chicken, marinated in Indian spiced yogurt",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/f47d15e9-a5e1-453f-933a-0a34d16d43aa_d346618e-6a31-4bf4-a2b0-00368846d05e.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "5151 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "3936279",
+          "name": "Chicken Mince Burger",
+          "description": "Serves 1 | Our exclusive Indian style pan tossed chicken with a hint of caramelized onions and our special signature in house spice mix Satisfy your hunger with this one",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/16/193a9864-06d6-4cf8-b793-161d93529c55_238339cd-b027-4085-84fe-a5c487c5f99a.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "61956547",
+          "name": "Classic Grilled Veg Sandwich",
+          "description": "Serves 1 | Farm fresh veggies, layered with mayonnaise and sandwiched in our in house freshly baked bread",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/1dce2229-0763-4a7a-b1e4-811b0e13b73f_f49ff5a9-89df-4931-bcbc-ef960f0902fc.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "10 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "129108360",
+          "name": "Chicken Tikka Special Pizza 6 Inch",
+          "description": "Serves 1 | A delicious pizza topped with Indian spiced Chicken Tikka, veggies and loaded with cheese",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a2657fa9-cdd7-43ec-b7f0-972967bb9393_536064ed-f722-42fa-811c-4a4923cba60f.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "61956564",
+          "name": "Veg Burger",
+          "description": "Serves 1 | A flavorful mixed vegetable patty paired with sweet and spiced mayonnaise - the most famous fast food dish sure to delight you",
+          "price": 177.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/16/c41de602-946d-4861-ab60-f6527247b922_f758d725-56e9-4632-9501-288a04196495.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "3620 ratings"
+        },
+        {
+          "id": "52246796",
+          "name": "Paneer Tikka Special Pizza 6 Inch",
+          "description": "Serves 1 | Soft and melt in your mouth paneer cubes marinated and baked in Indian spiced yogurt veggies and loaded with cheese",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e777de44-1596-4393-b9bf-3ca7008f87bf_f62f3495-f9a6-40d0-8d4b-c053e2ade482.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "129114154",
+          "name": "Chicken Pizza - 10 Inch",
+          "description": "Serves 1 | A pizza so good you will want to share it with others Topped with minced chicken veggies and cheese",
+          "price": 492.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/b081b112-1e3f-4a13-bac3-8999a9767222_7acce29f-02b4-4c36-a861-7062c349d899.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "61956589",
+          "name": "Chicken Hot N Spicy Pizza 6 Inch",
+          "description": "Serves 1 | Get ready for a fiery kick with our spicy chicken pizza perfect for those who love bold flavours",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/32a5253b-a92e-4303-bde4-d5f045676fd5_0ded60e9-2b46-4656-9b74-d1d763c59a34.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "129108651",
+          "name": "Farm Fresh Veg Pizza - 4 inch",
+          "description": "Serves 1 | A mini pizza topped with a flavourful mix of fresh veggies and loaded with cheese",
+          "price": 209.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/18/ed6c4837-80e0-4eb5-bc38-fb81fa5f33c6_0515d511-5513-4f80-bde6-cab548b6e544.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "63625903",
+          "name": "Paneer Tikka Special Pizza - 10 Inch",
+          "description": "Serves 1 | Soft and melt in your mouth paneer cubes , dipped and baked in Indian spiced yogurt, veggies and cheese loaded",
+          "price": 459.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/e8263a29-ba4a-448a-95a2-0575cf95b670_5c549be0-e158-4eb4-8746-bb4363121fbd.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.6",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "129108361",
+          "name": "Farm Fresh Veg Pizza - 10 inch",
+          "description": "Serves 1 | A classic 10-inch pizza loaded with mozzarella cheese, fresh garden vegetables, and savory sauce.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/2ac3dd31-7796-4bf5-a55c-490590299ce3_d9659570-3c40-40d3-94d8-1f769a80dfa7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "104996220",
+          "name": "Grilled Chicken Sandwich(Multi-Grain)",
+          "description": "Serves 1 | Lean grilled chicken layered in multigrain bread, providing 10g protein and a naturally healthy, filling profile.",
+          "price": 240.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/f865f739-c112-4a96-b67e-ccc2f0e7dbad_89398327-4806-4916-9989-482ea97549d7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "125519743",
+          "name": "Veg Corn Pizza - 6 Inch",
+          "description": "Serves 1 | A crowd-pleaser topped with generous cheese, sweet corn kernels, and Italian herbs.",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/88767c4e-8fa0-4f99-abae-ad7be4a5a401_1f3624d9-184b-43c6-9187-f3049dbf5867.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "61956736",
+          "name": "Veg Mix Cheese Pizza 6 Inch",
+          "description": "Serves 1 | A delightful combination of farm fresh veggies with a  spicy tangy sauce and loaded with 100 Percent  mozzarella cheese",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/961de00a-7e3e-4d82-b808-8f0598da38a4_56880e40-7d72-466a-b8b7-ba6f04c958e7.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "129108362",
+          "name": "Chicken Mix Pizza 6 Inch",
+          "description": "Serves 1 | A definite must try Minced chicken mixed with our special signature in house spice mix veggies and cheese. You will love this",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a0ac69fc-f6a4-4805-af4f-f05241218d81_0242221e-b81c-4f4f-9ae1-84890b201b7b.png",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "61956729",
+          "name": "Paneer Cheese Pizza 6 Inch",
+          "description": "Serves 1 | Indulge in the ultimate cheesy delight with our paneer pizza A vegetarian twist on a classic favourite",
+          "price": 359.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/aa8fb155-1c9c-4565-9f13-0d7f4f149cb5_173a82e7-53da-4e65-9aca-74a2fbbf03dd.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "61956595",
+          "name": "Veg Hot N Spicy Pizza 6 Inch",
+          "description": "Serves 1 | This pizza is a perfect balance of heat and flavour with an array of fresh vegetables and cheese",
+          "price": 335.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/f6c5280f-52ab-4744-b123-4103e59749fb_4f322213-182e-42f4-bc7d-0dfb37a1727c.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "3936277",
+          "name": "Paneer Tikka Burger - Spicy & Loaded",
+          "description": "Serves 1 | Soft, melt in your mouth paneer cubes , marinated in Indian spiced yogurt.",
+          "price": 199.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/e298b8a5-4549-4739-bffc-8e2def569e48_f747e536-221a-4e30-9bab-6eaee9d0f3bd.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "104996221",
+          "name": "Paneer Tikka Sandwich(Multi-Grain)",
+          "description": "Serves 1 | Cottage cheese tikka filled in multigrain bread, offering 10g vegetarian protein in a balanced, nutrient-dense format.",
+          "price": 230.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/c4b0a77f-d784-4609-857c-6420842d43ec_673619ab-c36e-4a56-8525-6e81d47f25a1.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "154481294",
+          "name": "Guntur Kaaram Kodi Burger",
+          "description": "Indulge in the bold and fiery flavors of our Guntur Kaaram KODI Burger a PAKKA LOCAL FLAVOUR BURGER that brings the taste of South India to your plate With perfectly seasoned chicken and a kick of Guntur chili this burger is a must try for adventurous eaters",
+          "price": 230.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/1b831b5c-9b2e-4bde-b9b7-b3aa7ce2e63a_05f6fa9d-e51c-4504-b9a7-65de61c2c83b.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "104996219",
+          "name": "Chicken Tikka Sandwich(Multi-Grain)",
+          "description": "Serves 1 | High-protein chicken tikka packed in multigrain bread, delivering 10g protein for a clean, wholesome meal.",
+          "price": 230.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/cc557097-239e-4cf8-baf1-a49f7898b2ba_efb0a742-f4fa-42fd-a275-e45fef42f7b7.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "104996222",
+          "name": "Veg Grill Sandwich(Multi-Grain)",
+          "description": "Serves 1 | Fresh grilled vegetables packed in multigrain bread for a fibre-rich, nutritious, light meal option.",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/70ea6c19-6727-433d-83cd-753913dc2707_c0cf87e0-2d04-42b1-bd7e-7640e6a206cc.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "154481295",
+          "name": "Guntur Kaaram Veg Burger",
+          "description": "Indulge in the authentic taste of Guntur Kaaram Veg Burger, a PAKKA LOCAL FLAVOUR BURGER that combines spicy Guntur chillies with flavorful Indian spices. Made with fresh vegetables and served on a toasted bun, this burger is sure to satisfy your cravings for bold and delicious flavors.",
+          "price": 219.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/f5344268-ed9e-40e3-a6c5-feb1f3a54487_a20406f0-d8ec-4fa4-a4fe-41105bf8ff27.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "4 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "77980543",
+      "categoryName": "Pastries, Desserts & Treats",
+      "itemCount": 26,
+      "items": [
+        {
+          "id": "123849746",
+          "name": "Apricot Tres De Leche",
+          "description": "|Serves 2 |Our eggless Apricot Tres de Leche a harmonious blend of creamy tres leches cake infused with the delightful essence of ripe apricots",
+          "price": 196.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/78a25089-ba7f-4aba-a71c-67c5f33fde85_b0b89e4c-91a6-41a7-b254-fa09ba3535b3.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "142133983",
+          "name": "Belgium Chocolate Pastry",
+          "description": "Indulge in pure chocolate bliss with this rich pastry made with premium Belgium chocolate ganache. (100% Vegetarian)",
+          "price": 167.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/f94665c7-0525-4422-84b2-78d86de42ba2_b121ce76-88a9-49c3-8bb9-aad927c34ea0.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "80969355",
+          "name": "Eggless Pineapple  500 Gms",
+          "description": "Serves 1 | |Serves8 |An all time favourite fruity and refreshing cake with a hint of tropical sweetness",
+          "price": 749.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3f9ad5b7-2734-44bb-8126-7ae240198895_e9d1e2d1-3c93-4ec5-840f-adb9bcc5a68a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "3936301",
+          "name": "Pineapple Pastry",
+          "description": "Serves 1 | An all time favourite fruity and refreshing pastry with a hint of tropical sweetness",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/2565c7eb-a931-431b-959b-9d4e327fee78_d5bef8e8-6442-48cb-aabe-cc82ffd57135.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "2171 ratings"
+        },
+        {
+          "id": "129597743",
+          "name": "Swiss Rocher Pastry",
+          "description": "This Hazelnut Chocolate pastry  is rich indulgent and reminiscent of the flavors found in Ferrero Rocher chocolates",
+          "price": 167.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3932b3b9-d983-43db-9981-2a55922e165b_f850dece-abd1-45ac-97c1-f2c791f3f672.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "14 ratings"
+        },
+        {
+          "id": "3936303",
+          "name": "Black Forest Pastry",
+          "description": "Serves 1 | Layers of moist chocolate cake whipped cream and cherries make for the classic black forest pastry",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/ac3bc4f9-b48a-4b7b-9c8b-74237578d911_d85bef57-3452-4ac4-8b22-3e88ef9a8cd4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "2831 ratings"
+        },
+        {
+          "id": "3936302",
+          "name": "Classic Butterscotch Pastry",
+          "description": "Serves 1 | Creamy and buttery bakery style butterscotch pastry with butterscotch shavings studded on the sides",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/b5f696f5-7bbc-497f-a0b4-2dfe6692a457_a7d1fc0b-8232-4191-aab6-f6c51aeb3a00.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "63625868",
+          "name": "Red Velvet Cream Cheese Pastry",
+          "description": "Serves 1 | Moist red velvet slices layered with cream cheese frosting. Perfect to celebrate any occasion.",
+          "price": 177.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/a6a0838d-dec9-4788-b58a-ed62922c186f_ea8a1fb6-876e-4f36-a87e-c8b510972a53.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "32 ratings"
+        },
+        {
+          "id": "138001889",
+          "name": "Tiramisu Bento Box",
+          "description": "A trendy, single-serve bento box featuring the classic Italian dessert?coffee-soaked sponge layered with mascarpone cream.",
+          "price": 196.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/3a23f38b-3146-4e1b-bff6-8612ec2fe40b_72c2961d-4e5a-4d0c-8234-412e3f657ead.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "214159875",
+          "name": "Laddu Licious Box (170 g)",
+          "description": "A delightful box of delicious, sweet laddus crafted with a rich taste and traditional flavour. Perfect for satisfying sweet cravings or sharing a little happiness with loved ones.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/25/cd945036-29bf-4bd5-97f8-a1e4e686ad51_6e639e86-4c58-41d3-8e74-e639505ae715.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "214159876",
+          "name": "Caramel Peda Box (170 g)",
+          "description": "Indulge in soft, creamy pedas with a delightful caramel flavour and a rich, sweet taste. A perfect treat for festive celebrations, gifting, or enjoying a special moment.",
+          "price": 279.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/25/cf7549ca-053d-4707-b74a-d4b2a5c0a1d4_9e4437be-4161-4921-8a8c-1d0f80a890df.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "202329977",
+          "name": "Chocolate Bavarian Jar",
+          "description": "Indulge in layers of rich chocolate bliss. Made with smooth and creamy Bavarian chocolate mousse, soft chocolate sponge, and decadent chocolate sauce, every spoonful delivers a melt-in-the-mouth experience. Perfectly balanced in sweetness.",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/682cb35c-4540-491c-8ec8-36d04e5cd169_07372033-d243-44a8-bc67-de00ee222478.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "198626517",
+          "name": "Gulab Jamun Jar",
+          "description": "Soft, melt-in-your-mouth gulab jamuns layered into a handy jar. Pure indulgence, ready to dig into anytime.",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/ecb57b66-cc97-4d24-bbd0-2566fbb9dd54_84955904-a940-4832-be66-b880936e6f83.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "198626506",
+          "name": "Shahi Sheerkurma Jar",
+          "description": "Serves 1 | Rich, creamy sheerkurma with vermicelli and dry fruits a royal dessert experience packed into every spoonful.",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/cd385e22-a39a-47ce-aac1-9e29d9557fb4_6f266dba-a733-4451-960a-99049d89c983.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "61956618",
+          "name": "Red Velvet Jar",
+          "description": "Serves 1 | Velvety red cake crumbles meet luscious cream cheese frosting, layered perfectly in a jar. Classic, irresistible, and made to share",
+          "price": 229.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/74f2218e-68e0-420b-9567-fd519cbe848b_4913e93c-c696-4720-94a6-e9eb894de7d0.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "34368057",
+          "name": "Oreo Choco Crush",
+          "description": "Serves 1 | Delicious chocolate combined with indulgent Oreos blended into a thick milkshake.",
+          "price": 204.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/88ed07a0-7bba-462c-a57a-80c13b60b2cc_aa8032f6-1a2c-422b-9a8f-c91964c554cf.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "212328583",
+          "name": "Rasmalai Bento Box",
+          "description": "",
+          "price": 196.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/c190a27a-9938-4974-8906-b08152de3957_0f10d968-8a24-4c31-9aea-71c9975072f8.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "119732142",
+          "name": "Millionaire Berry Brownie",
+          "description": "Rich chocolate brownie layered with caramel and chocolate ganache and topped with dried blue berries and choco chips",
+          "price": 119.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/2d85cb88-121a-41fd-8ecf-2e9ae180d1bc_86b0acd2-8446-4a5c-9eb2-6001d8991161.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "29230029",
+          "name": "Choco Truffle Pastry",
+          "description": "Serves 1 | Decadent chocolate truffle pastry thats perfect for indulging in your chocolate cravings",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/7308799a-31f0-4c8d-a338-95cfc9b19ff9_55791e5b-c6a2-4004-9ec1-4f4a29128b3a.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "253 ratings"
+        },
+        {
+          "id": "28530781",
+          "name": "Choco Chips Pastry",
+          "description": "Serves 1 | A slice of dark chocolate and truffle layered and studded with choco chips",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/49d0554f-203f-46f8-8066-2b424918c97c_1332e51f-d329-4478-9efb-ef724cd8770f.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "475 ratings"
+        },
+        {
+          "id": "46623843",
+          "name": "Choco Lava",
+          "description": "Serves 1 | An intensely dark and fudgy chocolate cake with a dense, creamy, liquid chocolate center ? a decadent, cold dessert experience ready to enjoy.",
+          "price": 109.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/b71b9fc4-c530-46fe-95bf-9f42070fc145_12d1f786-660a-4336-8f06-56f72180c64b.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "67 ratings"
+        },
+        {
+          "id": "193789836",
+          "name": "Milk Chocolate Donut",
+          "description": "Dark Chocolate Decadence Pure indulgence awaits in this fluffy artisan donut, lavished with rich dark chocolate glaze and adorned with premium chocolate chips. Smooth, deeply satisfying, and perfectly balanced ? it`s everything a chocolate lover dreams of. Freshly made to order for ultimate softness. Perfect for: Chocolate devotees | Premium treat seekers",
+          "price": 104.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/f5643146-9c91-4170-a554-f18e28aab1b2_77e57480-084c-499d-889f-64d1f79a0384.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "178046003",
+          "name": "Dark Chocolate Bar",
+          "description": "Bold dark chocolate with a smooth, gooey center. Rich and indulgent in every bite.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/6bcbbb6f-4e8e-4644-9084-18cc8e02018c_55b3023e-a297-47f4-bf58-9694fa265409.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "193789835",
+          "name": "Caramel Dream Donut",
+          "description": "Caramel Almond Bliss A golden, pillowy-soft donut crowned with luscious caramel glaze and generously topped with toasted almond flakes. Each bite delivers a perfect harmony of buttery caramel sweetness and delicate nutty crunch. Hand-crafted fresh daily for an indulgent moment you truly deserve. Perfect for: Caramel lovers | Nut enthusiasts",
+          "price": 104.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/5c9716dc-a11b-4262-a62c-b0c9ba190903_5da35a79-92d1-477a-8679-cbe90c9b7b8e.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "193789837",
+          "name": "White - Chocolate Donut",
+          "description": "Rainbow Sprinkle Celebration Happiness in every bite! Our signature soft donut dressed in smooth white chocolate icing and crowned with vibrant rainbow sprinkles. Light, airy, and simply delightful ? this cheerful treat brings joy to any moment. Made fresh with premium ingredients for that melt-in-your-mouth experience. Perfect for: Kids & kids-at-heart | Celebration moments",
+          "price": 104.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/21/acff3284-a59d-42aa-a216-dac8f0fb9cfe_deda7f6c-e970-456b-91e8-a053846a794c.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "178046005",
+          "name": "Milk Caramel Bar",
+          "description": "Silky white chocolate with a sweet, creamy filling. A smooth and satisfying treat.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/4336c507-5eab-4190-bb9d-deac4fd7a08a_f3adac12-28f0-41e4-bad2-d932fdf01dbe.png",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "79676926",
+      "categoryName": "Combos, Hampers & Gifting",
+      "itemCount": 11,
+      "items": [
+        {
+          "id": "209547756",
+          "name": "Veg Corn Pizza- 6 Inch+ Paneer Cheese Pizza 6Inch + Fiery French Fries",
+          "description": "A cheesy double-pizza combo with sweet corn, paneer and fiery crispy fries.",
+          "price": 699.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/22649c11-e2ef-488b-bc0c-a400541751e5_976de20a-9f78-4fe7-bc34-e69d4c30700d.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "198626520",
+          "name": "Oreo Brownie + Signature Butterscotch Pastry + Apricot Tres De Leche",
+          "description": "A dessert lover?s dream trio ? rich Oreo brownie, creamy butterscotch pastry, and soft apricot tres leches cake.",
+          "price": 419.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/8/db34e1fa-dd29-4358-a76d-9c60d2efb9fb_62d26740-0c0e-4025-940b-615667b25802.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "209547755",
+          "name": "Veg Corn Pizza - 6 Inch + Classic Virgin Mojito",
+          "description": "Cheesy corn-loaded pizza paired with a refreshing classic virgin mojito.",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/d48325c5-3fa0-48c5-8dda-b77172cb2a6e_d2d16b66-14d2-4723-bbf0-53a7a7840bf8.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "209547752",
+          "name": "Jhol Momos (Veg) + Pahadi Maggi + Thumsup Can ( 330 ml )",
+          "description": "Juicy veg momos and spicy Pahadi Maggi, paired with a chilled 330 ML Thums Up.",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/19a35902-3662-40ae-a4f4-c61a39b14cff_4e86844b-0a48-4d5d-b4ae-a472738f710a.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "209547754",
+          "name": "Signature Veg Burger + Classic Virgin Mojito",
+          "description": "A hearty signature veg burger paired with a cool, zesty classic virgin mojito.",
+          "price": 329.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/9/7bf4b7f2-51a9-4f1d-91c0-66d88443f200_da43904f-6346-46bf-85dd-40a33d6132ee.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "198626522",
+          "name": "Pineapple Pastry + Black Forest Pastry + Classic Butterscotch Pastry",
+          "description": "Enjoy three classic pastries together pineapple, black forest, and butterscotch perfect for sharing or self treat.",
+          "price": 384.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/8/68da42f7-edb6-46c0-a482-9032976215ed_a87a0ab7-acc1-403d-8448-0f0fb868f1df.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "198626507",
+          "name": "Caramel Dream Donut + White Chocolate Donut + Milk Chocolate Donut",
+          "description": "A donut lovers trio with caramel, white chocolate, and milk chocolate flavors.",
+          "price": 269.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/8/f83f0496-ffb6-46b3-bf2c-bc2e93c79c73_2db3e57c-02fe-4a9d-8e58-fa7f87ffa03f.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "198626514",
+          "name": "Classic Veg Burger +Pineapple Pastry + Classic Virgin Mojito",
+          "description": "A tasty combo of veg burger, fruity pineapple pastry, and chilled virgin mojito ? perfect snack treat.",
+          "price": 355.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/8/0cbf7c1b-9369-4ea3-8786-f0cbf1f8071e_857fd594-562a-49a4-8e40-638292abc811.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "148782282",
+          "name": "Bon Bon Chocolate [pack Of 12]",
+          "description": "Bite-sized chocolates with rich, creamy centers. Pure indulgence packed into every little bite.",
+          "price": 187.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/4e3d33eb-6cb7-4604-8b21-1a70080a3197_1749453e-9843-402c-b0b1-2c98e2791649.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "210026160",
+          "name": "Pahadi Maggi+ Coke Can ( 330 ML )",
+          "description": "Spicy Pahadi-style Maggi paired with a chilled 330 ML Coke.",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/52589d5f-8da2-44aa-b4a2-c218bfff0420_0082698b-5705-40d8-891e-9ae6908b09d4.png",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "198626513",
+          "name": "Classic Egg Puff + Coke Can 330 ML",
+          "description": "Delicious egg puff with crispy layers paired with chilled Coke for a quick snack.",
+          "price": 99.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/e232a15a-85ed-416b-96fd-bffb17569071_b57b56a1-8c04-4f24-b736-29cc46d8fc64.png",
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "82698011",
+      "categoryName": "Drinks, Shakes & Coolers",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "28837088",
+          "name": "Classic Virgin Mojito",
+          "description": "Serves 1 | A non alcoholic version of the classic mojito made with lime mint soda and sugar.",
+          "price": 151.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/7544baee-1b29-442c-a955-af5d1e324096_c3b494e0-0e33-42c3-84df-be986b8a3c1d.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "34368088",
+          "name": "Classic Choco Vanilla Shake",
+          "description": "Serves 1 | A classic combination of chocolate and vanilla in a creamy shake.",
+          "price": 204.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/5eb56aa6-3623-4aef-87a7-f829b20bce54_2be066f9-a20b-4d82-a3ae-a0ecd4f3e526.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "36 ratings"
+        },
+        {
+          "id": "65765494",
+          "name": "Oreo Velvet Shake",
+          "description": "Serves 1 | Thick, creamy milkshake loaded with Oreo velvet cookies for a chocolaty, crunchy indulgence.",
+          "price": 204.0,
+          "imageId": "o2ieaah5phfgnoj8qu6z",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "14838297",
+          "name": "Strawberry Shake",
+          "description": "Serves 1 | Delicious strawberries blended with milk into a creamy, fruity shake loved by all ages.",
+          "price": 204.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/1f7e38fe-236e-4ad4-b155-1573f9cc83fa_fe99cb4c-0edd-4bc1-9f7b-38e3f47c8da9.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "97 ratings"
+        },
+        {
+          "id": "34368087",
+          "name": "Vanilla Shake",
+          "description": "Serves 1 | Classic creamy milkshake made with rich vanilla flavor for a smooth and timeless delight.",
+          "price": 204.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/58cf0880-f7ac-4594-9509-eedd2d06888a_512afc52-c502-4e1a-bc68-9895dc83f7ed.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "34368144",
+          "name": "Blue Ocean Mojito",
+          "description": "Serves 1 | A refreshing drink made with a blend of blue curacao, mint leaves, lime, and soda.",
+          "price": 135.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/1b814d18-e294-4a26-804c-6cde7d9217ba_ceac6ce6-a49d-424a-8c27-c632e7c1fb37.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "170 ratings"
+        },
+        {
+          "id": "65765483",
+          "name": "Fresh Watermelon Juice",
+          "description": "Serves 1 | Fresh Watermelon blended to a smooth pulp",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/edd22bc5-c1ee-42fc-b8f6-9dfc9a71bdb9_595a4a78-5156-48f4-9b25-e7bb722f8f08.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "65765508",
+          "name": "Muskmelon Juice",
+          "description": "Serves 1 | Fresh Musk melon Blended to a smooth pulp",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/22/0fdd20bd-b991-445e-bd19-8d00e68521c7_b3683e12-9b01-42e8-a377-7aefcd4aec07.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.7",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "65765487",
+          "name": "Fresh Pineapple Juice",
+          "description": "Serves 1 | Fresh pineapples blended to a smooth pulp.",
+          "price": 139.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/cee2b28a-05bd-4003-b762-41fc7e1c3532_9408042a-5ce5-4cff-bfa2-ddc1a5832b34.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "69999421",
+          "name": "Thumsup Can ( 330 ml )",
+          "description": "Serves 1 | A chilled can of Thums Up to wash down your meal",
+          "price": 65.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/3/83602c77-27be-4827-85a5-b411e8d88326_93aebda7-40c1-4a8d-b36d-e820a74e56b4.png",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

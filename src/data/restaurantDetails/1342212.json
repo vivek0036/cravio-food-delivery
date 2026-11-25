@@ -1,0 +1,1946 @@
+{
+  "restaurant": {
+    "id": "1342212",
+    "name": "Shadab",
+    "city": "Hyderabad",
+    "locality": "Gachibowli",
+    "areaName": "Gachibowli",
+    "costForTwo": 500.0,
+    "cuisines": [
+      "Haleem",
+      "Mughlai"
+    ],
+    "avgRating": 4.2,
+    "totalRatings": "19 ratings",
+    "deliveryTime": "10-15 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/22/46a9b4d0-7e65-4d76-9a0e-93c53199b108_137704.jpg"
+  },
+  "menu": [
+    {
+      "categoryId": "82348751",
+      "categoryName": "Chicken",
+      "itemCount": 15,
+      "items": [
+        {
+          "id": "215489316",
+          "name": "Chicken 65",
+          "description": "",
+          "price": 472.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/77c13093-ed4d-416f-bc7d-80e4b84dc0e5_fc8f6faa-01d9-41f7-8bd7-75f9b7db2577.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489322",
+          "name": "Chicken Majestic",
+          "description": "",
+          "price": 483.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/77ab319d-b8c8-4acd-b43e-2f44c18d0aea_57c442be-0121-421d-98ea-30e6d5161352.jpg_compressed",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489326",
+          "name": "Chicken Lollipop Fry",
+          "description": "",
+          "price": 538.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/1b9ca109-4fbd-4f2e-a6d1-624332d63d1c_92bdb4bb-7d1f-415a-b3ec-f015be7a7523.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489323",
+          "name": "Chicken Pepper",
+          "description": "",
+          "price": 483.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/15f25899-f4d3-4c5e-a69a-0f89d636eced_838fa90d-b7e7-435f-8784-de4ac9466880.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489324",
+          "name": "Butter Garlic Chicken",
+          "description": "",
+          "price": 483.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/f5363a91-e49c-485d-9472-95d1fb34a780_4cefac62-3a7f-48c4-b3fc-4d711388606f.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489327",
+          "name": "Coriander Chicken",
+          "description": "",
+          "price": 483.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/b0269cfd-ee26-4d98-8803-4bfb242e79b6_a1e86b77-ce5a-4469-90f2-d5e6ac8b15c0.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489319",
+          "name": "Chilli Chicken Dry",
+          "description": "",
+          "price": 472.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/cdf9f43c-0884-4b3d-88af-a471c1fc7531_ca041a4a-1274-49e1-aea9-86beef29b5c6.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489320",
+          "name": "Chicken Dragon",
+          "description": "",
+          "price": 472.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/0af0cd3e-f9de-490c-a532-96fa4b7a4b3f_09985ed3-9b2a-4543-85e7-e0146472789c.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489315",
+          "name": "Shanghai Chicken",
+          "description": "",
+          "price": 472.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489317",
+          "name": "Chicken 555",
+          "description": "",
+          "price": 472.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489318",
+          "name": "Chicken Manchurian Dry",
+          "description": "",
+          "price": 472.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489321",
+          "name": "Chicken Oyster Sauce",
+          "description": "",
+          "price": 472.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/0c59710b-0613-4972-877b-74595c79d9fb_13c99629-c941-401d-b0ac-bafa72e6ff27.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489325",
+          "name": "Slice Chicken Sesame Chilli Sauce",
+          "description": "",
+          "price": 494.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489328",
+          "name": "Dice Chicken Devil Sauce",
+          "description": "",
+          "price": 483.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/05112dad-f285-4dc3-a2da-a928d6caefee_285e1776-3968-4b98-835d-6d3e3f7dc28a.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489329",
+          "name": "Chicken Hunan Sauce",
+          "description": "",
+          "price": 483.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348753",
+      "categoryName": "Exotic Seafood",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "215489213",
+          "name": "Apollo Fish",
+          "description": "",
+          "price": 582.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489219",
+          "name": "Fish Finger",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/1e3c6ac7-99cb-41e8-b8fa-d084d463b586_f445a00f-c556-49e0-a810-9b4c60a27072.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489200",
+          "name": "Ginger Prawns",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489196",
+          "name": "Garlic Prawns",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/8e481548-df9c-49c3-871e-112ed93fc129_916a5842-3fbb-4f36-9f72-e5d174e42ebb.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489187",
+          "name": "Fried Prawns",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/7e2e2d52-2dc5-493a-82b1-3545f05a3563_04499a3d-4b30-4273-aa2d-183cfb025ee4.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489190",
+          "name": "Chilli Prawns",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489193",
+          "name": "Schezwan Prawns",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489203",
+          "name": "Loose Prawns",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/59a5f0af-458f-4a12-8cb0-01ce68895acc_6956e4bb-1584-4012-b393-046d2660e0fd.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489206",
+          "name": "Pepper Fish",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489208",
+          "name": "Fish Manchuria",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489211",
+          "name": "Chilli Fish",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/aad3cb5e-e676-4185-a79f-22e1f028ce69_54174895-ac0b-4dc3-8946-abc059924752.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489216",
+          "name": "Fish Koliwada",
+          "description": "",
+          "price": 593.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/62f517af-7c99-4984-9eb0-e714971c500c_325bffca-f760-4561-a729-e547d402eaa9.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348750",
+      "categoryName": "Veg",
+      "itemCount": 10,
+      "items": [
+        {
+          "id": "215489310",
+          "name": "Paneer Manchurian",
+          "description": "",
+          "price": 395.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489313",
+          "name": "Honey Sesame Chilli Potato",
+          "description": "",
+          "price": 395.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489306",
+          "name": "Crispy Veg",
+          "description": "",
+          "price": 362.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/4a535b34-4507-4097-ad15-b84a6f8fc50d_74e2ec4d-2025-455a-8efc-8358e3d32b6d.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489307",
+          "name": "Veg Manchuria",
+          "description": "",
+          "price": 362.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489305",
+          "name": "Finger Chips",
+          "description": "",
+          "price": 395.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489308",
+          "name": "Gobi 65",
+          "description": "",
+          "price": 362.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489309",
+          "name": "Paneer 65",
+          "description": "",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/6765e2df-3fbb-4f1d-a7aa-45a8d04ee0f0_8016407c-d3e0-4be7-8716-7137292363f7.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489311",
+          "name": "Gobi Manchurian",
+          "description": "",
+          "price": 362.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/a7a78d45-f5d8-4a29-a8fd-83ac0ab17b17_4453314a-eb59-4179-aca6-2fd880277b86.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489312",
+          "name": "Chilli Paneer",
+          "description": "",
+          "price": 395.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489314",
+          "name": "Paneer Crispy",
+          "description": "",
+          "price": 395.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/69ea143f-0302-4e6d-8374-acdcd6092c43_a8cf3e99-3ea3-4573-a7e6-de77d226b751.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348752",
+      "categoryName": "Mutton",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "215489331",
+          "name": "Mutton 65",
+          "description": "",
+          "price": 659.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/e3fb69a3-5a0f-45bc-99da-237d170ccfa7_eccf41cd-fcc1-4005-ae10-e79fa042fe1d.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489332",
+          "name": "Mutton 555",
+          "description": "",
+          "price": 659.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/f0f4b664-0009-4d96-976d-2145fac88d88_bc307d7c-e433-4cb6-b800-45ba15bd5e9b.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489330",
+          "name": "Pepper Mutton",
+          "description": "",
+          "price": 659.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489185",
+          "name": "Lamb Dumpling Hot Garlic",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348769",
+      "categoryName": "Biryani",
+      "itemCount": 13,
+      "items": [
+        {
+          "id": "215489344",
+          "name": "Veg Biryani",
+          "description": "",
+          "price": 362.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489345",
+          "name": "Veg Pulao",
+          "description": "",
+          "price": 362.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489347",
+          "name": "Egg Biryani",
+          "description": "",
+          "price": 384.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489346",
+          "name": "Navratan Pulao",
+          "description": "",
+          "price": 362.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489352",
+          "name": "Fish Biryani",
+          "description": "",
+          "price": 582.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489353",
+          "name": "Prawn Biryani",
+          "description": "",
+          "price": 582.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489354",
+          "name": "Kheema Biryani",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216240503",
+          "name": "Zafrani Chicken Biryani (Regular)",
+          "description": "(Serves 2)",
+          "price": 494.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216240568",
+          "name": "Zafrani Chicken Biryani (Special)",
+          "description": "(Serves 2 to 3)",
+          "price": 648.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216240629",
+          "name": "Zafrani Mutton Biryani (Regular)",
+          "description": "(Serves 2)",
+          "price": 582.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "216240792",
+          "name": "Zafrani Mutton Biryani (Special)",
+          "description": "(Serves 2 to 3)",
+          "price": 769.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489348",
+          "name": "Zafrani Chicken Biryani (Single)",
+          "description": "(Serves 1)",
+          "price": 307.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "215489350",
+          "name": "Zafrani Mutton Biryani (Single)",
+          "description": "(Serves 1)",
+          "price": 329.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "3 ratings",
+          "isBestseller": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348757",
+      "categoryName": "Curries (Chicken)",
+      "itemCount": 22,
+      "items": [
+        {
+          "id": "215489253",
+          "name": "Murgh Musallam",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489254",
+          "name": "Tandoori Murgh Masala",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489272",
+          "name": "Murgh Gaurani",
+          "description": "",
+          "price": 516.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/0a8817fa-496d-4a43-91f0-8f4fbe531f0b_4c8b0d6c-d1cb-4cd1-aabc-5913309db398.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489270",
+          "name": "Murgh Afghani",
+          "description": "",
+          "price": 505.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/be3477fe-6913-4321-876b-c020b0a1fca2_06b1c30d-def6-4cac-9b3c-a93cc5ae0dd9.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489269",
+          "name": "Murgh Hyderabadi",
+          "description": "",
+          "price": 505.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/e27032ae-41df-4f9b-aab7-41b18336efaf_98590e29-9f2b-4e34-96a5-70c42e1f550b.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489259",
+          "name": "Murgh Tikka Masala",
+          "description": "",
+          "price": 505.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489243",
+          "name": "Kolhapuri Murgh",
+          "description": "",
+          "price": 505.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489246",
+          "name": "Murgh Achari Masala",
+          "description": "",
+          "price": 505.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/9c99aa61-0c27-49ba-85b3-701059daff4d_e7451167-02d3-4917-8838-c5902488be89.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489248",
+          "name": "Nilgiri Murgh",
+          "description": "",
+          "price": 505.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489250",
+          "name": "Murgh Dhaniya Adraki",
+          "description": "",
+          "price": 505.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489256",
+          "name": "Dum Ka Murgh",
+          "description": "",
+          "price": 505.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489261",
+          "name": "Murgh Akbari",
+          "description": "",
+          "price": 505.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489263",
+          "name": "Murgh Mughlai",
+          "description": "",
+          "price": 538.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/18c59001-0c1b-4d78-9027-a3f7399b657e_8a8f39b2-65b5-4020-bbf1-17224f81807c.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489265",
+          "name": "Kadai Murgh",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489267",
+          "name": "Murgh Makhani (Butter Chicken)",
+          "description": "",
+          "price": 505.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/0976010e-4999-4d1a-9d8b-1331af0516d4_f89e9fa0-f1c9-47ef-87a5-df0c8112fa7b.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489274",
+          "name": "Murgh Pakistani",
+          "description": "",
+          "price": 494.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/9b0af179-6fd0-4770-88d1-07868e7dc481_1325979a-d938-4b9b-a3f7-5ed1e608e540.jpg_compressed",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489276",
+          "name": "Chicken Chilli Masala",
+          "description": "",
+          "price": 494.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489278",
+          "name": "Murgh Joshina",
+          "description": "",
+          "price": 494.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489280",
+          "name": "Birmingham Chicken Curry",
+          "description": "",
+          "price": 516.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489284",
+          "name": "Omelette",
+          "description": "",
+          "price": 109.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489286",
+          "name": "Boiled Egg",
+          "description": "",
+          "price": 54.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489288",
+          "name": "Egg Masala",
+          "description": "",
+          "price": 329.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348756",
+      "categoryName": "Curries (Veg)",
+      "itemCount": 16,
+      "items": [
+        {
+          "id": "215489222",
+          "name": "Paneer Tikka Masala",
+          "description": "",
+          "price": 406.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489225",
+          "name": "Paneer Lazzatdar",
+          "description": "",
+          "price": 406.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489205",
+          "name": "Kaju Paneer",
+          "description": "",
+          "price": 373.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/742e21f9-b1cc-4f92-a39f-57048f775f69_fc73b3b8-9cd9-498f-aa8f-478c7f455cd4.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489198",
+          "name": "Gobi Masala",
+          "description": "",
+          "price": 329.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489201",
+          "name": "Kadai Vegetable",
+          "description": "",
+          "price": 329.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489234",
+          "name": "Navratan Korma",
+          "description": "",
+          "price": 373.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489189",
+          "name": "Dal Fry",
+          "description": "",
+          "price": 274.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/fbb83899-79a9-429e-b4e2-646b0eeb21be_124a2bd7-3992-4783-a5da-2d92c020714a.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489192",
+          "name": "Dal Tadka",
+          "description": "",
+          "price": 274.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489209",
+          "name": "Shahi Paneer",
+          "description": "",
+          "price": 373.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/59e64389-bbbd-4d2a-a988-766de8c9900d_5e9a67e6-f82f-4a12-8e6b-82d4b453e77a.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489214",
+          "name": "Paneer Pasanda",
+          "description": "",
+          "price": 373.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489217",
+          "name": "Nizami Handi",
+          "description": "",
+          "price": 373.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489220",
+          "name": "Malai Kofta",
+          "description": "",
+          "price": 373.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489229",
+          "name": "Paneer Lababdar",
+          "description": "",
+          "price": 406.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489232",
+          "name": "Palak Paneer",
+          "description": "",
+          "price": 373.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489237",
+          "name": "Paneer Butter Masala",
+          "description": "",
+          "price": 373.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/8318d388-0432-45a8-996a-c95e45ec01ff_1d2b5025-eef3-4179-9674-01d7370b6749.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489240",
+          "name": "Mutter Paneer",
+          "description": "",
+          "price": 406.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348758",
+      "categoryName": "Curries (Mutton)",
+      "itemCount": 16,
+      "items": [
+        {
+          "id": "215489297",
+          "name": "Rogan Josh (Bone)",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/7aa2afe4-add8-4e50-a747-4a8835f2cf50_cec371d3-bf0d-4870-b8c9-e4e278dd8991.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489291",
+          "name": "Kali Mirch Gosht (Bone)",
+          "description": "",
+          "price": 571.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/39dae959-f699-4675-8690-ca65986be79b_0cb3f7f0-bf47-441e-a11a-f9498386f43e.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489292",
+          "name": "Bhuna Gosht (Bone)",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489294",
+          "name": "Handi Gosht (Bone)",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489299",
+          "name": "Railway Gosht Curry (Bone)",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489301",
+          "name": "Dum Ka Gosht (Bone)",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489302",
+          "name": "Nawabi Mutton",
+          "description": "",
+          "price": 615.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/cefbe93c-005f-4109-bff2-4f476fa458ab_1a45cb06-d4cc-4841-ad3c-5a48558d86b4.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489303",
+          "name": "Nargisi Kofta",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489333",
+          "name": "Osmania Mutton",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489334",
+          "name": "Pakistani Mutton",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489335",
+          "name": "Gaurani Mutton",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489336",
+          "name": "Green Peas Keema",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489337",
+          "name": "Mughlai Gosht",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489338",
+          "name": "Achari Gosht (Bone)",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489339",
+          "name": "Afghani Mutton",
+          "description": "",
+          "price": 615.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489304",
+          "name": "Kadai Gosht",
+          "description": "",
+          "price": 615.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/b6e574d9-c250-423b-8dc7-2498bf4dcd9f_7d415d41-bd9b-42d6-a0a9-e073cab62b29.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348759",
+      "categoryName": "Curries (Sea Food)",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "215489340",
+          "name": "Jhinga Kadai",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489341",
+          "name": "Jhinga Masala",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489342",
+          "name": "Machi Masala",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489343",
+          "name": "Fish Goan Curry",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348763",
+      "categoryName": "Tandoor Grills (Chicken)",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "215489266",
+          "name": "Tangdi Kebab (Bone)",
+          "description": "",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/7e190a63-4b70-43e2-af04-64251203a5a2_6928c4f1-701a-4fd1-8eec-00f04f6f7a9a.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489249",
+          "name": "Malai Kebab",
+          "description": "",
+          "price": 538.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/52308a1f-d944-44bd-82e1-de55b03ef43b_591e715d-f8f3-4729-add0-ca4ffb32ef03.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489251",
+          "name": "Banjara Kebab",
+          "description": "",
+          "price": 538.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/f4bd42af-8538-4b96-b8d8-202623721288_bb20d7fa-9fe5-4b75-bb5c-debc6a3c6d5a.jpg_compressed",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489257",
+          "name": "Murgh Achari Tikka",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489268",
+          "name": "Tandoori Murgh",
+          "description": "",
+          "price": 439.0,
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true
+        },
+        {
+          "id": "215489242",
+          "name": "Alamgir Tikka",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489244",
+          "name": "Lehsuni Murgh Tikka",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489247",
+          "name": "Murgh Tikka",
+          "description": "",
+          "price": 538.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/fb61a959-81d3-48c6-941b-3b4171da345d_65e38951-d089-4e64-a1f8-0c55613cffe6.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489252",
+          "name": "Changezi Kebab",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489255",
+          "name": "Murgh Ke Sholay",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489258",
+          "name": "Chermoula Kebab",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489260",
+          "name": "Andhra Murgh",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489264",
+          "name": "Kalmi Kebab (Bone)",
+          "description": "",
+          "price": 538.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489262",
+          "name": "Afghani Tikka",
+          "description": "",
+          "price": 538.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/45efc4c8-3924-48a4-8fed-083e56390877_64923b24-666b-4679-8c6b-6c97997fdcfb.jpg",
+          "isVeg": false,
+          "isAvailable": false
+        }
+      ]
+    },
+    {
+      "categoryId": "82348764",
+      "categoryName": "Tandoor Grills (Mutton)",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "215489271",
+          "name": "Pathar Ka Gosht",
+          "description": "",
+          "price": 714.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/0d9f5239-e586-4345-a01e-954b8dd95269_37b878fc-fb72-40e7-b38e-7fabb5b21b9d.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489275",
+          "name": "Sheek Kebab",
+          "description": "",
+          "price": 659.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/2330d104-6a2d-40bf-8e70-095ebb65e2e1_46becb38-f997-451d-8bcf-bbe0477c92ac.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489273",
+          "name": "Barra Kebab",
+          "description": "",
+          "price": 659.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/15/9b25bdc8-d340-4ad4-a932-7b7e2a52d77c_213e6170-3ce8-4a98-ae01-1a930767408b.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489277",
+          "name": "Boti Kebab",
+          "description": "",
+          "price": 714.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489279",
+          "name": "Galouti Kebab",
+          "description": "",
+          "price": 714.0,
+          "isVeg": false,
+          "isAvailable": false
+        }
+      ]
+    },
+    {
+      "categoryId": "82348765",
+      "categoryName": "Tandoor Grills (Sea Food)",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "215489289",
+          "name": "Tandoori Prawns",
+          "description": "",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/2fac81f3-7dcc-4660-93e0-2002d59c9710_8b964414-acad-4017-b82a-c07d594bf6dd.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489281",
+          "name": "Kasundi Fish Tikka",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489283",
+          "name": "Ajwain Fish Tikka",
+          "description": "",
+          "price": 549.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/d945d49e-6245-47db-9457-59724d8bf8e7_0fbf45a2-b08f-40cc-9250-a54afb3f9899.jpg",
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489285",
+          "name": "Fish Tikka Kebab",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348762",
+      "categoryName": "Tandoor Grills (Veg.)",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "215489223",
+          "name": "Paneer Tikka Kebab",
+          "description": "",
+          "price": 428.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489226",
+          "name": "Paneer Achari Tikka",
+          "description": "",
+          "price": 428.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/78ba06e6-c6da-4d73-951e-c452d4259655_faa06095-6e65-41c6-8889-813e9885998d.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489228",
+          "name": "Paneer Pudina Tikka",
+          "description": "",
+          "price": 428.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489231",
+          "name": "Malai Paneer Tikka",
+          "description": "",
+          "price": 428.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/25c06b7d-df94-4487-b616-9579401351f1_e02cff7a-6a91-48ed-a1be-9a953256cd5c.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489233",
+          "name": "Veg Seekh Kabab",
+          "description": "",
+          "price": 428.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/11/14/dc6314bc-d0cd-43eb-bece-774c653a4909_623f1ef0-f42f-4ccf-8755-5f29c8d51305.jpg",
+          "isVeg": true,
+          "isAvailable": false
+        }
+      ]
+    },
+    {
+      "categoryId": "82348766",
+      "categoryName": "Platter",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "215489293",
+          "name": "Mini Chicken Platter",
+          "description": "",
+          "price": 571.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489295",
+          "name": "Mini Mutton Platter",
+          "description": "",
+          "price": 736.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489296",
+          "name": "Chicken Platter",
+          "description": "",
+          "price": 1099.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489298",
+          "name": "Mutton Platter",
+          "description": "",
+          "price": 1429.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489300",
+          "name": "Mix Platter",
+          "description": "",
+          "price": 1539.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348740",
+      "categoryName": "Khaas Peshkash",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "215489235",
+          "name": "Tala Hua Gosht",
+          "description": "",
+          "price": 659.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489245",
+          "name": "Hyderabadi Marag (Mutton Stew) Saturday",
+          "description": "",
+          "price": 582.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489241",
+          "name": "Tala Hua Keema",
+          "description": "",
+          "price": 549.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489238",
+          "name": "Ghee Roast (Bone)",
+          "description": "",
+          "price": 626.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348760",
+      "categoryName": "Fried Rice",
+      "itemCount": 16,
+      "items": [
+        {
+          "id": "215489360",
+          "name": "Burnt Garlic Chicken Fried Rice",
+          "description": "",
+          "price": 373.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489357",
+          "name": "Schezwan Fried Rice",
+          "description": "",
+          "price": 341.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489355",
+          "name": "Veg. Fried Rice",
+          "description": "",
+          "price": 318.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489366",
+          "name": "Jeera Rice",
+          "description": "",
+          "price": 274.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489356",
+          "name": "Ginger Capsicum Fried Rice",
+          "description": "",
+          "price": 318.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489358",
+          "name": "Egg Fried Rice",
+          "description": "",
+          "price": 318.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489359",
+          "name": "Chicken Fried Rice",
+          "description": "",
+          "price": 373.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489361",
+          "name": "Chicken Schezwan Fried Rice",
+          "description": "",
+          "price": 384.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489362",
+          "name": "Prawn Fried Rice",
+          "description": "",
+          "price": 384.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489364",
+          "name": "Mixed Fried Rice",
+          "description": "",
+          "price": 384.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489365",
+          "name": "Plain Rice",
+          "description": "",
+          "price": 219.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489367",
+          "name": "Mutter Pulao",
+          "description": "",
+          "price": 296.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489368",
+          "name": "Curd Rice",
+          "description": "",
+          "price": 274.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489369",
+          "name": "Ghee Rice",
+          "description": "",
+          "price": 274.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489370",
+          "name": "Lemon Rice",
+          "description": "",
+          "price": 274.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489371",
+          "name": "Masala Rice",
+          "description": "",
+          "price": 274.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348761",
+      "categoryName": "Noodles & Chowmein",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "215489379",
+          "name": "Mix Hakka Noodles",
+          "description": "",
+          "price": 395.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489372",
+          "name": "Veg Hakka Noodles",
+          "description": "",
+          "price": 318.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489373",
+          "name": "Eggs Hakka Noodles",
+          "description": "",
+          "price": 318.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489374",
+          "name": "Schezwan Hakka Noodles",
+          "description": "",
+          "price": 341.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489375",
+          "name": "Schezwan Chicken Hakka Noodles",
+          "description": "",
+          "price": 395.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489376",
+          "name": "Chilli Garlic Hakka Noodles",
+          "description": "",
+          "price": 384.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489377",
+          "name": "Chicken Hakka Noodles",
+          "description": "",
+          "price": 384.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489378",
+          "name": "Prawn Hakka Noodles",
+          "description": "",
+          "price": 395.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348768",
+      "categoryName": "Naan & Roti",
+      "itemCount": 14,
+      "items": [
+        {
+          "id": "215489388",
+          "name": "Cheese Naan",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489389",
+          "name": "Keema Naan",
+          "description": "",
+          "price": 153.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489386",
+          "name": "Butter Naan",
+          "description": "",
+          "price": 76.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489393",
+          "name": "Lachha Paratha",
+          "description": "",
+          "price": 76.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489394",
+          "name": "Paneer Kulcha",
+          "description": "",
+          "price": 98.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489395",
+          "name": "Masala Kulcha",
+          "description": "",
+          "price": 87.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "215489382",
+          "name": "Butter Roti",
+          "description": "",
+          "price": 54.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489385",
+          "name": "Plain Naan",
+          "description": "",
+          "price": 54.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489391",
+          "name": "Pudina Paratha",
+          "description": "",
+          "price": 76.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489392",
+          "name": "Onion Paratha",
+          "description": "",
+          "price": 76.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489381",
+          "name": "Rumali Roti",
+          "description": "",
+          "price": 43.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489380",
+          "name": "Tandoori Roti",
+          "description": "",
+          "price": 43.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489387",
+          "name": "Garlic Naan",
+          "description": "",
+          "price": 87.0,
+          "isVeg": true,
+          "isAvailable": false
+        },
+        {
+          "id": "215489390",
+          "name": "Cheese Garlic Naan",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": false
+        }
+      ]
+    },
+    {
+      "categoryId": "82348748",
+      "categoryName": "Veg Soups",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "215489183",
+          "name": "Classic Tomato Soup",
+          "description": "",
+          "price": 219.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489186",
+          "name": "Hot & Sour Veg Soup",
+          "description": "",
+          "price": 219.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489184",
+          "name": "Creamy Corn Veg Soup",
+          "description": "",
+          "price": 219.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489188",
+          "name": "Manchow Soup",
+          "description": "",
+          "price": 219.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489191",
+          "name": "Lemon Coriander Soup",
+          "description": "",
+          "price": 219.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348749",
+      "categoryName": "Non Veg Soups",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "215489194",
+          "name": "Tomato Egg Drop",
+          "description": "",
+          "price": 241.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489197",
+          "name": "Creamy Corn Chicken",
+          "description": "",
+          "price": 241.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489199",
+          "name": "Hot & Sour Chicken",
+          "description": "",
+          "price": 241.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489202",
+          "name": "Chicken Manchow",
+          "description": "",
+          "price": 241.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489207",
+          "name": "Chicken Lemon Coriander",
+          "description": "",
+          "price": 241.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489204",
+          "name": "Tom Yum Chicken",
+          "description": "",
+          "price": 241.0,
+          "isVeg": false,
+          "isAvailable": false
+        }
+      ]
+    },
+    {
+      "categoryId": "82348755",
+      "categoryName": "Non Veg Salad",
+      "itemCount": 2,
+      "items": [
+        {
+          "id": "215489227",
+          "name": "Chicken Caesar Salad",
+          "description": "",
+          "price": 329.0,
+          "isVeg": false,
+          "isAvailable": true
+        },
+        {
+          "id": "215489230",
+          "name": "Chicken Smoked Salad",
+          "description": "",
+          "price": 329.0,
+          "isVeg": false,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348754",
+      "categoryName": "Veg Salad",
+      "itemCount": 4,
+      "items": [
+        {
+          "id": "215489215",
+          "name": "Healthy Salad",
+          "description": "",
+          "price": 104.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489218",
+          "name": "Caesar Veg Salad",
+          "description": "",
+          "price": 252.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489221",
+          "name": "Smoke Veg Salad",
+          "description": "",
+          "price": 252.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489224",
+          "name": "Russian Veg Salad",
+          "description": "",
+          "price": 252.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "82348770",
+      "categoryName": "Raita & Papad",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "215489396",
+          "name": "Roasted Papad",
+          "description": "",
+          "price": 43.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489397",
+          "name": "Fry Papad",
+          "description": "",
+          "price": 43.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489398",
+          "name": "Masala Papad",
+          "description": "",
+          "price": 98.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489399",
+          "name": "Plain Curd",
+          "description": "",
+          "price": 87.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489400",
+          "name": "Aloo Raita",
+          "description": "",
+          "price": 98.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489401",
+          "name": "Onion Raita",
+          "description": "",
+          "price": 98.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489402",
+          "name": "Mixed Raita",
+          "description": "",
+          "price": 120.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "215489403",
+          "name": "Special Raita (Sweet)",
+          "description": "",
+          "price": 131.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

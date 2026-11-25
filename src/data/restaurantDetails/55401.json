@@ -1,0 +1,2725 @@
+{
+  "restaurant": {
+    "id": "55401",
+    "name": "Balaji Family Dhaba",
+    "city": "Hyderabad",
+    "locality": "Gacchibowli",
+    "areaName": "Gachibowli",
+    "costForTwo": 300.0,
+    "cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "avgRating": 4.1,
+    "totalRatings": "9.4K+ ratings",
+    "deliveryTime": "10-15 MINS",
+    "imageId": "pypyq08ud8bs4ehlmunl"
+  },
+  "menu": [
+    {
+      "categoryId": "-1",
+      "categoryName": "Recommended",
+      "itemCount": 20,
+      "items": [
+        {
+          "id": "178000441",
+          "name": "Carrot Salad",
+          "description": "",
+          "price": 80.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/2e45316f-1989-43fc-98a7-7914cf2f65ea_8c2ea295-1e89-4cee-abdd-7e4501a17353.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "47191058",
+          "name": "Baby Corn Soup",
+          "description": "A delectable medley of tender baby corn in a comforting and flavorsome soup.",
+          "price": 200.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/73b18c9b-c524-4f00-bb66-0bd654fc560b_dcaed393-841d-44c7-a3a4-68ebc0f48a66.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617541",
+          "name": "Aloo Jeera Dry",
+          "description": "Delicious and aromatic potatoes sauteed with cumin seeds in a flavorful Indian curry.",
+          "price": 320.0,
+          "imageId": "qdewggs1hdm3yueu6crn",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617523",
+          "name": "Fried Noodles",
+          "description": "A tantalizingly flavorful and irresistibly satisfying main course that showcases perfectly fried noodles mingled with a delectable blend of vegetables.",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/08690e56-bae9-43fe-9a70-19fa4f1cb9fa_99f443e1-96f2-4f44-80e4-c3d97d841ac2.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "13617522",
+          "name": "Schezwan Noodles",
+          "description": "A flavorsome blend of Indian and Chinese cuisine, this irresistible veggie main course will tantilize your taste buds with its vibrant and zesty flavors.",
+          "price": 320.0,
+          "imageId": "udzhnnnguiu5nhjk5ssw",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "13617441",
+          "name": "Paneer Pakeeza",
+          "description": "A succulent vegetarian delight from the main course, Paneer Pakeeza offers a delectable twist to traditional flavors.",
+          "price": 410.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/447c2184-b2e1-40d9-8498-af58606790c1_b02a9c4d-61bd-4ecd-9a6c-5d42aa8ae125.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617361",
+          "name": "Dum ka Aloo",
+          "description": "A delectable and flavorful vegetarian main course that will tantalize your taste buds with its rich and aromatic flavors.",
+          "price": 320.0,
+          "imageId": "n0hiwgylh3ih41gqdsto",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.7",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "13617430",
+          "name": "Veg Garlic",
+          "description": "A flavorful and aromatic vegetarian delight, loaded with the savory essence of garlic.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/16/3d940e7b-38dc-4f61-b4a0-ceee110701a2_ccca08a5-84c9-4675-9dc8-cd187445a6fb.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617435",
+          "name": "Veg Punjabi",
+          "description": "A flavorful and aromatic dish from Punjab, brimming with a tantalizing blend of regional spices and fresh vegetables.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/7d7395c0-3da6-4975-9f99-ff309f38af49_6e707ad8-c024-4a93-bad1-45f2539d4330.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617438",
+          "name": "Veg Navratan Korma",
+          "description": "A delectable and flavorful Indian main course featuring a medley of fresh vegetables in a rich and creamy curry sauce.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/9a66aaaf-dd8f-4a34-8a84-585dc4141746_40b082bf-063f-4745-a440-c32eca12bedd.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "13617443",
+          "name": "Shanghai Paneer",
+          "description": "A delectable vegetarian main course inspired by Shanghai flavors.",
+          "price": 410.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/20/3dd0eb1f-0ea3-435a-bcf5-aa7cd57a1df6_6f361096-0cff-4083-b282-428a20504306.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617524",
+          "name": "American Chop suey",
+          "description": "A flavorful and hearty blend of various vegetables and sauteed noodles, this satisfying main course will leave you craving for more.",
+          "price": 320.0,
+          "imageId": "hqk3d99oxdswv3l8rpkr",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "13617501",
+          "name": "Laccha Paratha",
+          "description": "Flaky, layered bread perfect for savoring as the star of your meal, offering a delightful experience with its unique texture and taste.",
+          "price": 120.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/19/1e01c83c-313e-4437-bedd-225d9b92d2ea_1d33b3c3-60ea-4a39-82d5-d4fb8df44663.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "41 ratings"
+        },
+        {
+          "id": "13617475",
+          "name": "Navratan Pulao",
+          "description": "A delectable and flavorful medley of aromatic rice and assorted vegetables, creating a delightful main course.",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/a4b39a0c-c83b-4b52-a2b2-00fe02a655f0_c5f10825-b2bb-4c5a-9e8c-5aa752ef57ad.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "13617507",
+          "name": "Fried Papad",
+          "description": "A crispy and flavorful vegetarian delight that will leave you craving for more.",
+          "price": 55.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/8bd59108-f720-4eda-8ce8-855c07c64aac_5045d607-d61b-4f11-8bcc-7e3e14b1b078.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617514",
+          "name": "Curd",
+          "description": "A creamy and flavorful main course that will satisfy your tastebuds with its rich and indulgent taste.",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/f8626d86-e3ff-4b97-9932-4a0f7c93059d_bb6338f4-0acc-442c-b422-675fd563f936.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.9",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "13617511",
+          "name": "Mixed Raita",
+          "description": "A delightful medley of fresh vegetables and creamy yogurt, bursting with flavors that will transport your taste buds to a culinary paradise.",
+          "price": 90.0,
+          "imageId": "yxytsa4huqendlg0rex5",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617390",
+          "name": "Gobi 65",
+          "description": "Medium Spicy | Serves 1 | | 250 Gms |",
+          "price": 340.0,
+          "imageId": "z655ixkrwnnntjjyqxbb",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "30 ratings"
+        },
+        {
+          "id": "13617396",
+          "name": "Mushroom 65",
+          "description": "Tempting and flavorful, this veggie delight is a perfect way to kickstart your meal with its exquisite blend of textures.",
+          "price": 350.0,
+          "imageId": "ocy4esdp30cobetdhonz",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "13617394",
+          "name": "Baby corn 65",
+          "description": "Tempered tadka with curd dahi. So will be little tangy & little spicy",
+          "price": 350.0,
+          "imageId": "moxluy06rpyovriidpgh",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "16 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739318",
+      "categoryName": "Veg Main Course",
+      "itemCount": 81,
+      "items": [
+        {
+          "id": "13617408",
+          "name": "Paneer Butter Masala",
+          "description": "Serves 1",
+          "price": 300.0,
+          "imageId": "cif6wwwfj4objtcpm9pa",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "958 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617380",
+          "name": "Kaju Paneer",
+          "description": "Soft paneer chunks cooked with thick Kaju flavourd curry with a sweet taste",
+          "price": 300.0,
+          "imageId": "crp3lksn4q14j4tocuze",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "456 ratings"
+        },
+        {
+          "id": "13617376",
+          "name": "Kadai Paneer",
+          "description": "Serves 1 | | 500 ml",
+          "price": 370.0,
+          "imageId": "pv5vvtexwemkzgqtibax",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "225 ratings"
+        },
+        {
+          "id": "13617411",
+          "name": "Paneer Chatpata",
+          "description": "A perfectly seasoned dish with paneer cooked with onions, tomatoes, green chillies and other veggies",
+          "price": 360.0,
+          "imageId": "do9jyn6yeqbu6rzrgtks",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "85 ratings"
+        },
+        {
+          "id": "13617404",
+          "name": "Methi Chaman",
+          "description": "A delectable vegetarian main course that combines the rich flavors of fenugreek and paneer to create a mouthwatering feast.",
+          "price": 360.0,
+          "imageId": "o9dgdkijwcyeoajynxiu",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "88 ratings"
+        },
+        {
+          "id": "13617410",
+          "name": "Palak Paneer",
+          "description": "A flavorful Indian delight featuring creamy spinach and soft paneer cheese in a delectable main course.",
+          "price": 300.0,
+          "imageId": "fku5lzmbxdfkqn8f9mmw",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "171 ratings"
+        },
+        {
+          "id": "13617378",
+          "name": "Kaju Butter Masala",
+          "description": "A delightful combination of crunchy cashew nuts and butter in a North Indian style gravy.",
+          "price": 300.0,
+          "imageId": "ppnhptfnqzcbstwotxvj",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "246 ratings"
+        },
+        {
+          "id": "13617416",
+          "name": "Paneer Tikka Masala",
+          "description": "A creamy dish with soft paneer chunks cooked in a rich tomato gravy seasoned with spices and butter.",
+          "price": 360.0,
+          "imageId": "r6a7r7tnh4u1izdr3xgv",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "54 ratings"
+        },
+        {
+          "id": "13617424",
+          "name": "Shahi Paneer",
+          "description": "Serves 1",
+          "price": 350.0,
+          "imageId": "f7anvxtn4yg8lmhl6hrb",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "39 ratings"
+        },
+        {
+          "id": "13617450",
+          "name": "Spl Balaji Santosh Dish",
+          "description": "An enticing and flavorful main course that is sure to satisfy your vegetarian cravings.",
+          "price": 420.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617441",
+          "name": "Paneer Pakeeza",
+          "description": "A succulent vegetarian delight from the main course, Paneer Pakeeza offers a delectable twist to traditional flavors.",
+          "price": 410.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/447c2184-b2e1-40d9-8498-af58606790c1_b02a9c4d-61bd-4ecd-9a6c-5d42aa8ae125.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "82402832",
+          "name": "Paneer Kali Mirichi Masala",
+          "description": "Aromatic and flavorsome Indian dish bursting with rich paneer and a medley of aromatic spices.",
+          "price": 410.0,
+          "imageId": "dooiocielemv9gox5nbm",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617443",
+          "name": "Shanghai Paneer",
+          "description": "A delectable vegetarian main course inspired by Shanghai flavors.",
+          "price": 410.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/20/3dd0eb1f-0ea3-435a-bcf5-aa7cd57a1df6_6f361096-0cff-4083-b282-428a20504306.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617400",
+          "name": "Mushroom Masala",
+          "description": "Mushroom cooked in spice loaded curry perfect to go with your rice or bread.",
+          "price": 380.0,
+          "imageId": "d6sfgvngc0kb6o4hkgrt",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "42 ratings"
+        },
+        {
+          "id": "13617442",
+          "name": "Paneer Makhaniya",
+          "description": "A delectable and flavorful vegetarian main course featuring rich and creamy paneer in a luscious gravy.",
+          "price": 410.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617419",
+          "name": "Paneer Pasanda",
+          "description": "A delectable and aromatic vegetarian delight from North India, perfect for a satisfying main course.",
+          "price": 360.0,
+          "imageId": "dcc9b20a7a5b4b568cb1aa94286a2dec",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.5",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "82402837",
+          "name": "Jhilmil Paneer",
+          "description": "A flavorful and creamy paneer dish that is sure to tantalize your taste buds.",
+          "price": 410.0,
+          "imageId": "05c8c20781793150a867897d9a63508c",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617439",
+          "name": "Kundan Paneer",
+          "description": "A delectable vegetarian delight combining creamy paneer with a burst of flavors, perfect for a fulfilling main course.",
+          "price": 410.0,
+          "imageId": "sxrl9eatojwzn3tsfmbf",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617440",
+          "name": "Malai Methi Paneer",
+          "description": "A creamy and aromatic delight blending the richness of paneer with the delightful flavors of fenugreek leaves.",
+          "price": 420.0,
+          "imageId": "eb365d5aa1da60cd3a4ea04f54033b0f",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617398",
+          "name": "Mattar Mushroom Masala",
+          "description": "A flavorsome blend of mushrooms and peas in a rich, savory gravy -a tantalizing vegetarian delight.",
+          "price": 380.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "82402835",
+          "name": "Paneer Lababdar",
+          "description": "A spicy cashew tomato paste that is cooked with sauteed onions with super soft paneer pieces.",
+          "price": 360.0,
+          "imageId": "eaf73a3b41bd712d46561acc80b2e85d",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "13617386",
+          "name": "Kadai Mushroom",
+          "description": "A mouthwatering vegetarian delicacy bursting with rich flavors and aromatic spices, perfect as a satisfying main course.",
+          "price": 380.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/5/c95ad49b-4ad6-4463-8418-6bd15313839f_67d89b61-c21b-407f-b11f-e9aa35370112.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "13617446",
+          "name": "Jil Mil Veg",
+          "description": "A delightful and hearty vegetarian delicacy curated to satisfy your taste buds.",
+          "price": 400.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617412",
+          "name": "Paneer Makhanwala",
+          "description": "Creamy and rich, this vegetarian main course is a delightful combination of succulent paneer and a luscious, buttery sauce.",
+          "price": 410.0,
+          "imageId": "g5wo3ouqy899fhjaszc3",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617449",
+          "name": "Hariyali Methi Chaman",
+          "description": "A flavorful and vibrant vegetarian delight, perfect for a satisfying main course.",
+          "price": 340.0,
+          "imageId": "ibmzebxnjdodcfz7hgr0",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "13617448",
+          "name": "Veg Ashiyana",
+          "description": "A delightful and flavorful veg main course that is sure to tantalize your taste buds with its unique blend of ingredients.",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617409",
+          "name": "Paneer Keema Masala",
+          "description": "A delectable vegetarian main course bursting with flavorful spices and succulent paneer.",
+          "price": 360.0,
+          "imageId": "zqeq4kx7mtbxmrctjvjq",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "39 ratings"
+        },
+        {
+          "id": "13617421",
+          "name": "Stuffed Capsicum Masala",
+          "description": "A succulent stuffed capsicum dish that is sure to satisfy your taste buds with its rich masala flavors.",
+          "price": 360.0,
+          "imageId": "8ae5e6660c1b76e5ce1413559beeb09b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617372",
+          "name": "Handi Paneer",
+          "description": "Delicious and creamy vegetarian delight, perfect for a hearty main course.",
+          "price": 370.0,
+          "imageId": "eizexcybky9dpwkllhbd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "90 ratings"
+        },
+        {
+          "id": "13617535",
+          "name": "Kajal Kofta",
+          "description": "A delectable vegetarian delight, bursting with savory flavors and rich textures that make it a perfect choice for a hearty main course.",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "82402838",
+          "name": "Kaju Tomato ",
+          "description": "A wholesome dish made with a combination of roasted cashew along with tomato puree cooked with spices, herbs and masalas.",
+          "price": 300.0,
+          "imageId": "8ff7d0ad9c0735da8708fa558bb99787",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "13617383",
+          "name": "Kaju Makhanwala",
+          "description": "A delectable vegetarian main course that is rich and buttery.",
+          "price": 390.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617414",
+          "name": "Paneer Bhurji",
+          "description": "A delectable and flavorful Indian main course, Paneer Bhurji is a vegetarian delight that will tantalize your taste buds with its rich, aromatic flavors.",
+          "price": 360.0,
+          "imageId": "e171d7e687a208a1b1a185f62d7f2c53",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "13617425",
+          "name": "Schezwan Handi Paneer",
+          "description": "A delectable combination of tender paneer cooked in a rich and flavorful Schezwan gravy, perfect for a satisfying main course meal.",
+          "price": 380.0,
+          "imageId": "4b82d2171a561b1e28138c9f557b5a9a",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617413",
+          "name": "Paneer Do Pyaza",
+          "description": "A delectable and flavorful vegetarian delight, Paneer Do Pyaza is a mouthwatering main course.",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "13617434",
+          "name": "Veg Jaipuri",
+          "description": "A flavorful and aromatic vegetarian delight from Jaipur, bursting with rich and exotic flavors.",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/27/c163eabf-b0a0-4722-85ae-758dac061156_1daf59aa-5648-4301-97f3-12fda4fe9466.",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "13617374",
+          "name": "Kadai Veg",
+          "description": "A flavorful and aromatic Indian dish with a medley of vegetables, perfect for a satisfying main course.",
+          "price": 350.0,
+          "imageId": "vbmrfzlueg2q1d4qaaph",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "57 ratings"
+        },
+        {
+          "id": "13617393",
+          "name": "Mattar Paneer",
+          "description": "A delectable, vegetarian main course featuring soft paneer cubes simmered in a flavorful and creamy green pea gravy.",
+          "price": 300.0,
+          "imageId": "wlfw034jxobkhvzqs4ny",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "40 ratings"
+        },
+        {
+          "id": "13617422",
+          "name": "Stuffed Tomato Masala",
+          "description": "A flavorful blend of stuffed tomatoes filled with a captivating masala mixture, perfect for a satisfying veg main course.",
+          "price": 360.0,
+          "imageId": "71a0fa6e1e9f0434e16336f55f162b0b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "13617368",
+          "name": "Ginger Paneer",
+          "description": "Tempt your taste buds with this delectable and aromatic vegetarian main course featuring succulent paneer infused with the fragrant essence of ginger.",
+          "price": 350.0,
+          "imageId": "b37b79bf1c822681ddd10ec86ef9f229",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617536",
+          "name": "Paneer Kofta",
+          "description": "Delicious vegetarian delight perfect for the main course.",
+          "price": 360.0,
+          "imageId": "0d019e184f5ad2ba1d84b04ffeaebd22",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617432",
+          "name": "Veg Kolhapuri",
+          "description": "Tantalizing, thick and spicy dish of mixed veggies cooked with a rich blend of spices.",
+          "price": 350.0,
+          "imageId": "pizqy2etotyvrvntaaug",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "51 ratings"
+        },
+        {
+          "id": "82402834",
+          "name": "Paneer Pudina Masala",
+          "description": "A flavorful and aromatic Indian delicacy featuring succulent paneer in a refreshing mint-infused gravy.",
+          "price": 360.0,
+          "imageId": "2dbc124fd540f6b80084018316969fb5",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617415",
+          "name": "Paneer Patiala",
+          "description": "A flavorful and aromatic vegetarian main course inspired by the flavors of Patiala, offering a delightful combination of ingredients sure to please your palate.",
+          "price": 370.0,
+          "imageId": "366c39dac8df4057d89f6d61021ac261",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "13617420",
+          "name": "Rani Paneer",
+          "description": "Rich and flavorful, this veg main course entices with its creamy paneer and aromatic spices.",
+          "price": 360.0,
+          "imageId": "rpfxnl88kzurzvhonfex",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617348",
+          "name": "Butter Mushroom Masala",
+          "description": "A delectable and flavorful vegetarian main course featuring butter-infused mushrooms in a rich masala sauce.",
+          "price": 380.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/d2fe7606-e890-4284-9dc8-8a0e91d05983_a812b636-d3fc-4d21-aa09-90442de2966f.",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "13617423",
+          "name": "Special Punjabi Gobi Masala",
+          "description": "A delectable Punjabi delight featuring tender cauliflower cooked in a rich and flavorsome gravy.",
+          "price": 340.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/01884521-d4fd-41b3-b6fa-7cababe8c517_950604fc-89b0-40d1-be07-863979c1f2de.",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "13617365",
+          "name": "Ginger Aloo",
+          "description": "A flavorful and aromatic main course featuring the delicate balance of ginger-infused potatoes, a dish that is sure to tantalize your taste buds.",
+          "price": 310.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617444",
+          "name": "Paneer KaSha Masala",
+          "description": "Grated paneer with the indian spices. Recommended for the people who do not prefer paneer in pieces/cubes",
+          "price": 410.0,
+          "imageId": "9a90df7c5ffae55c1a05c237f71cbf4f",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617351",
+          "name": "Corn Palak",
+          "description": "A flavorful combination of tender corn kernels and vibrant spinach, creating a delectable vegetarian main course bursting with enticing flavors.",
+          "price": 330.0,
+          "imageId": "c474b21ec8837dcb8a36b81dcd1cf6b2",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617445",
+          "name": "Veg Mandakini",
+          "description": "A flavorsome and delectable vegetarian delicacy that perfectly satisfies your palate.",
+          "price": 400.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/674d1104-abd0-4c69-8ac9-ba9c987e4916_44e2f540-da24-4192-9ac4-8e85591b5dae.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617438",
+          "name": "Veg Navratan Korma",
+          "description": "A delectable and flavorful Indian main course featuring a medley of fresh vegetables in a rich and creamy curry sauce.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/9a66aaaf-dd8f-4a34-8a84-585dc4141746_40b082bf-063f-4745-a440-c32eca12bedd.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "13617402",
+          "name": "Mushroom Paneer",
+          "description": "A savory and satisfying vegetarian main course featuring a delectable combination of mushrooms and paneer.",
+          "price": 380.0,
+          "imageId": "iprv3ctvq7dn8xldrhgs",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "13617407",
+          "name": "Punjabi Chana Masala",
+          "description": "A flavorful and hearty Punjabi dish that will tantalize your taste buds with its rich aromas and irresistible combination of spices.",
+          "price": 340.0,
+          "imageId": "nehlre2ssaelvabaavsn",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "24 ratings"
+        },
+        {
+          "id": "13617534",
+          "name": "Gujarati Kofta",
+          "description": "A delectable and flavorful Gujarati delicacy packed with delicious vegetable balls in a rich, aromatic gravy.",
+          "price": 360.0,
+          "imageId": "f3414a28562a22c99d224b9fa3e9d746",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617431",
+          "name": "Veg Do Pyaza",
+          "description": "A flavorful and aromatic vegetable medley cooked in a rich and fragrant gravy.",
+          "price": 350.0,
+          "imageId": "yqnnuhv2agla0rbngsth",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "13617437",
+          "name": "Veg Chatpata",
+          "description": "A simple, mixed vegetable curry cooked with a mustard base, tempered with whole spices. Best served with rotis.",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/1d340f5b-5735-4a43-a699-50a7b683f5b8_827c4c7c-367b-4ddd-879a-5369d54acc61.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617358",
+          "name": "Chana Paneer",
+          "description": "A delectable combination of savory legumes and creamy cheese, this flavorful vegetarian main course will leave you satisfied and wanting more.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/5/38b1bc11-adf0-4f3d-bf0a-0cac0447d6e5_eeed6d50-e989-4252-98ff-6690471294b2.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617345",
+          "name": "Baby corn Paneer",
+          "description": "A delectable and flavorful union of tender baby corn and creamy paneer, crafted to perfection for a satisfying vegetarian main course.",
+          "price": 360.0,
+          "imageId": "402ef056832fe4386672c208f1f914dd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "13617395",
+          "name": "Marwadi Veg",
+          "description": "A tantalizing Marwadi specialty bursting with traditional flavors that will leave you craving for more.",
+          "price": 300.0,
+          "imageId": "ppmu1hmityxwdu671lrk",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "13617370",
+          "name": "Hara Bhara Masala",
+          "description": "A flavorsome and vibrant main course overflowing with a medley of green goodness.",
+          "price": 360.0,
+          "imageId": "0fbeb7d7468460b39e7c1e79cd39be03",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "13617547",
+          "name": "Baby corn Masala",
+          "description": "A delectable and flavor-packed main course dish featuring tender baby corn in a rich and aromatic gravy.",
+          "price": 360.0,
+          "imageId": "hjcw8pw8ehqq0e6mybdf",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "13617435",
+          "name": "Veg Punjabi",
+          "description": "A flavorful and aromatic dish from Punjab, brimming with a tantalizing blend of regional spices and fresh vegetables.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/7d7395c0-3da6-4975-9f99-ff309f38af49_6e707ad8-c024-4a93-bad1-45f2539d4330.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617363",
+          "name": "Dum ka Aloo Nawabi",
+          "description": "A regal and indulgent vegetarian main course that captivates with its rich and flavorful essence.",
+          "price": 320.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/0036576d-c337-48e1-a0c2-66d83e5599de_8ca02fea-3a80-4465-8a63-69af5979562e.",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "13617387",
+          "name": "Laccha Laccha Paneer",
+          "description": "Layers of soft paneer marinated and roasted to perfection, offering a delightful texture and a burst of flavors in every bite.",
+          "price": 280.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/6f290a59-0489-4933-a8f1-2dd8105d28f2_4d08d66b-3c74-4a61-a59b-89e9bf4ebf6d.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617429",
+          "name": "Veg Keema Masala",
+          "description": "A flavorful and aromatic medley of wholesome vegetables cooked to perfection in a rich, aromatic gravy.",
+          "price": 340.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617366",
+          "name": "Green Peas Masala",
+          "description": "A delicious gravy of green peas prepared in a onion gravy and freshly pureed tomato.",
+          "price": 280.0,
+          "imageId": "gnkbh6rfsj8qi9ne0k0s",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "20 ratings"
+        },
+        {
+          "id": "13617356",
+          "name": "Chana Masala",
+          "description": "A flavorful Indian main course bursting with rich and aromatic flavors.",
+          "price": 330.0,
+          "imageId": "gdqckavk4ixpd1k3mmjf",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617353",
+          "name": "Capsicum Masala",
+          "description": "A flavorful and aromatic medley of capsicum cooked to perfection in a rich, savory gravy.",
+          "price": 350.0,
+          "imageId": "de66facf4ec46d7afc9cd31d35326d48",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617361",
+          "name": "Dum ka Aloo",
+          "description": "A delectable and flavorful vegetarian main course that will tantalize your taste buds with its rich and aromatic flavors.",
+          "price": 320.0,
+          "imageId": "n0hiwgylh3ih41gqdsto",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.7",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "13617426",
+          "name": "Tomato Chutney",
+          "description": "A vibrant and flavorsome chutney bursting with the freshness of ripe tomatoes.",
+          "price": 330.0,
+          "imageId": "369feb513f8bcbfadc9aa9fb2d1f121e",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "13617406",
+          "name": "Plain Palak",
+          "description": "A nourishing and satisfying main course featuring a luscious and flavorful spinach-based preparation.",
+          "price": 260.0,
+          "imageId": "jju0rirmj5a7khaljmre",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617391",
+          "name": "Mixed Vegetable",
+          "description": "A delightful medley of fresh and vibrant vegetables that will tantalize your taste buds.",
+          "price": 280.0,
+          "imageId": "luv2pzeydo5cwjpyji2c",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "85 ratings"
+        },
+        {
+          "id": "13617428",
+          "name": "Veg Korma",
+          "description": "A rich and creamy vegetable curry that will satisfy your palate with its flavorful combination of aromatic spices and tender vegetables.",
+          "price": 340.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/28/5f335c0c-505d-4f4a-94af-b4bfbdb65103_c6919c0e-f1e7-4d8d-9ce7-5cbe13f463b7.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617430",
+          "name": "Veg Garlic",
+          "description": "A flavorful and aromatic vegetarian delight, loaded with the savory essence of garlic.",
+          "price": 350.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/16/3d940e7b-38dc-4f61-b4a0-ceee110701a2_ccca08a5-84c9-4675-9dc8-cd187445a6fb.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617427",
+          "name": "Tomato Curry",
+          "description": "A flavorful and hearty main course bursting with the rich, tangy essence of tomatoes.",
+          "price": 260.0,
+          "imageId": "b72095de99339f9bb2c3e686f956f4d1",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "13617389",
+          "name": "Butter Palak",
+          "description": "A delightful vegetarian main course bursting with the flavors of fresh green peas and spinach.",
+          "price": 280.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617545",
+          "name": "Aloo Mattar",
+          "description": "A flavorful and comforting vegetarian main course featuring potatoes and peas.",
+          "price": 290.0,
+          "imageId": "415b5ed85a4712ce43debe2e368bc61b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.0",
+          "ratingCount": "13 ratings"
+        },
+        {
+          "id": "13617546",
+          "name": "Aloo Paneer",
+          "description": "Savor the rich blend of tender potatoes and creamy paneer in this delectable veg main course dish.",
+          "price": 350.0,
+          "imageId": "4c0093acb0c59253dcdcc373d4e43495",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617417",
+          "name": "Paneer Dill Rooba",
+          "description": "A delightful and flavorful Indian pan-fried main course dish with a twist of aromatic dill and an exquisite cheese filling.",
+          "price": 370.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617436",
+          "name": "Veg Singapuri",
+          "description": "A delightful and flavorful main course bursting with vibrant Asian flavors.",
+          "price": 400.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "1739320",
+      "categoryName": "Biryanis",
+      "itemCount": 12,
+      "items": [
+        {
+          "id": "13617460",
+          "name": "Paneer Biryani",
+          "description": "Serves 1 | A flavorful and aromatic vegetarian rice dish cooked with paneer and fragrant spices.",
+          "price": 320.0,
+          "imageId": "exflwd2asmsyum0fjpsn",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1018 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617457",
+          "name": "Veg Biryani",
+          "description": "Serves 1",
+          "price": 270.0,
+          "imageId": "rjqhw2vmx8eddktj7ivc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "784 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617461",
+          "name": "Kaju Biryani",
+          "description": "Serves 1 | Sinfully creamy biryani prepared with flavored rice and cashews cooked in a creamy masala and topped with cashews.",
+          "price": 320.0,
+          "imageId": "dfuwxnn0ql4weibsmnga",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "1100 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617459",
+          "name": "Veg Dum Biryani",
+          "description": "|250 gms|",
+          "price": 270.0,
+          "imageId": "tsrwpmppqzdtyzhiy76u",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "72 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "102413887",
+          "name": "Spl Kaju Paneer Biryani",
+          "description": "Serves 1 | A delectable combination of fragrant basmati rice, creamy paneer, and cashews, creating a tempting vegetarian main course.",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/20/366252ef-8c33-4379-9b5d-a6865a9dbb86_f9af93b0-56be-4e6c-aa99-6191640af658.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "237 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617458",
+          "name": "Handi Biryani",
+          "description": "A flavorful and aromatic veg delight, perfect for a satisfying main course experience.",
+          "price": 350.0,
+          "imageId": "mt4parcq9d36ofnivxdc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "361 ratings"
+        },
+        {
+          "id": "13617463",
+          "name": "Mushroom Biryani",
+          "description": "Serves 1 | | 250 Gms |",
+          "price": 390.0,
+          "imageId": "nvzkl0akb2eb2yaepfom",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "113 ratings"
+        },
+        {
+          "id": "13617462",
+          "name": "Hyderabad Biryani",
+          "description": "A flavorful and aromatic rice dish with a medley of vegetables, perfect for a satisfying main course.",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/7d6e053f-3b62-4612-bf33-2ef88b155608_13b9b131-3e7b-422a-b462-f03cc6ab177b.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "94 ratings"
+        },
+        {
+          "id": "13617464",
+          "name": "Nizami Biryani",
+          "description": "A rich and fragrant vegetarian delight from Nizam's royal kitchen, perfect for a hearty main course.",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/61a7885b-0f64-41f5-92fc-534a366039c9_65e4b3d0-1d4b-43ac-a91b-f447e4d56c21.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "34 ratings"
+        },
+        {
+          "id": "82402831",
+          "name": "Paneer Keema Biryani",
+          "description": "A flavorful and aromatic vegetarian dish layered with fragrant rice and a delectable minced paneer filling.",
+          "price": 390.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/3b89c588-e10d-458e-abe6-2cbd3a7db0c5_c063c890-c94e-492f-b3ea-ca8c3e525d0b.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "177008318",
+          "name": "Aloo Biryani",
+          "description": "",
+          "price": 270.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/5/f56bcd19-6353-48a2-b405-56f9849f0a9a_774e7b20-5598-4758-b4df-dfe0c7541023.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "177008183",
+          "name": "Alu Biryani",
+          "description": "",
+          "price": 270.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/5/819ba29d-a33b-4bb9-820b-066794bb866d_1f95ccce-c0bc-4c1e-ba66-eb2fbff25eb2.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739321",
+      "categoryName": "Rice",
+      "itemCount": 13,
+      "items": [
+        {
+          "id": "13617469",
+          "name": "Jeera Rice",
+          "description": "Serves 1 | Aromatic rice cooked in a tempering of cumin and whole spices.",
+          "price": 230.0,
+          "imageId": "ehitirbdfnaoy53emsec",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "394 ratings"
+        },
+        {
+          "id": "13617466",
+          "name": "Curd Rice",
+          "description": "A soothing dish created by mixing rice, onions, green chillies and yogurt together.",
+          "price": 290.0,
+          "imageId": "b1b49mqra6o6djd2lxci",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "167 ratings"
+        },
+        {
+          "id": "13617471",
+          "name": "Kaju Jeera Rice",
+          "description": "A flavorful and aromatic veg main course dish that will tantalize your taste buds.",
+          "price": 350.0,
+          "imageId": "qmddq714uecvnwwms5y4",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.1",
+          "ratingCount": "61 ratings"
+        },
+        {
+          "id": "13617473",
+          "name": "Corn Kaju Pulao",
+          "description": "A fragrant and flavorful vegetarian rice dish packed with the delightful combination of corn and cashews, perfect for a satisfying main course.",
+          "price": 360.0,
+          "imageId": "ly5hodnalnyhvuneyuup",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617477",
+          "name": "Paneer Pulao",
+          "description": "A wholesome medley of aromatic rice and succulent cubes of soft paneer, delighting your taste buds with every mouthful.",
+          "price": 350.0,
+          "imageId": "jv0bkn6aga2xe33rjdix",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "24 ratings"
+        },
+        {
+          "id": "13617472",
+          "name": "Veg Pulao",
+          "description": "A delightful main course featuring an assortment of aromatic vegetables cooked with fragrant rice.",
+          "price": 330.0,
+          "imageId": "mthdpceg7vbl2cmwygra",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "66 ratings"
+        },
+        {
+          "id": "13617474",
+          "name": "Kashmiri Pulao",
+          "description": "A delectable veg delicacy from Kashmir, this aromatic pulao is a perfect harmony of fragrant flavors and hearty goodness.",
+          "price": 380.0,
+          "imageId": "37b6e577c7e14c98c0a56f8af19fff09",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617476",
+          "name": "Punjabi Pulao",
+          "description": "Tantalize your taste buds with this flavorful and aromatic veg delight from Punjab, boasting a medley of fragrant rice and savory spices.",
+          "price": 350.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "13617475",
+          "name": "Navratan Pulao",
+          "description": "A delectable and flavorful medley of aromatic rice and assorted vegetables, creating a delightful main course.",
+          "price": 360.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/a4b39a0c-c83b-4b52-a2b2-00fe02a655f0_c5f10825-b2bb-4c5a-9e8c-5aa752ef57ad.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "13617470",
+          "name": "Tomato Rice",
+          "description": "A delightful and flavorful combination of tomatoes and rice that will satisfy your taste buds.",
+          "price": 290.0,
+          "imageId": "ks0l0x27h7qkjuhzv65b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.9",
+          "ratingCount": "54 ratings"
+        },
+        {
+          "id": "13617467",
+          "name": "Lemon Rice",
+          "description": "A refreshing zesty rice dish that brightens up any meal with its tangy lemon flavor.",
+          "price": 290.0,
+          "imageId": "1c8a8105f0813065082728e6e0fd697a",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "23 ratings"
+        },
+        {
+          "id": "13617468",
+          "name": "Butter Rice",
+          "description": "Creamy and rich, this delectable veg main course features aromatic butter-infused rice that will melt in your mouth.",
+          "price": 290.0,
+          "imageId": "5e3bd82937dca4da0fba4a97bf41afe5",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617465",
+          "name": "Plain Rice",
+          "description": "Steamed flavourful long grained basmati rice, cooked to absolute perfection.",
+          "price": 190.0,
+          "imageId": "dedf865bb1058e59646b1ce2576c914c",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "72 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739322",
+      "categoryName": "Indian Breads",
+      "itemCount": 28,
+      "items": [
+        {
+          "id": "13617498",
+          "name": "Aloo Paratha",
+          "description": "Wholesome parathas with generous seasoned potato stuffing; served with pickle.",
+          "price": 140.0,
+          "imageId": "f3a3go4u8ky0vcvoih8v",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "237 ratings"
+        },
+        {
+          "id": "82402829",
+          "name": "Paneer Paratha",
+          "description": "Hearty parathas with ample stuffing of seasoned paneer chunks; served with   pickle.",
+          "price": 140.0,
+          "imageId": "85615511b0e2346217a9fd0123160630",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "78 ratings"
+        },
+        {
+          "id": "13617505",
+          "name": "Stuffed Kulcha",
+          "description": "A delectable vegetarian main course filled with mouthwatering surprises.",
+          "price": 120.0,
+          "imageId": "h7qrnsmrgvelfgtpphco",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "113 ratings"
+        },
+        {
+          "id": "13617496",
+          "name": "Stuffeded Naan",
+          "description": "A mouthwatering vegetarian stuffed naan bursting with delectable flavors, perfect for a satisfying main course.",
+          "price": 110.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/120f5834-a356-4dc6-8cde-454a6aa9e42a_25047848-4261-477b-835f-9013dbb90bfb.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "22 ratings"
+        },
+        {
+          "id": "13617495",
+          "name": "Kashmir Naan",
+          "description": "Savor the flavors of the majestic Kashmir region with this delectable veg main course, bursting with delightful aromas.",
+          "price": 100.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "7 ratings"
+        },
+        {
+          "id": "13617503",
+          "name": "Masala Kulcha",
+          "description": "Delicious and flavorful Indian bread, perfect for a satisfying vegetarian main course.",
+          "price": 110.0,
+          "imageId": "ba936ce1e20406837ef6bda193df5f8a",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "99 ratings"
+        },
+        {
+          "id": "13617492",
+          "name": "Garlic Butter Naan (2 Pcs)",
+          "description": "Serves 1 | Flavorful and aromatic, this buttery garlic naan is a delightful vegetarian option for a satisfying main course.",
+          "price": 90.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "260 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617504",
+          "name": "Paneer Kulcha",
+          "description": "A flavorful and savory Indian delicacy stuffed with paneer, perfect for a satisfying vegetarian main course.",
+          "price": 110.0,
+          "imageId": "a437a8c6cd23a0abfd9f14d29459804b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617494",
+          "name": "Chatpata Naan",
+          "description": "A tantalizing and flavorsome Indian bread dish bursting with tangy and savory goodness.",
+          "price": 90.0,
+          "imageId": "bohuro2p65v4c3z6njwb",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "74 ratings"
+        },
+        {
+          "id": "13617489",
+          "name": "Kothimir Butter Naan",
+          "description": "A delectable veg delight topped with flavorful cilantro butter.",
+          "price": 85.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/78ee5b2d-0faf-4a48-8f9e-d823a1f47596_fbdee1e0-6001-4af9-84ce-ee5654768a45.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "87 ratings"
+        },
+        {
+          "id": "13617502",
+          "name": "Rajasthani Methi Paratha",
+          "description": "Delicious and flavorful paratha with the unique taste of Rajasthani fenugreek.",
+          "price": 120.0,
+          "imageId": "mazil20hfbudlelo26ik",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "25 ratings"
+        },
+        {
+          "id": "13617493",
+          "name": "Baby Naan",
+          "description": "Serves 1 | A delectable veg main course that promises to add a delightful twist to your dining experience.",
+          "price": 75.0,
+          "imageId": "aasdtyz5exgqhd8jxt2t",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "13617488",
+          "name": "Kothimir Naan (2 Pcs)",
+          "description": "Serves 1 | A delectable Indian bread filled with fragrant coriander, perfect for a satisfying vegetarian main course.",
+          "price": 80.0,
+          "imageId": "jyajtqvzmvoz8gxrr9se",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "81 ratings"
+        },
+        {
+          "id": "13617487",
+          "name": "Butter Naan (2 Pc)",
+          "description": "Serves 1 | Melt-in-your-mouth naan bread cooked to perfection and brushed with rich, creamy butter.",
+          "price": 75.0,
+          "imageId": "c63626fd887fdb50aff211ac9ebe0624",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "947 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617501",
+          "name": "Laccha Paratha",
+          "description": "Flaky, layered bread perfect for savoring as the star of your meal, offering a delightful experience with its unique texture and taste.",
+          "price": 120.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/19/1e01c83c-313e-4437-bedd-225d9b92d2ea_1d33b3c3-60ea-4a39-82d5-d4fb8df44663.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "41 ratings"
+        },
+        {
+          "id": "13617499",
+          "name": "Pudina Paratha",
+          "description": "A fragrant and flavorful Indian bread bursting with mint-infused goodness, perfect for a satisfying and scrumptious main course.",
+          "price": 100.0,
+          "imageId": "9ca560cd5fcd527243cc7cce3ff5c14e",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "23 ratings"
+        },
+        {
+          "id": "177957212",
+          "name": "Plain Kulcha",
+          "description": "Soft, fluffy flatbread perfect for scooping up curries and sauces.",
+          "price": 90.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/e293a001-b25f-4598-b745-b12e21c7e437_f7082303-b74c-4314-ac07-48f603a6b53c.",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617497",
+          "name": "Plain Paratha",
+          "description": "Flaky, buttery, and satisfying, this classic Indian flatbread is perfect for a hearty main course.",
+          "price": 100.0,
+          "imageId": "ocjtgxka9lzrawwvinsz",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "19 ratings"
+        },
+        {
+          "id": "13617491",
+          "name": "Pudina Butter Naan",
+          "description": "Indulge your taste buds with a flavorful, buttery naan infused with the refreshing aroma of pudina.",
+          "price": 85.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/2be2a527-f853-45e5-9599-63c6ac5fe375_967b934f-3bf4-4516-985d-51fb0b31c37f.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "21 ratings"
+        },
+        {
+          "id": "13617490",
+          "name": "Pudina Naan",
+          "description": "A flavorful and aromatic flatbread infused with refreshing mint, perfect as a satisfying vegetarian main course.",
+          "price": 80.0,
+          "imageId": "lrhbwyyluus5hfsjs9rl",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617486",
+          "name": "Plain Naan",
+          "description": "This bread is the perfect combination of chewy and crispy, bread Its exactly what every Indian dish needs.",
+          "price": 70.0,
+          "imageId": "slfyxx96wm3xopcgf0ga",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "89 ratings"
+        },
+        {
+          "id": "13617485",
+          "name": "Rumali Roti (1 Pc)",
+          "description": "Serves 1 | A delectable Indian delicacy that will transport your taste buds to a whole new level of culinary delight.",
+          "price": 50.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "361 ratings"
+        },
+        {
+          "id": "13617482",
+          "name": "Kothmir Butter Roti",
+          "description": "Deliciously cooked, flavorful butter roti infused with the freshness of coriander leaves.",
+          "price": 43.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/ede299f6-d454-48c9-9847-eaeb75f1f580_75f58427-5f49-417d-9883-a285340673a9.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "93 ratings"
+        },
+        {
+          "id": "13617484",
+          "name": "Pudina Butter Roti",
+          "description": "Serves 1 | Flavorful and aromatic butter rotis infused with the refreshing taste of mint - a delightful main course option.",
+          "price": 43.0,
+          "imageId": "7c00a854ea948729fcfd8414e9439ad2",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.4",
+          "ratingCount": "45 ratings"
+        },
+        {
+          "id": "13617481",
+          "name": "Kothmir Roti",
+          "description": "A flavorful and aromatic flatbread bursting with fresh cilantro, perfect for a satisfying vegetarian main course.",
+          "price": 38.0,
+          "imageId": "0dacf71d87e4435a94800282aa300ac6",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "120 ratings"
+        },
+        {
+          "id": "13617483",
+          "name": "Pudina Roti",
+          "description": "A flavorful and refreshing Indian bread bursting with aromatic mint flavors, perfect for a satisfying and wholesome main course.",
+          "price": 38.0,
+          "imageId": "2399157cf75540eb43b07a39e7a6b0fd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "60 ratings"
+        },
+        {
+          "id": "13617479",
+          "name": "Butter Roti (1 Pc)",
+          "description": "Serves 1 | A delectably flaky butter roti that is sure to melt in your mouth and elevate your main course experience.",
+          "price": 38.0,
+          "imageId": "0885fe52c4e04dbe4c49ba03560c231e",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "594 ratings"
+        },
+        {
+          "id": "13617478",
+          "name": "Tandoori Roti (1 Pc)",
+          "description": "Serves 1 | A delectable, flavorful Indian bread cooked to perfection in a traditional clay oven.",
+          "price": 31.0,
+          "imageId": "cgtugwdhhny1hnztemqy",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "843 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739324",
+      "categoryName": "Fried Rice",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "13617515",
+          "name": "Veg Fried Rice",
+          "description": "Serves 1 | A deliciously aromatic and flavorful dish prepared from rice and stir-fried vegetables.",
+          "price": 250.0,
+          "imageId": "sh7sic6jbp338hy2e3vy",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "344 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617516",
+          "name": "Paneer Fried Rice",
+          "description": "A wholesome combo with the aromatic paneer fried rice served along with flavor-packed veg gravy.",
+          "price": 270.0,
+          "imageId": "mv55fn8h3xl89c9enaww",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "106 ratings"
+        },
+        {
+          "id": "13617520",
+          "name": "Kaju Fried Rice",
+          "description": "Serves 1 | Roasted cashew nuts cooked ina tomato,onion and spicesbased rich and creamy sauce after that combined with cooked rice and with sauces.",
+          "price": 350.0,
+          "imageId": "ntuirdajhjo9cp3szmfa",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "72 ratings"
+        },
+        {
+          "id": "120594069",
+          "name": "Mushroom Fried Rice",
+          "description": "A delectable fusion of flavorful mushrooms and fragrant rice, this hearty main course is sure to satisfy any vegetarian food lover's cravings.",
+          "price": 350.0,
+          "imageId": "820d7e63f092863c19b90884352f78e8",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "6 ratings"
+        },
+        {
+          "id": "13617517",
+          "name": "Schezwan Fried Rice",
+          "description": "A flavor-packed dish with aromatic rice tossed along with veggies and Schezwan sauce - perfect to accompany any side dish.",
+          "price": 310.0,
+          "imageId": "m6wb7t5ammu6aqxhsbka",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "64 ratings"
+        },
+        {
+          "id": "13617518",
+          "name": "Masala Fried Rice",
+          "description": "A flavorful and aromatic medley of rice and vegetables, perfect for a satisfying main course.",
+          "price": 310.0,
+          "imageId": "8f8e9101a9b1bc4daa905d4e5cce412b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "11 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739319",
+      "categoryName": "Dal",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "13617455",
+          "name": "Dal Tadka",
+          "description": "Dal cooked to perfection in a mild flavour of desi ghee, spices and herbs.",
+          "price": 230.0,
+          "imageId": "wt2hpfrvljmddij7iitc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "247 ratings"
+        },
+        {
+          "id": "13617452",
+          "name": "Dal Fry",
+          "description": "Serves 1 | | 500 ml",
+          "price": 220.0,
+          "imageId": "rijgpmtv7vrvwwux1pzk",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "337 ratings"
+        },
+        {
+          "id": "13617451",
+          "name": "Dal Makhani",
+          "description": "A decadently indulgent dish prepared by cooking black lentil and red kidney beans in a cream and butter based gravy.",
+          "price": 250.0,
+          "imageId": "cm7hzhl9vssrbbrjiaur",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.5",
+          "ratingCount": "53 ratings"
+        },
+        {
+          "id": "13617456",
+          "name": "Dal Butter",
+          "description": "Rich and creamy lentils cooked to perfection, offering a delectable and satisfying vegetarian main course.",
+          "price": 230.0,
+          "imageId": "bbadef0f1a0c09d4074731893d5f9bfc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.8",
+          "ratingCount": "10 ratings"
+        },
+        {
+          "id": "13617454",
+          "name": "Dal Palak",
+          "description": "A flavorful and nutritious Indian main course dish packed with the goodness of lentils and spinach.",
+          "price": 200.0,
+          "imageId": "i9o4vbrdr5ripwdxgg3q",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "82402839",
+          "name": "Dal Tomato",
+          "description": "A delectable and flavorful main course featuring a delightful blend of lentils and tangy tomatoes.",
+          "price": 230.0,
+          "imageId": "ab76f77425bb6c0b427a06852e91277b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617453",
+          "name": "Dal Pan Methi Wala",
+          "description": "A fragrant and flavorful vegetarian main course featuring lentils and fenugreek leaves.",
+          "price": 210.0,
+          "imageId": "94258ee20505be8550f57c51631216d8",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "4 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739325",
+      "categoryName": "Noodles",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "13617521",
+          "name": "Veg Noodles",
+          "description": "Serves 1 | A deliciously aromatic and flavorful dish made from perfectly cooked noodles and stir-fried vegetables.",
+          "price": 320.0,
+          "imageId": "sdcouai7zjt6o9pof1um",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "53 ratings"
+        },
+        {
+          "id": "13617522",
+          "name": "Schezwan Noodles",
+          "description": "A flavorsome blend of Indian and Chinese cuisine, this irresistible veggie main course will tantilize your taste buds with its vibrant and zesty flavors.",
+          "price": 320.0,
+          "imageId": "udzhnnnguiu5nhjk5ssw",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "29 ratings"
+        },
+        {
+          "id": "13617523",
+          "name": "Fried Noodles",
+          "description": "A tantalizingly flavorful and irresistibly satisfying main course that showcases perfectly fried noodles mingled with a delectable blend of vegetables.",
+          "price": 290.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/08690e56-bae9-43fe-9a70-19fa4f1cb9fa_99f443e1-96f2-4f44-80e4-c3d97d841ac2.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "11 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739323",
+      "categoryName": "Accompaniments",
+      "itemCount": 9,
+      "items": [
+        {
+          "id": "13617511",
+          "name": "Mixed Raita",
+          "description": "A delightful medley of fresh vegetables and creamy yogurt, bursting with flavors that will transport your taste buds to a culinary paradise.",
+          "price": 90.0,
+          "imageId": "yxytsa4huqendlg0rex5",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617510",
+          "name": "Special Punjabi Papad",
+          "description": "Experience the authentic flavors of Punjab in this mouthwatering main course dish that combines traditional papad with a special twist.",
+          "price": 110.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/29/4cd834b6-3c20-4d3c-9a6c-a77f9de51027_944c1a2a-08f9-493b-9757-b3bbc860dae8.jpeg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "13617513",
+          "name": "Boondi Raita",
+          "description": "A refreshing and creamy yogurt based dish perfect for a delightful Main Course.",
+          "price": 90.0,
+          "imageId": "dijtawykepnzpzpawm53",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "44 ratings"
+        },
+        {
+          "id": "13617512",
+          "name": "Onion Raita",
+          "description": "A refreshing and creamy yogurt-based dish with a burst of tang and subtle flavor, perfect for enhancing any main course.",
+          "price": 80.0,
+          "imageId": "51f822954d7441589b383313523c29e3",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "13617514",
+          "name": "Curd",
+          "description": "A creamy and flavorful main course that will satisfy your tastebuds with its rich and indulgent taste.",
+          "price": 100.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/f8626d86-e3ff-4b97-9932-4a0f7c93059d_bb6338f4-0acc-442c-b422-675fd563f936.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.9",
+          "ratingCount": "28 ratings"
+        },
+        {
+          "id": "13617509",
+          "name": "Masala Papad",
+          "description": "A flavorful and aromatic Indian delicacy that will tantalize your taste buds with its exquisite combination of spices.",
+          "price": 70.0,
+          "imageId": "kksl7p2i9fxolyipp742",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "13617507",
+          "name": "Fried Papad",
+          "description": "A crispy and flavorful vegetarian delight that will leave you craving for more.",
+          "price": 55.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/27/8bd59108-f720-4eda-8ce8-855c07c64aac_5045d607-d61b-4f11-8bcc-7e3e14b1b078.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.9",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617508",
+          "name": "Butter Papad",
+          "description": "A delectable main course bursting with rich, buttery goodness.",
+          "price": 60.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617506",
+          "name": "Roasted Papad",
+          "description": "A delectable and flavorsome roasted main course that will tantalize your taste buds.",
+          "price": 50.0,
+          "imageId": "886b42a1da048305a2ecb0f73c2f549f",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "34 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739326",
+      "categoryName": "Chop suey",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "13617524",
+          "name": "American Chop suey",
+          "description": "A flavorful and hearty blend of various vegetables and sauteed noodles, this satisfying main course will leave you craving for more.",
+          "price": 320.0,
+          "imageId": "hqk3d99oxdswv3l8rpkr",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "6 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739316",
+      "categoryName": "Veg",
+      "itemCount": 28,
+      "items": [
+        {
+          "id": "82402846",
+          "name": "Veg. Manchurian",
+          "description": "|250 gms|Served Dry|",
+          "price": 260.0,
+          "imageId": "hxpl3zcne50yqwojrphi",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "267 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "13617392",
+          "name": "Paneer 65",
+          "description": "Tempered (tadka) with curd (dahi). So will be little tangy & little spicy",
+          "price": 350.0,
+          "imageId": "gfpual8xaoqsgws1xnuu",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "44 ratings"
+        },
+        {
+          "id": "13617373",
+          "name": "Paneer Majestic",
+          "description": "A delectable and flavorful vegetarian delight that will captivate your taste buds with its rich and aromatic essence.",
+          "price": 380.0,
+          "imageId": "xylagfmcnnevll76an9y",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "97 ratings"
+        },
+        {
+          "id": "13617375",
+          "name": "Chilli Paneer ",
+          "description": "Serves 1 | Item is crispy and full on power",
+          "price": 290.0,
+          "imageId": "isguk12s7fdqzfqarjxh",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "387 ratings"
+        },
+        {
+          "id": "13617382",
+          "name": "Crispy Corn",
+          "description": "Golden corn dredged in corn flour, seasoned with salt and pepper and deep fried with rich flavours.",
+          "price": 380.0,
+          "imageId": "twsl1wfk6jcv2mqvrekc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "108 ratings"
+        },
+        {
+          "id": "13617367",
+          "name": "Paneer Manchurian",
+          "description": "A hot and spicy roll packed generously with crispy paneer Manchurian chunks served with sauce.",
+          "price": 270.0,
+          "imageId": "dav96mg2drnf0ns0z9t7",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "82 ratings"
+        },
+        {
+          "id": "13617369",
+          "name": "Baby corn Manchurian",
+          "description": "A delightfully tasty dish with crunchy baby corn coated in Manchurian sauces, assorted spices and tossed with veggies.",
+          "price": 360.0,
+          "imageId": "cds40w74qputqnk9tv2l",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "75 ratings"
+        },
+        {
+          "id": "13617396",
+          "name": "Mushroom 65",
+          "description": "Tempting and flavorful, this veggie delight is a perfect way to kickstart your meal with its exquisite blend of textures.",
+          "price": 350.0,
+          "imageId": "ocy4esdp30cobetdhonz",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "17 ratings"
+        },
+        {
+          "id": "13617371",
+          "name": "Baby corn Majestic",
+          "description": "Crispy baby corn infused with flavorful seasoning, offering a delightful and irresistible start to your meal.",
+          "price": 380.0,
+          "imageId": "dcfb47a0f47470035fe6e967912af65b",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.2",
+          "ratingCount": "51 ratings"
+        },
+        {
+          "id": "13617401",
+          "name": "Narmada Paneer",
+          "description": "Delight in a tantalizing vegetarian starter that satisfies your taste buds with its delectable flavors.",
+          "price": 380.0,
+          "imageId": "udl6vqy00uugdrnbgktf",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "13617399",
+          "name": "Dragon Paneer",
+          "description": "A delectable vegetarian starter that will transport your taste buds to a mythical world of flavor.",
+          "price": 380.0,
+          "imageId": "a6e2653ea2bb3705541061698fe3f2c3",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "15 ratings"
+        },
+        {
+          "id": "13617384",
+          "name": "Paneer Tikka Dry",
+          "description": "Tempting and flavorful Indian-style grilled cheese bursting with savory spices.",
+          "price": 380.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/19/4eceb1a7-d30e-43f3-a561-0859c6bf01f7_647ea51f-1df6-4893-a272-57d3672d60d6.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.3",
+          "ratingCount": "47 ratings"
+        },
+        {
+          "id": "13617397",
+          "name": "Stick Paneer",
+          "description": "A scrumptious vegetarian delicacy featuring flavorful skewered paneer marinated to perfection.",
+          "price": 380.0,
+          "imageId": "03671cd2ff7d7d742032e78920ac516d",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.6",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617405",
+          "name": "Veg Bullet",
+          "description": "A delectable veg starter bursting with flavor and delightful textures.",
+          "price": 380.0,
+          "imageId": "1973810bbd4c871a37961b522f841150",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "13617394",
+          "name": "Baby corn 65",
+          "description": "Tempered tadka with curd dahi. So will be little tangy & little spicy",
+          "price": 350.0,
+          "imageId": "moxluy06rpyovriidpgh",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "13617362",
+          "name": "Gobi Manchurian",
+          "description": "Crunchy and flavorful, this irresistible veg starter is a delectable blend of Indo-Chinese flavors.",
+          "price": 340.0,
+          "imageId": "e3luxaimuns5py3stbht",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.5",
+          "ratingCount": "117 ratings"
+        },
+        {
+          "id": "13617403",
+          "name": "Veg Spring Roll",
+          "description": "Crispy rolls filled with a delightful blend of fresh vegetables, offering a burst of flavors in every bite.",
+          "price": 380.0,
+          "imageId": "n0kmkrwhix3ny7khtpqt",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.4",
+          "ratingCount": "32 ratings"
+        },
+        {
+          "id": "13617381",
+          "name": "Chilli Mushroom",
+          "description": "Savor the delectable blend of tender mushrooms, aromatic spices, and a burst of flavor in this zesty delight.",
+          "price": 380.0,
+          "imageId": "ihdpfsu1ffaa5ur7diyy",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.6",
+          "ratingCount": "45 ratings"
+        },
+        {
+          "id": "13617379",
+          "name": "Mushroom Manchurian",
+          "description": "Crispy and flavorful, this vegetarian delight will tantalize your taste buds with its aromatic mushrooms and irresistible sauce.",
+          "price": 370.0,
+          "imageId": "qug5fweypliaruyrxy69",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.9",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617388",
+          "name": "Aloo 65",
+          "description": "Tempered (tadka) with curd (dahi). So will be little tangy & little spicy",
+          "price": 270.0,
+          "imageId": "htoyw8xzexjsaadvajbw",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "58 ratings"
+        },
+        {
+          "id": "82402840",
+          "name": "Paneer Pakoda",
+          "description": "Delightfully crunchy and flavorful, this vegetarian starter will captivate your taste buds with its delectable combination of textures and tantalizing spices.",
+          "price": 380.0,
+          "imageId": "461ac9d8cbeb68183bd140b51bb62ba8",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617377",
+          "name": "Chilli Baby corn",
+          "description": "A crispy and flavorful vegetarian delicacy that will tantalize your taste buds.",
+          "price": 380.0,
+          "imageId": "bc97597c3668f318a1a9bfe93c2696d8",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "40 ratings"
+        },
+        {
+          "id": "13617390",
+          "name": "Gobi 65",
+          "description": "Medium Spicy | Serves 1 | | 250 Gms |",
+          "price": 340.0,
+          "imageId": "z655ixkrwnnntjjyqxbb",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.8",
+          "ratingCount": "30 ratings"
+        },
+        {
+          "id": "13617385",
+          "name": "Veg 65",
+          "description": "Tempered (tadka) with curd (dahi). So will be little tangy & little spicy",
+          "price": 270.0,
+          "imageId": "fti35jic6dkxu42vfqll",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "23 ratings"
+        },
+        {
+          "id": "82402843",
+          "name": "Wet Gobi Manchurian",
+          "description": "A delectable starter featuring deep-fried cauliflower florets drenched in a rich and flavorsome sauce.",
+          "price": 350.0,
+          "imageId": "kqvz94drzabnusw1r7js",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617364",
+          "name": "Schezwan Manchurian",
+          "description": "An appetizing blend of flavors with a tantalizing kick, this mouthwatering veg dish is sure to leave you craving for more.",
+          "price": 360.0,
+          "imageId": "sjdhkwavoamch4dz1osk",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "82402844",
+          "name": "Wet Manchurian",
+          "description": "Deliciously flavorful and irresistibly moist, this veggie starter will transport your taste buds straight to the heart of Manchuria.",
+          "price": 340.0,
+          "imageId": "d702d091a30015eecb3d311cb9030341",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "9 ratings"
+        },
+        {
+          "id": "82402845",
+          "name": "Alu Manuchrian",
+          "description": "A mouthwatering vegetable delight that bursts with irresistible flavors and tantalizes your taste buds.",
+          "price": 260.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "3 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "8535508",
+      "categoryName": "kofta Curries",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "13617537",
+          "name": "Punjabi Kofta",
+          "description": "Savor the rich flavors of Punjabi Kofta, a delectable veg curry featuring fragrant kofta balls in a luscious sauce.",
+          "price": 360.0,
+          "imageId": "7b7f66070617020b8a83dff4f21e57b1",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "16 ratings"
+        },
+        {
+          "id": "13617539",
+          "name": "Bul Bul Kofta",
+          "description": "A tantalizing vegetarian delicacy with rich koftas, simmered in a flavorsome curry.",
+          "price": 370.0,
+          "imageId": "pudoxr6c6j0iltcypbkn",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617533",
+          "name": "Malai Kofta",
+          "description": "Soft but crispy paneer koftas cooked in a delicious, aromatic, smooth and rich cashew based creamy gravy.",
+          "price": 300.0,
+          "imageId": "tyllrsuc066pyfbmmae3",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "91 ratings"
+        },
+        {
+          "id": "13617538",
+          "name": "Rani Kofta",
+          "description": "A delectable and flavorful kofta curry, perfect for vegetarians seeking a delightful meal.",
+          "price": 370.0,
+          "imageId": "obprzrxfwog3ygppmp5s",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "13617540",
+          "name": "Palak Kashmiri Kofta",
+          "description": "Delicious kofta curry packed with flavors of spinach and Kashmiri spices.",
+          "price": 360.0,
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617532",
+          "name": "Veg Kofta",
+          "description": "",
+          "price": 300.0,
+          "imageId": "ikualvrujt4hufhl7bbr",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "46 ratings"
+        },
+        {
+          "id": "120595375",
+          "name": "Kazal Kofta",
+          "description": "Delicious vegetarian kofta curry served in a luscious, flavorful sauce.",
+          "price": 360.0,
+          "imageId": "bf0828db4c6f867a047da2408d3c2ae1",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "8535509",
+      "categoryName": "Aloo Curries",
+      "itemCount": 8,
+      "items": [
+        {
+          "id": "120595377",
+          "name": "Alu Gobi Mutter Masala",
+          "description": "A tantalizing blend of potatoes, cauliflower, and peas, cooked with aromatic spices to create a delectable Aloo Curries dish.",
+          "price": 310.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/2cab97a7-d7bf-4352-a26e-d4a391909c2e_be7023a0-0d87-4bcf-8a24-716778323fef.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "120595378",
+          "name": "Alu Ginger",
+          "description": "A flavorful and aromatic vegetarian curry bursting with the earthy warmth of ginger and tender potatoes.",
+          "price": 310.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617541",
+          "name": "Aloo Jeera Dry",
+          "description": "Delicious and aromatic potatoes sauteed with cumin seeds in a flavorful Indian curry.",
+          "price": 320.0,
+          "imageId": "qdewggs1hdm3yueu6crn",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "26 ratings"
+        },
+        {
+          "id": "13617542",
+          "name": "Aloo Gobi Masala",
+          "description": "A flavorful curry made with potatoes and cauliflower, bursting with aromatic spices.",
+          "price": 290.0,
+          "imageId": "rxu88whh7ybksd9yfbdk",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617544",
+          "name": "Aloo Palak",
+          "description": "A delightful blend of tender potatoes and vibrant spinach, creating a flavorful and comforting Indian curry.",
+          "price": 290.0,
+          "imageId": "xbgym9hdmz55xmu3ldz8",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.7",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617543",
+          "name": "Aloo Tomato",
+          "description": "A delightful curry made with tender potatoes and tangy tomatoes, bursting with flavors.",
+          "price": 290.0,
+          "imageId": "aae87c624ebc73f0a36f3e7396dab4b1",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.2",
+          "ratingCount": "12 ratings"
+        },
+        {
+          "id": "120595376",
+          "name": "Alu Masala",
+          "description": "A delectable and flavorful Indian curry bursting with the goodness of potatoes, perfectly spiced to tantalize your taste buds.",
+          "price": 310.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/4/30/4eb726d2-522a-4137-90fc-88981919e14f_1106a27d-700c-4d2e-9e87-d35003936691.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "120595379",
+          "name": "Alu Chan Masala ",
+          "description": "A flavorful and aromatic potato curry bursting with exotic Indian spices.",
+          "price": 320.0,
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "categoryId": "1739311",
+      "categoryName": "Soups",
+      "itemCount": 7,
+      "items": [
+        {
+          "id": "13617352",
+          "name": "Manchow Soup",
+          "description": "A delectable and flavorful soup that will tantalize your taste buds with its rich and aromatic blend of vegetables and spices.",
+          "price": 210.0,
+          "imageId": "sjt79bkrd190gsfoajhi",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617354",
+          "name": "Mushroom Soup",
+          "description": "A flavorful and creamy blend of earthy mushrooms, perfectly seasoned for a comforting and indulgent soup.",
+          "price": 210.0,
+          "imageId": "0baee63101b6807a5b588c58f17972c3",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "1.6",
+          "ratingCount": "11 ratings"
+        },
+        {
+          "id": "13617350",
+          "name": "Veg Hot & Sour Soup",
+          "description": "A tangy and flavorful soup bursting with a harmonious blend of vegetables, perfect for a cozy and soothing meal.",
+          "price": 210.0,
+          "imageId": "f7qjwe8hlakuale0zpcc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.6",
+          "ratingCount": "4 ratings"
+        },
+        {
+          "id": "13617346",
+          "name": "Tomato Soup",
+          "description": "A hearty and flavorful soup bursting with the rich essence of tomatoes, perfect for a comforting meal.",
+          "price": 200.0,
+          "imageId": "jq7vmqugex3ufdxyfsz1",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "37 ratings"
+        },
+        {
+          "id": "47191058",
+          "name": "Baby Corn Soup",
+          "description": "A delectable medley of tender baby corn in a comforting and flavorsome soup.",
+          "price": 200.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/26/73b18c9b-c524-4f00-bb66-0bd654fc560b_dcaed393-841d-44c7-a3a4-68ebc0f48a66.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "13617349",
+          "name": "Veg Corn Soup",
+          "description": "A comforting and flavorful medley of vegetables and creamy corn, perfect for a warm and nourishing bowl of soup.",
+          "price": 200.0,
+          "imageId": "phbrifytqflj3txnixcb",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "13617347",
+          "name": "Sweet corn Soup",
+          "description": "A delightful and comforting soup with a rich and creamy consistency, packed with the natural sweetness of corn.",
+          "price": 200.0,
+          "imageId": "bqdc0c1jad2qnglwobkf",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "15 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739315",
+      "categoryName": "Beverages",
+      "itemCount": 5,
+      "items": [
+        {
+          "id": "13617527",
+          "name": "Salted Lassi",
+          "description": "A refreshing and tangy Indian beverage that combines the perfect balance of saltiness and creaminess, ideal for quenching your thirst on a hot day.",
+          "price": 80.0,
+          "imageId": "u1ghxrdmsxi0dorrvozc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "18 ratings"
+        },
+        {
+          "id": "13617526",
+          "name": "Sweet Lassi",
+          "description": "A refreshing and creamy Indian beverage bursting with sweet flavors.",
+          "price": 80.0,
+          "imageId": "a99knlcgif7ny21jlf4i",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.4",
+          "ratingCount": "115 ratings"
+        },
+        {
+          "id": "120595381",
+          "name": "Sweet Salted Lassi",
+          "description": "Indulge in a refreshing concoction of sweet and salty flavors, blending together to create a delightful Indian beverage.",
+          "price": 80.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/30/009066bf-edfb-4190-a8db-27f3f7dbc38d_22fa6e10-6dcd-4901-a622-70a62860495c.JPG",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "3 ratings"
+        },
+        {
+          "id": "13617525",
+          "name": "Buttermilk",
+          "description": "A creamy and refreshing beverage that will leave you craving more.",
+          "price": 70.0,
+          "imageId": "5f3347f2441e5da5316e042b78b8f6e2",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.8",
+          "ratingCount": "136 ratings"
+        },
+        {
+          "id": "120595380",
+          "name": "Dahi",
+          "description": "Creamy and refreshing Indian yogurt-based beverage.",
+          "price": 100.0,
+          "imageId": "788dab5da559e5d9541ece1fe214ac23",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.7",
+          "ratingCount": "4 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "1739312",
+      "categoryName": "Salads",
+      "itemCount": 6,
+      "items": [
+        {
+          "id": "120594068",
+          "name": "Onion Salad",
+          "description": "A refreshing and flavorful combination of thinly sliced onions and fresh ingredients, creating a perfect balance of textures and taste.",
+          "price": 80.0,
+          "imageId": "e8940448225658b7ab6b9dbf4122a0cc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.9",
+          "ratingCount": "5 ratings"
+        },
+        {
+          "id": "13617359",
+          "name": "Green Salad",
+          "description": "A vibrant medley of nutritious greens and fresh vegetables, offering a tantalizing burst of flavors and textures.",
+          "price": 90.0,
+          "imageId": "njpw1xpp7jrvmyombxyy",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.7",
+          "ratingCount": "33 ratings"
+        },
+        {
+          "id": "13617357",
+          "name": "Tomato Salad",
+          "description": "A refreshing medley of vibrant tomatoes that combines bright flavors and crisp textures in every bite.",
+          "price": 80.0,
+          "imageId": "118d4392c166fbf9f78f788019a9b299",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "5.0",
+          "ratingCount": "1 rating"
+        },
+        {
+          "id": "13617355",
+          "name": "Masala Salad",
+          "description": "Made with onion carrot tomato cucumber and chat masala",
+          "price": 80.0,
+          "imageId": "b628e0b1d9c86d0b84873282267766cd",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.6",
+          "ratingCount": "34 ratings"
+        },
+        {
+          "id": "120594067",
+          "name": "Cucumber Salad",
+          "description": "A refreshing and crunchy medley of fresh cucumbers, perfect for a light and flavorful salad.",
+          "price": 80.0,
+          "imageId": "ulq237zu0ww1zzonbjmc",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "2.3",
+          "ratingCount": "8 ratings"
+        },
+        {
+          "id": "178000441",
+          "name": "Carrot Salad",
+          "description": "",
+          "price": 80.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/6/2e45316f-1989-43fc-98a7-7914cf2f65ea_8c2ea295-1e89-4cee-abdd-7e4501a17353.JPG",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}

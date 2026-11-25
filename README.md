@@ -13,6 +13,10 @@ A modern food delivery web application inspired by Swiggy.
 - Created reusable RestaurantCard component
 - Displayed restaurant listings dynamically using JSON data
 - Added restaurant images and details to cards
+- Added 16 restaurants with individual JSON data
+- Created RestaurantMenu component
+- Implemented dynamic restaurant menu loading using URL parameters
+- Displayed restaurant categories and menu items dynamically
 
 ## Tech Stack
 
@@ -20,6 +24,7 @@ A modern food delivery web application inspired by Swiggy.
 - JavaScript
 - Tailwind CSS
 - Vite
+- React Router DOM
 
 ## Status
 

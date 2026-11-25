@@ -1,0 +1,262 @@
+{
+  "restaurant": {
+    "id": "1449689",
+    "name": "De Thali",
+    "city": "Hyderabad",
+    "locality": "Serilingampally",
+    "areaName": "Gachibowli",
+    "costForTwo": 300.0,
+    "cuisines": [
+      "North Indian",
+      "Thalis"
+    ],
+    "avgRating": 4.2,
+    "totalRatings": "80 ratings",
+    "deliveryTime": "10-15 MINS",
+    "imageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/9/22/1e23436b-4f94-4e32-9c33-4c8699782d3b_1449689.JPG"
+  },
+  "menu": [
+    {
+      "categoryId": "80147255",
+      "categoryName": "Thali Delight",
+      "itemCount": 17,
+      "items": [
+        {
+          "id": "211009955",
+          "name": "Aloo Puri Delight",
+          "description": "Fluffy puris served with comforting Aloo Bhaji and tangy pickle for a simple and satisfying Indian meal.",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/7b66e9c9-3906-4711-a7fa-6903ff02b1bb_d9623024-bc7e-4798-afdf-bcfa6dd45560.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "7 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211009972",
+          "name": "Punjabi Chole Power Plate",
+          "description": "A flavourful combination of spicy Pindi Chole, Dal Tadka, Jeera Rice, and Trikoni Paratha for a wholesome meal.",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/738d221e-2d32-4d70-91b1-98939f6a1e49_d90c904d-556e-4c4a-8bb1-0c9568d489f0.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "210958983",
+          "name": "Maharaja Royal Feast",
+          "description": "A grand Indian feast featuring Starter of the Day, Chaas, Jeera Rice, Mix Veg, Dal Tadka, Paneer Butter Masala, Dahi Bhalla, Gulab Jamun, Salad, Lachha Paratha, and Naan.",
+          "price": 649.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/afad8a3a-4f68-4e84-adef-e16af174ab96_d073c5fa-e0f5-44f1-828a-35ae11bc0f7d.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009970",
+          "name": "Punjabi Street Feast",
+          "description": "A Punjabi-inspired feast featuring Puri, Chole, Ragda, Cocktail Samosa or Starter of the Day, onion laccha, masala chilli, and lemon.",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/a465c512-f638-434f-8e20-72d3085afe0a_b5d75fe8-5cef-4ba1-baeb-750d7ee3ee0d.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "210958982",
+          "name": "Desi Fusion Feast",
+          "description": "A generous fusion spread featuring Paneer Butter Masala, Dal Tadka, Jeera Rice, Trikoni Paratha, Pav, Dahi Bhalla, Bhaji, Corn Cheese Ball, Salad, chutney, and Gulab Jamun.",
+          "price": 599.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/fcc99380-d378-4ef9-a739-de5d2a92a119_21a7cf8e-5c79-4c2d-814f-163f1da3a6db.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009966",
+          "name": "Chole Puri Feast",
+          "description": "A hearty North Indian meal featuring fluffy Puri, flavourful Chole, Masala Aloo, fresh salad, and pickle",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/5317a694-c0db-4cc2-ad5f-fa8c6e3935b3_6ec025f3-088e-4658-8a4d-82e390871003.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.1",
+          "ratingCount": "5 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211009975",
+          "name": "Royal Paneer Power Plate",
+          "description": "Indulge in creamy Paneer Butter Masala paired with Dal Tadka, Jeera Rice, and Trikoni Paratha for a rich and satisfying feast.",
+          "price": 399.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/cf37f11c-d7bc-44da-8040-def7e669c11a_7a3b0ce0-25a3-4ca6-9c28-2750b1d3c8fa.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009976",
+          "name": "Royal Mini Feast",
+          "description": "A delightful royal spread of Trikoni Paratha, Jeera Rice, Dal Tadka, Mix Veg, Starter of the Day, Gulab Jamun, Ketchup, and Chaas.",
+          "price": 449.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/afad8a3a-4f68-4e84-adef-e16af174ab96_d073c5fa-e0f5-44f1-828a-35ae11bc0f7d.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009971",
+          "name": "Desi Dal Power Plate",
+          "description": "A comforting Indian meal featuring aromatic Dal Tadka, Mix Veg, Jeera Rice, and Trikoni Paratha.",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/0bfc6e09-7e40-4aa0-b129-90652ebdbb68_76e568ed-a22a-4a94-be73-c3fa05d2fd30.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009974",
+          "name": "Chole Kulcha Street Feast",
+          "description": "A Punjabi street food-inspired platter featuring Kulcha, Chole, Ragda, Cocktail Samosa or Starter of the Day, onion laccha, masala chilli, and lemon.",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/f306396b-ae7d-46df-924b-410870f935a5_5caabc26-a79d-4877-befd-1e9dca8b6b07.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009973",
+          "name": "Chaat Street Platter",
+          "description": "A tempting chaat spread featuring Chole Samosa Chaat, Dahi Bhalla, tangy Amchur Chutney, Green Chutney, and Cocktail Samosa or Starter of the Day.",
+          "price": 349.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/84a10845-7f7b-410c-9db5-d3483da55d6c_358dc3d6-9783-4bd3-b611-ecdd7a7c6ef7.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009952",
+          "name": "Mumbai Street Treat",
+          "description": "A delicious Mumbai-style street food combo featuring Batata Vada, Samosa, Pav, garlic chutney, masala chilli, and green chutney.",
+          "price": 149.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/318a7925-c7ed-4c47-bdf0-c4aa513edbab_82f69a72-cb43-4259-8bd9-04f0dc5b6a42.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.0",
+          "ratingCount": "1 rating",
+          "isBestseller": true
+        },
+        {
+          "id": "211009963",
+          "name": "Veggie Power Plate",
+          "description": "A wholesome combination of flavourful Mix Veg, flaky Trikoni Paratha, and fresh salad for a satisfying meal.",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/700ceecd-f0d4-4692-b0e4-ff8d6e5bc054_2f8c2a5b-1fc4-497e-8ddf-a39f30552bd1.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "211009968",
+          "name": "Great Mumbai Platter",
+          "description": "Experience Mumbai's street food flavours with Pav, Batata Vada, Bhaji, garlic chutney, masala chilli, onion, lemon, and green chutney.",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/9/f27f2310-5f91-4610-a6f5-e294f83c0c75_0a0a12e9-1eec-4bad-8ec6-00e530761128.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        },
+        {
+          "id": "211009969",
+          "name": "Dakshin Delight",
+          "description": "A South Indian favourite featuring Idli, Sambar, Coconut Chutney, Masala Uttapam, and crispy Medu Wada.",
+          "price": 299.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/774d55c1-d283-4749-bcb0-af5967d25ae5_48c28df5-970c-4cb2-95b0-4231029e039a.jpg",
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "213136240",
+          "name": "Dal Makhani Meal",
+          "description": "Rich and creamy Punjabi-style Dal Makhani, slow-cooked with aromatic spices and served with soft, freshly prepared rotis for a satisfying meal.",
+          "price": 249.0,
+          "isVeg": true,
+          "isAvailable": true
+        },
+        {
+          "id": "211009960",
+          "name": "Little Foodie Feast",
+          "description": "A fun-filled snack platter loaded with French Fries, Corn Cheese Balls, Spring Roll, Cocktail Samosa or Starter of the Day, and Ketchup.",
+          "price": 249.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/9/23/6e787ce6-beb9-4d77-bb69-3edfb46baf18_f58b3e3c-e571-495f-ae51-46f0d5914a7f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "3.0",
+          "ratingCount": "2 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80387926",
+      "categoryName": "Dessert Delights",
+      "itemCount": 1,
+      "items": [
+        {
+          "id": "211460403",
+          "name": "Traditional Rasgulla (1 Pc)",
+          "description": "Soft and spongy rasgulla soaked in light, sweet sugar syrup for a juicy and delightful bite.",
+          "price": 39.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/10/81f8c897-3ed8-45c8-b6c2-b2df4fa9f7fd_a2042c51-c678-4ffd-a74f-9188c3151d1f.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.5",
+          "ratingCount": "21 ratings"
+        }
+      ]
+    },
+    {
+      "categoryId": "80387925",
+      "categoryName": "Beverages",
+      "itemCount": 3,
+      "items": [
+        {
+          "id": "210866096",
+          "name": "Coke",
+          "description": "(330 ml) Chilled and fizzy cola drink with a bold, classic taste. Perfect to refresh and enjoy with any meal.",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/3/57a3d78b-82de-4038-90dc-30361e0ed6d3_57a0f8ef-2306-4dea-a7b6-30c2d144a664.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.3",
+          "ratingCount": "15 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "211460409",
+          "name": "Coke Zero",
+          "description": "(330 ml) Same Coke flavour, zero sugar. Light, fizzy, and refreshing without the guilt.",
+          "price": 66.67,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/3/ca1609c3-0893-46fe-9937-06428cac2067_0f94a1f9-d870-4149-a6b9-872b26bdfcb1.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "rating": "4.8",
+          "ratingCount": "25 ratings",
+          "isBestseller": true
+        },
+        {
+          "id": "214754255",
+          "name": "Berry Blast lassi 330Ml",
+          "description": "Refreshing and delicious berry-flavoured lassi for a burst of flavour in every sip",
+          "price": 179.0,
+          "imageId": "FOOD_CATALOG/IMAGES/CMS/2026/10/31/2647a7d4-1fd4-442e-b5d8-32793971f591_bce4a956-1456-4d20-81d7-fd48186fd871.png_compressed",
+          "isVeg": true,
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "source": {
+    "type": "normalized Swiggy menu response",
+    "note": "Prices converted from paise to INR. Repeated dishes across categories are intentionally retained. Variants and add-on groups are omitted for the Cravio basic menu implementation. Items without a source imageId or rating are omitted."
+  }
+}
