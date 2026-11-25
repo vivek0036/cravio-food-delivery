@@ -17,6 +17,9 @@ A modern food delivery web application inspired by Swiggy.
 - Created RestaurantMenu component
 - Implemented dynamic restaurant menu loading using URL parameters
 - Displayed restaurant categories and menu items dynamically
+- Created reusable RestaurantCategory component for menu categories
+- Created reusable ItemList component to display food items
+- Displayed restaurant information including rating, total ratings, cost for two and delivery time
 
 ## Tech Stack
 

@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
+import { RES_IMAGE_URL } from "../utils/constants";
+import RestaurantCategory from "../components/RestaurantCategory";
 
 const RestaurantMenu = () => {
   const [resMenuInfo, setResMenuInfo] = useState();
@@ -18,35 +20,43 @@ const RestaurantMenu = () => {
 
   if (!resMenuInfo) return <div>Loading...</div>;
 
-  const { name, id, avgRating } = resMenuInfo.restaurant;
+  const {
+    name,
+    id,
+    avgRating,
+    imageId,
+    totalRatings,
+    costForTwo,
+    deliveryTime,
+    locality,
+    areaName,
+  } = resMenuInfo.restaurant;
 
   return (
-    <div>
-      <div className="details">{name}</div>
-
-      <div className="testing">
-        <ul>
-          {menuItems.map((itemList) => (
-            <div key={itemList.categoryId}>
-              <h1>{itemList.categoryName}</h1>
-              <ul>
-                {itemList.items.map((item) => (
-                  <li key={item.id}>{item.name}</li>
-                ))}
-              </ul>
-              <hr />
-            </div>
-          ))}
-        </ul>
+    <div className="mt-12 mb-36 mx-auto  w-6/12 border-amber-950 ">
+      <div className="res-info my-4 shadow-xl">
+        <h1 className="font-bold text-2xl p-2 px-4">{name}</h1>
+        <img
+          className="rounded-2xl p-2"
+          src={`${RES_IMAGE_URL}${imageId}`}
+          alt=""
+        />
+        <h3 className="p-2 px-4">
+          {avgRating} <span className="text-green-600">★</span>{" "}
+          <span>{totalRatings}</span>
+        </h3>
+        <h2 className="px-4 pb-2">Cost for Two {costForTwo}₹</h2>
+        <h2 className="px-4 pb-2">
+          <span>{deliveryTime}</span> <span>{locality}</span>{" "}
+          <span>{areaName}</span>
+        </h2>
       </div>
-      {/* <div className="items">
-        <ul>
-          {menuItems[7].items.map((item) => (
-            <li>{item.name}</li>
-          ))}
-        </ul>
-        
-      </div> */}
+
+      <div className="category-items">
+        {menuItems.map((category) => (
+          <RestaurantCategory key={category.categoryId} category={category} />
+        ))}
+      </div>
     </div>
   );
 };
