@@ -2,7 +2,6 @@ import React from "react";
 import { RES_IMAGE_URL } from "../utils/constants";
 
 const ItemList = ({ items }) => {
-  console.log(items);
   return (
     <div className="">
       {items.map((item) => (
@@ -21,10 +20,10 @@ const ItemList = ({ items }) => {
             <img
               className="h-full w-full rounded-lg object-cover"
               src={`${RES_IMAGE_URL}${item.imageId}`}
-              alt=""
+              alt="loading..."
             />
             <button className="absolute bottom-0 left-1/2 -translate-x-1/2 bg-white px-3 border-green-300 border-1 rounded-lg text-green-500 text-lg hover:scale-103">
-              Add
+              Add +
             </button>
           </div>
         </div>

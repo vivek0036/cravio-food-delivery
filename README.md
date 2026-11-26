@@ -20,6 +20,7 @@ A modern food delivery web application inspired by Swiggy.
 - Created reusable RestaurantCategory component for menu categories
 - Created reusable ItemList component to display food items
 - Displayed restaurant information including rating, total ratings, cost for two and delivery time
+- Implemented expandable and collapsible manu category accordion
 
 ## Tech Stack
 

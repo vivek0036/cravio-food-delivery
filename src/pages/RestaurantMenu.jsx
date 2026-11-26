@@ -7,6 +7,8 @@ const RestaurantMenu = () => {
   const [resMenuInfo, setResMenuInfo] = useState();
   const [menuItems, setMenuItems] = useState([]);
 
+  const [showIndex, setShowIndex] = useState(0);
+
   const { resId } = useParams();
 
   useEffect(() => {
@@ -53,8 +55,15 @@ const RestaurantMenu = () => {
       </div>
 
       <div className="category-items">
-        {menuItems.map((category) => (
-          <RestaurantCategory key={category.categoryId} category={category} />
+        {menuItems.map((category, index) => (
+          <RestaurantCategory
+            key={category.categoryId}
+            category={category}
+            showItems={index === showIndex && true}
+            setShowIndex={() =>
+              setShowIndex(showIndex === index ? null : index)
+            }
+          />
         ))}
       </div>
     </div>
